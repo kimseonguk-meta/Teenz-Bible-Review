@@ -116,3 +116,14 @@
 - EN: [7-8] / [8-10] 2문단 (splits 선언됨).
 - KO: 동일하게 2문단.
 - 근거: MSG 자체 문단 구분(overlapping print range). 내용 손실 없음.
+
+---
+
+## Philippians (감사: 2026-09-23)
+
+신규 후보: **0건**.
+
+### P1. ch1 — MSG 18-21 → (18)/(19-21) split — 상태: applied-pre
+- MSG: "So how am I to respond? … Life versus even more life! I can't lose." 단일 문단.
+- EN/KO: [18] 동기 무관 응원 선언 / [19-21] 기도·성령·감옥의 플랫폼화·삶/죽음 win-win. splits 선언됨 (이번 감사에서 paras 인덱스 [9,10]→[8,9] 정정).
+- 근거: 선언→전개 담화 구조. 내용 손실 없음 (양쪽 워커 + 본인 전수 확인).

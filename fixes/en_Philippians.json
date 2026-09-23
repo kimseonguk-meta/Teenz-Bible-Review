@@ -6,14 +6,14 @@
       "What's up, Philippi crew! It's Paul and Tim — just a couple of guys serving Christ Jesus, hitting you up. This is for everyone following Jesus in Philippi, pastors and ministers included. Grace and peace to you from God our Father and our Master, Jesus Christ.",
       "§A Love That Will Grow",
       "Every time I even *think* about you guys, I'm like, 'Thank you, God!' Seriously, every single time, it makes me want to pray for you, and I'm not even mad about it. I'm so stoked that you've been all-in with us, spreading the good news about Jesus since day one. I'm 100% sure that God, who started this awesome thing in you, is gonna see it through and give you a miraculous transformation on the day Christ Jesus comes back.",
-      "And for real, I'm not just gassing you up. You guys are my ride-or-dies. You stuck with me when I was in jail, when I was on trial, and when I got out. You've been there for the whole crazy ride, and God's been super generous to us through it all. He knows I miss you guys like crazy. Sometimes I feel like I'm on the same wavelength as Jesus about you.",
+      "And for real, I'm not just gassing you up. You guys are my ride-or-dies. You stuck with me when I was in jail, when I was on trial, and when I got out. You've been there for the whole crazy ride, and God's been super generous to us through it all. He knows I love and miss you guys like crazy. Sometimes I feel like I'm on the same wavelength as Jesus about you.",
       "So, here's what I'm praying for you: that your love for each other just keeps leveling up. And not just that you love a lot, but that you love *smart*. You gotta use your brain and check your feelings so your love is the real deal, not just some mushy, fake stuff. Live like you're in love — careful and on-point, a life that makes Jesus proud. A life that's producing all kinds of good stuff, making Jesus look good to everyone and getting them all in on praising God.",
       "§They Can't Imprison the Message",
       "Hey, so I gotta tell you, being in jail has had the total opposite effect of what my haters wanted. Instead of shutting me down, the message about Jesus has blown up! All the guards here, and pretty much everyone else, found out I'm locked up because of Jesus. That made them curious, and now they're learning all about him. And get this: most of the other Jesus followers here are way more confident than ever, and they're not afraid to talk about God and Jesus.",
       "Now, it's true that some people are preaching about Jesus just because they see me out of the way and they want the spotlight. But the others are doing it with the best heart in the world. One group is all about love; they know I'm here defending the message and they want to help. The other group is just being greedy, trying to get something for themselves now that I'm not around. Their motives are wrong. They see me as competition, so they think the worse it is for me, the better it is for them.",
       "So what do I do? I've decided I don't really care what their motives are. Whether they're good, bad, or whatever, every time they open their mouths, they're talking about Jesus, so I'm just gonna cheer them on!",
-      "And I'm gonna keep on cheering, because I know how this is all gonna end. With your prayers and the help of Jesus's Spirit, everything he wants to do in me and through me is gonna get done. I can't wait to see what's next. I'm not worried about being embarrassed at all. In fact, everything that's happening to me in here is just making Jesus more famous, whether I live or die. They didn't shut me up; they gave me a bigger stage! If I'm alive, I'm Jesus's messenger; if I'm dead, I'm his prize. It's a win-win. I can't lose.",
-      "As long as I'm alive, I've got good work to do. If I had to choose right now, I don't know what I'd pick. It's a tough call! The thought of leaving this life and being with Jesus is awesome. Some days, that's all I want. But most days, because of what you guys are going through, I know it's better for me to stick around. So, I'm planning on being here for a while, to help you grow and be joyful in your faith. You can look forward to a big reunion when I come visit you again. We'll be praising Jesus and having a great time together.",
+      "And I'm gonna keep on cheering, because I know how this is all gonna end. With your faithful prayers and the generous help of Jesus's Spirit, everything he wants to do in me and through me is gonna get done. I can't wait to see what's next. I'm not worried about being embarrassed at all. In fact, everything that's happening to me in here is just making Jesus more famous, whether I live or die. They didn't shut me up; they gave me a bigger stage! If I'm alive, I'm Jesus's messenger; if I'm dead, I'm his prize. It's a win-win. I can't lose.",
+      "As long as I'm alive in this body, I've got good work to do. If I had to choose right now, I don't know what I'd pick. It's a tough call! The thought of leaving this life and being with Jesus is awesome. Some days, that's all I want. But most days, because of what you guys are going through, I know it's better for me to stick around. So, I'm planning on being here for a while, to help you grow and be joyful in your faith. You can look forward to a big reunion when I come visit you again. We'll be praising Jesus and having a great time together.",
       "In the meantime, live in a way that makes the message of Jesus look good. Don't let your actions depend on whether I'm there or not. You've got to be the same whether I'm there to see it myself or I hear about it from far away. Stand together, have one goal, and fight for people to trust in the good news. Don't back down or get scared by the opposition. Your courage and unity will show them that they're going to lose and you're going to win—and it's all because of God. There's more to this life than just trusting in Jesus. There's also suffering for him. And the suffering is just as much a gift as the trust. You're in the same fight you saw me go through, and you're getting an update on it in this letter."
     ],
     "verseRanges": [
@@ -49,8 +49,8 @@
       {
         "msg_range": "18-21",
         "paras": [
-          9,
-          10
+          8,
+          9
         ],
         "note": "MSG 단일 문단(18-21)을 EN 가독성을 위해 2개 문단으로 분리"
       }
@@ -60,7 +60,8 @@
       "기존 배지 '3-5'→'3-6' (6절 내용 포함), '6-8'→'7-8', '22-25'→'22-26', '26-30'→'27-30' (MSG 문단 구분에 맞춤)",
       "기존 배지 '17' 문단 → '18'으로 수정 (17절 내용은 앞 문단에 있음). '18'/'19-21' 두 문단은 MSG 18-21 단일 문단의 가독성 분할 → splits 선언",
       "9-11절 문단: MSG 'circumspect and exemplary' 복원 ('careful and on-point')",
-      "1-2절 문단: MSG 'grace and peace', 'pastors and ministers' 표현 정리"
+      "1-2절 문단: MSG 'grace and peace', 'pastors and ministers' 표현 정리",
+      "2차 감사(2026-09-23): 1:7-8 'love' 복원, 1:19-21 'faithful/generous' 복원, 1:22-26 'in this body' 복원, splits paras [9,10]→[8,9] 정정"
     ],
     "confirmations_needed": [],
     "review_status": "msg_audited"
@@ -74,7 +75,7 @@
       "Think of yourselves the way Christ Jesus thought of Himself. He was literally on the same level as God, but He didn't think so much of Himself that He had to cling to His top-tier status no matter what. Not at all. When the time was right, He gave up all His perks and took on the status of a servant — He became human! And He stayed human, which was a total glow-down for Him. He didn't claim special treatment. He just lived a selfless, obedient life and then died a selfless, obedient death — the worst kind of death, too: crucifixion.",
       "Because He was so obedient, God lifted Him high and honored Him more than anyone or anything, ever. So now, everyone in heaven, on earth, and even the ghosts of people long gone, will bow down and worship Jesus Christ. They'll all shout out that He's the boss, bringing major props to God the Father.",
       "§Rejoicing Together",
-      "So, my friends, here's the deal. Just keep doing what you've been doing. When I was with you, you were all about listening and obeying. Now that I'm gone, you gotta step it up even more. Go hard in your faith, and be respectful and aware of God. That power you feel? That's God's own energy deep inside you — God Himself willing it and working it, going after what makes Him happiest.",
+      "So, my friends, here's the deal. Just keep doing what you've been doing from the beginning. When I was with you, you were all about listening and obeying. Now that I'm gone, you gotta step it up even more. Go hard in your faith, and be respectful and aware of God. That power you feel? That's God's own energy deep inside you — God Himself willing it and working it, going after what makes Him happiest.",
       "Do everything gladly and willingly — no bickering, no second-guessing allowed! Go out into the world and stay clean, a breath of fresh air in this messed-up, polluted society. Show people what good living looks like and who the living God is. Carry the light-giving Message into the night, so when Jesus comes back, I'll have good reason to be proud of you. You'll be living proof that all my hard work wasn't for nothing.",
       "Even if I get executed here and now, I'll rejoice to be part of the offering of your faith that you lay on Christ's altar — a part of your celebration too. But turnabout's fair play: you've got to join me in my rejoicing. Whatever you do, don't feel sorry for me.",
       "I'm planning — according to Jesus' plan — to send Timothy to you guys really soon, so he can bring back all the news about you he can gather. Oh, that would do my heart so much good! There's no one else like Timothy. He's loyal and genuinely cares about you. Most people around here are just looking out for themselves, with barely any concern for what Jesus cares about. But you know yourselves that Timothy's the real thing. He's been like a devoted son to me as we've delivered the Message together. As soon as I see how things are going to turn out for me here, I'll send him your way. And I'm hoping and praying I'll be right on his heels.",
@@ -120,7 +121,8 @@
       "17-18절: MSG 'on Christ\\'s altar', 'a part of your rejoicing' 복원",
       "19-24절: MSG 'according to Jesus\\' plan', 'you know yourselves', 'hoping and praying' 복원",
       "25-27절: MSG 'wanting in the worst way', 'one huge grief piled on top of all the others' 복원",
-      "28-30절: MSG 'strong and strapping', 'a grand welcome, a joyful embrace', 'put his life on the line' 복원"
+      "28-30절: MSG 'strong and strapping', 'a grand welcome, a joyful embrace', 'put his life on the line' 복원",
+      "2차 감사(2026-09-23): 2:12-13 'from the beginning' 복원"
     ],
     "confirmations_needed": [],
     "review_status": "msg_audited"
@@ -131,8 +133,8 @@
     "paragraphs": [
       "§To Know Him Personally",
       "And that's about it, friends — be glad in God! I don't mind repeating what I already wrote in earlier letters, and I hope you don't mind hearing it again. Better safe than sorry, so here goes.",
-      "Steer clear of the barking dogs — those religious busybodies who are all bark and no bite. They're obsessed with appearances — knife-happy circumcisers, I call them. The real believers are the ones led by God's Spirit, working hard at this ministry and filling the air with Christ's praise. We know we could never pull this off on our own — even though some people flash what look like impressive credentials. You know my pedigree: born legit, circumcised on the eighth day, an Israelite from the elite tribe of Benjamin, a strict and hardcore follower of God's law, so fired up about keeping my religion pure that I even went after the church, and a meticulous keeper of everything written in God's law book.",
-      "All the credentials these people keep waving around like they're something special? I'm ripping them up and tossing them in the trash — right along with everything else I used to take credit for. And why? Because of Christ. Yes, everything I once thought was so important is gone from my life. Compared to the epic privilege of knowing Christ Jesus as my Master, firsthand, everything I once had going for me is insignificant — total trash. I've dumped it all so I could grab onto Christ and be grabbed by Him. I don't want some weak, rule-based 'goodness.' I want the real, powerful kind that comes from trusting Christ — God's righteousness.",
+      "Steer clear of the barking dogs — those religious busybodies who are all bark and no bite. They're obsessed with appearances — knife-happy circumcisers, I call them. The real believers are the ones led by God's Spirit, working hard at this ministry and filling the air with Christ's praise, like we always do. We know we could never pull this off on our own — even though we've got what most people would call impressive credentials. You know my pedigree: born legit, circumcised on the eighth day, an Israelite from the elite tribe of Benjamin, a strict and hardcore follower of God's law, so fired up about keeping my religion pure that I even went after the church, and a meticulous keeper of everything written in God's law book.",
+      "All the credentials these people keep waving around like they're something special? I'm ripping them up and tossing them in the trash — right along with everything else I used to take credit for. And why? Because of Christ. Yes, everything I once thought was so important is gone from my life. Compared to the epic privilege of knowing Christ Jesus as my Master, firsthand, everything I once had going for me is insignificant — dog dung. I've dumped it all so I could grab onto Christ and be grabbed by Him. I didn't want some weak, rule-based brand of righteousness. I wanted the real, powerful kind that comes from trusting Christ — God's righteousness.",
       "I ditched all that lame stuff so I could really know Christ, feel His resurrection power, be a partner in His suffering, and go all the way with Him — even to death itself. If there's any way to get in on the ultimate comeback — the resurrection from the dead — I'm all in.",
       "§Focused on the Goal",
       "Look, I'm not saying I've got this all together or that I've made it. But I'm well on my way, reaching out for Christ, who so amazingly reached out for me first. Friends, don't get me wrong: I'm no expert in any of this. But I've got my eye on the goal, where God is calling us onward — to Jesus. I'm off and running, and I'm not turning back.",
@@ -173,7 +175,8 @@
       "2-6절: MSG 문단 전체 복원 (개 경고·'knife-happy circumcisers'·실제 믿는 자·족보 전체 — 기존 EN은 1절 문단에 일부만 압축 포함)",
       "10-11절: MSG 'even to death itself' 복원",
       "17-19절: MSG 'belches are their praise' 복원 ('burps are their praise songs')",
-      "20-21절: MSG 'beautiful and whole' 복원"
+      "20-21절: MSG 'beautiful and whole' 복원",
+      "2차 감사(2026-09-23): 3:2-6 주체 복원(we)+ 'as we do it' 복원, 3:7-9 'dog dung' 복원(MSG 직설 유지), 3:9 과거시제+'brand of righteousness' 복원"
     ],
     "confirmations_needed": [],
     "review_status": "msg_audited"
