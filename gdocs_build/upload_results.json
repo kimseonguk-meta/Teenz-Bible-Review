@@ -1,312 +1,329 @@
 [
- {
-  "key": "Matthew",
-  "title": "마태복음 (Matthew) — Final: MSG + Teen EN + KO",
-  "id": "1Lu2f2vZcpVqIu7HFq9Nw9lO7QBLw_GNMzdRdt0_M4e0",
-  "webViewLink": "https://docs.google.com/document/d/1Lu2f2vZcpVqIu7HFq9Nw9lO7QBLw_GNMzdRdt0_M4e0/edit?usp=drivesdk",
-  "tables": 28,
-  "expected": 28,
-  "status": "OK"
- },
- {
-  "key": "Mark",
-  "title": "마가복음 (Mark) — Final: MSG + Teen EN + KO",
-  "id": "19ySnH_Vrv5oiqoLryeaXXOEmpsD7UV-jsx6P59sKIi0",
-  "webViewLink": "https://docs.google.com/document/d/19ySnH_Vrv5oiqoLryeaXXOEmpsD7UV-jsx6P59sKIi0/edit?usp=drivesdk",
-  "tables": 16,
-  "expected": 16,
-  "status": "OK"
- },
- {
-  "key": "Luke",
-  "title": "누가복음 (Luke) — Final: MSG + Teen EN + KO",
-  "id": "1w6syxHOSkDDIYhv9MRHKqqW79WjZayhrXA4MFHIPa_k",
-  "webViewLink": "https://docs.google.com/document/d/1w6syxHOSkDDIYhv9MRHKqqW79WjZayhrXA4MFHIPa_k/edit?usp=drivesdk",
-  "tables": 24,
-  "expected": 24,
-  "status": "OK"
- },
- {
-  "key": "John",
-  "title": "요한복음 (John) — Final: MSG + Teen EN + KO",
-  "id": "1c07J-Wapt_kJMOTujE_zwZjBNGwZGysOlagHCZ9D1Lo",
-  "webViewLink": "https://docs.google.com/document/d/1c07J-Wapt_kJMOTujE_zwZjBNGwZGysOlagHCZ9D1Lo/edit?usp=drivesdk",
-  "tables": 21,
-  "expected": 21,
-  "status": "OK"
- },
- {
-  "key": "Romans",
-  "title": "로마서 (Romans) — Final: MSG + Teen EN + KO",
-  "id": "1P0FwmCsgQ-JAMq-c0oomBHjciZfrf_7n8MxRexzbox0",
-  "webViewLink": "https://docs.google.com/document/d/1P0FwmCsgQ-JAMq-c0oomBHjciZfrf_7n8MxRexzbox0/edit?usp=drivesdk",
-  "tables": 16,
-  "expected": 16,
-  "status": "OK"
- },
- {
-  "key": "1Corinthians",
-  "title": "고린도전서 (1 Corinthians) — Final: MSG + Teen EN + KO",
-  "id": "1sSE_8XCAFTEbJrDpti0JEkKwKpqMHpkYquu90BgkPGA",
-  "webViewLink": "https://docs.google.com/document/d/1sSE_8XCAFTEbJrDpti0JEkKwKpqMHpkYquu90BgkPGA/edit?usp=drivesdk",
-  "tables": 16,
-  "expected": 16,
-  "status": "OK"
- },
- {
-  "key": "2Corinthians",
-  "title": "고린도후서 (2 Corinthians) — Final: MSG + Teen EN + KO",
-  "id": "18HSxNax4GxjWjI3z3T4bi4k2NMXACaF_nNsrHqmFSS0",
-  "webViewLink": "https://docs.google.com/document/d/18HSxNax4GxjWjI3z3T4bi4k2NMXACaF_nNsrHqmFSS0/edit?usp=drivesdk",
-  "tables": 13,
-  "expected": 13,
-  "status": "OK"
- },
- {
-  "key": "Galatians",
-  "title": "갈라디아서 (Galatians) — Final: MSG + Teen EN + KO",
-  "id": "1O14IOKPTQQKHj9XiRz5cs5ruFhfAfLydZchDxGP2xfE",
-  "webViewLink": "https://docs.google.com/document/d/1O14IOKPTQQKHj9XiRz5cs5ruFhfAfLydZchDxGP2xfE/edit?usp=drivesdk",
-  "tables": 6,
-  "expected": 6,
-  "status": "OK"
- },
- {
-  "key": "Ephesians",
-  "title": "에베소서 (Ephesians) — Final: MSG + Teen EN + KO",
-  "id": "1S77tkKo1s2QtYJWyGkxjJ6ZIWdJ9KClkKpfgAXqtMbM",
-  "webViewLink": "https://docs.google.com/document/d/1S77tkKo1s2QtYJWyGkxjJ6ZIWdJ9KClkKpfgAXqtMbM/edit?usp=drivesdk",
-  "tables": 6,
-  "expected": 6,
-  "status": "OK"
- },
- {
-  "key": "Philippians",
-  "title": "빌립보서 (Philippians) — Final: MSG + Teen EN + KO",
-  "id": "16BQgN0mymQbxtXlnLZmgg2Bozgh6DAT5bFsJqe2tISg",
-  "webViewLink": "https://docs.google.com/document/d/16BQgN0mymQbxtXlnLZmgg2Bozgh6DAT5bFsJqe2tISg/edit?usp=drivesdk",
-  "tables": 4,
-  "expected": 4,
-  "status": "OK"
- },
- {
-  "key": "Colossians",
-  "title": "골로새서 (Colossians) — Final: MSG + Teen EN + KO",
-  "id": "1jgXrXWAILNwV2ud_V7x-nLabGcoaL9r2nUfaPNunw90",
-  "webViewLink": "https://docs.google.com/document/d/1jgXrXWAILNwV2ud_V7x-nLabGcoaL9r2nUfaPNunw90/edit?usp=drivesdk",
-  "tables": 4,
-  "expected": 4,
-  "status": "OK"
- },
- {
-  "key": "1Thessalonians",
-  "title": "데살로니가전서 (1 Thessalonians) — Final: MSG + Teen EN + KO",
-  "id": "11hKLfnQEx-__8JgqhF2znYkF6F8G6THesDxCUQLHqbo",
-  "webViewLink": "https://docs.google.com/document/d/11hKLfnQEx-__8JgqhF2znYkF6F8G6THesDxCUQLHqbo/edit?usp=drivesdk",
-  "tables": 5,
-  "expected": 5,
-  "status": "OK"
- },
- {
-  "key": "2Thessalonians",
-  "title": "데살로니가후서 (2 Thessalonians) — Final: MSG + Teen EN + KO",
-  "id": "11aP9xlw5ujhq-l2eujKQAj88R1QedHBpdrVMCCw_CUA",
-  "webViewLink": "https://docs.google.com/document/d/11aP9xlw5ujhq-l2eujKQAj88R1QedHBpdrVMCCw_CUA/edit?usp=drivesdk",
-  "tables": 3,
-  "expected": 3,
-  "status": "OK"
- },
- {
-  "key": "1Timothy",
-  "title": "디모데전서 (1 Timothy) — Final: MSG + Teen EN + KO",
-  "id": "1pqCDQDMxJdhCArkNpR_mb_vmS3MkxayOBvsCT3o4BpQ",
-  "webViewLink": "https://docs.google.com/document/d/1pqCDQDMxJdhCArkNpR_mb_vmS3MkxayOBvsCT3o4BpQ/edit?usp=drivesdk",
-  "tables": 6,
-  "expected": 6,
-  "status": "OK"
- },
- {
-  "key": "2Timothy",
-  "title": "디모데후서 (2 Timothy) — Final: MSG + Teen EN + KO",
-  "id": "1R2xxvJDYilJQcZE5MFFgTAhDN9kuLsLumKC60LgOvvU",
-  "webViewLink": "https://docs.google.com/document/d/1R2xxvJDYilJQcZE5MFFgTAhDN9kuLsLumKC60LgOvvU/edit?usp=drivesdk",
-  "tables": 4,
-  "expected": 4,
-  "status": "OK"
- },
- {
-  "key": "Titus",
-  "title": "디도서 (Titus) — Final: MSG + Teen EN + KO",
-  "id": "18n86eQ0W0mpMagl_2pK-Uwjvkj-wkXBO3LGU67RGxoM",
-  "webViewLink": "https://docs.google.com/document/d/18n86eQ0W0mpMagl_2pK-Uwjvkj-wkXBO3LGU67RGxoM/edit?usp=drivesdk",
-  "tables": 3,
-  "expected": 3,
-  "status": "OK"
- },
- {
-  "key": "Philemon",
-  "title": "빌레몬서 (Philemon) — Final: MSG + Teen EN + KO",
-  "id": "1dlhUfDBEnnIFY6BueCpW5MLqNBcE55yqJW8NBSk8_Fs",
-  "webViewLink": "https://docs.google.com/document/d/1dlhUfDBEnnIFY6BueCpW5MLqNBcE55yqJW8NBSk8_Fs/edit?usp=drivesdk",
-  "tables": 1,
-  "expected": 1,
-  "status": "OK"
- },
- {
-  "key": "Hebrews",
-  "title": "히브리서 (Hebrews) — Final: MSG + Teen EN + KO",
-  "id": "1rX4jcv-OFvA427MBzQ6iktPA4KKwa_7hXMnZUF8RTFw",
-  "webViewLink": "https://docs.google.com/document/d/1rX4jcv-OFvA427MBzQ6iktPA4KKwa_7hXMnZUF8RTFw/edit?usp=drivesdk",
-  "tables": 13,
-  "expected": 13,
-  "status": "OK"
- },
- {
-  "key": "James",
-  "title": "야고보서 (James) — Final: MSG + Teen EN + KO",
-  "id": "11FwjJfKH3RUNQLiv4vmolW-M5G8FvQoLYPhGP7oA4N8",
-  "webViewLink": "https://docs.google.com/document/d/11FwjJfKH3RUNQLiv4vmolW-M5G8FvQoLYPhGP7oA4N8/edit?usp=drivesdk",
-  "tables": 5,
-  "expected": 5,
-  "status": "OK"
- },
- {
-  "key": "1Peter",
-  "title": "베드로전서 (1 Peter) — Final: MSG + Teen EN + KO",
-  "id": "1SPZq302PamZD3h2O34ww-CgawD45R0exf2H5cJEyHu8",
-  "webViewLink": "https://docs.google.com/document/d/1SPZq302PamZD3h2O34ww-CgawD45R0exf2H5cJEyHu8/edit?usp=drivesdk",
-  "tables": 5,
-  "expected": 5,
-  "status": "OK"
- },
- {
-  "key": "2Peter",
-  "title": "베드로후서 (2 Peter) — Final: MSG + Teen EN + KO",
-  "id": "14NPEm-WCABcERbo3Ik3J29SR7pPbLAmJVtHV3yl2aI8",
-  "webViewLink": "https://docs.google.com/document/d/14NPEm-WCABcERbo3Ik3J29SR7pPbLAmJVtHV3yl2aI8/edit?usp=drivesdk",
-  "tables": 3,
-  "expected": 3,
-  "status": "OK"
- },
- {
-  "key": "1John",
-  "title": "요한일서 (1 John) — Final: MSG + Teen EN + KO",
-  "id": "1uAiHxp9fsTJb-MbwPNFoIyatSVf4rP0LNjpLCpKS5GE",
-  "webViewLink": "https://docs.google.com/document/d/1uAiHxp9fsTJb-MbwPNFoIyatSVf4rP0LNjpLCpKS5GE/edit?usp=drivesdk",
-  "tables": 5,
-  "expected": 5,
-  "status": "OK"
- },
- {
-  "key": "2John",
-  "title": "요한이서 (2 John) — Final: MSG + Teen EN + KO",
-  "id": "1TQWkd0RLwSL_3Ty0sKDHFTNPoMf8e1xODxw108qqg8A",
-  "webViewLink": "https://docs.google.com/document/d/1TQWkd0RLwSL_3Ty0sKDHFTNPoMf8e1xODxw108qqg8A/edit?usp=drivesdk",
-  "tables": 1,
-  "expected": 1,
-  "status": "OK"
- },
- {
-  "key": "3John",
-  "title": "요한삼서 (3 John) — Final: MSG + Teen EN + KO",
-  "id": "1jyGDc5Bch_yyfCwFZ06WFdeZPmtM7Xb5wXSuy-XWlKY",
-  "webViewLink": "https://docs.google.com/document/d/1jyGDc5Bch_yyfCwFZ06WFdeZPmtM7Xb5wXSuy-XWlKY/edit?usp=drivesdk",
-  "tables": 1,
-  "expected": 1,
-  "status": "OK"
- },
- {
-  "key": "Jude",
-  "title": "유다서 (Jude) — Final: MSG + Teen EN + KO",
-  "id": "1M_ih5_dNTxC4E8EDF47jQNkJdrg01BLmYCUwYKUfquM",
-  "webViewLink": "https://docs.google.com/document/d/1M_ih5_dNTxC4E8EDF47jQNkJdrg01BLmYCUwYKUfquM/edit?usp=drivesdk",
-  "tables": 1,
-  "expected": 1,
-  "status": "OK"
- },
- {
-  "key": "Revelation",
-  "title": "요한계시록 (Revelation) — Final: MSG + Teen EN + KO",
-  "id": "1Xs9IuP4ZXfOjzMjVxsT55HRFHx1Z7Otug0GmbwKNeRI",
-  "webViewLink": "https://docs.google.com/document/d/1Xs9IuP4ZXfOjzMjVxsT55HRFHx1Z7Otug0GmbwKNeRI/edit?usp=drivesdk",
-  "tables": 22,
-  "expected": 22,
-  "status": "OK"
- },
- {
-  "key": "Acts",
-  "title": "사도행전 (Acts) — Final: MSG + Teen EN + KO",
-  "id": "11z558cFT0xrKqs-pbcZBLbu2DhyFDB6E6DWHxBchyrM",
-  "webViewLink": "https://docs.google.com/document/d/11z558cFT0xrKqs-pbcZBLbu2DhyFDB6E6DWHxBchyrM"
- },
- {
-  "key": "Obadiah",
-  "title": "오바댜 (Obadiah) — Final: MSG + Teen EN + KO",
-  "id": "1fp-bW_iBIzpfjVTrh9mL0XxpwXb2Ry-k5v3leLleUCw",
-  "webViewLink": "https://docs.google.com/document/d/1fp-bW_iBIzpfjVTrh9mL0XxpwXb2Ry-k5v3leLleUCw/edit?usp=drivesdk",
-  "tables": 1,
-  "expected": 1,
-  "status": "OK",
-  "export_problems": []
- },
- {
-  "key": "Haggai",
-  "title": "학개 (Haggai) — Final: MSG + Teen EN + KO",
-  "id": "1RWLSEl-afs-exYFJLuCMpukSoLRg1FCl3IxBI0JGFXk",
-  "webViewLink": "https://docs.google.com/document/d/1RWLSEl-afs-exYFJLuCMpukSoLRg1FCl3IxBI0JGFXk/edit?usp=drivesdk",
-  "tables": 2,
-  "expected": 2,
-  "status": "OK",
-  "export_problems": []
- },
- {
-  "key": "Ruth",
-  "title": "룻기 (Ruth) — Final: MSG + Teen EN + KO",
-  "id": "14tmrTTb1rGX0gatBv5khy4tBvEEopS9uD5m3kcEd_LY",
-  "webViewLink": "https://docs.google.com/document/d/14tmrTTb1rGX0gatBv5khy4tBvEEopS9uD5m3kcEd_LY/edit?usp=drivesdk",
-  "tables": 4,
-  "expected": 4,
-  "status": "OK",
-  "export_problems": []
- },
- {
-  "key": "Jonah",
-  "title": "요나 (Jonah) — Final: MSG + Teen EN + KO",
-  "id": "1bX0VJYwqJcFANuyatlb9Rh3eIRxIvgSvYaEryCs-qQE",
-  "webViewLink": "https://docs.google.com/document/d/1bX0VJYwqJcFANuyatlb9Rh3eIRxIvgSvYaEryCs-qQE/edit?usp=drivesdk",
-  "tables": 4,
-  "expected": 4,
-  "status": "OK",
-  "export_problems": []
- },
- {
-  "key": "Zephaniah",
-  "title": "스바냐 (Zephaniah) — Final: MSG + Teen EN + KO",
-  "id": "1e_p0097DuMSyoH_IC55C_zrdCYVcaRCBT26i-0F5y4E",
-  "webViewLink": "https://docs.google.com/document/d/1e_p0097DuMSyoH_IC55C_zrdCYVcaRCBT26i-0F5y4E/edit?usp=drivesdk",
-  "tables": 3,
-  "expected": 3,
-  "status": "OK",
-  "export_problems": []
- },
- {
-  "key": "Nahum",
-  "title": "나훔 (Nahum) — Final: MSG + Teen EN + KO",
-  "id": "10v8XT2DwWEGdGnjAsI3gqaGde9nR6opFN4En70Y2UBw",
-  "webViewLink": "https://docs.google.com/document/d/10v8XT2DwWEGdGnjAsI3gqaGde9nR6opFN4En70Y2UBw/edit?usp=drivesdk",
-  "tables": 3,
-  "expected": 3,
-  "status": "OK",
-  "export_problems": []
- },
- {
-  "key": "Esther",
-  "title": "에스더 (Esther) — Final: MSG + Teen EN + KO",
-  "id": "1tuVsF6HDNB_s6o9wFI3oVqtrptK_WxgSDeJA4CKW-Lg",
-  "webViewLink": "https://docs.google.com/document/d/1tuVsF6HDNB_s6o9wFI3oVqtrptK_WxgSDeJA4CKW-Lg/edit?usp=drivesdk",
-  "tables": 10,
-  "expected": 10,
-  "status": "OK",
-  "export_problems": []
- }
+  {
+    "key": "Matthew",
+    "title": "마태복음 (Matthew) — Final: MSG + Teen EN + KO",
+    "id": "1Lu2f2vZcpVqIu7HFq9Nw9lO7QBLw_GNMzdRdt0_M4e0",
+    "webViewLink": "https://docs.google.com/document/d/1Lu2f2vZcpVqIu7HFq9Nw9lO7QBLw_GNMzdRdt0_M4e0/edit?usp=drivesdk",
+    "tables": 28,
+    "expected": 28,
+    "status": "OK"
+  },
+  {
+    "key": "Mark",
+    "title": "마가복음 (Mark) — Final: MSG + Teen EN + KO",
+    "id": "19ySnH_Vrv5oiqoLryeaXXOEmpsD7UV-jsx6P59sKIi0",
+    "webViewLink": "https://docs.google.com/document/d/19ySnH_Vrv5oiqoLryeaXXOEmpsD7UV-jsx6P59sKIi0/edit?usp=drivesdk",
+    "tables": 16,
+    "expected": 16,
+    "status": "OK"
+  },
+  {
+    "key": "Luke",
+    "title": "누가복음 (Luke) — Final: MSG + Teen EN + KO",
+    "id": "1w6syxHOSkDDIYhv9MRHKqqW79WjZayhrXA4MFHIPa_k",
+    "webViewLink": "https://docs.google.com/document/d/1w6syxHOSkDDIYhv9MRHKqqW79WjZayhrXA4MFHIPa_k/edit?usp=drivesdk",
+    "tables": 24,
+    "expected": 24,
+    "status": "OK"
+  },
+  {
+    "key": "John",
+    "title": "요한복음 (John) — Final: MSG + Teen EN + KO",
+    "id": "1c07J-Wapt_kJMOTujE_zwZjBNGwZGysOlagHCZ9D1Lo",
+    "webViewLink": "https://docs.google.com/document/d/1c07J-Wapt_kJMOTujE_zwZjBNGwZGysOlagHCZ9D1Lo/edit?usp=drivesdk",
+    "tables": 21,
+    "expected": 21,
+    "status": "OK"
+  },
+  {
+    "key": "Romans",
+    "title": "로마서 (Romans) — Final: MSG + Teen EN + KO",
+    "id": "1P0FwmCsgQ-JAMq-c0oomBHjciZfrf_7n8MxRexzbox0",
+    "webViewLink": "https://docs.google.com/document/d/1P0FwmCsgQ-JAMq-c0oomBHjciZfrf_7n8MxRexzbox0/edit?usp=drivesdk",
+    "tables": 16,
+    "expected": 16,
+    "status": "OK"
+  },
+  {
+    "key": "1Corinthians",
+    "title": "고린도전서 (1 Corinthians) — Final: MSG + Teen EN + KO",
+    "id": "1sSE_8XCAFTEbJrDpti0JEkKwKpqMHpkYquu90BgkPGA",
+    "webViewLink": "https://docs.google.com/document/d/1sSE_8XCAFTEbJrDpti0JEkKwKpqMHpkYquu90BgkPGA/edit?usp=drivesdk",
+    "tables": 16,
+    "expected": 16,
+    "status": "OK"
+  },
+  {
+    "key": "2Corinthians",
+    "title": "고린도후서 (2 Corinthians) — Final: MSG + Teen EN + KO",
+    "id": "18HSxNax4GxjWjI3z3T4bi4k2NMXACaF_nNsrHqmFSS0",
+    "webViewLink": "https://docs.google.com/document/d/18HSxNax4GxjWjI3z3T4bi4k2NMXACaF_nNsrHqmFSS0/edit?usp=drivesdk",
+    "tables": 13,
+    "expected": 13,
+    "status": "OK"
+  },
+  {
+    "key": "Galatians",
+    "title": "갈라디아서 (Galatians) — Final: MSG + Teen EN + KO",
+    "id": "1O14IOKPTQQKHj9XiRz5cs5ruFhfAfLydZchDxGP2xfE",
+    "webViewLink": "https://docs.google.com/document/d/1O14IOKPTQQKHj9XiRz5cs5ruFhfAfLydZchDxGP2xfE/edit?usp=drivesdk",
+    "tables": 6,
+    "expected": 6,
+    "status": "OK"
+  },
+  {
+    "key": "Ephesians",
+    "title": "에베소서 (Ephesians) — Final: MSG + Teen EN + KO",
+    "id": "1S77tkKo1s2QtYJWyGkxjJ6ZIWdJ9KClkKpfgAXqtMbM",
+    "webViewLink": "https://docs.google.com/document/d/1S77tkKo1s2QtYJWyGkxjJ6ZIWdJ9KClkKpfgAXqtMbM/edit?usp=drivesdk",
+    "tables": 6,
+    "expected": 6,
+    "status": "OK"
+  },
+  {
+    "key": "Philippians",
+    "title": "빌립보서 (Philippians) — Final: MSG + Teen EN + KO",
+    "id": "16BQgN0mymQbxtXlnLZmgg2Bozgh6DAT5bFsJqe2tISg",
+    "webViewLink": "https://docs.google.com/document/d/16BQgN0mymQbxtXlnLZmgg2Bozgh6DAT5bFsJqe2tISg/edit?usp=drivesdk",
+    "tables": 4,
+    "expected": 4,
+    "status": "OK"
+  },
+  {
+    "key": "Colossians",
+    "title": "골로새서 (Colossians) — Final: MSG + Teen EN + KO",
+    "id": "1jgXrXWAILNwV2ud_V7x-nLabGcoaL9r2nUfaPNunw90",
+    "webViewLink": "https://docs.google.com/document/d/1jgXrXWAILNwV2ud_V7x-nLabGcoaL9r2nUfaPNunw90/edit?usp=drivesdk",
+    "tables": 4,
+    "expected": 4,
+    "status": "OK"
+  },
+  {
+    "key": "1Thessalonians",
+    "title": "데살로니가전서 (1 Thessalonians) — Final: MSG + Teen EN + KO",
+    "id": "11hKLfnQEx-__8JgqhF2znYkF6F8G6THesDxCUQLHqbo",
+    "webViewLink": "https://docs.google.com/document/d/11hKLfnQEx-__8JgqhF2znYkF6F8G6THesDxCUQLHqbo/edit?usp=drivesdk",
+    "tables": 5,
+    "expected": 5,
+    "status": "OK"
+  },
+  {
+    "key": "2Thessalonians",
+    "title": "데살로니가후서 (2 Thessalonians) — Final: MSG + Teen EN + KO",
+    "id": "11aP9xlw5ujhq-l2eujKQAj88R1QedHBpdrVMCCw_CUA",
+    "webViewLink": "https://docs.google.com/document/d/11aP9xlw5ujhq-l2eujKQAj88R1QedHBpdrVMCCw_CUA/edit?usp=drivesdk",
+    "tables": 3,
+    "expected": 3,
+    "status": "OK"
+  },
+  {
+    "key": "1Timothy",
+    "title": "디모데전서 (1 Timothy) — Final: MSG + Teen EN + KO",
+    "id": "1pqCDQDMxJdhCArkNpR_mb_vmS3MkxayOBvsCT3o4BpQ",
+    "webViewLink": "https://docs.google.com/document/d/1pqCDQDMxJdhCArkNpR_mb_vmS3MkxayOBvsCT3o4BpQ/edit?usp=drivesdk",
+    "tables": 6,
+    "expected": 6,
+    "status": "OK"
+  },
+  {
+    "key": "2Timothy",
+    "title": "디모데후서 (2 Timothy) — Final: MSG + Teen EN + KO",
+    "id": "1R2xxvJDYilJQcZE5MFFgTAhDN9kuLsLumKC60LgOvvU",
+    "webViewLink": "https://docs.google.com/document/d/1R2xxvJDYilJQcZE5MFFgTAhDN9kuLsLumKC60LgOvvU/edit?usp=drivesdk",
+    "tables": 4,
+    "expected": 4,
+    "status": "OK"
+  },
+  {
+    "key": "Titus",
+    "title": "디도서 (Titus) — Final: MSG + Teen EN + KO",
+    "id": "18n86eQ0W0mpMagl_2pK-Uwjvkj-wkXBO3LGU67RGxoM",
+    "webViewLink": "https://docs.google.com/document/d/18n86eQ0W0mpMagl_2pK-Uwjvkj-wkXBO3LGU67RGxoM/edit?usp=drivesdk",
+    "tables": 3,
+    "expected": 3,
+    "status": "OK"
+  },
+  {
+    "key": "Philemon",
+    "title": "빌레몬서 (Philemon) — Final: MSG + Teen EN + KO",
+    "id": "1dlhUfDBEnnIFY6BueCpW5MLqNBcE55yqJW8NBSk8_Fs",
+    "webViewLink": "https://docs.google.com/document/d/1dlhUfDBEnnIFY6BueCpW5MLqNBcE55yqJW8NBSk8_Fs/edit?usp=drivesdk",
+    "tables": 1,
+    "expected": 1,
+    "status": "OK"
+  },
+  {
+    "key": "Hebrews",
+    "title": "히브리서 (Hebrews) — Final: MSG + Teen EN + KO",
+    "id": "1rX4jcv-OFvA427MBzQ6iktPA4KKwa_7hXMnZUF8RTFw",
+    "webViewLink": "https://docs.google.com/document/d/1rX4jcv-OFvA427MBzQ6iktPA4KKwa_7hXMnZUF8RTFw/edit?usp=drivesdk",
+    "tables": 13,
+    "expected": 13,
+    "status": "OK"
+  },
+  {
+    "key": "James",
+    "title": "야고보서 (James) — Final: MSG + Teen EN + KO",
+    "id": "11FwjJfKH3RUNQLiv4vmolW-M5G8FvQoLYPhGP7oA4N8",
+    "webViewLink": "https://docs.google.com/document/d/11FwjJfKH3RUNQLiv4vmolW-M5G8FvQoLYPhGP7oA4N8/edit?usp=drivesdk",
+    "tables": 5,
+    "expected": 5,
+    "status": "OK"
+  },
+  {
+    "key": "1Peter",
+    "title": "베드로전서 (1 Peter) — Final: MSG + Teen EN + KO",
+    "id": "1SPZq302PamZD3h2O34ww-CgawD45R0exf2H5cJEyHu8",
+    "webViewLink": "https://docs.google.com/document/d/1SPZq302PamZD3h2O34ww-CgawD45R0exf2H5cJEyHu8/edit?usp=drivesdk",
+    "tables": 5,
+    "expected": 5,
+    "status": "OK"
+  },
+  {
+    "key": "2Peter",
+    "title": "베드로후서 (2 Peter) — Final: MSG + Teen EN + KO",
+    "id": "14NPEm-WCABcERbo3Ik3J29SR7pPbLAmJVtHV3yl2aI8",
+    "webViewLink": "https://docs.google.com/document/d/14NPEm-WCABcERbo3Ik3J29SR7pPbLAmJVtHV3yl2aI8/edit?usp=drivesdk",
+    "tables": 3,
+    "expected": 3,
+    "status": "OK"
+  },
+  {
+    "key": "1John",
+    "title": "요한일서 (1 John) — Final: MSG + Teen EN + KO",
+    "id": "1uAiHxp9fsTJb-MbwPNFoIyatSVf4rP0LNjpLCpKS5GE",
+    "webViewLink": "https://docs.google.com/document/d/1uAiHxp9fsTJb-MbwPNFoIyatSVf4rP0LNjpLCpKS5GE/edit?usp=drivesdk",
+    "tables": 5,
+    "expected": 5,
+    "status": "OK"
+  },
+  {
+    "key": "2John",
+    "title": "요한이서 (2 John) — Final: MSG + Teen EN + KO",
+    "id": "1TQWkd0RLwSL_3Ty0sKDHFTNPoMf8e1xODxw108qqg8A",
+    "webViewLink": "https://docs.google.com/document/d/1TQWkd0RLwSL_3Ty0sKDHFTNPoMf8e1xODxw108qqg8A/edit?usp=drivesdk",
+    "tables": 1,
+    "expected": 1,
+    "status": "OK"
+  },
+  {
+    "key": "3John",
+    "title": "요한삼서 (3 John) — Final: MSG + Teen EN + KO",
+    "id": "1jyGDc5Bch_yyfCwFZ06WFdeZPmtM7Xb5wXSuy-XWlKY",
+    "webViewLink": "https://docs.google.com/document/d/1jyGDc5Bch_yyfCwFZ06WFdeZPmtM7Xb5wXSuy-XWlKY/edit?usp=drivesdk",
+    "tables": 1,
+    "expected": 1,
+    "status": "OK"
+  },
+  {
+    "key": "Jude",
+    "title": "유다서 (Jude) — Final: MSG + Teen EN + KO",
+    "id": "1M_ih5_dNTxC4E8EDF47jQNkJdrg01BLmYCUwYKUfquM",
+    "webViewLink": "https://docs.google.com/document/d/1M_ih5_dNTxC4E8EDF47jQNkJdrg01BLmYCUwYKUfquM/edit?usp=drivesdk",
+    "tables": 1,
+    "expected": 1,
+    "status": "OK"
+  },
+  {
+    "key": "Revelation",
+    "title": "요한계시록 (Revelation) — Final: MSG + Teen EN + KO",
+    "id": "1Xs9IuP4ZXfOjzMjVxsT55HRFHx1Z7Otug0GmbwKNeRI",
+    "webViewLink": "https://docs.google.com/document/d/1Xs9IuP4ZXfOjzMjVxsT55HRFHx1Z7Otug0GmbwKNeRI/edit?usp=drivesdk",
+    "tables": 22,
+    "expected": 22,
+    "status": "OK"
+  },
+  {
+    "key": "Acts",
+    "title": "사도행전 (Acts) — Final: MSG + Teen EN + KO",
+    "id": "11z558cFT0xrKqs-pbcZBLbu2DhyFDB6E6DWHxBchyrM",
+    "webViewLink": "https://docs.google.com/document/d/11z558cFT0xrKqs-pbcZBLbu2DhyFDB6E6DWHxBchyrM"
+  },
+  {
+    "key": "Obadiah",
+    "title": "오바댜 (Obadiah) — Final: MSG + Teen EN + KO",
+    "id": "1fp-bW_iBIzpfjVTrh9mL0XxpwXb2Ry-k5v3leLleUCw",
+    "webViewLink": "https://docs.google.com/document/d/1fp-bW_iBIzpfjVTrh9mL0XxpwXb2Ry-k5v3leLleUCw/edit?usp=drivesdk",
+    "tables": 1,
+    "expected": 1,
+    "status": "OK",
+    "export_problems": [],
+    "export_back": "VERIFIED OK"
+  },
+  {
+    "key": "Haggai",
+    "title": "학개 (Haggai) — Final: MSG + Teen EN + KO",
+    "id": "1RWLSEl-afs-exYFJLuCMpukSoLRg1FCl3IxBI0JGFXk",
+    "webViewLink": "https://docs.google.com/document/d/1RWLSEl-afs-exYFJLuCMpukSoLRg1FCl3IxBI0JGFXk/edit?usp=drivesdk",
+    "tables": 2,
+    "expected": 2,
+    "status": "OK",
+    "export_problems": [],
+    "export_back": "VERIFIED OK"
+  },
+  {
+    "key": "Ruth",
+    "title": "룻기 (Ruth) — Final: MSG + Teen EN + KO",
+    "id": "14tmrTTb1rGX0gatBv5khy4tBvEEopS9uD5m3kcEd_LY",
+    "webViewLink": "https://docs.google.com/document/d/14tmrTTb1rGX0gatBv5khy4tBvEEopS9uD5m3kcEd_LY/edit?usp=drivesdk",
+    "tables": 4,
+    "expected": 4,
+    "status": "OK",
+    "export_problems": [],
+    "export_back": "VERIFIED OK"
+  },
+  {
+    "key": "Jonah",
+    "title": "요나 (Jonah) — Final: MSG + Teen EN + KO",
+    "id": "1bX0VJYwqJcFANuyatlb9Rh3eIRxIvgSvYaEryCs-qQE",
+    "webViewLink": "https://docs.google.com/document/d/1bX0VJYwqJcFANuyatlb9Rh3eIRxIvgSvYaEryCs-qQE/edit?usp=drivesdk",
+    "tables": 4,
+    "expected": 4,
+    "status": "OK",
+    "export_problems": [],
+    "export_back": "VERIFIED OK"
+  },
+  {
+    "key": "Zephaniah",
+    "title": "스바냐 (Zephaniah) — Final: MSG + Teen EN + KO",
+    "id": "1e_p0097DuMSyoH_IC55C_zrdCYVcaRCBT26i-0F5y4E",
+    "webViewLink": "https://docs.google.com/document/d/1e_p0097DuMSyoH_IC55C_zrdCYVcaRCBT26i-0F5y4E/edit?usp=drivesdk",
+    "tables": 3,
+    "expected": 3,
+    "status": "OK",
+    "export_problems": [],
+    "export_back": "VERIFIED OK"
+  },
+  {
+    "key": "Nahum",
+    "title": "나훔 (Nahum) — Final: MSG + Teen EN + KO",
+    "id": "10v8XT2DwWEGdGnjAsI3gqaGde9nR6opFN4En70Y2UBw",
+    "webViewLink": "https://docs.google.com/document/d/10v8XT2DwWEGdGnjAsI3gqaGde9nR6opFN4En70Y2UBw/edit?usp=drivesdk",
+    "tables": 3,
+    "expected": 3,
+    "status": "OK",
+    "export_problems": [],
+    "export_back": "VERIFIED OK"
+  },
+  {
+    "key": "Habakkuk",
+    "title": "하박국 (Habakkuk) — Final: MSG + Teen EN + KO",
+    "id": "1wjhevej_0U08quxDtng-HRIVdec1RqkCoPGRiwv5aTA",
+    "webViewLink": "https://docs.google.com/document/d/1wjhevej_0U08quxDtng-HRIVdec1RqkCoPGRiwv5aTA/edit?usp=drivesdk",
+    "tables": 3,
+    "expected": 3,
+    "status": "OK",
+    "export_problems": [],
+    "export_back": "VERIFIED OK"
+  },
+  {
+    "key": "Esther",
+    "title": "에스더 (Esther) — Final: MSG + Teen EN + KO",
+    "id": "1tuVsF6HDNB_s6o9wFI3oVqtrptK_WxgSDeJA4CKW-Lg",
+    "webViewLink": "https://docs.google.com/document/d/1tuVsF6HDNB_s6o9wFI3oVqtrptK_WxgSDeJA4CKW-Lg/edit?usp=drivesdk",
+    "tables": 10,
+    "expected": 10,
+    "status": "OK",
+    "export_problems": []
+  }
 ]
