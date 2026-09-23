@@ -47,3 +47,21 @@
 ## 검증 범위
 - 확인함: MSG 16장 전 문단 대 EN/KO 전수 대조, EN/KO 배지·문단 parity, 욕설 자동 스크리닝, 렌더 배지 기준(verseRanges) 정합.
 - 확인하지 못함: KO 본문 전수 의미 대조는 EN 기준 구조 parity + 그룹별 1:1 대조로 수행 (감사 워커가 KO도 전수 대조함), 자동 욕설 목록 밖 미묘한 표현의 뉘앙스, Google Docs 웹 화면의 실제 렌더 (API + export-back DOCX로 대체 검증).
+---
+
+## 부록: 2026-09-23 미묘한 슬랭 일괄 수정 (번역 원칙 5)
+
+- 배경: 신약 27권 EN/KO 전수 검사에서 자동 욕설 목록 밖의 미묘한 슬랭·저속 표현 발견. 성욱 지시("B 기준 정하고 한 번에 해")에 따라 아래 확정 6개 Rule로 일괄 수정.
+- Rule: ① 채팅 약어·유행 은어(ㅇㅋ·here's the tea·woke·throw shade·GOAT·FOMO·fam·vibe) ② 원칙 5 명시 슬랭(썰·꿀잼·쌩까·드립·뇌절·어그로·인싸춤·뿅·텐션·뇌정지·가오·찢길각) ③ ghosting 계열(ghost·고스팅) ④ 신성한 대상 경량화(찐·대박·인싸/아싸·레전드·흑역사·맛집·핫해·좋아요·게임 체인저·That loser is gone) ⑤ 저속·모욕·첨가 강화 순화(관종·lame·freaking out·working my butt off·맛이 갔네·한심·일진/꼽준다·멘붕·멘탈·올인) ⑥ 유지(chill·bro·왕따 — 변경 없음)
+- 수정 원칙: EN primary(MSG 의미 유지), KO는 수정된 EN의 의미·톤 1:1, 의미 축소·본문 구조 변경 금지, 해당 표현만 최소 수정.
+
+- 본 권 수정: **EN 1건, KO 2건** (합계 3건). Rule ⑥(chill·bro·왕따) 변경 없음.
+
+| 장 | 위치 | 언어 | Rule | 기존 | 수정 |
+|---|---|---|---|---|---|
+| 6 | p1 | EN | ⑤ | how lame this is | how wrong this is |
+| 6 | p2 | KO | ④ | 완전 흑역사가 될 거임. | 정말 부끄러운 일이 될 거야. |
+| 15 | p16 | KO | ⑤ | 주님의 일에 올인하라고! | 주님의 일에 전부를 걸라고! |
+
+**8개 게이트 전부 PASS (2026-09-23)**
+- ①수정반영: 부록 3건 old→new 쌍 JSON 반영 확인 (신규 문자열 존재·구 문자열 소멸 grep 검증). ②validator: 16장 전부 통과. ③완전성: git HEAD 대비 FAIL 집합 byte-identical — 슬랭 수정으로 인한 신규 이슈 0건 (기존 FAIL 2건은 감사 시 문서화된 오탐, completeness_fp_1Corinthians.md). ④Docs재빌드: rows=158, teen_without_msg=0, msg_orphans=0. ⑤짝지음: 148 data rows / 16 tables PAIRING CONTENT OK. ⑥재업로드: 기존 Doc ID 유지. ⑦API 테이블 수: 16/16. ⑧export-back: VERIFIED OK.

@@ -42,3 +42,18 @@
 | ⑥ Docs 재빌드 | PASS (VERIFY_DROPPED=0, 60 rows, 5 tables) |
 | ⑦ 실제 내용 짝지음 검증 | PASS (49 data rows, PAIRING CONTENT OK) |
 | ⑧ Google Docs 재업로드/API+export-back 검증 | PASS (API table 5/5, export-back VERIFIED OK) |
+---
+
+## 부록: 2026-09-23 미묘한 슬랭 일괄 수정 (번역 원칙 5)
+
+- 배경: 신약 27권 EN/KO 전수 검사에서 자동 욕설 목록 밖의 미묘한 슬랭·저속 표현 발견. 성욱 지시("B 기준 정하고 한 번에 해")에 따라 아래 확정 6개 Rule로 일괄 수정.
+- Rule: ① 채팅 약어·유행 은어(ㅇㅋ·here's the tea·woke·throw shade·GOAT·FOMO·fam·vibe) ② 원칙 5 명시 슬랭(썰·꿀잼·쌩까·드립·뇌절·어그로·인싸춤·뿅·텐션·뇌정지·가오·찢길각) ③ ghosting 계열(ghost·고스팅) ④ 신성한 대상 경량화(찐·대박·인싸/아싸·레전드·흑역사·맛집·핫해·좋아요·게임 체인저·That loser is gone) ⑤ 저속·모욕·첨가 강화 순화(관종·lame·freaking out·working my butt off·맛이 갔네·한심·일진/꼽준다·멘붕·멘탈·올인) ⑥ 유지(chill·bro·왕따 — 변경 없음)
+- 수정 원칙: EN primary(MSG 의미 유지), KO는 수정된 EN의 의미·톤 1:1, 의미 축소·본문 구조 변경 금지, 해당 표현만 최소 수정.
+
+- 본 권 수정: **EN 1건, KO 0건** (합계 1건). Rule ⑥(chill·bro·왕따) 변경 없음.
+
+| 장 | 위치 | 언어 | Rule | 기존 | 수정 |
+|---|---|---|---|---|---|
+| 2 | p18 | EN | ⑤ | no lame excuses | no empty excuses |
+
+**8개 게이트 결과 (2026-09-23)**: ① PASS (1건 old→new grep 확인) ② PASS (5개 장 모두 통과) ③ FAIL (3건 — 수정 전 baseline과 동일 3건, 슬랭 수정과 무관한 기존 이슈) ④ PASS (5 tables, no dropped paragraphs) ⑤ PASS (49 rows pairing OK) ⑥ PASS (기존 Doc ID 재업로드) ⑦ PASS (API table 5/5) ⑧ PASS (export-back VERIFIED OK)

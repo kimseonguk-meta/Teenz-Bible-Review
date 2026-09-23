@@ -58,3 +58,23 @@
 | ⑥ Docs 재빌드 | PASS (VERIFY_DROPPED=0, 118 rows, 13 tables) |
 | ⑦ 실제 내용 짝지음 검증 | PASS (100 data rows, PAIRING CONTENT OK) |
 | ⑧ Google Docs 재업로드/API+export-back 검증 | PASS (API table 13/13, export-back VERIFIED OK) |
+---
+
+## 부록: 2026-09-23 미묘한 슬랭 일괄 수정 (번역 원칙 5)
+
+- 배경: 신약 27권 EN/KO 전수 검사에서 자동 욕설 목록 밖의 미묘한 슬랭·저속 표현 발견. 성욱 지시("B 기준 정하고 한 번에 해")에 따라 아래 확정 6개 Rule로 일괄 수정.
+- Rule: ① 채팅 약어·유행 은어(ㅇㅋ·here's the tea·woke·throw shade·GOAT·FOMO·fam·vibe) ② 원칙 5 명시 슬랭(썰·꿀잼·쌩까·드립·뇌절·어그로·인싸춤·뿅·텐션·뇌정지·가오·찢길각) ③ ghosting 계열(ghost·고스팅) ④ 신성한 대상 경량화(찐·대박·인싸/아싸·레전드·흑역사·맛집·핫해·좋아요·게임 체인저·That loser is gone) ⑤ 저속·모욕·첨가 강화 순화(관종·lame·freaking out·working my butt off·맛이 갔네·한심·일진/꼽준다·멘붕·멘탈·올인) ⑥ 유지(chill·bro·왕따 — 변경 없음)
+- 수정 원칙: EN primary(MSG 의미 유지), KO는 수정된 EN의 의미·톤 1:1, 의미 축소·본문 구조 변경 금지, 해당 표현만 최소 수정.
+
+- 본 권 수정: **EN 5건, KO 1건** (합계 6건). Rule ⑥(chill·bro·왕따) 변경 없음.
+
+| 장 | 위치 | 언어 | Rule | 기존 | 수정 |
+|---|---|---|---|---|---|
+| 2 | 제목 | EN | ① | Why Jesus is the GOAT | Why Jesus Is the Greatest of All |
+| 3 | p3 | EN | ① | watch your backs, fam. | watch your backs, friends. |
+| 3 | p3 | EN | ③ | make you ghost the living God | make you turn away from the living God |
+| 3 | p4 | EN | ③ | still ghosted him | still turned away from him |
+| 10 | p8 | EN | ③ | people who ghost worship services | people who skip worship services |
+| 12 | p2 | KO | ⑤ | 그러니 멘탈 나가지 마. | 그러니 낙심하지 마. |
+
+**8개 게이트 결과 (2026-09-23)**: ① PASS (6건 old→new 전수 grep 확인: 새 문자열 존재·옛 문자열 소멸) ② PASS (13개 장 모두 통과) ③ FAIL (18건 — 수정 전 baseline과 동일 18건, 슬랭 수정과 무관한 기존 이슈: 고유명사/숫자 토큰 누락) ④ PASS (13 tables, no dropped paragraphs) ⑤ PASS (100 rows pairing OK) ⑥ PASS (기존 Doc ID 재업로드) ⑦ PASS (API table 13/13) ⑧ PASS (export-back VERIFIED OK)

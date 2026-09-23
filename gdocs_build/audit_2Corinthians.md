@@ -120,3 +120,24 @@
   completeness_check PASS(1건 실제 문제 복원 + 4건 오탐 문서화),
   build_gdocs.py, verify_pairing_content.py, Google Docs 재업로드 + API 테이블 수 검증 (예정).
 - 미확인: Google Docs 웹 화면은 이 환경에서 직접 보지 못함. 실제 브라우저 화면 확인은 미확인으로 남김.
+---
+
+## 부록: 2026-09-23 미묘한 슬랭 일괄 수정 (번역 원칙 5)
+
+- 배경: 신약 27권 EN/KO 전수 검사에서 자동 욕설 목록 밖의 미묘한 슬랭·저속 표현 발견. 성욱 지시("B 기준 정하고 한 번에 해")에 따라 아래 확정 6개 Rule로 일괄 수정.
+- Rule: ① 채팅 약어·유행 은어(ㅇㅋ·here's the tea·woke·throw shade·GOAT·FOMO·fam·vibe) ② 원칙 5 명시 슬랭(썰·꿀잼·쌩까·드립·뇌절·어그로·인싸춤·뿅·텐션·뇌정지·가오·찢길각) ③ ghosting 계열(ghost·고스팅) ④ 신성한 대상 경량화(찐·대박·인싸/아싸·레전드·흑역사·맛집·핫해·좋아요·게임 체인저·That loser is gone) ⑤ 저속·모욕·첨가 강화 순화(관종·lame·freaking out·working my butt off·맛이 갔네·한심·일진/꼽준다·멘붕·멘탈·올인) ⑥ 유지(chill·bro·왕따 — 변경 없음)
+- 수정 원칙: EN primary(MSG 의미 유지), KO는 수정된 EN의 의미·톤 1:1, 의미 축소·본문 구조 변경 금지, 해당 표현만 최소 수정.
+
+- 본 권 수정: **EN 1건, KO 5건** (합계 6건). Rule ⑥(chill·bro·왕따) 변경 없음.
+
+| 장 | 위치 | 언어 | Rule | 기존 | 수정 |
+|---|---|---|---|---|---|
+| 5 | p1 | EN | ⑤ | The lame conditions here don't get us down | The rough conditions here don't get us down |
+| 4 | 제목 | KO | ④ | 진짜야, 우린 찐이야 | 진지하게 말하는데, 우리는 진짜야 |
+| 7 | p3 | KO | ⑤ | 나는 5초 만에 멘붕에서 완전 평온으로 바뀌었어. | 나는 5초 만에 당황에서 완전 평온으로 바뀌었어. |
+| 7 | p3 | KO | ⑤ | 너희가 얼마나 올인했는지, | 너희가 얼마나 마음을 쏟았는지, |
+| 7 | p3 | KO | ④ | 완전 게임 체인저였지. | 완전히 판도를 바꾼 사건이었지. |
+| 11 | p4 | KO | ⑤ | 걔네는 한심한 무리야. | 걔네는 불쌍한 무리야. |
+
+**8개 게이트 전부 PASS (2026-09-23)**
+- ①수정반영: 부록 6건 old→new 쌍 JSON 반영 확인 (신규 문자열 존재·구 문자열 소멸 grep 검증). ②validator: 13장 전부 통과. ③완전성: git HEAD 대비 FAIL 집합 byte-identical — 슬랭 수정으로 인한 신규 이슈 0건 (기존 FAIL 5건은 감사 시 문서화된 오탐 4건 + 수정 완료된 실제 누락 1건, completeness_fp_2Corinthians.md). ④Docs재빌드: rows=103, teen_without_msg=0, msg_orphans=0. ⑤짝지음: 90 data rows / 13 tables PAIRING CONTENT OK. ⑥재업로드: 기존 Doc ID 유지. ⑦API 테이블 수: 13/13. ⑧export-back: VERIFIED OK.

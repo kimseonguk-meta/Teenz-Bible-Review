@@ -487,3 +487,41 @@
 - 패턴: KO가 EN 문단과 1:1로 대응하지 않고 한 칸씩 밀리면서 특정 절 범위의 내용이 통째로 사라지는 경우가 반복됨 (1장 26–27, 8장 9–11·29–30, 11장 30–32). KO 전수 재정렬이 필요.
 - 9-3은 예비 후보였으나 재확인 결과 이슈 없음으로 판정.
 - 소스 JSON은 수정하지 않음.
+---
+
+## 부록: 2026-09-23 미묘한 슬랭 일괄 수정 (번역 원칙 5)
+
+- 배경: 신약 27권 EN/KO 전수 검사에서 자동 욕설 목록 밖의 미묘한 슬랭·저속 표현 발견. 성욱 지시("B 기준 정하고 한 번에 해")에 따라 아래 확정 6개 Rule로 일괄 수정.
+- Rule: ① 채팅 약어·유행 은어(ㅇㅋ·here's the tea·woke·throw shade·GOAT·FOMO·fam·vibe) ② 원칙 5 명시 슬랭(썰·꿀잼·쌩까·드립·뇌절·어그로·인싸춤·뿅·텐션·뇌정지·가오·찢길각) ③ ghosting 계열(ghost·고스팅) ④ 신성한 대상 경량화(찐·대박·인싸/아싸·레전드·흑역사·맛집·핫해·좋아요·게임 체인저·That loser is gone) ⑤ 저속·모욕·첨가 강화 순화(관종·lame·freaking out·working my butt off·맛이 갔네·한심·일진/꼽준다·멘붕·멘탈·올인) ⑥ 유지(chill·bro·왕따 — 변경 없음)
+- 수정 원칙: EN primary(MSG 의미 유지), KO는 수정된 EN의 의미·톤 1:1, 의미 축소·본문 구조 변경 금지, 해당 표현만 최소 수정.
+
+- 본 권 수정: **EN 13건, KO 10건** (합계 23건). Rule ⑥(chill·bro·왕따) 변경 없음.
+
+| 장 | 위치 | 언어 | Rule | 기존 | 수정 |
+|---|---|---|---|---|---|
+| 1 | p4 | EN | ③ | don't think I've been ghosting you | don't think I've been ignoring you |
+| 2 | p3 | EN | ③ | Every time you ghost God | Every time you walk away from God |
+| 6 | p1 | EN | ③ | you basically ghosted your old life of sin | you basically walked away from your old life of sin |
+| 6 | p4 | EN | ⑤ | You're not living under its lame dictatorship. | You're not living under its miserable dictatorship. |
+| 7 | p2 | EN | ③ | he basically ghosted that whole system | he basically walked away from that whole system |
+| 8 | p3 | EN | ③ | you're basically ghosting God | you're basically running off from God |
+| 9 | p3 | EN | ③ | I'm ghosting Esau | I'm walking away from Esau |
+| 10 | p5 | EN | ③ | all he got was ghosted | all he got back was silence |
+| 11 | p1 | EN | ③ | he's ghosting them for good | he's walking away from them for good |
+| 11 | p5 | EN | ① | starting to get a little FOMO | starting to feel a little jealous |
+| 12 | p1 | EN | ⑤ | That's lame. | That's no way to live. |
+| 14 | p2 | EN | ⑤ | It would be super lame to start hating on | It would be terrible to start hating on |
+| 15 | p1 | EN | ③ | He didn't just ghost everyone's problems | He didn't just walk away from everyone's problems |
+| 1 | p4 | KO | ③ | 자, 내가 너네를 고스팅했다고 생각하지 않았으면 좋겠음. | 자, 내가 너네를 무시했다고 생각하지 않았으면 좋겠음. |
+| 2 | p3 | KO | ③ | 하나님을 고스팅할 때마다, | 하나님한테서 등을 돌릴 때마다, |
+| 6 | p4 | KO | ⑤ | 하나님의 길에 올인해야 함. | 하나님의 길에 모든 걸 걸어야 함. |
+| 6 | p4 | KO | ⑤ | 하나님의 길에 올인함. | 하나님의 길에 모든 걸 걸고 있음. |
+| 7 | p10 | KO | ⑤ | 마음으로는 하나님의 규칙에 완전 올인인데, | 마음으로는 하나님의 규칙을 완전히 따르고 싶은데, |
+| 8 | p3 | KO | ④ | 그게 완전 게임 체인저임. | 그게 완전히 판도를 바꾸는 일임. |
+| 8 | p3 | KO | ③ | basically 하나님을 고스팅하는 거고, | basically 하나님한테서 도망치는 거고, |
+| 9 | p8 | KO | ⑤ | 규칙에 올인하고 모든 걸 바르게 하려고 했던 | 규칙 지키는 데만 매달리고 모든 걸 바르게 하려고 했던 |
+| 15 | p1 | KO | ③ | 모두의 문제를 그냥 고스팅하지 않으셨음; | 모두의 문제를 그냥 외면하지 않으셨음; |
+| 16 | p2 | KO | ④ | 완전 레전드임! | 정말 대단한 분이세요! |
+
+**8개 게이트 전부 PASS (2026-09-23)**
+- ①수정반영: 부록 23건 old→new 쌍 JSON 반영 확인 (신규 문자열 존재·구 문자열 소멸 grep 검증). ②validator: 16장 전부 통과. ③완전성: git HEAD 대비 FAIL 집합 byte-identical — 슬랭 수정으로 인한 신규 이슈 0건 (기존 35건 FAIL 라인은 감사 시 문서화된 오탐 + 수정 완료된 실제 누락 1건). ④Docs재빌드: rows=176, teen_without_msg=0, msg_orphans=0. ⑤짝지음: 156 data rows / 16 tables PAIRING CONTENT OK. ⑥재업로드: 기존 Doc ID 유지. ⑦API 테이블 수: 16/16. ⑧export-back: VERIFIED OK.

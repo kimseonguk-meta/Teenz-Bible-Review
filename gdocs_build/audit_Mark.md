@@ -506,3 +506,28 @@ v1–25, v27–33 감사 완료 (v26은 MSG 원문 자체에 없음 — 누락 �
 
 - MSG–Teen pairing 덤프: `/tmp/audit_mark_dump.txt`
 - 분할 감사 리포트: `/tmp/audit_ch3-5.md`, `/tmp/audit_ch6-8.md`, `/tmp/audit_ch9-12.md`, `/tmp/audit_ch13-16.md`
+---
+
+## 부록: 2026-09-23 미묘한 슬랭 일괄 수정 (번역 원칙 5)
+
+- 배경: 신약 27권 EN/KO 전수 검사에서 자동 욕설 목록 밖의 미묘한 슬랭·저속 표현 발견. 성욱 지시("B 기준 정하고 한 번에 해")에 따라 아래 확정 6개 Rule로 일괄 수정.
+- Rule: ① 채팅 약어·유행 은어(ㅇㅋ·here's the tea·woke·throw shade·GOAT·FOMO·fam·vibe) ② 원칙 5 명시 슬랭(썰·꿀잼·쌩까·드립·뇌절·어그로·인싸춤·뿅·텐션·뇌정지·가오·찢길각) ③ ghosting 계열(ghost·고스팅) ④ 신성한 대상 경량화(찐·대박·인싸/아싸·레전드·흑역사·맛집·핫해·좋아요·게임 체인저·That loser is gone) ⑤ 저속·모욕·첨가 강화 순화(관종·lame·freaking out·working my butt off·맛이 갔네·한심·일진/꼽준다·멘붕·멘탈·올인) ⑥ 유지(chill·bro·왕따 — 변경 없음)
+- 수정 원칙: EN primary(MSG 의미 유지), KO는 수정된 EN의 의미·톤 1:1, 의미 축소·본문 구조 변경 금지, 해당 표현만 최소 수정.
+
+- 본 권 수정: **EN 2건, KO 9건** (합계 11건). Rule ⑥(chill·bro·왕따) 변경 없음.
+
+| 장 | 위치 | 언어 | Rule | 기존 | 수정 |
+|---|---|---|---|---|---|
+| 2 | p14 | EN | ① | Who'd pour cold water on this vibe? | Who'd pour cold water on this joyful mood? |
+| 11 | p18 | EN | ⑤ | They were freaking out, because the whole crowd was totally captivated by his teaching. | They were seriously rattled, because the whole crowd was totally captivated by his teaching. |
+| 1 | p6 | KO | ④ | 여러분을 찐으로 변화시킬 거예요. | 여러분을 진짜로 변화시킬 거예요. |
+| 4 | p6 | KO | ④ | 대박 수확을 거뒀어요! | 엄청난 수확을 거뒀어요! |
+| 12 | p17 | KO | ④ | 완전 찐하고 기쁘게 지낼 거예요. | 완전 진하고 기쁘게 지낼 거예요. |
+| 12 | p4 | KO | ④ | '대박 기회인데?' | '완전 기회인데?' |
+| 13 | p1 | KO | ④ | 완전 대박이죠? | 정말 대단하죠? |
+| 14 | p24 | KO | ⑤ | 여러분 모두 멘탈이 터질 일이 생길 텐데, | 여러분 모두 마음이 무너질 일이 생길 텐데, |
+| 14 | p26 | KO | ⑤ | 다른 애들 다 멘탈 나가서 날 부끄러워해도, | 다른 애들 다 마음이 약해져서 날 부끄러워해도, |
+| 16 | p4 | KO | ⑤ | 여자들은 완전 멘붕 상태로 무덤에서 뛰쳐나왔어. | 여자들은 완전히 당황한 상태로 무덤에서 뛰쳐나왔어. |
+| 16 | p9 | KO | ④ | 그들의 메시지가 찐이라는 걸 보여주셨어. | 그들의 메시지가 진짜라는 걸 보여주셨어. |
+
+**8개 게이트 결과 (2026-09-23)**: 8개 게이트 전부 PASS — 특이사항: ① 11/11 반영(새 문자열 존재·옛 문자열 소멸), ② validator 16장 모두 통과, ③ completeness FAIL 6건은 slang 적용 전 HEAD 실행 결과와 1:1 동일(오탐 클래스, 수정 문단 ch2 p14·ch11 p18과 무관), ④ 재빌드 Mark.docx에 11/11 반영·옛 문자열 0건, ⑤ PAIRING CONTENT OK(415행/16테이블), ⑥ 재업로드 완료, ⑦ API 테이블 16/16, ⑧ export-back VERIFIED OK.

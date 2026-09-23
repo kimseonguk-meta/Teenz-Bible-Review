@@ -91,3 +91,22 @@
 ## 5. 검증 범위 및 미확인 경계
 - 검증한 것: MSG vs EN vs KO 전수 대조 6장, validator, completeness_check(오탐 문서화), DOCX 빌드, 짝지음 내용 검증, Google Docs 재업로드 + API 테이블 수 + export-back 검증.
 - 미확인: Google Docs 웹 화면은 이 환경에서 직접 보지 못함. 자동 욕설 목록 밖 미묘한 뉘앙스. production 앱 미접촉.
+---
+
+## 부록: 2026-09-23 미묘한 슬랭 일괄 수정 (번역 원칙 5)
+
+- 배경: 신약 27권 EN/KO 전수 검사에서 자동 욕설 목록 밖의 미묘한 슬랭·저속 표현 발견. 성욱 지시("B 기준 정하고 한 번에 해")에 따라 아래 확정 6개 Rule로 일괄 수정.
+- Rule: ① 채팅 약어·유행 은어(ㅇㅋ·here's the tea·woke·throw shade·GOAT·FOMO·fam·vibe) ② 원칙 5 명시 슬랭(썰·꿀잼·쌩까·드립·뇌절·어그로·인싸춤·뿅·텐션·뇌정지·가오·찢길각) ③ ghosting 계열(ghost·고스팅) ④ 신성한 대상 경량화(찐·대박·인싸/아싸·레전드·흑역사·맛집·핫해·좋아요·게임 체인저·That loser is gone) ⑤ 저속·모욕·첨가 강화 순화(관종·lame·freaking out·working my butt off·맛이 갔네·한심·일진/꼽준다·멘붕·멘탈·올인) ⑥ 유지(chill·bro·왕따 — 변경 없음)
+- 수정 원칙: EN primary(MSG 의미 유지), KO는 수정된 EN의 의미·톤 1:1, 의미 축소·본문 구조 변경 금지, 해당 표현만 최소 수정.
+
+- 본 권 수정: **EN 3건, KO 2건** (합계 5건). Rule ⑥(chill·bro·왕따) 변경 없음.
+
+| 장 | 위치 | 언어 | Rule | 기존 | 수정 |
+|---|---|---|---|---|---|
+| 4 | p1 | EN | ③ | gonna totally ghost the faith | gonna totally walk away from the faith |
+| 4 | p2 | EN | ① | the GOAT who saves everyone | the greatest of all, who saves everyone |
+| 5 | p2 | EN | ③ | you're basically ghosting your faith | you're basically abandoning your faith |
+| 4 | p2 | KO | ⑤ | 우리가 이 미션에 올인하는 거야. | 우리가 이 미션에 모든 걸 거는 거야. |
+| 4 | p4 | KO | ⑤ | 이런 것들에 올인해. | 이런 것들에 마음을 쏟아. |
+
+**8개 게이트 결과 (2026-09-23)**: 8개 게이트 전부 PASS (2026-09-23)
