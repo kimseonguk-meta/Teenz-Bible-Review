@@ -1,0 +1,53 @@
+{
+ "changes": [
+  "Ch17: MSG 기준 신규 작성 (8 MSG 유닛 1:1, 헤더 없음)",
+  "Ch17: 함정 구간 전수 보존 — 르비딤(물 없음), '왜 나를 괴롭히냐? 왜 하나님을 시험하냐?', 호렙 반석·나일강 친 지팡이·장로 동행, 맛사(시험)·므리바(다툼) 명명 이유('하나님이 우리와 함께 계신가?'), 아말렉·여호수아 선발, 모세 손(올리면 승리·내리면 패배), 아론·훌이 손 받침·돌 의자·해 질 때까지, 여호수아 승리, 아말렉 기억 지움 기록·여호수아에게 상기, 제단 '여호와 닛시(하나님 나의 깃발)'"
+ ],
+ "chapter": 17,
+ "confirmations_needed": [],
+ "merges": [],
+ "msg_ranges": [
+  "1-2",
+  "3",
+  "4",
+  "5-6",
+  "6-7",
+  "8-9",
+  "10-13",
+  "14",
+  "15-16"
+ ],
+ "paragraphs": [
+  "Directed by God, the whole company of Israel moved on by stages from the Wilderness of Sin. They camped at Rephidim. And there wasn't a drop of water for the people to drink. The people picked a fight with Moses: \"Give us water to drink.\" But Moses said, \"Why are you pestering me? Why are you testing God?\"",
+  "But the people were dying of thirst there. They complained to Moses, \"Why did you drag us out of Egypt — us, our children, our animals — to die of thirst out here?\"",
+  "Moses cried out in prayer to God, \"What am I supposed to do with these people? Any minute now they'll stone me!\"",
+  "God said to Moses, \"Go on out ahead of the people, taking some of Israel's elders with you. Take the staff you used to strike the Nile. And go. I'm going to stand before you there on the rock at Horeb. Strike the rock. Water will gush out of it and the people will drink.\"",
+  "Moses did what he said, with Israel's elders right there watching. He named the place Massah (Testing-Place) and Meribah (Quarreling) — because of the Israelites' quarreling, and because they tested God when they said, \"Is God here with us, or not?\"",
+  "Amalek came and fought Israel at Rephidim. Moses ordered Joshua: \"Pick some men for us and go out and fight Amalek. Tomorrow I'll stand on top of the hill, holding God's staff.\"",
+  "Joshua did what Moses ordered, to fight Amalek. And Moses, Aaron, and Hur went up to the top of the hill. It turned out that whenever Moses raised his hands, Israel was winning, but whenever he lowered his hands, Amalek was winning. But Moses' hands got tired. So they got a stone and put it under him. He sat on it, and Aaron and Hur held up his hands, one on each side. So his hands stayed steady until the sun went down. Joshua defeated Amalek and its army in battle.",
+  "God said to Moses, \"Write this up as a reminder to Joshua — keep it in front of him — because I will absolutely wipe the very memory of Amalek off the face of the earth.\"",
+  "Moses built an altar and named it \"God My Banner.\" He said: Salute God's rule! God at war with Amalek — always and forever!"
+ ],
+ "splits": [
+  {
+   "msg_range": "6",
+   "paras": [
+    3,
+    4
+   ],
+   "note": "MSG 자체 문단 경계가 6절을 가름: [5-6]은 'Water will gush out of it and the people will drink'에서 끝나고, [6-7]은 'Moses did what he said'에서 시작. Teenz도 MSG 경계 그대로 유지. 편집적 split 아님."
+  }
+ ],
+ "title": "Water From the Rock",
+ "verseRanges": [
+  "1-2",
+  "3",
+  "4",
+  "5-6",
+  "6-7",
+  "8-9",
+  "10-13",
+  "14",
+  "15-16"
+ ]
+}

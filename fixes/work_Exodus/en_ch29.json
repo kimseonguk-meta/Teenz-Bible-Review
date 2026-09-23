@@ -1,0 +1,70 @@
+{
+ "changes": [
+  "Ch29: MSG 기준 신규 작성 (12 MSG 유닛 1:1, 헤더 'Consecration of Priests' → § 헤더로 본문과 배지 1-4 공유)",
+  "Ch29: 함정 구간 전수 보존 — 위임식(수소 1·숫양 2·흠 없음, 고운 밀가루 무교병·기름 섞은 과자·기름 바른 전병·바구니, 회막 문·물로 씻김), 옷 입히기(두루마기·에봇 겉옷·에봇·가슴패·수놓은 허리띠·관·거룩한 왕관·관유 붓기, 아들들 두루마기·띠·모자·영구 제사장직), 수소(안수·회막 문 앞 도살·피 뿔에·나머지 제단 밑, 기름·간 기름·콩팥 태움, 고기·가죽·똥 진 밖 소각·속죄제), 숫양 1(안수·피 제단 사방·토막·내장·다리 씻음·전부 태움·번제·향기), 숫양 2(오른쪽 귓불·엄지·엄지발가락 피, 피+관유 뿌려 거룩하게), 기름·기름진 꼬리·간 엽·콩팥·오른쪽 넓적다리(위임 숫양)·빵·기름 과자·전병, 흔들어 바침(요제)·태움, 가슴 흔듬(모세 몫), 흔든 가슴·든 넓적다리(아론과 아들들 몫·화평제에서 정기), 옷 후손 전수(7일), 위임 숫양 삶아 거룩한 곳에서 먹음(속죄·오직 걔들·남으면 태움), 7일 행함(날마다 수소 속죄제·제단 속죄·거룩에 젖음·닿는 자 거룩), 날마다 어린양 2(아침·저녁, 고운 밀가루 2쿼트·올리브유 1쿼트·포도주 1쿼트 전제), 정기 번제(회막 문·만나심·말씀·영광으로 거룩·회막·제단·아론과 아들들 거룩·거주·'내가 너희를 이집트에서 데리고 나온 것은 내가 걔들과 살기 위해'·나는 하나님 너희 하나님)"
+ ],
+ "chapter": 29,
+ "confirmations_needed": [],
+ "merges": [],
+ "msg_ranges": [
+  "1-4",
+  "5-9",
+  "9-14",
+  "15-18",
+  "19-21",
+  "22-23",
+  "24-25",
+  "26",
+  "27-28",
+  "29-30",
+  "31-34",
+  "35-37",
+  "38-41",
+  "42-46"
+ ],
+ "paragraphs": [
+  "§ Consecration of Priests",
+  "\"This is the ceremony for dedicating them as priests. Take a young bull and two rams, healthy and without defects. Using fine wheat flour but no yeast, make bread and cakes mixed with oil and wafers spread with oil. Place them in a basket and carry them along with the bull and the two rams. Bring Aaron and his sons to the entrance of the Tent of Meeting and wash them with water.\"",
+  "\"Then take the vestments and dress Aaron in the tunic, the robe of the Ephod, the Ephod, and the Breastpiece, belting the Ephod on him with the embroidered waistband. Set the turban on his head and place the sacred crown on the turban. Then take the anointing oil and pour it on his head, anointing him. Then bring his sons, put tunics on them and gird them with sashes — both Aaron and his sons — and set hats on them. Their priesthood is upheld by law and is permanent.\"",
+  "\"This is how you will ordain Aaron and his sons: Bring the bull to the Tent of Meeting. Aaron and his sons will place their hands on the head of the bull. Then you will slaughter the bull in the presence of God at the entrance to the Tent of Meeting. Take some of the bull's blood and smear it on the horns of the Altar with your finger; pour the rest of the blood on the base of the Altar. Next take all the fat that covers the innards, fat from around the liver and the two kidneys, and burn it on the Altar. But the flesh of the bull, including its hide and dung, you will burn up outside the camp. It is an Absolution-Offering.\"",
+  "\"Then take one of the rams. Have Aaron and his sons place their hands on the head of the ram. Slaughter the ram and take its blood and throw it against the Altar, all around. Cut the ram into pieces; wash its innards and legs, then gather the pieces and its head and burn the whole ram on the Altar. It is a Whole-Burnt-Offering to God, a pleasant fragrance, an offering by fire to God.\"",
+  "\"Then take the second ram. Have Aaron and his sons place their hands on the ram's head. Slaughter the ram. Take some of its blood and rub it on Aaron's right earlobe and on the right earlobes of his sons, on the thumbs of their right hands and on the big toes of their right feet. Sprinkle the rest of the blood against all sides of the Altar. Then take some of the blood that is on the Altar, mix it with some of the anointing oil, and splash it on Aaron and his clothes and on his sons and their clothes, so that Aaron and his clothes and his sons and his sons' clothes will be made holy.\"",
+  "\"Take the fat from the ram, the fat tail, the fat that covers the innards, the long lobe of the liver, the two kidneys and the fat on them, and the right thigh: this is the ordination ram. Also take one loaf of bread, an oil cake, and a wafer from the breadbasket that is in the presence of God.\"",
+  "\"Place all of these in the open hands of Aaron and his sons, who will wave them before God — a Wave-Offering. Then take them from their hands and burn them on the Altar with the Whole-Burnt-Offering — a pleasing fragrance before God, a gift to God.\"",
+  "\"Now take the breast from Aaron's ordination ram and wave it before God — a Wave-Offering. That will be your portion.\"",
+  "\"Bless the Wave-Offering breast and the thigh that was held up. These are the parts of the ordination ram that are for Aaron and his sons. Aaron and his sons are always to get this offering from the Israelites; the Israelites are to make this offering regularly from their Peace-Offerings.\"",
+  "\"Aaron's sacred garments are to be handed down to his descendants so they can be anointed and ordained in them. The son who succeeds him as priest is to wear them for seven days and enter the Tent of Meeting to minister in the Holy Place.\"",
+  "\"Take the ordination ram and boil the meat in the Holy Place. At the entrance to the Tent of Meeting, Aaron and his sons will eat the boiled ram and the bread that is in the basket. Atoned by these offerings, ordained and hallowed by them, they are the only ones who are to eat them. No outsiders are to eat them; they're holy. Anything from the ordination ram or from the bread that is left over until morning you are to burn up. Don't eat it; it's holy.\"",
+  "\"Do everything for the ordination of Aaron and his sons exactly as I've commanded you throughout the seven days. Offer a bull as an Absolution-Offering for atonement each day. Offer it on the Altar when you make atonement for it: Anoint and hallow it. Make atonement for the Altar and hallow it for seven days; the Altar will become soaked in holiness — anyone who so much as touches the Altar will become holy.\"",
+  "\"This is what you are to offer on the Altar: two year-old lambs each and every day, one lamb in the morning and the second lamb at evening. With the sacrifice of the first lamb offer two quarts of fine flour with a quart of virgin olive oil, plus a quart of wine for a Drink-Offering. The sacrifice of the second lamb, the one at evening, is also to be accompanied by the same Grain-Offering and Drink-Offering of the morning sacrifice to give a pleasing fragrance, a gift to God.\"",
+  "\"This is to be your regular, daily Whole-Burnt-Offering before God, generation after generation, sacrificed at the entrance of the Tent of Meeting. That's where I'll meet you; that's where I'll speak with you; that's where I'll meet the Israelites, at the place made holy by my Glory. I'll make the Tent of Meeting and the Altar holy. I'll make Aaron and his sons holy in order to serve me as priests. I'll move in and live with the Israelites. I'll be their God. They'll realize that I am their God who brought them out of the land of Egypt so that I could live with them. I am God, your God.\""
+ ],
+ "splits": [
+  {
+   "msg_range": "9",
+   "paras": [
+    2,
+    3
+   ],
+   "note": "MSG 자체 문단 경계가 9절을 가름: [5-9]는 제사장 위임('Their priesthood is upheld by law and is permanent')에서 끝나고, [9-14]은 'This is how you will ordain Aaron and his sons'에서 시작. Teenz도 MSG 경계 그대로 유지. 편집적 split 아님."
+  }
+ ],
+ "title": "Consecration of Priests",
+ "verseRanges": [
+  "1-4",
+  "1-4",
+  "5-9",
+  "9-14",
+  "15-18",
+  "19-21",
+  "22-23",
+  "24-25",
+  "26",
+  "27-28",
+  "29-30",
+  "31-34",
+  "35-37",
+  "38-41",
+  "42-46"
+ ]
+}

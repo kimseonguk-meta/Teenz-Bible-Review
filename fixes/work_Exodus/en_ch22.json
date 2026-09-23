@@ -1,0 +1,83 @@
+{
+ "changes": [
+  "Ch22: MSG 기준 신규 작성 (19 MSG 유닛 1:1, 헤더 없음)",
+  "Ch22: 함정 구간 전수 보존 — 소 도둑(소 5배·양 4배), 밤 침입(피 값 없음) vs 낮(피 값 있음), 배상 불가 시 팔림, 현행범(살아있으면 2배), 남의 밭 방목(자기 밭 최고로 배상), 불(낸 자 배상), 보관(도둑 잡히면 2배·못 잡으면 주인 하나님 앞에), 재판관 앞 쌍방·유죄 2배, 맡긴 짐승(맹세·도둑 맞으면 보상·들짐승은 증거), 빌린 짐승(주인 없으면 배상·있으면 면제·세낸 것은 세가 커버), 처녀 유혹(신부값·결혼·아버지 거부해도 신부값), 무당 살려두지 말라, 짐승과 교접 사형, 다른 신 제사 사형, 나그네 학대 금지(이집트에서 나그네였음), 과부·고아(부르짖으면 칼로 분노·아내 과부·자식 고아), 가난한 자 이자 금지, 겉옷 담보(해 지기 전 돌려줌·긍휼), 하나님·지도자 저주 금지, 첫 소산(장자·가축 7일 어미와), 거룩·들에서 찢긴 고기 개에게"
+ ],
+ "chapter": 22,
+ "confirmations_needed": [],
+ "merges": [],
+ "msg_ranges": [
+  "1-3",
+  "3-4",
+  "5",
+  "6",
+  "7-8",
+  "9",
+  "10-13",
+  "14-15",
+  "16-17",
+  "18",
+  "19",
+  "20",
+  "21",
+  "22-24",
+  "25",
+  "26-27",
+  "28",
+  "29-30",
+  "31"
+ ],
+ "paragraphs": [
+  "\"If someone steals an ox or a lamb and slaughters or sells it, the thief must pay five cattle in place of the ox and four sheep in place of the lamb. If the thief is caught while breaking in and is hit hard and dies, there is no bloodguilt. But if it happens after daybreak, there is bloodguilt.\"",
+  "\"A thief must make full restitution for what is stolen. The thief who can't pay is to be sold for his thieving. If he's caught red-handed with the stolen goods, and the ox or donkey or lamb is still alive, the thief pays double.\"",
+  "\"If someone grazes livestock in a field or vineyard but lets them loose so they graze in someone else's field, restitution must be made from the best of the owner's field or vineyard.\"",
+  "\"If fire breaks out and spreads to the brush so that the sheaves of grain or the standing grain or even the whole field is burned up, whoever started the fire must pay for the damages.\"",
+  "\"If someone gives a neighbor money or things for safekeeping and they're stolen from the neighbor's house — the thief, if caught, must pay back double. If the thief isn't caught, the owner must be brought before God to determine whether the owner was the one who took the neighbor's goods.\"",
+  "\"In all cases of stolen goods — oxen, donkeys, sheep, clothing, anything at all missing of which someone says, 'That's mine' — both parties must come before the judges. The one the judges pronounce guilty must pay double to the other.\"",
+  "\"If someone gives a donkey or ox or lamb or any kind of animal to another for safekeeping and it dies or is injured or lost and there's no witness, an oath before God must be made between them to decide whether one has laid hands on the other's property. The owner must accept this and no damages are assessed. But if it turns out it was stolen, the owner must be compensated. If it's been torn by wild beasts, the torn animal must be brought in as evidence; no damages have to be paid.\"",
+  "\"If someone borrows an animal from a neighbor and it gets injured or dies while the owner isn't present, he must pay for it. But if the owner was with it, he doesn't have to pay. If the animal was hired, the payment covers the loss.\"",
+  "\"If a man seduces a virgin who isn't engaged to be married and sleeps with her, he must pay the marriage price and marry her. If her father absolutely refuses to give her away, the man must still pay the marriage price for virgins.\"",
+  "\"Don't let a sorceress live.\"",
+  "\"Anyone who has sex with an animal gets the death penalty.\"",
+  "\"Anyone who sacrifices to a god other than God alone must be put to death.\"",
+  "\"Don't abuse or take advantage of strangers; remember, you were once strangers in Egypt.\"",
+  "\"Don't mistreat widows or orphans. If you do and they cry out to me, you can be sure I'll take them most seriously; I'll show my anger and come raging among you with the sword, and your wives will end up widows and your children orphans.\"",
+  "\"If you lend money to my people — to any of the down-and-out among you — don't come down hard on them and gouge them with interest.\"",
+  "\"If you take your neighbor's coat as security, give it back before nightfall; it may be your neighbor's only covering — what else does the person have to sleep in? And if I hear the neighbor crying out from the cold, I'll step in — I'm compassionate.\"",
+  "\"Don't curse God; and don't damn your leaders.\"",
+  "\"Don't be stingy as your wine vats fill up. Dedicate your firstborn sons to me. The same with your cattle and sheep — they're to stay seven days with their mother, then give them to me.\"",
+  "\"Be holy for my sake. Don't eat mutilated flesh you find in the fields; throw it to the dogs.\""
+ ],
+ "splits": [
+  {
+   "msg_range": "3",
+   "paras": [
+    0,
+    1
+   ],
+   "note": "MSG 자체 문단 경계가 3절을 가름: [1-3]은 'if it happens after daybreak, there is bloodguilt'에서 끝나고, [3-4]는 'A thief must make full restitution'에서 시작. Teenz도 MSG 경계 그대로 유지. 편집적 split 아님."
+  }
+ ],
+ "title": "More Laws",
+ "verseRanges": [
+  "1-3",
+  "3-4",
+  "5",
+  "6",
+  "7-8",
+  "9",
+  "10-13",
+  "14-15",
+  "16-17",
+  "18",
+  "19",
+  "20",
+  "21",
+  "22-24",
+  "25",
+  "26-27",
+  "28",
+  "29-30",
+  "31"
+ ]
+}

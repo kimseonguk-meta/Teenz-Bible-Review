@@ -260,3 +260,39 @@
 
 ### E13. Esther 병합(merge) — 해당 없음
 - 10장 전체에서 MSG 2개 이상 문단을 teen 1문단으로 합친 사례 없음. Validator merge 게이트 PASS.
+
+---
+
+## Exodus (감사: 2026-09-23, 작업자 C)
+
+아래 6건은 편집적 split이 아니라 MSG 원문 자체의 문단 경계가 절을 가르는 경우. Teenz는 MSG 경계를 1:1로 유지했으며, validator `splits` 필드에 선언만 기록함. 구조 변경 없음.
+
+### Ex1. ch6 — MSG [2-6]/[6-8] 경계가 6절을 가름 — 상태: pending (MSG 구조 그대로 유지)
+- MSG: [2-6]은 "I've remembered my covenant. Therefore tell the Israelites:"에서 끝나고, [6-8]은 "I am God. I will bring you out..."에서 시작.
+- EN/KO: para1 [2-6] / para2 [6-8]. 배지 6 공유, splits 선언됨.
+- 근거: MSG 자체 문단 경계. 내용 손실 없음.
+
+### Ex2. ch13 — MSG [11-13]/[13-16] 경계가 13절을 가름 — 상태: pending (MSG 구조 그대로 유지)
+- MSG: [11-13]은 나귀 첫새끼 속전("break its neck")에서 끝나고, [13-16]은 "Redeem every firstborn child among your sons"에서 시작.
+- EN/KO: para7 [11-13] / para8 [13-16]. 배지 13 공유, splits 선언됨.
+- 근거: MSG 자체 문단 경계. 내용 손실 없음.
+
+### Ex3. ch16 — MSG [13-15]/[15-16] 경계가 15절을 가름 — 상태: pending (MSG 구조 그대로 유지)
+- MSG: [13-15]는 만나를 보고 "What is it?"에서 끝나고, [15-16]은 모세의 "It's the bread God has given you to eat"에서 시작.
+- EN/KO: para7 [13-15] / para8 [15-16]. 배지 15 공유, splits 선언됨.
+- 근거: MSG 자체 문단 경계. 내용 손실 없음.
+
+### Ex4. ch17 — MSG [5-6]/[6-7] 경계가 6절을 가름 — 상태: pending (MSG 구조 그대로 유지)
+- MSG: [5-6]은 "Water will gush out of it and the people will drink"에서 끝나고, [6-7]은 "Moses did what he said"에서 시작.
+- EN/KO: para3 [5-6] / para4 [6-7]. 배지 6 공유, splits 선언됨.
+- 근거: MSG 자체 문단 경계. 내용 손실 없음.
+
+### Ex5. ch22 — MSG [1-3]/[3-4] 경계가 3절을 가름 — 상태: pending (MSG 구조 그대로 유지)
+- MSG: [1-3]은 "if it happens after daybreak, there is bloodguilt"에서 끝나고, [3-4]는 "A thief must make full restitution"에서 시작.
+- EN/KO: para0 [1-3] / para1 [3-4]. 배지 3 공유, splits 선언됨.
+- 근거: MSG 자체 문단 경계. 내용 손실 없음.
+
+### Ex6. ch29 — MSG [5-9]/[9-14] 경계가 9절을 가름 — 상태: pending (MSG 구조 그대로 유지)
+- MSG: [5-9]는 제사장 위임("Their priesthood is upheld by law and is permanent")에서 끝나고, [9-14]은 "This is how you will ordain Aaron and his sons"에서 시작.
+- EN/KO: para2 [5-9] / para3 [9-14]. 배지 9 공유, splits 선언됨.
+- 근거: MSG 자체 문단 경계. 내용 손실 없음.

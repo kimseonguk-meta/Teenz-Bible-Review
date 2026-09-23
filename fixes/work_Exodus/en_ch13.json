@@ -1,0 +1,65 @@
+{
+ "changes": [
+  "Ch13: MSG 기준 신규 작성 (13 MSG 유닛 1:1, 헤더 없음)",
+  "Ch13: 함정 구간 전수 보존 — 장자 구별(사람·짐승 첫 태), 아빕월(봄), 가나안·헷·아모리·히위·여부스 5족속·젖과 꿀, 무교병 7일·누룩 흔적 금지, 손의 표적·눈 사이 기념, 나귀 첫 새끼는 어린양으로 대속/목 꺾음, 아들 질문 응답, 블레셋 길(가장 짧은 길) 우회 이유(전쟁 만나면 마음 바뀜), 광야 길·홍해 돌아감·군대 편제, 요셉의 뼈 서약, 낮 구름기둥·밤 불기둥"
+ ],
+ "chapter": 13,
+ "confirmations_needed": [],
+ "merges": [],
+ "msg_ranges": [
+  "1-2",
+  "3",
+  "4-5",
+  "6",
+  "7",
+  "8",
+  "9-10",
+  "11-13",
+  "13-16",
+  "17",
+  "18",
+  "19",
+  "20-22"
+ ],
+ "paragraphs": [
+  "God spoke to Moses, saying, \"Set apart every firstborn for me — the first one out of the womb among the Israelites, whether person or animal, is mine.\"",
+  "Moses said to the people, \"Always remember this day. This is the day you came out of Egypt, out of a house of slavery. God brought you out of here with a powerful hand. Don't eat any raised bread.\"",
+  "\"You are leaving in the spring month of Abib. When God brings you into the land of the Canaanites, the Hittites, the Amorites, the Hivites, and the Jebusites — which he promised your fathers to give you, a land overflowing with milk and honey — you are to keep this service in this month:\"",
+  "\"Eat unraised bread for seven days; on the seventh day there's a festival celebration to God.\"",
+  "\"Only unraised bread is to be eaten for seven days. There must not be a trace of anything fermented — no yeast anywhere.\"",
+  "\"Tell your child on that day: 'This is because of what God did for me when I came out of Egypt.'\"",
+  "\"The day you keep will be like a sign on your hand, a memorial between your eyes, and God's teaching in your mouth. It was with a powerful hand that God brought you out of Egypt. Keep these instructions at the set time, year after year after year.\"",
+  "\"When God brings you into the land of the Canaanites, as he promised you and your fathers, and hands it over to you, set aside the first birth out of every womb for God. Every first birth from your livestock belongs to God. You can redeem the first birth of a donkey if you want by swapping in a lamb; if you decide not to redeem it, you must break its neck.\"",
+  "\"Redeem every firstborn son among your sons. When the time comes and your son asks you, 'What does this mean?' tell him, 'God brought us out of Egypt, out of a house of slavery, with a powerful hand. When Pharaoh stubbornly refused to let us go, God killed every firstborn in Egypt — firstborn of humans and animals alike. That's why I sacrifice every first male birth from the womb to God and redeem every firstborn son.' The observance works like a sign on your hands or a symbol on the middle of your forehead: God brought us out of Egypt with a powerful hand.\"",
+  "It so happened that after Pharaoh released the people, God didn't lead them by the road through Philistine country — the shortest route — because God thought, \"If the people run into war, they'll change their minds and go back to Egypt.\"",
+  "So God led the people by the wilderness road, looping around to the Red Sea. The Israelites left Egypt in military formation.",
+  "Moses took Joseph's bones with him, because Joseph had made the Israelites solemnly swear to do it, saying, \"God will surely come to your aid, so make sure you bring my bones from here with you.\"",
+  "They moved on from Succoth and camped at Etham, at the edge of the wilderness. God went ahead of them in a Pillar of Cloud by day to guide them on the way, and by night in a Pillar of Fire to give them light — so they could travel day and night. The Pillar of Cloud by day and the Pillar of Fire by night never left the people."
+ ],
+ "splits": [
+  {
+   "msg_range": "13",
+   "paras": [
+    7,
+    8
+   ],
+   "note": "MSG 자체 문단 경계가 13절을 가름: [11-13]은 나귀 첫새끼 속전('break its neck')에서 끝나고, [13-16]은 'Redeem every firstborn child among your sons'에서 시작. Teenz도 MSG 경계 그대로 유지. 편집적 split 아님."
+  }
+ ],
+ "title": "Set Apart the Firstborn",
+ "verseRanges": [
+  "1-2",
+  "3",
+  "4-5",
+  "6",
+  "7",
+  "8",
+  "9-10",
+  "11-13",
+  "13-16",
+  "17",
+  "18",
+  "19",
+  "20-22"
+ ]
+}
