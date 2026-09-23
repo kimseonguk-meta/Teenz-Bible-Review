@@ -40,3 +40,31 @@
 - MSG: 8:7이 두 개의 별도 문단 — "In strict logic, then, nothing happened to the meat when it was offered up to an idol..." / "We need to be sensitive to the fact that we're not all at the same level of understanding in this."
 - EN/KO: 한 문단으로 합쳐짐 (ch8 p3, 배지 '7').
 - 근거: 내용 누락 없음 (두 문단 내용 모두 한 문단 안에 반영됨). 적용 시 splits 선언 필요.
+
+---
+
+## 2Corinthians (감사: 2026-09-23)
+
+### D1. ch6 — MSG 1–10 → 2문단 split — 상태: pending
+- MSG: 6:1–10이 하나의 긴 문단 ("Staying at Our Post": 귀 기울이라는 호소 + 고난받는 일꾼들의 긴 목록).
+- EN: [1-10] "Listen! Pay attention…" 호소부 / [1-10] "Here are the servants' stories…" 목록부 (두 문단 모두 배지 1–10, splits 선언됨).
+- KO: 동일하게 2문단.
+- 근거: 호소 → 서번트 리스트로 담화 전환. 내용 손실 없음.
+
+### D2. ch6 — MSG 14–18 → 2문단 split — 상태: pending
+- MSG: 6:14–18이 하나의 문단 (반문 병렬 + 하나님의 약속 인용).
+- EN: [14-18] 질문 병렬부 / [14-18] "I will live with them… I will be their God" 약속 인용부 (두 문단 모두 배지 14–18, splits 선언됨).
+- KO: 동일하게 2문단.
+- 근거: 질문/대조 → 약속 인용으로 구조 전환. 내용 손실 없음.
+
+### D3. ch8 — MSG 10–20 → 2문단 split — 상태: pending
+- MSG: 8:10–20이 하나의 긴 문단 (연보 완수 촉구 + 디도/동역자 파송).
+- EN: [10-20] 연보 완수부 (v10–15) / [10-20] 디도와 동역자부 (v16–20) (두 문단 모두 배지 10–20, splits 선언됨).
+- KO: 동일하게 2문단.
+- 근거: 연보 촉구 → 동역자 파송으로 주제 전환. 내용 손실 없음.
+
+### D4. ch9 — MSG 3–5 → 2문단 split — 상태: pending
+- MSG: 9:3–5가 하나의 문단 (얼굴 붉힘/허언 우려 + 선행 파송팀).
+- EN: [3-5] "I don't want to be embarrassed…" 우려부 / [3-5] "So I'm sending the advance team…" 파송부 (두 문단 모두 배지 3–5, splits 선언됨).
+- KO: 동일하게 2문단.
+- 근거: 우려 표명 → 파송 조치로 담화 전환. 내용 손실 없음.
