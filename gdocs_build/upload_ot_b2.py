@@ -4,7 +4,7 @@
 Usage: python3 upload_ot_b2.py SongOfSongs [Psalms ...]
 
 게이트 7: 폴더 1I7rLOsUgbr5Ewyq7-IEshCk20scIBtPn에
-'{한글이름} ({영어이름}) — Final: MSG + Teen EN + KO' 제목으로 Doc 생성
+'{한글이름} ({영어이름}) — MSG + Teen EN + KO' 제목으로 Doc 생성
 -> docx 업로드(자동 변환) -> Docs API title 일치 + 테이블 수 == 장 수 확인
 -> export-back 검증 (빈 틴 셀 없음, 누락 문단 없음).
 결과는 gdocs_build/upload_results_workerB2.json에 추가(키 단위 upsert).
@@ -71,7 +71,7 @@ def main():
     summary = []
     for key in keys:
         ko, en, exp_tables = BOOK_MAP[key]
-        title = f'{ko} ({en}) — Final: MSG + Teen EN + KO'
+        title = f'{ko} ({en}) — MSG + Teen EN + KO'
         docx = os.path.join(GDIR, f'{key}.docx')
         assert os.path.exists(docx) and os.path.getsize(docx) > 0, f'missing {docx}'
         print(f'[{key}] creating doc...', flush=True)

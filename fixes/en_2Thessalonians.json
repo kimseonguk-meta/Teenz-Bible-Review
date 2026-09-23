@@ -1,153 +1,153 @@
 [
-  {
-    "chapter": 1,
-    "title": "Payback is Coming",
-    "msg_ranges": [
-      "1-2",
-      "3-4",
-      "5-10",
-      "11-12"
+ {
+  "chapter": 1,
+  "title": "Payback is Coming",
+  "msg_ranges": [
+   "1-2",
+   "3-4",
+   "5-10",
+   "11-12"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "1장: MSG에 없는 §헤더 'Encouragement in Persecution'(1-2 앞) 삭제 — MSG 헤더 아님",
+   "1장: MSG 헤더 'Justice Is on the Way' §문단 추가 (3-4 본문과 배지 공유)",
+   "1장 3-4 문단 배지 '3-5'→'3-4' 수정 (MSG 문단 구분 기준)",
+   "1장 5-10 문단: MSG 'in a blaze of fire' 복원 (기존 'it's going to be lit'는 불 이미지 누락)",
+   "2차 감사(2026-09-23): 1:1-2 주어 정정 — 'He\\'s the one'(예수님 지칭) → 'The Father\\'s the one' (MSG 'Our God'=성부). KO도 '그분이' → '하나님 아버지가'."
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited",
+  "paragraphs": [
+   "What's up, guys? It's Paul, Silas, and Timothy here, giving a shout-out to our crew in Thessalonica. We're repping God the Father and our main man, Jesus Christ. The Father's the one who hooks you up with everything you need and helps you grow into who you're meant to be.",
+   "§ Justice Is on the Way",
+   "Seriously, we can't stop thanking God for you guys. It's not just 'cause we're nice — we actually have to. Your faith is blowing up, and the way you look out for each other is awesome. We're totally bragging about you to everyone. You're holding it down and staying strong even when things get rough and life throws you curveballs. We're telling all the other churches how legit you are.",
+   "All the tough stuff you're going through? It's actually a good sign. It shows God's getting you ready for his kingdom. Yeah, you're taking some hits now, but payback is coming. When the boss, Jesus, rolls up from heaven in a blaze of fire with his squad of powerful angels, it's going to be epic. He's coming to settle the score with everyone who gave you a hard time. For all the people who turned their backs on God and ignored his message, it's the end. They'll be permanently kicked out from the awesome presence of the Lord and his incredible power. But for us, his followers, it's the moment we've all been waiting for. He's going to get a massive hero's welcome from everyone who believed, and that includes you, because you trusted what we told you.",
+   "So, knowing this epic day is right around the corner, we're always praying for you. We're asking God to make you worthy of his call, to strengthen all your good intentions and faithful actions with his energy so your lives make a real impact. The goal is for your life to bring honor to Jesus, and in return, he'll honor you. It's all thanks to the free gift of grace from our God and the Lord, Jesus Christ."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3-4",
+   "3-4",
+   "5-10",
+   "11-12"
+  ]
+ },
+ {
+  "chapter": 2,
+  "title": "The Final Boss",
+  "msg_ranges": [
+   "1-3",
+   "3-5",
+   "6-8",
+   "9-12",
+   "13-14",
+   "15-17"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-3",
+    "paras": [
+     1,
+     2
     ],
-    "merges": [],
-    "splits": [],
-    "changes": [
-      "1장: MSG에 없는 §헤더 'Encouragement in Persecution'(1-2 앞) 삭제 — MSG 헤더 아님",
-      "1장: MSG 헤더 'Justice Is on the Way' §문단 추가 (3-4 본문과 배지 공유)",
-      "1장 3-4 문단 배지 '3-5'→'3-4' 수정 (MSG 문단 구분 기준)",
-      "1장 5-10 문단: MSG 'in a blaze of fire' 복원 (기존 'it's going to be lit'는 불 이미지 누락)",
-      "2차 감사(2026-09-23): 1:1-2 주어 정정 — 'He\\'s the one'(예수님 지칭) → 'The Father\\'s the one' (MSG 'Our God'=성부). KO도 '그분이' → '하나님 아버지가'."
+    "note": "MSG 자체가 '1-3'과 '3-5' 두 문단으로 3절을 공유하므로(겹침 배지), EN 배지도 MSG 그대로 1-3/3-5 유지"
+   }
+  ],
+  "changes": [
+   "2장: MSG에 없는 §헤더 'The Day of the Lord' 삭제 — MSG 헤더 'The Anarchist'로 교체 (1-3 본문과 배지 공유)",
+   "2장 배지 수정: 1-2→1-3, 3-6→3-5, 6-7→6-8 (MSG 문단 구분 기준)",
+   "2장 1-3 문단: 'we all gather together to welcome him' 복원 (MSG 'we assemble to welcome him' 누락이었음)",
+   "2장 9-12 문단: 'all Satan's work' 복원 (MSG 'The Anarchist's coming is all Satan's work' 누락이었음)",
+   "2장 13-14 문단: 'the life of the Spirit' 복원 (MSG 'This is the life of the Spirit...' 누락이었음)",
+   "2장 15-17 문단: 'put a fresh heart in you' 및 'surprised you with gifts' 복원 (MSG 누락이었음)",
+   "2차 감사(2026-09-23): 2:3-5 'take over every so-called god or altar' 복원 — 'trashing their temples' → 'taking over their altars', 'so-called' 수식어 복원. KO 동기화.",
+   "2차 감사(2026-09-23): 2:3-5 MSG에 없는 'sit on the throne' 삭제, 인용구 'God Almighty' 복원 — 'be like, I'm God now' → 'declaring, I am God Almighty'. KO 동기화.",
+   "2차 감사(2026-09-23): 2:9-12 'God rubs their noses in it' 복원 — 적극적 심판 뉘앙스. KO '그 악을 그들 코앞에 들이밀어 주셔'."
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited",
+  "paragraphs": [
+   "§ The Anarchist",
+   "Alright guys, listen up, for real. Read this next part carefully and don't jump to conclusions about the day our Master, Jesus Christ, comes back and we all gather together to welcome him. Don't let anyone rattle you with some breathless rumor or a fake letter that looks like it's from me, saying the day already came and went. Don't fall for any line like that.",
+   "Before the real deal goes down, a couple of things have to happen first. First, a bunch of people are gonna totally abandon God — a massive falling away. Then, the ultimate enemy shows up, this guy who's basically Satan's right-hand man. He's gonna go on a rampage, defying every so-called god and taking over their altars. Once he's cleared the field, he's gonna walk into God's own Temple and set himself up, declaring, \"I am God Almighty.\" Seriously, don't you remember me going over all this in detail when I was with you? Are your memories that short?",
+   "And remember how I said the ultimate enemy is being held back until just the right time? Yeah, that's still happening. But that doesn't mean the spirit of anarchy isn't already at work — it is, secretly, underground. Soon, though, he won't be held back anymore. He'll be let loose. But don't even sweat it. The Master, Jesus, will be right on his heels and totally own him. Jesus appears, and poof — he's done for.",
+   "The Anarchist's big entrance is all Satan's work. He'll roll in with fake power, pulling off bogus signs and miracles — evil sleight of hand, a scam to trick people who hate the truth that could save them. And since they're so obsessed with evil, God rubs their noses in it — gives them exactly what they want. They refuse to trust the truth, so they're banished to their chosen world of lies and illusions.",
+   "Meanwhile, we can't stop thanking God for you, our good friends — so loved by God! God picked you out as his from the very start. Think of it: you're part of God's original plan of salvation, through the bond of faith in the living truth. This is the life of the Spirit he invited you into through the message we delivered, where you get in on the glory of our Master, Jesus Christ.",
+   "So, friends, take a firm stand — feet on the ground, head high. Keep a tight grip on what you were taught, whether in personal conversation or by our letter. May Jesus himself and God our Father, who reached out in love and surprised you with gifts of never-ending help and confidence, put a fresh heart in you, fire up your work, and liven up your speech."
+  ],
+  "verseRanges": [
+   "1-3",
+   "1-3",
+   "3-5",
+   "6-8",
+   "9-12",
+   "13-14",
+   "15-17"
+  ]
+ },
+ {
+  "chapter": 3,
+  "title": "Don't Be a Freeloader",
+  "msg_ranges": [
+   "1-3",
+   "4-5",
+   "6-9",
+   "10-13",
+   "14-15",
+   "16",
+   "17",
+   "18"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "10-13",
+    "paras": [
+     4,
+     5
     ],
-    "confirmations_needed": [],
-    "review_status": "msg_audited",
-    "paragraphs": [
-      "What's up, guys? It's Paul, Silas, and Timothy here, giving a shout-out to our crew in Thessalonica. We're repping God the Father and our main man, Jesus Christ. The Father's the one who hooks you up with everything you need and helps you grow into who you're meant to be.",
-      "§Justice Is on the Way",
-      "Seriously, we can't stop thanking God for you guys. It's not just 'cause we're nice — we actually have to. Your faith is blowing up, and the way you look out for each other is awesome. We're totally bragging about you to everyone. You're holding it down and staying strong even when things get rough and life throws you curveballs. We're telling all the other churches how legit you are.",
-      "All the tough stuff you're going through? It's actually a good sign. It shows God's getting you ready for his kingdom. Yeah, you're taking some hits now, but payback is coming. When the boss, Jesus, rolls up from heaven in a blaze of fire with his squad of powerful angels, it's going to be epic. He's coming to settle the score with everyone who gave you a hard time. For all the people who turned their backs on God and ignored his message, it's the end. They'll be permanently kicked out from the awesome presence of the Lord and his incredible power. But for us, his followers, it's the moment we've all been waiting for. He's going to get a massive hero's welcome from everyone who believed, and that includes you, because you trusted what we told you.",
-      "So, knowing this epic day is right around the corner, we're always praying for you. We're asking God to make you worthy of his call, to strengthen all your good intentions and faithful actions with his energy so your lives make a real impact. The goal is for your life to bring honor to Jesus, and in return, he'll honor you. It's all thanks to the free gift of grace from our God and the Lord, Jesus Christ."
-    ],
-    "verseRanges": [
-      "1-2",
-      "3-4",
-      "3-4",
-      "5-10",
-      "11-12"
-    ]
-  },
-  {
-    "chapter": 2,
-    "title": "The Final Boss",
-    "msg_ranges": [
-      "1-3",
-      "3-5",
-      "6-8",
-      "9-12",
-      "13-14",
-      "15-17"
-    ],
-    "merges": [],
-    "splits": [
-      {
-        "msg_range": "1-3",
-        "paras": [
-          1,
-          2
-        ],
-        "note": "MSG 자체가 '1-3'과 '3-5' 두 문단으로 3절을 공유하므로(겹침 배지), EN 배지도 MSG 그대로 1-3/3-5 유지"
-      }
-    ],
-    "changes": [
-      "2장: MSG에 없는 §헤더 'The Day of the Lord' 삭제 — MSG 헤더 'The Anarchist'로 교체 (1-3 본문과 배지 공유)",
-      "2장 배지 수정: 1-2→1-3, 3-6→3-5, 6-7→6-8 (MSG 문단 구분 기준)",
-      "2장 1-3 문단: 'we all gather together to welcome him' 복원 (MSG 'we assemble to welcome him' 누락이었음)",
-      "2장 9-12 문단: 'all Satan's work' 복원 (MSG 'The Anarchist's coming is all Satan's work' 누락이었음)",
-      "2장 13-14 문단: 'the life of the Spirit' 복원 (MSG 'This is the life of the Spirit...' 누락이었음)",
-      "2장 15-17 문단: 'put a fresh heart in you' 및 'surprised you with gifts' 복원 (MSG 누락이었음)",
-      "2차 감사(2026-09-23): 2:3-5 'take over every so-called god or altar' 복원 — 'trashing their temples' → 'taking over their altars', 'so-called' 수식어 복원. KO 동기화.",
-      "2차 감사(2026-09-23): 2:3-5 MSG에 없는 'sit on the throne' 삭제, 인용구 'God Almighty' 복원 — 'be like, I'm God now' → 'declaring, I am God Almighty'. KO 동기화.",
-      "2차 감사(2026-09-23): 2:9-12 'God rubs their noses in it' 복원 — 적극적 심판 뉘앙스. KO '그 악을 그들 코앞에 들이밀어 주셔'."
-    ],
-    "confirmations_needed": [],
-    "review_status": "msg_audited",
-    "paragraphs": [
-      "§The Anarchist",
-      "Alright guys, listen up, for real. Read this next part carefully and don't jump to conclusions about the day our Master, Jesus Christ, comes back and we all gather together to welcome him. Don't let anyone rattle you with some breathless rumor or a fake letter that looks like it's from me, saying the day already came and went. Don't fall for any line like that.",
-      "Before the real deal goes down, a couple of things have to happen first. First, a bunch of people are gonna totally abandon God — a massive falling away. Then, the ultimate enemy shows up, this guy who's basically Satan's right-hand man. He's gonna go on a rampage, defying every so-called god and taking over their altars. Once he's cleared the field, he's gonna walk into God's own Temple and set himself up, declaring, \"I am God Almighty.\" Seriously, don't you remember me going over all this in detail when I was with you? Are your memories that short?",
-      "And remember how I said the ultimate enemy is being held back until just the right time? Yeah, that's still happening. But that doesn't mean the spirit of anarchy isn't already at work — it is, secretly, underground. Soon, though, he won't be held back anymore. He'll be let loose. But don't even sweat it. The Master, Jesus, will be right on his heels and totally own him. Jesus appears, and poof — he's done for.",
-      "The Anarchist's big entrance is all Satan's work. He'll roll in with fake power, pulling off bogus signs and miracles — evil sleight of hand, a scam to trick people who hate the truth that could save them. And since they're so obsessed with evil, God rubs their noses in it — gives them exactly what they want. They refuse to trust the truth, so they're banished to their chosen world of lies and illusions.",
-      "Meanwhile, we can't stop thanking God for you, our good friends — so loved by God! God picked you out as his from the very start. Think of it: you're part of God's original plan of salvation, through the bond of faith in the living truth. This is the life of the Spirit he invited you into through the message we delivered, where you get in on the glory of our Master, Jesus Christ.",
-      "So, friends, take a firm stand — feet on the ground, head high. Keep a tight grip on what you were taught, whether in personal conversation or by our letter. May Jesus himself and God our Father, who reached out in love and surprised you with gifts of never-ending help and confidence, put a fresh heart in you, fire up your work, and liven up your speech."
-    ],
-    "verseRanges": [
-      "1-3",
-      "1-3",
-      "3-5",
-      "6-8",
-      "9-12",
-      "13-14",
-      "15-17"
-    ]
-  },
-  {
-    "chapter": 3,
-    "title": "Don't Be a Freeloader",
-    "msg_ranges": [
-      "1-3",
-      "4-5",
-      "6-9",
-      "10-13",
-      "14-15",
-      "16",
-      "17",
-      "18"
-    ],
-    "merges": [],
-    "splits": [
-      {
-        "msg_range": "10-13",
-        "paras": [
-          4,
-          5
-        ],
-        "note": "MSG 단일 문단(10-13)을 EN 가독성을 위해 2개 문단(10-12 / 13)으로 분리"
-      }
-    ],
-    "changes": [
-      "3장: §헤더 'Warning Against Laziness' → MSG 헤더 'Those Who Are Lazy'로 교체 (1-3 본문과 배지 공유)",
-      "3장 1-3 문단: 'groundswell of response', 'trying to do us in' 복원; 'keep you safe from the negativity' → 'protect you from evil' (MSG 'protect you from evil' 완화 오류 수정)",
-      "3장 4-5 문단: 'take you by the hand', 'the path of God's love and Christ's endurance' 복원 (기존 'more loving and tough'는 축소)",
-      "3장 6-9 문단: 'so get on with it' 복원 (MSG 누락이었음)",
-      "3장 10-12 문단: 'This must not be tolerated' 복원 (기존 'That's not cool'은 경고 강도 약화)",
-      "3장 14-15 문단: \"don't let him get by with it\" 복원 (MSG 누락이었음)",
-      "3장 16절 문단: 'the gift of getting along with each other' 복원 (MSG 누락이었음)",
-      "3장 17절 문단: 'examine my signature as proof that the letter is genuine' 복원 (MSG 누락이었음)",
-      "2차 감사(2026-09-23): 3:8 'expecting you' → 'expecting everyone else' (MSG 'others', KO '남들'과 대칭)."
-    ],
-    "confirmations_needed": [],
-    "review_status": "msg_audited",
-    "paragraphs": [
-      "§Those Who Are Lazy",
-      "Alright, one more thing, my guys. Pray for us. Pray that the Master's Word takes off and races through the country, getting a huge groundswell of response, just like it did among you. And pray we'll be rescued from these troublemakers who are trying to do us in. Turns out, not everyone who calls themselves a believer actually is one. But the Master never lets us down. He'll stick by you and protect you from evil.",
-      "Because of the Master, we have total confidence in you. We know you're doing everything we told you and will keep doing it. May the Master take you by the hand and lead you along the path of God's love and Christ's endurance.",
-      "Now, here's a direct order from our Lord, Jesus Christ: keep your distance from anyone in the squad who's being lazy and won't work the way we taught you. Don't let them freeload off everyone else. We showed you how to pull your weight when we were with you, so get on with it. We weren't just chilling, expecting everyone else to take care of us. Nah, we worked our fingers to the bone, up half the night moonlighting so we wouldn't be a burden to you. It wasn't because we didn't have a right to your support — we did. We just wanted to set an example of diligence, hoping it would catch on.",
-      "Don't you remember the rule we had when we lived with you? \"If you don't work, you don't eat.\" Simple. But now we're getting reports that a bunch of lazy good-for-nothings are taking advantage of you. That can't go on. We command them to get to work immediately — no excuses, no arguments — and earn their own keep.",
-      "Friends, don't slack off in doing your duty. Don't burn out doing the right thing — keep going.",
-      "If anyone refuses to obey our clear command in this letter, don't let him get by with it. Point him out and refuse to subsidize his freeloading — maybe then he'll think twice. But don't treat him as an enemy. Sit him down and talk it through, like someone who actually cares.",
-      "May the Master of Peace himself give you the gift of getting along with each other at all times, in every way. May the Master be truly among you!",
-      "I, Paul, am signing this off in my own handwriting. I do this in all my letters, so check my signature — it's the proof this letter is genuine.",
-      "The incredible grace of our Master, Jesus Christ, be with all of you!"
-    ],
-    "verseRanges": [
-      "1-3",
-      "1-3",
-      "4-5",
-      "6-9",
-      "10-12",
-      "13",
-      "14-15",
-      "16",
-      "17",
-      "18"
-    ]
-  }
+    "note": "MSG 단일 문단(10-13)을 EN 가독성을 위해 2개 문단(10-12 / 13)으로 분리"
+   }
+  ],
+  "changes": [
+   "3장: §헤더 'Warning Against Laziness' → MSG 헤더 'Those Who Are Lazy'로 교체 (1-3 본문과 배지 공유)",
+   "3장 1-3 문단: 'groundswell of response', 'trying to do us in' 복원; 'keep you safe from the negativity' → 'protect you from evil' (MSG 'protect you from evil' 완화 오류 수정)",
+   "3장 4-5 문단: 'take you by the hand', 'the path of God's love and Christ's endurance' 복원 (기존 'more loving and tough'는 축소)",
+   "3장 6-9 문단: 'so get on with it' 복원 (MSG 누락이었음)",
+   "3장 10-12 문단: 'This must not be tolerated' 복원 (기존 'That's not cool'은 경고 강도 약화)",
+   "3장 14-15 문단: \"don't let him get by with it\" 복원 (MSG 누락이었음)",
+   "3장 16절 문단: 'the gift of getting along with each other' 복원 (MSG 누락이었음)",
+   "3장 17절 문단: 'examine my signature as proof that the letter is genuine' 복원 (MSG 누락이었음)",
+   "2차 감사(2026-09-23): 3:8 'expecting you' → 'expecting everyone else' (MSG 'others', KO '남들'과 대칭)."
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited",
+  "paragraphs": [
+   "§ Those Who Are Lazy",
+   "Alright, one more thing, my guys. Pray for us. Pray that the Master's Word takes off and races through the country, getting a huge groundswell of response, just like it did among you. And pray we'll be rescued from these troublemakers who are trying to do us in. Turns out, not everyone who calls themselves a believer actually is one. But the Master never lets us down. He'll stick by you and protect you from evil.",
+   "Because of the Master, we have total confidence in you. We know you're doing everything we told you and will keep doing it. May the Master take you by the hand and lead you along the path of God's love and Christ's endurance.",
+   "Now, here's a direct order from our Lord, Jesus Christ: keep your distance from anyone in the squad who's being lazy and won't work the way we taught you. Don't let them freeload off everyone else. We showed you how to pull your weight when we were with you, so get on with it. We weren't just chilling, expecting everyone else to take care of us. Nah, we worked our fingers to the bone, up half the night moonlighting so we wouldn't be a burden to you. It wasn't because we didn't have a right to your support — we did. We just wanted to set an example of diligence, hoping it would catch on.",
+   "Don't you remember the rule we had when we lived with you? \"If you don't work, you don't eat.\" Simple. But now we're getting reports that a bunch of lazy good-for-nothings are taking advantage of you. That can't go on. We command them to get to work immediately — no excuses, no arguments — and earn their own keep.",
+   "Friends, don't slack off in doing your duty. Don't burn out doing the right thing — keep going.",
+   "If anyone refuses to obey our clear command in this letter, don't let him get by with it. Point him out and refuse to subsidize his freeloading — maybe then he'll think twice. But don't treat him as an enemy. Sit him down and talk it through, like someone who actually cares.",
+   "May the Master of Peace himself give you the gift of getting along with each other at all times, in every way. May the Master be truly among you!",
+   "I, Paul, am signing this off in my own handwriting. I do this in all my letters, so check my signature — it's the proof this letter is genuine.",
+   "The incredible grace of our Master, Jesus Christ, be with all of you!"
+  ],
+  "verseRanges": [
+   "1-3",
+   "1-3",
+   "4-5",
+   "6-9",
+   "10-12",
+   "13",
+   "14-15",
+   "16",
+   "17",
+   "18"
+  ]
+ }
 ]

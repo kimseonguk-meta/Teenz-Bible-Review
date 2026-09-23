@@ -1,0 +1,47 @@
+====================================================================================================
+CHAPTER 6  EN_title="Rich & Miserable? What's the Point?"  KO_title="부의 헛됨"
+  EN paras=8 KO paras=8 msg_units=7
+
+--- ch6 para0 EN_badge=[1] KO_badge=[1] ---
+  MSG[[1, 2]]: I looked long and hard at what goes on around here, and let me tell you, things are bad. And people feel it. There are people, for instance, on whom God showers everything—money, property, reputation—all they ever wanted or dreamed of. And then God doesn't let them enjoy it. Some stranger comes along and has all the fun. It's more of what I'm calling *smoke.* A bad business.
+  EN : I've been taking a good, hard look at how things are, and let me tell you, it's pretty messed up. And you can tell people are feeling it.
+  KO : 내가 이 세상 돌아가는 걸 쭉 지켜봤는데, 진짜 상황이 별로 안 좋음. 그리고 사람들 다 그걸 느끼고 있더라.
+  !! FLAGS: LOW_RATIO 0.41
+
+--- ch6 para1 EN_badge=[2-3] KO_badge=[2-3] ---
+  MSG[[1, 2]]: I looked long and hard at what goes on around here, and let me tell you, things are bad. And people feel it. There are people, for instance, on whom God showers everything—money, property, reputation—all they ever wanted or dreamed of. And then God doesn't let them enjoy it. Some stranger comes along and has all the fun. It's more of what I'm calling *smoke.* A bad business.
+  MSG[[3, 4, 5]]: Say a couple have scores of children and live a long, long life but never enjoy themselves—even though they end up with a big funeral! I'd say that a stillborn baby gets the better deal. It gets its start in a mist and ends up in the dark—unnamed. It sees nothing and knows nothing, but is better off by far than anyone living.
+  EN : For example, there are these people God totally blesses with everything—money, property, a killer reputation—basically everything they've ever dreamed of. But then, God doesn't even let them enjoy any of it. Some random person swoops in and gets to have all the fun with their stuff. It's just... pointless. A total ripoff.
+  KO : 예를 들어, 하나님이 어떤 사람들한테는 돈, 재산, 명예 같은 거, 진짜 그 사람들이 원하거나 꿈꾸던 모든 걸 다 쏟아부어 주시는 거임. 근데 정작 하나님이 그 사람들이 그걸 누리지는 못하게 하심. 웬 낯선 사람이 나타나서 그 모든 걸로 재밌게 사는 거지. 이것도 내가 말하는 '연기' 같은 거임. 완전 손해 보는 장사라고.
+  !! FLAGS: LOW_RATIO 0.41
+
+--- ch6 para2 EN_badge=[4-5] KO_badge=[4-5] ---
+  MSG[[3, 4, 5]]: Say a couple have scores of children and live a long, long life but never enjoy themselves—even though they end up with a big funeral! I'd say that a stillborn baby gets the better deal. It gets its start in a mist and ends up in the dark—unnamed. It sees nothing and knows nothing, but is better off by far than anyone living.
+  EN : Like, imagine someone has a ton of kids and lives a super long life but never actually enjoys it—even if they get a huge funeral at the end. Honestly, I think a baby that was never born is better off. It comes into the world and leaves without a name, never seeing or knowing anything, but it's still in a better spot than anyone who's alive.
+  KO : 어떤 부부가 애를 수십 명 낳고 엄청 오래 살았는데, 단 한 번도 인생을 즐기지 못했다고 쳐봐. 심지어 죽어서 장례는 엄청 크게 치렀는데도 말이야! 내 생각엔 차라리 사산된 아기가 더 나은 거 같음. 안개 속에서 와서 어둠 속으로 사라지고, 이름도 없잖아. 아무것도 못 보고 아무것도 모르지만, 살아있는 그 누구보다 훨씬 나은 상태인 거지.
+
+--- ch6 para3 EN_badge=[6] KO_badge=[6] ---
+  MSG[[6]]: Even if someone lived a thousand years—make it two thousand!—but didn't enjoy anything, what's the point? Doesn't everyone end up in the same place?
+  EN : Even if you lived for a thousand years—or even two thousand!—what's the point if you never actually enjoyed your life? Don't we all just end up in the same place anyway?
+  KO : 누가 천 년을 산다고 해도—아니, 이천 년을 산다고 해도!—아무것도 즐기지 못했다면 그게 다 무슨 소용임? 어차피 다들 똑같은 곳으로 가는 거 아니냐고.
+
+--- ch6 para4 EN_badge=[7] KO_badge=[7] ---
+  MSG[[7]]: We work to feed our appetites;  Meanwhile our souls go hungry.
+  EN : We're always grinding to feed our own desires, but our souls are left feeling empty.
+  KO : 우리는 배 채우려고 일하는데, 정작 우리 영혼은 굶주리고 있음.
+  !! FLAGS: MISSING_TOKENS: PN:meanwhile
+
+--- ch6 para5 EN_badge=[8-9] KO_badge=[8-9] ---
+  MSG[[8, 9]]: So what advantage has a sage over a fool, or over some poor wretch who barely gets by? Just grab whatever you can while you can; don't assume something better might turn up by and by. All it amounts to anyway is smoke. And spitting into the wind.
+  EN : So, what advantage does a wise person really have over a fool, or over some poor person who's just scraping by? The best you can do is grab what you can, while you can. Don't just sit around assuming something better will show up later. It's all just smoke in the end. Totally pointless, like spitting into the wind.
+  KO : 그러니까 지혜로운 사람이 바보보다 나은 게 뭐고, 겨우겨우 살아가는 불쌍한 사람보다 나은 게 뭐임? 그냥 할 수 있을 때 뭐든 꽉 붙잡으라는 거. 나중에 더 좋은 게 나타날 거라고 기대하지 말고. 어차피 다 연기 같은 거고, 바람에 침 뱉는 격이라고.
+
+--- ch6 para6 EN_badge=[10] KO_badge=[10] ---
+  MSG[[10]]: Whatever happens, happens. Its destiny is fixed.  You can't argue with fate.
+  EN : Whatever's gonna happen, happens. Your destiny is already set. You can't argue with fate.
+  KO : 일어날 일은 어떻게든 일어나는 거임. 운명은 이미 정해져 있음. 운명이랑은 싸울 수가 없다니까.
+
+--- ch6 para7 EN_badge=[11-12] KO_badge=[11-12] ---
+  MSG[[11, 12]]: The more words that are spoken, the more smoke there is in the air. And who is any better off? And who knows what's best for us as we live out our meager smoke-and-shadow lives? And who can tell any of us the next chapter of our lives?
+  EN : The more you talk, the more meaningless it all becomes. And who's better off for it? Who even knows what's best for us in this short, fleeting life we live? And who can possibly tell us what's going to happen next?
+  KO : 말을 하면 할수록 공기 중에 연기만 더 많아지는 거임. 그래봤자 누가 더 나아지는데? 이 짧고 그림자 같은 인생을 사는 동안 우리한테 뭐가 최선인지 누가 알겠냐고. 그리고 우리 중 누가 우리 인생의 다음 챕터를 말해줄 수 있겠음?

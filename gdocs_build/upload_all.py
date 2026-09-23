@@ -41,7 +41,7 @@ def run(args):
 
 results = []
 for key, ko, en, exp_tables in BOOKS:
-    title = f'{ko} ({en}) — Final: MSG + Teen EN + KO'
+    title = f'{ko} ({en}) — MSG + Teen EN + KO'
     docx = os.path.join(GDIR, f'{key}.docx')
     assert os.path.exists(docx) and os.path.getsize(docx) > 0, f'missing {docx}'
     try:

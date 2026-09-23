@@ -1,0 +1,64 @@
+====================================================================================================
+CHAPTER 9  EN_title="Life's Crazy, So Just Live It"  KO_title="지혜와 어리석음"
+  EN paras=11 KO paras=11 msg_units=9
+
+--- ch9 para0 EN_badge=[1-2] KO_badge=[1-2] ---
+  MSG[[1, 2, 3]]: Well, I took all this in and thought it through, inside and out. Here's what I understood: The good, the wise, and all that they do are in God's hands—but, day by day, whether it's love or hate they're dealing with, they don't know. Anything's possible. It's one fate for everybody—righteous and wicked, good people, bad people, the nice and the nasty, worshipers and non-worshipers, committed and uncommitted. I find this outrageous—the worst thing about living on this earth—that everyone's lumped 
+  EN : Alright, so I've been thinking about all this stuff, like, really digging deep. And here's the tea: good people, wise people, everything they do is basically in God's hands. But honestly, whether they're getting love or hate, they have no clue what's coming next.
+  KO : 내가 이 모든 걸 다 보고 진짜 깊게 생각해봤는데, 이런 결론이 나온 거임. 착한 사람이든 지혜로운 사람이든, 그들이 하는 모든 일은 다 하나님의 손에 달렸다는 거야. 근데 막상 사랑을 받든 미움을 받든, 앞으로 뭔 일이 일어날지는 아무도 모른다는 거지.
+  !! FLAGS: LOW_RATIO 0.38
+
+--- ch9 para1 EN_badge=[3-4] KO_badge=[3-4] ---
+  MSG[[1, 2, 3]]: Well, I took all this in and thought it through, inside and out. Here's what I understood: The good, the wise, and all that they do are in God's hands—but, day by day, whether it's love or hate they're dealing with, they don't know. Anything's possible. It's one fate for everybody—righteous and wicked, good people, bad people, the nice and the nasty, worshipers and non-worshipers, committed and uncommitted. I find this outrageous—the worst thing about living on this earth—that everyone's lumped 
+  MSG[[4, 5, 6]]: Still, anyone selected out for life has hope, for, as they say, "A living dog is better than a dead lion." The living at least know *something*, even if it's only that they're going to die. But the dead know nothing and get nothing. They're a minus that no one remembers. Their loves, their hates, yes, even their dreams, are long gone. There's not a trace of them left in the affairs of this earth.
+  EN : It's pretty wild, right? Everyone ends up in the same boat—the good, the bad, the nice, the mean, people who go to church and people who don't. It's lowkey messed up that everyone has the same fate. No wonder people are so obsessed with drama and go off the rails. Life just leads to death. The end.
+  KO : 진짜 어이없지 않냐? 결국엔 모두가 똑같은 운명이라는 거임. 의인이든 악인이든, 착한 사람이든 나쁜 사람이든, 예배를 드리는 사람이든 아니든, 신앙이 있든 없든. 이 땅에 살면서 이게 진짜 최악인 것 같아. 모두가 하나의 운명으로 퉁쳐진다는 게. 그러니 사람들이 악한 거에 집착하고 정신 나간 짓을 하는 게 당연한 거 아닐까? 인생은 결국 죽음으로 가는 길, 그게 끝인 거임.
+  !! FLAGS: LOW_RATIO 0.29 | MISSING_TOKENS: Q:better, Q:dead, Q:lion, Q:living
+
+--- ch9 para2 EN_badge=[5-6] KO_badge=[5-6] ---
+  MSG[[4, 5, 6]]: Still, anyone selected out for life has hope, for, as they say, "A living dog is better than a dead lion." The living at least know *something*, even if it's only that they're going to die. But the dead know nothing and get nothing. They're a minus that no one remembers. Their loves, their hates, yes, even their dreams, are long gone. There's not a trace of them left in the affairs of this earth.
+  EN : But hey, if you're still breathing, you've got a shot. Like they say, 'a live dog is better than a dead lion.' At least when you're alive, you know you're gonna die. The dead? They know nothing, get nothing. They're just... gone. Nobody even remembers them. All their crushes, their beefs, their dreams—poof, vanished. They've left zero mark on the world.
+  KO : 그래도 살아있는 사람은 희망이라도 있대. 왜냐하면 '산 개가 죽은 사자보다 낫다'는 말이 있잖아. 살아있는 사람은 적어도 자기가 죽을 거라는 건 알지. 근데 죽은 사람은 아무것도 모르고 아무것도 얻는 게 없어. 그냥 아무도 기억 못 하는 존재가 되는 거야. 그들의 사랑, 미움, 심지어 꿈까지 다 사라져버린 지 오래임. 이 세상 일에 그들의 흔적은 하나도 남아있지 않은 거지.
+  !! FLAGS: MISSING_TOKENS: Q:living
+
+--- ch9 para3 EN_badge=[7-9] KO_badge=[7-9] ---
+  MSG[[7, 8, 9, 10]]: Seize life! Eat bread with gusto,  Drink wine with a robust heart.  Oh yes—God takes pleasure in *your* pleasure!  Dress festively every morning.  Don't skimp on colors and scarves.  Relish life with the spouse you love  Each and every day of your precarious life.  Each day is God's gift. It's all you get in exchange  For the hard work of staying alive.  Make the most of each one!  Whatever turns up, grab it and do it. And heartily!  This is your last and only chance at it,  For there's neither 
+  EN : So, for real, just live your life! Eat your food like it's the best thing ever, drink your drink with a happy heart. God's actually cool with you having a good time. Dress up every day. Go all out with colors and cool accessories. Enjoy life with the person you love, every single day of this crazy ride. Each day is a gift from God, and it's all you get for the grind of being alive. So make every day count! Whatever comes your way, just go for it, 100%. This is your one and only shot, 'cause in the grave—where you're definitely headed—there's no work, no thoughts, nothing.
+  KO : 그러니까 인생을 꽉 붙잡으라고! 밥도 맛있게 먹고, 와인도 기분 좋게 마셔. 하나님도 네가 즐거워하는 걸 좋아하신대. 매일 아침 축제처럼 옷을 입고, 색깔이나 스카프 같은 거 아끼지 마. 네가 사랑하는 배우자랑 위태로운 인생의 매일매일을 즐겨. 하루하루가 다 하나님의 선물이야. 살아남으려고 힘들게 일하는 대가로 받는 건 그게 전부라고. 그러니까 하루하루를 최대한 활용해! 무슨 일이 생기든, 그냥 잡아서 해버려. 진심으로! 이게 너의 마지막이자 유일한 기회야. 왜냐하면 네가 확실히 가게 될 저세상에는 할 일도 없고 생각할 것도 없거든.
+  !! FLAGS: MISSING_TOKENS: PN:relish
+
+--- ch9 para4 EN_badge=[10] KO_badge=[10] ---
+  MSG[[7, 8, 9, 10]]: Seize life! Eat bread with gusto,  Drink wine with a robust heart.  Oh yes—God takes pleasure in *your* pleasure!  Dress festively every morning.  Don't skimp on colors and scarves.  Relish life with the spouse you love  Each and every day of your precarious life.  Each day is God's gift. It's all you get in exchange  For the hard work of staying alive.  Make the most of each one!  Whatever turns up, grab it and do it. And heartily!  This is your last and only chance at it,  For there's neither 
+  EN : I was walking around the other day and had this realization about how things are on Earth—
+  KO : 내가 또 동네 한 바퀴 돌면서 깨달은 게 있는데, 이 세상은 이렇다는 거야. 경주가 항상 빠른 사람에게 유리한 것도 아니고, 싸움이 힘센 사람에게 유리한 것도 아니래. 지혜로운 사람이라고 만족하는 것도 아니고, 똑똑하다고 부자가 되는 것도 아니며, 배웠다고 은혜를 받는 것도 아니야. 조만간 우리 모두에게 불운이 닥친다는 거지.
+  !! FLAGS: LOW_RATIO 0.15 | MISSING_TOKENS: PN:dress, PN:drink, PN:each, PN:make, PN:relish, PN:whatever
+
+--- ch9 para5 EN_badge=[11] KO_badge=[11] ---
+  MSG[[11]]: I took another walk around the neighborhood and realized that on this earth as it is— The race is not always to the swift,  Nor the battle to the strong,  Nor satisfaction to the wise,  Nor riches to the smart,  Nor grace to the learned.  Sooner or later bad luck hits us all.
+  EN : The fastest runner doesn't always win, the strongest fighter doesn't always come out on top, the smartest person isn't always happy, the cleverest person isn't always rich, and the most talented person doesn't always get the praise. Sooner or later, we all get hit with bad luck.
+  KO : 아무도 불행을 예측할 수 없어. 잔인한 그물에 걸린 물고기나 덫에 걸린 새처럼, 사람들도 갑작스러운 불행에 사로잡히는 거임.
+
+--- ch9 para6 EN_badge=[12] KO_badge=[12] ---
+  MSG[[12]]: No one can predict misfortune.  Like fish caught in a cruel net or birds in a trap,  So men and women are caught  By accidents evil and sudden.
+  EN : You can't see trouble coming. It's like fish getting caught in a net or birds in a trap. People get snagged by random, bad stuff all the time.
+  KO : 지혜가 실전에서 어떻게 통하는지 보다가, 진짜 크게 깨달은 게 하나 있어.
+
+--- ch9 para7 EN_badge=[13-15] KO_badge=[13-15] ---
+  MSG[[13, 14, 15]]: One day as I was observing how wisdom fares on this earth, I saw something that made me sit up and take notice. There was a small town with only a few people in it. A strong king came and mounted an attack, building trenches and attack posts around it. There was a poor but wise man in that town whose wisdom saved the town, but he was promptly forgotten. (He was only a poor man, after all.)
+  EN : One time, I was watching how wisdom plays out in the real world, and I saw something that really made me think. There was this tiny town with hardly anyone in it. A powerful king attacked it, setting up all his gear to take it over. But there was this poor but super-wise guy in the town who saved everyone with his wisdom. And you know what happened? He was totally forgotten right after. (I guess 'cause he was just some poor dude.)
+  KO : 어느 날 내가 이 세상에서 지혜가 어떻게 쓰이는지 보다가, 진짜 깜짝 놀랄 만한 걸 봤어. 사람이 몇 명 없는 작은 마을이 있었는데, 힘센 왕이 와서 공격을 하고 주변에 참호랑 공격용 진지를 쌓은 거야. 근데 그 마을에 가난하지만 지혜로운 사람이 있어서 그의 지혜로 마을을 구했대. 근데 그는 바로 잊혀졌어. (결국 가난한 사람이었으니까.)
+
+--- ch9 para8 EN_badge=[16] KO_badge=[16] ---
+  MSG[[16]]: All the same, I still say that wisdom is better than muscle, even though the wise poor man was treated with contempt and soon forgotten.
+  EN : But still, I'm telling you, being wise is way better than being strong, even if that poor wise guy got ignored and forgotten.
+  KO : 그래도 나는 여전히 지혜가 힘보다 낫다고 말할 거야. 비록 그 지혜로운 가난한 사람이 무시당하고 곧 잊혀졌지만 말이야.
+
+--- ch9 para9 EN_badge=[17] KO_badge=[17] ---
+  MSG[[17]]: The quiet words of the wise are more effective  Than the ranting of a king of fools.
+  EN : The quiet advice of a wise person is way more powerful than the shouting of some fool in charge.
+  KO : 어리석은 왕이 소리치는 것보다 지혜로운 사람의 조용한 말이 더 효과적이래.
+
+--- ch9 para10 EN_badge=[18] KO_badge=[18] ---
+  MSG[[18]]: Wisdom is better than warheads,  But one hothead can ruin the good earth.
+  EN : Wisdom is better than weapons, but one hothead can mess everything up for everyone.
+  KO : 지혜는 전쟁 무기보다 낫지만, 성질 급한 사람 하나가 좋은 세상을 망칠 수 있어.

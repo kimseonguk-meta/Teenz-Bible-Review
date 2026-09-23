@@ -1,0 +1,419 @@
+====================================================================================================
+CHAPTER 1  EN_title="My Crush is a Total King"  KO_title="사랑의 노래"
+  EN paras=10 KO paras=10 msg_units=10
+
+--- ch1 para0 EN_badge=[1] KO_badge=[1] ---
+  MSG[[1]]: The Song—best of all songs—Solomon's song!
+  EN : The ultimate song, Solomon's banger of a song!
+  KO : 이건 모든 노래 중 최고의 노래, 솔로몬의 노래래.
+
+--- ch1 para1 EN_badge=[2-3] KO_badge=[2-3] ---
+  MSG[[2, 3]]: Kiss me—full on the mouth!      Yes! For your love is better than wine,      headier than your aromatic oils.  The syllables of your name murmur like a meadow brook.      No wonder everyone loves to say your name!
+  EN : Just kiss me already, like for real! Your love hits different, way better than any drink. Even just saying your name feels so good, like a chill stream. No wonder everyone's obsessed with you.
+  KO : 나한테 키스해줘! 응! 너의 사랑은 와인보다 훨씬 좋고, 향수보다 더 취하는 것 같아. 네 이름을 부르는 것만으로도 계곡의 시냇물 소리처럼 마음이 편안해져. 다들 네 이름을 왜 그렇게 좋아하는지 알겠다니까.
+
+--- ch1 para2 EN_badge=[4] KO_badge=[4] ---
+  MSG[[4]]: Take me away with you! Let's run off together!      An elopement with my King-Lover!  We'll celebrate, we'll sing,      we'll make great music.  Yes! For your love is better than vintage wine.      Everyone loves you—of course! And why not?
+  EN : Let's just go, you and me. Run away together, just us and my king. We'll have the best time, singing and making amazing memories. Seriously, your love is top-tier, better than the fanciest stuff. It's so obvious why everyone loves you.
+  KO : 나랑 같이 가자! 우리 둘이 도망치자! 나의 왕, 나의 사랑과 함께! 우리끼리 축하하고, 노래하고, 신나게 놀자. 진짜로! 너의 사랑은 비싼 와인보다 훨씬 나아. 모두가 널 사랑하는 건 당연한 거야. 어떻게 안 그럴 수가 있겠어?
+  !! FLAGS: MISSING_TOKENS: PN:lover
+
+--- ch1 para3 EN_badge=[5-6] KO_badge=[5-6] ---
+  MSG[[5, 6]]: I am weathered but still elegant,      oh, dear sisters in Jerusalem,  Weather-darkened like Kedar desert tents,      time-softened like Solomon's Temple hangings.  Don't look down on me because I'm dark,      darkened by the sun's harsh rays.  My brothers ridiculed me and sent me to work in the fields.      They made me care for the face of the earth,      but I had no time to care for my own face.
+  EN : Hey girls of Jerusalem, I know I look a little rough around the edges, kinda sun-burnt like one of those desert tents, but I've still got it. Don't judge me for my tan. My brothers were being jerks and made me work outside all day, so I had to take care of the farm instead of myself.
+  KO : 예루살렘의 친구들아, 내가 좀 까맣긴 해도 여전히 예쁘지 않니? 케달 사막의 텐트처럼 햇볕에 그을렸고, 솔로몬 성전의 휘장처럼 부드러워졌어. 내가 까맣다고 무시하지 마, 햇빛 때문에 그런 거니까. 오빠들이 나를 놀리고 밭에 가서 일하라고 시켰어. 그래서 땅은 돌봤는데, 내 얼굴은 돌볼 시간이 없었지.
+  !! FLAGS: MISSING_TOKENS: PN:kedar, PN:solomon, PN:temple, PN:weather
+
+--- ch1 para4 EN_badge=[7] KO_badge=[7] ---
+  MSG[[7]]: Tell me where you're working      —I love you so much—  Tell me where you're tending your flocks,      where you let them rest at noontime.  Why should I be the one left out,      outside the orbit of your tender care?
+  EN : Seriously, where are you at? I miss you like crazy. Tell me where you're working, where you take your sheep for their lunch break. Why do I have to feel so left out, like I'm not in your circle?
+  KO : 네가 어디서 일하는지 말해줘. 나 너 진짜 많이 사랑하거든. 어디서 양들을 돌보는지, 점심때 어디서 쉬게 하는지 알려줘. 왜 나만 네 관심 밖에서 겉도는 사람처럼 느껴져야 해?
+
+--- ch1 para5 EN_badge=[8] KO_badge=[8] ---
+  MSG[[8]]: If you can't find me, loveliest of all women,      it's all right. Stay with your flocks.  Lead your lambs to good pasture.      Stay with your shepherd neighbors.
+  EN : If you don't know, you, the most beautiful girl out there, it's cool. Just hang with your sheep, lead them to the good spots. Stick with your shepherd friends.
+  KO : 세상에서 제일 예쁜 아가씨, 네가 날 못 찾겠으면 괜찮아. 그냥 네 양들이랑 같이 있어. 양들을 좋은 풀밭으로 이끌어주고, 다른 목동들이랑 같이 지내.
+  !! FLAGS: MISSING_TOKENS: PN:stay
+
+--- ch1 para6 EN_badge=[9-11] KO_badge=[9-11] ---
+  MSG[[9, 10, 11]]: You remind me of Pharaoh's      well-groomed and satiny mares.  Pendant earrings line the elegance of your cheeks;      strands of jewels illumine the curve of your throat.  I'm making jewelry for you, gold and silver jewelry      that will mark and accent your beauty.
+  EN : You remind me of one of Pharaoh's super sleek and fancy horses. Those earrings look amazing on you, and that necklace totally highlights your neck. I'm gonna make you some custom jewelry, gold and silver, to really show off how beautiful you are.
+  KO : 너를 보면 파라오의 잘나가는 말들이 생각나. 귀걸이가 네 뺨을 더 예쁘게 만들고, 목걸이가 네 목선을 빛나게 해. 내가 널 위해 금은보석으로 장신구를 만들어줄게. 너의 아름다움을 더 돋보이게 해줄 거야.
+  !! FLAGS: MISSING_TOKENS: PN:pendant
+
+--- ch1 para7 EN_badge=[12-14] KO_badge=[12-14] ---
+  MSG[[12, 13, 14]]: When my King-Lover lay down beside me,      my fragrance filled the room.  His head resting between my breasts—      the head of my lover was a sachet of sweet myrrh.  My beloved is a bouquet of wildflowers      picked just for me from the fields of En Gedi.
+  EN : When my king, my lover, was lying next to me, my perfume filled the whole room. His head on my chest was like a bag of the best-smelling spices. My guy is like a whole bouquet of wildflowers, picked just for me from the fields of En Gedi.
+  KO : 나의 왕, 나의 사랑이 내 옆에 누웠을 때, 내 향기가 방 안에 가득 찼어. 내 가슴에 기댄 그의 머리는 달콤한 몰약 주머니 같았지. 내 사랑은 엔게디 들판에서 나만을 위해 꺾은 꽃다발 같아.
+
+--- ch1 para8 EN_badge=[15] KO_badge=[15] ---
+  MSG[[15]]: Oh, my dear friend! You're so beautiful!      And your eyes so beautiful—like doves!
+  EN : Oh, my friend! You're so beautiful! And your eyes are so pretty—like doves!
+  KO : 오, 내 사랑! 너 진짜 예쁘다! 그리고 네 눈은 비둘기처럼 정말 아름다워!
+
+--- ch1 para9 EN_badge=[16-17] KO_badge=[16-17] ---
+  MSG[[16, 17]]: And you, my dear lover—you're so handsome!      And the bed we share is like a forest glen.  We enjoy a canopy of cedars      enclosed by cypresses, fragrant and green.
+  EN : And you, my love—you're so handsome! And our bed is like a secret spot in the forest. We've got a roof of cedar trees and walls of cypress, and it all smells so fresh and green.
+  KO : 그리고 너, 내 사랑하는 사람아, 너는 정말 잘생겼어! 우리가 함께 눕는 침대는 숲속의 작은 쉼터 같아. 우리는 백향목 지붕과 잣나무 벽으로 둘러싸인, 향긋하고 푸른 곳에 있어.
+====================================================================================================
+CHAPTER 2  EN_title="My Man is on Another Level"  KO_title="봄이 왔네"
+  EN paras=8 KO paras=8 msg_units=9
+
+--- ch2 para0 EN_badge=[1] KO_badge=[1] ---
+  MSG[[1]]: I'm just a wildflower picked from the plains of Sharon,      a lotus blossom from the valley pools.
+  EN : I’m just a wildflower from the plains of Sharon, a regular lotus from the valley pools.
+  KO : 나는 샤론 평야에 핀 그냥 들꽃이고, 골짜기의 수련 같은 평범한 여자애일 뿐이래.
+
+--- ch2 para1 EN_badge=[2] KO_badge=[2] ---
+  MSG[[2]]: A lotus blossoming in a swamp of weeds—      that's my dear friend among the girls in the village.
+  EN : He says, “A lotus blooming in a swamp of weeds—that’s you, my girl, compared to everyone else.”
+  KO : 근데 오빠가 그러는 거임. “다른 여자애들은 그냥 잡초인데, 너는 그 속에서 피어난 수련 같아”라고.
+
+--- ch2 para2 EN_badge=[3-7] KO_badge=[3-7] ---
+  MSG[[3, 4]]: As an apricot tree stands out in the forest,      my lover stands above the young men in town.  All I want is to sit in his shade,      to taste and savor his delicious love.  He took me home with him for a festive meal,      but his eyes feasted on *me*!
+  MSG[[5, 6]]: Oh! Give me something refreshing to eat—and quickly!      Apricots, raisins—anything. I'm about to faint with love!  His left hand cradles my head,      and his right arm encircles my waist!
+  MSG[[7]]: Oh, let me warn you, sisters in Jerusalem,      by the gazelles, yes, by all the wild deer:  Don't excite love, don't stir it up,      until the time is ripe—and you're ready.
+  EN : And my man? He’s like a legit apricot tree in a forest of boring ones; he just stands out from all the other guys. All I want is to chill in his shade and just soak up his amazing love. He brought me to this huge feast, but lowkey, it felt like I was the only thing he was looking at!
+  KO : 내 남친은 진짜 숲속의 살구나무 같음. 다른 남자애들이랑은 차원이 다른 거임. 그냥 그 사람 그늘에 앉아서 달달한 사랑을 느끼고 싶은 맘뿐이었음. 근데 그 사람이 날 잔치에 데려갔는데, 다른 건 보지도 않고 나만 뚫어지게 쳐다보는 거 있지!
+  !! FLAGS: MISSING_TOKENS: PN:apricots, PN:jerusalem
+
+--- ch2 para3 EN_badge=[8-9] KO_badge=[8-9] ---
+  MSG[[8, 9, 10]]: Look! Listen! There's my lover!      Do you see him coming?  Vaulting the mountains,      leaping the hills.  My lover is like a gazelle, graceful;      like a young stag, virile.  Look at him there, on tiptoe at the gate,      all ears, all eyes—ready!  My lover has arrived      and he's speaking to me!
+  EN : OMG, do you hear that? It's my love coming! Look! He's jumping over mountains, leaping over hills. My man is like a total gazelle, a young stag full of energy. He's peeking through the window, looking through the lattice, totally ready!
+  KO : 아, 진짜 사랑에 취해서 쓰러질 것 같으니까 빨리 뭐 좀 줘! 살구든 건포도든 아무거나! 그 사람이 왼손으로 내 머리를 받쳐주고 오른손으로 내 허리를 감싸 안고 있었거든.
+  !! FLAGS: MISSING_TOKENS: PN:vaulting
+
+--- ch2 para4 EN_badge=[10-14] KO_badge=[10-14] ---
+  MSG[[8, 9, 10]]: Look! Listen! There's my lover!      Do you see him coming?  Vaulting the mountains,      leaping the hills.  My lover is like a gazelle, graceful;      like a young stag, virile.  Look at him there, on tiptoe at the gate,      all ears, all eyes—ready!  My lover has arrived      and he's speaking to me!
+  MSG[[10, 11, 12, 13, 14]]: Get up, my dear friend,      fair and beautiful lover—come to me!  Look around you: Winter is over;      the winter rains are over, gone!  Spring flowers are in blossom all over.      The whole world's a choir—and singing!  Spring warblers are filling the forest      with sweet strains.  Lilacs are exuberantly purple and perfumed,      and cherry trees fragrant with blossoms.  Oh, get up, dear friend,      my fair and beautiful lover—come to me!  Come, my shy and modest dove—      leave your sec
+  EN : He says, “Get up, my beautiful love, let’s go! Look around—winter is finally over, the rain is gone! Flowers are blooming everywhere. The whole world is basically singing! The birds are going crazy in the forest. The lilacs smell amazing, and the cherry blossoms are popping off. So get up, my dear, my beautiful love—come with me! My shy dove, stop hiding. Come out so I can see you and hear your voice. Your voice is so calming and your face is, no cap, stunning.”
+  KO : 예루살렘 여자들아, 내가 진짜 들판의 노루랑 사슴을 걸고 맹세하는데, 사랑이라는 감정은 억지로 깨우는 게 아니래. 때가 될 때까지, 너네가 진짜 준비될 때까지 기다리는 게 맞는 거임.
+  !! FLAGS: MISSING_TOKENS: PN:spring, PN:vaulting
+
+--- ch2 para5 EN_badge=[15] KO_badge=[15] ---
+  MSG[[15]]: Then you must protect me from the foxes,      foxes on the prowl,  Foxes who would like nothing better      than to get into our flowering garden.
+  EN : And then I’m like, “You gotta protect us from the foxes, the sneaky foxes that are trying to ruin our perfect little garden.”
+  KO : 대박! 들려? 내 사랑하는 사람이 오는 소리! 저기 봐봐! 산을 막 넘고 언덕을 뛰어다니면서 오고 있어. 내 남친은 완전 가젤 같고, 젊은 사슴처럼 힘이 넘침. 저기 문틈으로 살짝 엿보면서 귀 쫑긋, 눈 땡글, 완전 준비하고 있네! 드디어 내 님이 와서 나한테 말을 거는 거임!
+
+--- ch2 para6 EN_badge=[16] KO_badge=[16] ---
+  MSG[[16, 17]]: My lover is mine, and I am his.      Nightly he strolls in our garden,  Delighting in the flowers      until dawn breathes its light and night slips away. Turn to me, dear lover.      Come like a gazelle.  Leap like a wild stag      on delectable mountains!
+  EN : My love is mine and I'm his. He hangs out in our garden at night, checking out the flowers.
+  KO : “내 사랑, 내 예쁜아, 일어나! 나랑 같이 가자! 봐봐, 겨울은 이제 끝났고, 비도 그쳤어! 온 세상에 꽃이 피고, 새들이 노래하고 난리 났어. 숲에는 새소리가 가득하고, 라일락이랑 벚꽃 향기가 진동을 해. 그러니까 일어나, 내 사랑, 내 예쁜아! 나랑 가자! 부끄러워 숨어있지 말고, 이리 나와봐. 네 얼굴 좀 보여주고 목소리도 들려줘. 네 목소리는 너무 부드럽고, 네 얼굴은 진짜 굉장해.”
+  !! FLAGS: MISSING_TOKENS: PN:come, PN:delighting, PN:leap, PN:nightly
+
+--- ch2 para7 EN_badge=[17] KO_badge=[17] ---
+  MSG[[16, 17]]: My lover is mine, and I am his.      Nightly he strolls in our garden,  Delighting in the flowers      until dawn breathes its light and night slips away. Turn to me, dear lover.      Come like a gazelle.  Leap like a wild stag      on delectable mountains!
+  EN : My love, come back to me! Hurry like a gazelle leaping over those amazing mountains, like a young stag!
+  KO : 그래서 내가 말했지. “그럼 우리 꽃밭을 망치려는 저 여우들, 저 못된 여우들로부터 우리를 지켜줘야 해.” 내 사랑은 내 거고, 나는 그 사람 거. 밤마다 우리 정원을 거닐면서 꽃을 감상한대. 동이 트고 밤이 사라질 때까지 말이야. 내 사랑, 다시 돌아와 줘. 저 멋진 산 위를 뛰어노는 가젤처럼, 어린 사슴처럼 빨리 와줘!
+  !! FLAGS: LOW_RATIO 0.43 | MISSING_TOKENS: PN:delighting, PN:nightly
+====================================================================================================
+CHAPTER 3  EN_title="I Searched ALL NIGHT For My Lost Love... And You Won't BELIEVE What Happened Next!"  KO_title="밤에 찾은 사랑"
+  EN paras=3 KO paras=3 msg_units=4
+
+--- ch3 para0 EN_badge=[1-5] KO_badge=[1-5] ---
+  MSG[[1, 2, 3, 4]]: Restless in bed and sleepless through the night,      I longed for my lover.      I wanted him desperately. His absence was painful.  So I got up, went out and roved the city,      hunting through streets and down alleys.  I wanted my lover in the worst way!      I looked high and low, and didn't find him.  And then the night watchmen found me      as they patrolled the darkened city.      "Have you seen my dear lost love?" I asked.  No sooner had I left them than I found him,      found my dear
+  MSG[[5]]: Oh, let me warn you, sisters in Jerusalem,      by the gazelles, yes, by all the wild deer:  Don't excite love, don't stir it up,      until the time is ripe—and you're ready.
+  EN : I was just tossing and turning all night, couldn't sleep. I was missing my guy like crazy. It actually hurt that he wasn't there. So I was like, 'I can't just lie here,' and I got up and started wandering around the city, checking every street and alley. I was desperate to find him! I looked everywhere, but he was nowhere. Then the night guards found me while they were on patrol. I asked them, 'Have you guys seen the one I love?' And you won't believe it, right after I left them, I found him! I found my love. I just grabbed him and hugged him so tight, and I wasn't letting go until I got him back to my place, safe and sound. So girls of Jerusalem, promise me this — swear it: don't wake love up or stir it up before it's ready to respond.
+  KO : 밤에 잠도 안 오고 뒤척이는데, 내 님이 너무 보고 싶은 거임. 없으니까 막 마음이 아프더라고. 그래서 벌떡 일어나서 온 동네를 다 돌아다녔지. 길거리랑 골목이랑 다 뒤지고 다녔어. 진짜 너무너무 보고 싶었거든! 근데 아무리 찾아도 없는 거야. 그러다가 순찰 돌던 경비 아저씨들이 날 발견했어. 내가 "혹시 제 사랑 못 보셨어요?" 하고 물어봤지. 근데 그 아저씨들 지나치자마자 바로 찾았어, 내 사랑을! 보자마자 꽉 껴안고 절대 안 놔줬지. 우리 집에 다시 데려와서, 안전하게 옆에 둘 때까지 말이야.
+  !! FLAGS: MISSING_TOKENS: Q:dear, Q:lost
+
+--- ch3 para1 EN_badge=[6-8] KO_badge=[6-8] ---
+  MSG[[6, 7, 8, 9, 10]]: What's this I see, approaching from the desert,      raising clouds of dust,  Filling the air with sweet smells      and pungent aromatics?  Look! It's Solomon's carriage,      carried and guarded by sixty soldiers,      sixty of Israel's finest,  All of them armed to the teeth,      trained for battle,      ready for anything, anytime.  King Solomon once had a carriage built      from fine-grained Lebanon cedar.  He had it framed with silver and roofed with gold.      The cushions were covered 
+  EN : Then I saw something wild — a cloud of dust rising out of the desert, like a whole caravan of spices and perfume! It was King Solomon's wedding carriage, surrounded by sixty armed soldiers, Israel's finest, swords ready and standing guard all through the night.
+  KO : 아, 예루살렘 여자들아, 내가 진짜 중요한 거 알려줄게. 저기 뛰어다니는 사슴들을 걸고 맹세하는데, 사랑은 억지로 시작하는 게 아니야. 때가 될 때까지, 그리고 네가 준비될 때까지는 그냥 냅둬야 돼.
+  !! FLAGS: MISSING_TOKENS: PN:filling, PN:lebanon, PN:look
+
+--- ch3 para2 EN_badge=[9-11] KO_badge=[9-11] ---
+  MSG[[6, 7, 8, 9, 10]]: What's this I see, approaching from the desert,      raising clouds of dust,  Filling the air with sweet smells      and pungent aromatics?  Look! It's Solomon's carriage,      carried and guarded by sixty soldiers,      sixty of Israel's finest,  All of them armed to the teeth,      trained for battle,      ready for anything, anytime.  King Solomon once had a carriage built      from fine-grained Lebanon cedar.  He had it framed with silver and roofed with gold.      The cushions were covered 
+  MSG[[11]]: Come and look, sisters in Jerusalem.      Oh, sisters of Zion, don't miss this!  My King-Lover,      dressed and garlanded for his wedding,      his heart full, bursting with joy!
+  EN : Come on, girls of Jerusalem, you have to see this! Everyone in Zion, don't miss out! It's my king, my love, all dressed up for his wedding, looking so happy. His heart is just bursting with joy!
+  KO : 저기 사막에서부터 먼지 구름 일으키면서 오는 게 뭐지? 막 달콤하고 톡 쏘는 향기가 진동을 하는데? 엄청난! 저거 솔로몬 왕의 가마잖아! 이스라엘에서 제일 잘나가는 군인 육십 명이 호위하고 있대. 다들 완전 무장하고, 실전 훈련 받은 최정예래. 언제 어디서든 싸울 준비가 되어있는 거지. 솔로몬 왕이 레바논 백향목으로 특별히 만들게 한 가마인데, 프레임은 은이고 지붕은 금으로 만들었대. 쿠션은 보라색 천이고, 안쪽은 가죽으로 장식되어 있다더라. 진짜 굉장한. 예루살렘 여자들아, 이리 와서 구경해봐! 시온의 딸들아, 이거 절대 놓치면 안 돼! 우리 왕, 내 사랑이 결혼식 때문에 쫙 빼입고 화관까지 썼어. 마음이 벅차서 기쁨이 터져나오고 있잖아!
+  !! FLAGS: LOW_RATIO 0.33 | MISSING_TOKENS: PN:filling, PN:israel, PN:lebanon, PN:lover, PN:solomon
+====================================================================================================
+CHAPTER 4  EN_title="He's Lowkey Obsessed With Her Beauty"  KO_title="아름다운 신부"
+  EN paras=6 KO paras=6 msg_units=4
+
+--- ch4 para0 EN_badge=[1-3] KO_badge=[1-3] ---
+  MSG[[1, 2, 3, 4, 5]]: You're so beautiful, my darling,      so beautiful, and your dove eyes are veiled  By your hair as it flows and shimmers,      like a flock of goats in the distance      streaming down a hillside in the sunshine.  Your smile is generous and full—      expressive and strong and clean.  Your lips are jewel red,      your mouth elegant and inviting,      your veiled cheeks soft and radiant.  The smooth, lithe lines of your neck      command notice—all heads turn in awe and admiration!  Your breasts
+  EN : Wow, you're seriously stunning, my love. Your eyes behind your veil are like gentle doves, and your hair flows like a whole flock of goats cascading down a sunny hill. Your smile? It's so full and expressive, strong and clean. Your lips are a vibrant red, and your mouth is just so elegant and inviting. Even veiled, your cheeks are soft and glowing.
+  KO : 와, 내 사랑, 너 진짜 너무 아름답다. 베일 뒤에 있는 네 눈은 비둘기 같고, 네 머릿결은 햇살 좋은 언덕을 내려오는 염소 떼처럼 찰랑거려. 네 미소는 진짜 엄청난 거야. 완전 환하고, 힘차고, 깨끗해. 네 입술은 보석처럼 빨갛고, 네 입은 우아하고 매력적이야. 베일에 가려진 네 뺨은 부드럽고 빛나.
+
+--- ch4 para1 EN_badge=[4-5] KO_badge=[4-5] ---
+  MSG[[1, 2, 3, 4, 5]]: You're so beautiful, my darling,      so beautiful, and your dove eyes are veiled  By your hair as it flows and shimmers,      like a flock of goats in the distance      streaming down a hillside in the sunshine.  Your smile is generous and full—      expressive and strong and clean.  Your lips are jewel red,      your mouth elegant and inviting,      your veiled cheeks soft and radiant.  The smooth, lithe lines of your neck      command notice—all heads turn in awe and admiration!  Your breasts
+  EN : The way you carry yourself, that smooth, graceful neck—it makes everyone turn their heads. Seriously, total awe and admiration. And your chest is like two young deer, twins of a gazelle, just hanging out among the first spring flowers.
+  KO : 네 목선은 진짜 부드럽고 우아해서 모든 사람들이 넋을 잃고 쳐다봐. 진짜 감탄 그 자체! 네 가슴은 마치 봄꽃 사이에서 풀을 뜯는 한 쌍의 어린 사슴 같아.
+  !! FLAGS: LOW_RATIO 0.42
+
+--- ch4 para2 EN_badge=[6-7] KO_badge=[6-7] ---
+  MSG[[6, 7]]: The sweet, fragrant curves of your body,      the soft, spiced contours of your flesh  Invite me, and I come. I stay      until dawn breathes its light and night slips away.  You're beautiful from head to toe, my dear love,      beautiful beyond compare, absolutely flawless.
+  EN : The sweet scent of your body, the soft, spicy curves—it's all calling to me, and I'm coming. I'll stay right here until the sun comes up and the night fades away. You are beautiful from head to toe, my dear love, beyond compare, like, absolutely flawless.
+  KO : 너의 달콤하고 향긋한 몸매, 부드럽고 향신료 같은 곡선이 날 부르고, 난 너에게 갈 거야. 동이 트고 밤이 사라질 때까지 머물게. 내 사랑, 넌 머리부터 발끝까지 완벽해. 비교할 수 없을 만큼 아름답고, 흠잡을 데가 없어.
+  !! FLAGS: MISSING_TOKENS: PN:invite
+
+--- ch4 para3 EN_badge=[8-14] KO_badge=[8-14] ---
+  MSG[[8, 9, 10, 11, 12, 13, 14, 15]]: Come with me from Lebanon, my bride.      Leave Lebanon behind, and come.  Leave your high mountain hideaway.      Abandon your wilderness seclusion,  Where you keep company with lions      and panthers guard your safety.  You've captured my heart, dear friend.      You looked at me, and I fell in love.      One look my way and I was hopelessly in love!  How beautiful your love, dear, dear friend—      far more pleasing than a fine, rare wine,      your fragrance more exotic than select spices. 
+  EN : Come with me, my bride, let's leave Lebanon. Get away from your high mountain hideout. Ditch that wilderness retreat where you're hanging out with lions and panthers are your bodyguards. You've completely stolen my heart, my dear friend. You just looked at me, and I was a goner. One glance and I was hopelessly in love. Your love is so beautiful, my dear, dear friend—way better than the most expensive wine, and your scent is more exotic than the rarest spices. Your kisses are literally honey, my love, and every word you say is something to be savored. Your clothes smell like the great outdoors, that fresh scent of the high mountains. My dear lover and friend, you're like a secret garden, a private, pure spring. Body and soul, you're a paradise, a whole orchard of juicy fruits—ripe apricots and peaches, oranges and pears; nut trees and cinnamon, and all kinds of fragrant woods; mint and la
+  KO : 나랑 같이 가자, 나의 신부야. 레바논을 떠나서 이리 와. 높은 산속 네 은신처를 떠나. 사자들이랑 표범들이 널 지키는 그 외딴 곳을 버리고. 내 친구야, 넌 내 마음을 완전히 훔쳐갔어. 네가 날 쳐다봤을 때, 난 사랑에 빠져버렸지. 한 번 쳐다봤을 뿐인데 속수무책으로 사랑에 빠졌다고! 내 소중한 친구야, 너의 사랑은 얼마나 아름다운지 몰라. 최고급 와인보다 훨씬 좋고, 네 향기는 희귀한 향신료보다 더 이국적이야. 네 입술의 키스는 꿀 같고, 네가 하는 모든 말은 음미하고 싶은 진미야. 네 옷에서는 상쾌한 대자연의 향기, 높은 산의 냄새가 나. 내 사랑하는 친구야, 넌 비밀의 정원, 순수하고 깨끗한 샘물 같아. 몸과 마음이 모두 천국이고, 잘 익은 살구, 복숭아, 오렌지, 배 같은 과일들이 가득한 과수원이야. 호두나무와 계피나무, 온갖 향기로운 나무들, 민트와 라벤더, 향기로운 허브들, 레바논 산에서 흘러나오는 샘물로 채워진 반짝이는 정원 분수 같아.
+  !! FLAGS: MISSING_TOKENS: PN:abandon
+
+--- ch4 para4 EN_badge=[15] KO_badge=[15] ---
+  MSG[[8, 9, 10, 11, 12, 13, 14, 15]]: Come with me from Lebanon, my bride.      Leave Lebanon behind, and come.  Leave your high mountain hideaway.      Abandon your wilderness seclusion,  Where you keep company with lions      and panthers guard your safety.  You've captured my heart, dear friend.      You looked at me, and I fell in love.      One look my way and I was hopelessly in love!  How beautiful your love, dear, dear friend—      far more pleasing than a fine, rare wine,      your fragrance more exotic than select spices. 
+  EN : Wake up, North Wind! Get a move on, South Wind! Breathe on my garden, let its spicy fragrance fill the air.
+  KO : 일어나라, 북풍아! 움직여라, 남풍아! 내 정원에 불어서 향기가 가득하게 해다오.
+  !! FLAGS: LOW_RATIO 0.12 | MISSING_TOKENS: PN:abandon, PN:body, PN:dear, PN:leave, PN:lebanon, PN:mint, PN:ripe, PN:where
+
+--- ch4 para5 EN_badge=[16] KO_badge=[16] ---
+  MSG[[16]]: Wake up, North Wind,      get moving, South Wind!  Breathe on my garden,      fill the air with spice fragrance. Oh, let my lover enter his garden!      Yes, let him eat the fine, ripe fruits.
+  EN : Oh, please let my lover come into his garden! Yes, let him eat all the best, ripe fruits.
+  KO : 내 사랑하는 이가 그의 정원에 들어오게 해주세요! 네, 그가 잘 익은 최고의 열매들을 먹게 해주세요.
+  !! FLAGS: MISSING_TOKENS: PN:breathe, PN:north, PN:south, PN:wind
+====================================================================================================
+CHAPTER 5  EN_title="I Messed Up & Lost My Man... Help Me Find Him!"  KO_title="문을 두드리는 사랑"
+  EN paras=10 KO paras=10 msg_units=7
+
+--- ch5 para0 EN_badge=[1] KO_badge=[1] ---
+  MSG[[1]]: I went to my garden, dear friend, best lover!      breathed the sweet fragrance.  I ate the fruit and honey,      I drank the nectar and wine. Celebrate with me, friends!      Raise your glasses—"To life! To love!"
+  EN : I went to my garden, my best friend and my everything! I took in all the amazing smells, had the best food and drinks.
+  KO : 나 내 동산에 갔잖아, 내 베프이자 내 사랑한테 말이야! 향기로운 냄새를 맡고, 과일이랑 꿀도 먹고, 와인이랑 넥타르도 마셨지.
+  !! FLAGS: MISSING_TOKENS: PN:raise, Q:life, Q:love
+
+--- ch5 para1 EN_badge=[1] KO_badge=[1] ---
+  MSG[[1]]: I went to my garden, dear friend, best lover!      breathed the sweet fragrance.  I ate the fruit and honey,      I drank the nectar and wine. Celebrate with me, friends!      Raise your glasses—"To life! To love!"
+  EN : Yo, let's celebrate, everyone! Cheers to life and love!
+  KO : 친구들아, 다 같이 축하하자! 잔 들어! “인생을 위해! 사랑을 위해!”
+  !! FLAGS: LOW_RATIO 0.28 | MISSING_TOKENS: PN:raise
+
+--- ch5 para2 EN_badge=[2] KO_badge=[2] ---
+  MSG[[2]]: I was sound asleep, but in my dreams I was wide awake.      Oh, listen! It's the sound of my lover knocking, calling! "Let me in, dear companion, dearest friend,      my dove, consummate lover!  I'm soaked with the dampness of the night,      drenched with dew, shivering and cold."
+  EN : I was totally knocked out, but my dream felt so real. Then I heard my guy knocking and calling for me!
+  KO : 나 완전 꿀잠 자고 있었는데, 꿈에서는 정신이 완전 말똥말똥한 거임. 근데 갑자기 내 사랑이 문을 두드리는 소리가 들리는 거야!
+  !! FLAGS: LOW_RATIO 0.43 | MISSING_TOKENS: Q:cold, Q:companion, Q:consummate, Q:dampness, Q:dear, Q:dearest, Q:dove, Q:drenched, Q:friend, Q:lover, Q:night, Q:shivering
+
+--- ch5 para3 EN_badge=[2] KO_badge=[2] ---
+  MSG[[2]]: I was sound asleep, but in my dreams I was wide awake.      Oh, listen! It's the sound of my lover knocking, calling! "Let me in, dear companion, dearest friend,      my dove, consummate lover!  I'm soaked with the dampness of the night,      drenched with dew, shivering and cold."
+  EN : “Babe, let me in! You're my everything. I'm out here freezing and soaking wet from the night.”
+  KO : “문 좀 열어줘, 내 사랑, 내 친구, 내 비둘기, 내 완벽한 연인아! 밤이슬에 흠뻑 젖어서 춥고 떨려.”
+  !! FLAGS: LOW_RATIO 0.39 | MISSING_TOKENS: Q:cold, Q:companion, Q:consummate, Q:dampness, Q:dear, Q:dearest, Q:dove, Q:drenched, Q:friend, Q:lover, Q:shivering, Q:soaked
+
+--- ch5 para4 EN_badge=[3] KO_badge=[3] ---
+  MSG[[3]]: "But I'm in my nightgown—do you expect me to get dressed?      I'm bathed and in bed—do you want me to get dirty?"
+  EN : And I was like, “But I'm already in my PJs and all clean for bed. You want me to get all gross again?”
+  KO : “아니 근데 나 잠옷 입었는데... 나보고 다시 옷 입으라고? 나 씻고 침대에 누웠는데... 다시 더러워지라고?”
+  !! FLAGS: MISSING_TOKENS: Q:bathed, Q:dirty, Q:dressed, Q:expect, Q:nightgown
+
+--- ch5 para5 EN_badge=[4-7] KO_badge=[4-7] ---
+  MSG[[4, 5, 6, 7]]: But my lover wouldn't take no for an answer,      and the longer he knocked, the more excited I became.  I got up to open the door to my lover,      sweetly ready to receive him,  Desiring and expectant      as I turned the door handle.  But when I opened the door he was gone.      My loved one had tired of waiting and left.  And I died inside—oh, I felt so bad!      I ran out looking for him  But he was nowhere to be found.      I called into the darkness—but no answer.  The night watchmen foun
+  EN : But then he reached through the door latch, and honestly? My heart started racing. I jumped up to open the door for him, totally shaky with excitement. But when I unlocked it and swung it open... he was gone. He'd gotten tired of waiting and bounced. My heart, like, actually broke. I felt so awful. I ran outside to find him, but he was nowhere. I yelled out his name, but got nothing back. Then the night guards found me while they were on patrol — and they beat me up and ripped my clothes! Can you believe that? The guys who are supposed to be protecting the city!
+  KO : 근데 내 사랑이 안 된다는 내 말을 안 듣는 거임. 계속 문을 두드리니까 나도 점점 더 흥분되는 거 있지. 그래서 내 사랑을 맞이하려고 달콤한 마음으로 문을 열러 일어났어. 문고리를 돌리는데 완전 기대되고 설레는 마음으로 말이야. 근데 문을 열었더니 그가 없는 거야. 내 사랑이 기다리다 지쳐서 가버린 거임. 와, 나 진짜 심장이 멎는 줄 알았어. 너무 속상한 거 있지! 그를 찾으러 뛰쳐나갔는데 어디에도 없는 거야. 어둠 속에서 소리쳐 불렀지만... 아무 대답도 없었어. 성을 순찰하던 야경꾼들이 날 발견했대. 근데 걔네들이 날 때리고 멍들게 하고, 내 옷까지 찢어버린 거임. 이 야경꾼들, 원래 성을 지키는 사람들이잖아. 어이없지 않냐?
+  !! FLAGS: MISSING_TOKENS: PN:desiring, PN:these
+
+--- ch5 para6 EN_badge=[8] KO_badge=[8] ---
+  MSG[[8]]: I beg you, sisters in Jerusalem—      if you find my lover,  Please tell him I want him,      that I'm heartsick with love for him.
+  EN : So I'm begging you, all my girls in Jerusalem, if you see my man, please tell him I'm crazy about him and I need him.
+  KO : 예루살렘의 언니들, 제발 부탁할게. 만약 내 사랑을 찾으면, 내가 그를 너무 원한다고, 그 사람 때문에 상사병에 걸렸다고 좀 전해줘.
+
+--- ch5 para7 EN_badge=[9] KO_badge=[9] ---
+  MSG[[9]]: What's so great about your lover, fair lady?  What's so special about him that you beg for our help?
+  EN : And they were like, “Okay, but what's so special about this guy? Why are you so obsessed that you need our help?”
+  KO : “아니, 아가씨, 그 남자친구가 뭐 그리 대단한데? 얼마나 특별하길래 우리한테까지 도와달라고 부탁하는 거야?”
+
+--- ch5 para8 EN_badge=[10-16] KO_badge=[10-16] ---
+  MSG[[10, 11, 12, 13, 14, 15, 16]]: My dear lover glows with health—      red-blooded, radiant!  He's one in a million.      There's no one quite like him!  My golden one, pure and untarnished,      with raven black curls tumbling across his shoulders.  His eyes are like doves, soft and bright,      but deep-set, brimming with meaning, like wells of water.  His face is rugged, his beard smells like sage,      His voice, his words, warm and reassuring.  Fine muscles ripple beneath his skin,      quiet and beautiful.  His torso is t
+  EN : My man is lowkey glowing, he's so healthy and radiant! He's literally one in a million. There's no one like him! He's golden, perfect, with the sickest black curls. His eyes are like, soft and bright, but super deep, you know? Like you could get lost in them. His face is all rugged and his beard smells like fresh herbs. His voice is so warm and makes you feel safe. He's got these quiet, beautiful muscles under his skin. His body is like a work of art, so smooth and strong. He's tall and stands strong, like a huge tree. A total mountain of a man, smelling like wood and stone. His words are like kisses, and his kisses are like words. Everything about him is just... wow. He's amazing.
+  KO : 내 사랑은 진짜 건강미 넘치고 혈색이 좋아서 빛이 난다니까! 완전 백만 분의 일이야. 그런 사람 또 없어! 흠 하나 없이 순수한 황금 같은 사람인데, 까만 곱슬머리가 어깨에 찰랑거려. 그의 눈은 비둘기처럼 부드럽고 밝은데, 깊이가 있어서 의미심장해. 마치 우물 같달까. 얼굴은 선이 굵고, 수염에서는 세이지 향이 나. 목소리랑 말투는 따뜻하고 사람을 안심시켜줘. 피부 아래에는 조용하고 아름다운 근육들이 꿈틀거려. 몸통은 조각가가 만든 상아 작품처럼 단단하고 매끄러워. 그는 삼나무처럼 키가 크고, 뿌리 깊고 강인해. 나무와 돌 향기가 나는, 완전 상남자 스타일이야. 그의 말은 키스 같고, 키스는 말 같아. 그의 모든 것이 날 기쁘게 해. 정말 최고야!
+  !! FLAGS: MISSING_TOKENS: PN:fine, PN:jerusalem
+
+--- ch5 para9 EN_badge=[10-16] KO_badge=[10-16] ---
+  MSG[[10, 11, 12, 13, 14, 15, 16]]: My dear lover glows with health—      red-blooded, radiant!  He's one in a million.      There's no one quite like him!  My golden one, pure and untarnished,      with raven black curls tumbling across his shoulders.  His eyes are like doves, soft and bright,      but deep-set, brimming with meaning, like wells of water.  His face is rugged, his beard smells like sage,      His voice, his words, warm and reassuring.  Fine muscles ripple beneath his skin,      quiet and beautiful.  His torso is t
+  EN : That's my man, that's my guy, my Jerusalem crew.
+  KO : 저 사람이 바로 내 사랑이고, 내 남자야. 예루살렘 언니들.
+  !! FLAGS: LOW_RATIO 0.08 | MISSING_TOKENS: PN:everything, PN:fine, PN:there
+====================================================================================================
+CHAPTER 6  EN_title="She's a Total Knockout"  KO_title="정원의 사랑"
+  EN paras=18 KO paras=18 msg_units=7
+
+--- ch6 para0 EN_badge=[1] KO_badge=[1] ---
+  MSG[[1]]: So where has this love of yours gone,      fair one?  Where on earth can he be?      Can we help you look for him?
+  EN : §Where Did He Go?
+  KO : §그 사람은 어디로 갔을까?
+  !! FLAGS: LOW_RATIO 0.17
+
+--- ch6 para1 EN_badge=[1] KO_badge=[1] ---
+  MSG[[1]]: So where has this love of yours gone,      fair one?  Where on earth can he be?      Can we help you look for him?
+  EN : So, like, where did your boyfriend go, beautiful? Seriously, where is he? Can we help you find him?
+  KO : 그래서 니가 좋아하는 그 남자는 어디로 갔는데, 이 예쁜 아가씨야? 도대체 어디 있는 거임? 우리가 같이 찾아줄까?
+
+--- ch6 para2 EN_badge=[2] KO_badge=[2] ---
+  MSG[[2, 3]]: Never mind. My lover is already on his way to his garden,      to browse among the flowers, touching the colors and forms.  I am my lover's and my lover is mine.      He caresses the sweet-smelling flowers.
+  EN : §He's In His Garden
+  KO : §그는 자기 정원에 있어
+  !! FLAGS: LOW_RATIO 0.13
+
+--- ch6 para3 EN_badge=[2] KO_badge=[2] ---
+  MSG[[2, 3]]: Never mind. My lover is already on his way to his garden,      to browse among the flowers, touching the colors and forms.  I am my lover's and my lover is mine.      He caresses the sweet-smelling flowers.
+  EN : Oh, don't even worry about it. My guy is already headed to his garden, just chilling among the flowers, checking out all the cool colors and shapes.
+  KO : 아냐, 괜찮아. 내 사랑은 벌써 자기 정원으로 가는 중이거든. 꽃들 사이를 거닐면서 색깔이랑 모양을 감상하고 있대. 나는 내 사랑 거고, 내 사랑은 내 거야. 그는 향기로운 꽃들을 어루만지고 있어.
+
+--- ch6 para4 EN_badge=[3] KO_badge=[3] ---
+  MSG[[2, 3]]: Never mind. My lover is already on his way to his garden,      to browse among the flowers, touching the colors and forms.  I am my lover's and my lover is mine.      He caresses the sweet-smelling flowers.
+  EN : I totally belong to my lover, and he totally belongs to me. He's probably just gently touching all those awesome, fragrant flowers.
+  KO : §남자의 칭찬
+
+--- ch6 para5 EN_badge=[4] KO_badge=[4] ---
+  MSG[[4, 5, 6, 7]]: Dear, dear friend and lover,      you're as beautiful as Tirzah, city of delights,  Lovely as Jerusalem, city of dreams,      the ravishing visions of my ecstasy.  Your beauty is too much for me—I'm in over my head.      I'm not used to this! I can't take it in.  Your hair flows and shimmers      like a flock of goats in the distance      streaming down a hillside in the sunshine.  Your smile is generous and full—      expressive and strong and clean.  Your veiled cheeks      are soft and radian
+  EN : §The Man's Praise
+  KO : 내 사랑, 내 친구야, 너는 기쁨의 도시 티르사처럼 아름답고, 꿈의 도시 예루살렘처럼 사랑스러워. 내 황홀경 속의 환상처럼 매혹적이야. 네 아름다움은 나한테 너무 과분해. 감당이 안 될 정도라고. 이건 익숙하지가 않아! 받아들일 수가 없어. 네 머리카락은 햇살 속에서 언덕을 내려오는 염소 떼처럼 찰랑거리고 빛나. 네 미소는 활짝 피어서, 표정이 풍부하고 힘차고 깨끗해. 너울에 가려진 네 뺨은 부드럽고 빛나.
+  !! FLAGS: LOW_RATIO 0.04 | MISSING_TOKENS: PN:jerusalem, PN:lovely, PN:tirzah
+
+--- ch6 para6 EN_badge=[4] KO_badge=[4] ---
+  MSG[[4, 5, 6, 7]]: Dear, dear friend and lover,      you're as beautiful as Tirzah, city of delights,  Lovely as Jerusalem, city of dreams,      the ravishing visions of my ecstasy.  Your beauty is too much for me—I'm in over my head.      I'm not used to this! I can't take it in.  Your hair flows and shimmers      like a flock of goats in the distance      streaming down a hillside in the sunshine.  Your smile is generous and full—      expressive and strong and clean.  Your veiled cheeks      are soft and radian
+  EN : Hey, my amazing friend and love, you're seriously as stunning as Tirzah, that city everyone loves, and as gorgeous as Jerusalem, the city of dreams. You're like the most mind-blowing vision I've ever seen, it's pure ecstasy.
+  KO : 진짜 이 세상에 그녀 같은 여자는 없어. 전에도 없었고, 앞으로도 없을 거야. 그녀는 비교할 수 없는 여자야. 나의 비둘기는 완벽 그 자체고, 태어난 날처럼 순수하고 순결해. 그녀의 어머니는 기쁨 속에서 그녀를 안았지. 그녀를 보러 온 모든 사람들이 감탄하고 칭찬했어. 모든 아버지와 어머니, 이웃과 친구들이 그녀를 축복하고 칭찬했지.
+  !! FLAGS: MISSING_TOKENS: PN:lovely
+
+--- ch6 para7 EN_badge=[5] KO_badge=[5] ---
+  MSG[[4, 5, 6, 7]]: Dear, dear friend and lover,      you're as beautiful as Tirzah, city of delights,  Lovely as Jerusalem, city of dreams,      the ravishing visions of my ecstasy.  Your beauty is too much for me—I'm in over my head.      I'm not used to this! I can't take it in.  Your hair flows and shimmers      like a flock of goats in the distance      streaming down a hillside in the sunshine.  Your smile is generous and full—      expressive and strong and clean.  Your veiled cheeks      are soft and radian
+  EN : Honestly, your beauty is just too much for me—I'm completely overwhelmed. I'm not used to feeling like this! I can barely process it. Your hair just flows and shines like a whole flock of goats moving down a sunny hillside in the distance.
+  KO : '누가 이런 걸 본 적이나 있나? 새벽처럼 신선하고, 달처럼 사랑스럽고, 태양처럼 빛나고, 별들이 가득한 밤하늘처럼 황홀하다니!'
+  !! FLAGS: MISSING_TOKENS: PN:jerusalem, PN:lovely, PN:tirzah
+
+--- ch6 para8 EN_badge=[6-7] KO_badge=[6-7] ---
+  MSG[[4, 5, 6, 7]]: Dear, dear friend and lover,      you're as beautiful as Tirzah, city of delights,  Lovely as Jerusalem, city of dreams,      the ravishing visions of my ecstasy.  Your beauty is too much for me—I'm in over my head.      I'm not used to this! I can't take it in.  Your hair flows and shimmers      like a flock of goats in the distance      streaming down a hillside in the sunshine.  Your smile is generous and full—      expressive and strong and clean.  Your veiled cheeks      are soft and radian
+  EN : Your smile is so generous and complete—it shows so much emotion, and it's strong and pure. And your cheeks, even with a veil on, are so soft and glowing.
+  KO : §휩쓸린 마음
+  !! FLAGS: LOW_RATIO 0.35 | MISSING_TOKENS: PN:jerusalem, PN:lovely, PN:tirzah
+
+--- ch6 para9 EN_badge=[8] KO_badge=[8] ---
+  MSG[[8, 9]]: There's no one like her on earth,      never has been, never will be.  She's a woman beyond compare.      My dove is perfection,  Pure and innocent as the day she was born,      and cradled in joy by her mother.  Everyone who came by to see her      exclaimed and admired her—  All the fathers and mothers, the neighbors and friends,      blessed and praised her:
+  EN : He could have sixty queens and eighty concubines — plus more women than you could count — and still, none of them would even come close to her.
+  KO : 어느 날 나는 과수원을 거닐고 있었어. 봄기운을 찾아서 말이야. 막 터지려는 꽃봉오리를 찾고, 모든 것이 준비되고 익기를 기대하면서. 그러다 나도 모르게 내 마음이 황홀경에 빠져서, 고상한 생각에 사로잡혀 버렸어.
+  !! FLAGS: LOW_RATIO 0.41 | MISSING_TOKENS: PN:everyone, PN:pure
+
+--- ch6 para10 EN_badge=[9] KO_badge=[9] ---
+  MSG[[8, 9]]: There's no one like her on earth,      never has been, never will be.  She's a woman beyond compare.      My dove is perfection,  Pure and innocent as the day she was born,      and cradled in joy by her mother.  Everyone who came by to see her      exclaimed and admired her—  All the fathers and mothers, the neighbors and friends,      blessed and praised her:
+  EN : My dove is absolutely perfect, pure and innocent like the day she was born, and her mother cradled her with so much joy. Everyone who came by to see her totally freaked out and admired her—
+  KO : §춤춰라, 술람미 여인아!
+
+--- ch6 para11 EN_badge=[9] KO_badge=[9] ---
+  MSG[[8, 9]]: There's no one like her on earth,      never has been, never will be.  She's a woman beyond compare.      My dove is perfection,  Pure and innocent as the day she was born,      and cradled in joy by her mother.  Everyone who came by to see her      exclaimed and admired her—  All the fathers and mothers, the neighbors and friends,      blessed and praised her:
+  EN : All the dads and moms, the neighbors and friends, blessed her and praised her, saying:
+  KO : '춤춰라, 춤춰라, 사랑하는 술람미 여인아, 천사 같은 공주님아! 춤을 춰라, 우리가 네 우아한 모습을 눈에 담을 수 있도록! 모두가 술람미 여인이 사랑과 평화의 승리의 춤을 추는 것을 보고 싶어 해.'
+  !! FLAGS: LOW_RATIO 0.23 | MISSING_TOKENS: PN:everyone, PN:pure
+
+--- ch6 para12 EN_badge=[10] KO_badge=[10] ---
+  MSG[[10]]: "Has anyone ever seen anything like this—      dawn-fresh, moon-lovely, sun-radiant,      ravishing as the night sky with its galaxies of stars?"
+  EN : "Has anyone ever seen anything like this? She's fresh like the dawn, lovely like the moon, radiant like the sun, and absolutely breathtaking like the night sky with all its galaxies of stars!"
+  KO : '춤춰라, 춤춰라, 사랑하는 술람미 여인아, 천사 같은 공주님아! 춤을 춰라, 우리가 네 우아한 모습을 눈에 담을 수 있도록! 모두가 술람미 여인이 사랑과 평화의 승리의 춤을 추는 것을 보고 싶어 해.'
+  !! FLAGS: MISSING_TOKENS: Q:ravishing
+
+--- ch6 para13 EN_badge=[11] KO_badge=[11] ---
+  MSG[[11, 12]]: One day I went strolling through the orchard,      looking for signs of spring,  Looking for buds about to burst into flower,      anticipating readiness, ripeness.  Before I knew it my heart was raptured,      carried away by lofty thoughts!
+  EN : §Carried Away
+  KO : '춤춰라, 춤춰라, 사랑하는 술람미 여인아, 천사 같은 공주님아! 춤을 춰라, 우리가 네 우아한 모습을 눈에 담을 수 있도록! 모두가 술람미 여인이 사랑과 평화의 승리의 춤을 추는 것을 보고 싶어 해.'
+  !! FLAGS: LOW_RATIO 0.05 | MISSING_TOKENS: PN:before, PN:looking
+
+--- ch6 para14 EN_badge=[11] KO_badge=[11] ---
+  MSG[[11, 12]]: One day I went strolling through the orchard,      looking for signs of spring,  Looking for buds about to burst into flower,      anticipating readiness, ripeness.  Before I knew it my heart was raptured,      carried away by lofty thoughts!
+  EN : One day, I was just strolling through the orchard, looking for signs that spring was here, checking for buds about to burst into flower, just anticipating everything getting ready and ripe.
+  KO : '춤춰라, 춤춰라, 사랑하는 술람미 여인아, 천사 같은 공주님아! 춤을 춰라, 우리가 네 우아한 모습을 눈에 담을 수 있도록! 모두가 술람미 여인이 사랑과 평화의 승리의 춤을 추는 것을 보고 싶어 해.'
+  !! FLAGS: MISSING_TOKENS: PN:before
+
+--- ch6 para15 EN_badge=[12] KO_badge=[12] ---
+  MSG[[11, 12]]: One day I went strolling through the orchard,      looking for signs of spring,  Looking for buds about to burst into flower,      anticipating readiness, ripeness.  Before I knew it my heart was raptured,      carried away by lofty thoughts!
+  EN : Before I even knew what was happening, my heart was totally swept away, completely carried off by these incredible, lofty thoughts!
+  KO : '춤춰라, 춤춰라, 사랑하는 술람미 여인아, 천사 같은 공주님아! 춤을 춰라, 우리가 네 우아한 모습을 눈에 담을 수 있도록! 모두가 술람미 여인이 사랑과 평화의 승리의 춤을 추는 것을 보고 싶어 해.'
+  !! FLAGS: MISSING_TOKENS: PN:looking
+
+--- ch6 para16 EN_badge=[13] KO_badge=[13] ---
+  MSG[[13]]: Dance, dance, dear Shulammite, Angel-Princess!      Dance, and we'll feast our eyes on your grace!  Everyone wants to see the Shulammite dance      her victory dances of love and peace.
+  EN : §Dance, Shulammite!
+  KO : '춤춰라, 춤춰라, 사랑하는 술람미 여인아, 천사 같은 공주님아! 춤을 춰라, 우리가 네 우아한 모습을 눈에 담을 수 있도록! 모두가 술람미 여인이 사랑과 평화의 승리의 춤을 추는 것을 보고 싶어 해.'
+  !! FLAGS: LOW_RATIO 0.07 | MISSING_TOKENS: PN:angel, PN:everyone, PN:princess
+
+--- ch6 para17 EN_badge=[13] KO_badge=[13] ---
+  MSG[[13]]: Dance, dance, dear Shulammite, Angel-Princess!      Dance, and we'll feast our eyes on your grace!  Everyone wants to see the Shulammite dance      her victory dances of love and peace.
+  EN : Dance, dance, my dear Shulammite, my Angel-Princess! Dance, and we'll just feast our eyes on your amazing grace! Everyone wants to see the Shulammite dance her victory dances of love and peace.
+  KO : '춤춰라, 춤춰라, 사랑하는 술람미 여인아, 천사 같은 공주님아! 춤을 춰라, 우리가 네 우아한 모습을 눈에 담을 수 있도록! 모두가 술람미 여인이 사랑과 평화의 승리의 춤을 추는 것을 보고 싶어 해.'
+====================================================================================================
+CHAPTER 7  EN_title="He's Whipped and He Knows It"  KO_title="춤추는 술람미"
+  EN paras=3 KO paras=3 msg_units=3
+
+--- ch7 para0 EN_badge=[1-8] KO_badge=[1-8] ---
+  MSG[[1, 2, 3, 4, 5, 6, 7, 8, 9]]: Shapely and graceful your sandaled feet,      and queenly your movement—  Your limbs are lithe and elegant,      the work of a master artist.  Your body is a chalice,      wine-filled.  Your skin is silken and tawny      like a field of wheat touched by the breeze.  Your breasts are like fawns,      twins of a gazelle.  Your neck is carved ivory, curved and slender.      Your eyes are wells of light, deep with mystery.      Quintessentially feminine!  Your profile turns all heads,      commandin
+  EN : Dang, you're so fine from head to toe. The way you move is straight-up queenly. Your legs are so sleek and elegant, like they were sculpted by a pro artist. Your waist is like a perfectly shaped goblet, just waiting to be filled with the best wine. Your skin is so smooth, like a field of wheat blowing in the wind. And your chest... wow, like two baby deer, twins even. Your neck is like a smooth, curved piece of ivory. Your eyes are so bright and full of secrets. Seriously, you're the definition of feminine! Your whole vibe just makes everyone turn their heads and pay attention. When I see big, beautiful mountains, I get this feeling of wanting to climb them, and honestly? You make me feel the same way. You've ruined me for anyone else, for real. Your beauty, inside and out, is just perfect, my love, my best friend. You stand so tall and graceful, like a palm tree, and your breasts are li
+  KO : 와, 샌들 신은 네 발은 완전 예술이고, 움직임은 완전 여왕님 포스야. 네 다리는 완전 부드럽고 우아해, 진짜 장인이 만든 작품 같음. 네 몸은 마치 포도주가 가득 찬 성배 같고, 네 피부는 바람에 흔들리는 밀밭처럼 부드러워. 네 가슴은 아기 사슴, 쌍둥이 가젤 같아. 네 목은 상아로 깎아 만든 것처럼 곡선이 진짜 예쁘고 가늘어. 네 눈은 빛나는 우물 같고, 신비로움으로 가득 차 있어. 완전 여성미 대폭발! 네 옆모습 보면 다들 고개를 돌려 쳐다볼 정도라니까. 내가 높은 산맥을 볼 때 느끼는 그런 감정들 있잖아, 막 정복하고 싶은 욕망, 더 높은 곳을 향한 갈망 같은 거. 그런 게 딱 너를 생각나게 해. 너 때문에 다른 사람은 눈에 들어오지도 않아! 내 사랑, 내 가장 친한 친구야, 너의 내면과 외면의 아름다움은 그냥 완벽 그 자체야. 너는 야자수처럼 키가 크고 유연하고, 네 풍만한 가슴은 달콤한 대추야자 송이 같아. 그래서 내가 말했지, "저 야자수에 올라가고 말 거야! 저 열매를 만져볼 거야!" 라고. 오, 그래! 네 가슴은 나에게 달콤한 과일송이가 될 거고, 네 숨결은 신선한 민트처럼 상쾌하고, 네 혀와 입술은 최고의 와인 같을 거야.
+  !! FLAGS: MISSING_TOKENS: PN:quintessentially, PN:remind, Q:caress, Q:going
+
+--- ch7 para1 EN_badge=[9-11] KO_badge=[9-11] ---
+  MSG[[1, 2, 3, 4, 5, 6, 7, 8, 9]]: Shapely and graceful your sandaled feet,      and queenly your movement—  Your limbs are lithe and elegant,      the work of a master artist.  Your body is a chalice,      wine-filled.  Your skin is silken and tawny      like a field of wheat touched by the breeze.  Your breasts are like fawns,      twins of a gazelle.  Your neck is carved ivory, curved and slender.      Your eyes are wells of light, deep with mystery.      Quintessentially feminine!  Your profile turns all heads,      commandin
+  MSG[[9, 10, 11, 12]]: Yes, and yours are, too—my love's kisses      flow from his lips to mine.  I am my lover's.      I'm all he wants. I'm all the world to him!  Come, dear lover—      let's tramp through the countryside.  Let's sleep at some wayside inn,      then rise early and listen to bird-song.  Let's look for wildflowers in bloom,      blackberry bushes blossoming white,  Fruit trees adorned      with cascading flowers.  And there I'll give myself to you,      my love to your love!
+  EN : Yeah, and your kisses are amazing too—they flow right from your lips to mine. I belong to my man. I'm everything he wants. I'm his whole world! C'mon, babe—let's just get out of here and wander through the countryside. We can crash at some random little inn, then wake up super early and listen to the birds. Let's go find some wildflowers, see the blackberry bushes starting to bloom, and check out all the fruit trees with their flowers. And right there, I'll give all of myself to you, all my love.
+  KO : 응, 맞아, 네 키스도 그래—내 사랑의 키스는 그 사람 입술에서 내 입술로 흘러들어와. 나는 내 사랑하는 사람의 것이고, 그 사람이 원하는 건 오직 나뿐이야. 내가 그의 세상인 거지! 이리 와, 내 사랑—우리 같이 시골길을 걸어보자. 길가 여관에서 하룻밤 자고, 아침 일찍 일어나서 새소리를 들어보는 거야. 활짝 핀 들꽃도 찾아보고, 하얗게 꽃 피기 시작한 블랙베리 덤불도 보고, 꽃이 주렁주렁 열린 과일나무들도 구경하자. 그리고 바로 거기서, 내가 너에게 나를 줄게, 내 사랑을 너의 사랑에게!
+  !! FLAGS: LOW_RATIO 0.37 | MISSING_TOKENS: PN:come, PN:quintessentially, PN:remind, Q:caress, Q:climb, Q:going, Q:palm
+
+--- ch7 para2 EN_badge=[12-13] KO_badge=[12-13] ---
+  MSG[[9, 10, 11, 12]]: Yes, and yours are, too—my love's kisses      flow from his lips to mine.  I am my lover's.      I'm all he wants. I'm all the world to him!  Come, dear lover—      let's tramp through the countryside.  Let's sleep at some wayside inn,      then rise early and listen to bird-song.  Let's look for wildflowers in bloom,      blackberry bushes blossoming white,  Fruit trees adorned      with cascading flowers.  And there I'll give myself to you,      my love to your love!
+  MSG[[13]]: Love-apples drench us with fragrance,      fertility surrounds, suffuses us,  Fruits fresh and preserved      that I've kept and saved just for you, my love.
+  EN : The smell of love is all around us, like we're surrounded by this vibe of new life and growth. All this fruit, fresh and dried, that I've been saving just for you, my love.
+  KO : 사랑의 사과가 우리 주위에 향기를 뿜고, 생명력이 우리를 감싸고 넘쳐흘러. 신선한 과일과 말린 과일들, 내가 오직 내 사랑, 너를 위해 간직하고 아껴둔 것들이야.
+  !! FLAGS: LOW_RATIO 0.32 | MISSING_TOKENS: PN:come, PN:fruits
+====================================================================================================
+CHAPTER 8  EN_title="Love is Unstoppable, No Cap"  KO_title="사랑은 강하다"
+  EN paras=10 KO paras=10 msg_units=9
+
+--- ch8 para0 EN_badge=[1-2] KO_badge=[1-2] ---
+  MSG[[1, 2]]: I wish you'd been my twin brother,      sharing with me the breasts of my mother,  Playing outside in the street,      kissing in plain view of everyone,      and no one thinking anything of it.  I'd take you by the hand and bring you home      where I was raised by my mother.  You'd drink my wine      and kiss my cheeks.
+  EN : I so wish you were my actual brother, like, the one who shared my mom's milk. Then I could kiss you right out in public and nobody would bat an eye. I'd lead you by the hand straight to my mom's house, where she raised me. I'd give you my special spiced wine to drink and kiss your cheeks.
+  KO : 아, 오빠가 차라리 우리 엄마 젖을 같이 나눠 먹은 친오빠였으면 대단한 거었을 텐데. 그럼 길거리에서 막 키스해도 아무도 이상하게 안 쳐다볼 거 아냐. 내가 오빠 손 잡고 우리 엄마 집, 내가 자란 그곳으로 데려갈게. 거기서 내가 만든 향긋한 와인도 주고 볼에 뽀뽀도 해줄게.
+  !! FLAGS: MISSING_TOKENS: PN:playing
+
+--- ch8 para1 EN_badge=[3-4] KO_badge=[3-4] ---
+  MSG[[3, 4]]: Imagine! His left hand cradling my head,      his right arm around my waist!  Oh, let me warn you, sisters in Jerusalem:      Don't excite love, don't stir it up,      until the time is ripe—and you're ready.
+  EN : Just imagine! His left hand is cradling my head, and his right arm is wrapped around my waist! But yo, a little PSA for all my girls in Jerusalem: Don't try to force love or stir it up before it's time. You gotta wait until it's ripe and you're actually ready.
+  KO : 상상만 해도 굉장한! 그의 왼팔은 내 머리 밑에 있고, 그의 오른팔은 내 허리를 감싸고 있어! 아, 예루살렘의 내 친구들아, 내가 진짜 경고하는데, 사랑을 억지로 깨우거나 서두르지 마. 때가 될 때까지, 너네가 진짜 준비될 때까지 기다려야 돼.
+
+--- ch8 para2 EN_badge=[5] KO_badge=[5] ---
+  MSG[[5]]: Who is this I see coming up from the country,      arm in arm with her lover? I found you under the apricot tree,      and woke you up to love.  Your mother went into labor under that tree,      and under that very tree she bore you.
+  EN : Who's this coming up from the wilderness, leaning on her man like that?
+  KO : 저기 시골에서 자기 남친한테 완전 찰싹 붙어서 오는 애는 누구래?
+  !! FLAGS: LOW_RATIO 0.31
+
+--- ch8 para3 EN_badge=[5] KO_badge=[5] ---
+  MSG[[5]]: Who is this I see coming up from the country,      arm in arm with her lover? I found you under the apricot tree,      and woke you up to love.  Your mother went into labor under that tree,      and under that very tree she bore you.
+  EN : I woke you up under the apricot tree, right where your mom went into labor with you. Yeah, under that exact tree, she gave birth to you.
+  KO : 내가 살구나무 아래서 오빠를 깨웠어. 거기가 바로 오빠네 엄마가 오빠를 낳으려고 진통했던 바로 그 장소야. 바로 그 나무 아래서 오빠가 태어난 거지.
+
+--- ch8 para4 EN_badge=[6-8] KO_badge=[6-8] ---
+  MSG[[6, 7, 8]]: Hang my locket around your neck,      wear my ring on your finger.  Love is invincible facing danger and death.      Passion laughs at the terrors of hell.  The fire of love stops at nothing—      it sweeps everything before it.  Flood waters can't drown love,      torrents of rain can't put it out.  Love can't be bought, love can't be sold—      it's not to be found in the marketplace.  My brothers used to worry about me:
+  MSG[[8, 9]]: "Our little sister has no breasts.      What shall we do with our little sister      when men come asking for her?  She's a virgin and vulnerable,      and we'll protect her.  If they think she's a wall, we'll top it with barbed wire.      If they think she's a door, we'll barricade it."
+  EN : Put me like a seal over your heart, like a signet ring on your finger. Because love is as strong as death, and passion is as intense as the grave. It's a blazing fire, a legit flame from God. No amount of water can quench love; no floods can sweep it away. If someone tried to buy love with all their money, they'd be totally laughed at. My brothers used to stress about me:
+  KO : 나를 오빠 마음에 도장처럼 새겨줘. 오빠 손가락에 끼는 반지처럼 간직해줘. 사랑은 죽음처럼 강하고, 질투는 지옥처럼 잔인하거든. 사랑은 진짜 활활 타오르는 불길 같아서, 그 어떤 것도 막을 수 없어. 홍수가 나도 그 사랑을 끌 수 없고, 강물이 넘쳐도 휩쓸어가지 못해. 누가 자기 전 재산을 다 준다고 해도 사랑이랑은 절대 못 바꾸지. 그랬다간 진짜 비웃음만 살걸. 내 오빠들이 나에 대해 걱정하곤 했어.
+  !! FLAGS: MISSING_TOKENS: Q:asking, Q:barbed, Q:barricade, Q:breasts, Q:come, Q:door, Q:little, Q:protect, Q:shall, Q:she's, Q:sister, Q:think
+
+--- ch8 para5 EN_badge=[9] KO_badge=[9] ---
+  MSG[[8, 9]]: "Our little sister has no breasts.      What shall we do with our little sister      when men come asking for her?  She's a virgin and vulnerable,      and we'll protect her.  If they think she's a wall, we'll top it with barbed wire.      If they think she's a door, we'll barricade it."
+  EN : 'Our little sister, she hasn't developed yet. What are we gonna do with her when guys start asking her out? She's like a wall, so we'll build a silver tower to protect her. She's like a door, so we'll board her up with cedar planks.'
+  KO : '우리 막내 여동생은 아직 가슴도 없는데. 남자들이 걔한테 관심 보이면 어떡하지? 걔는 성벽 같으니까 우리가 은으로 망대를 쌓아서 지켜주자. 문 같으니까, 백향목으로 빗장을 질러서 막아주자.'
+  !! FLAGS: MISSING_TOKENS: Q:barbed, Q:barricade, Q:breasts, Q:come, Q:shall, Q:think, Q:virgin, Q:vulnerable, Q:wire
+
+--- ch8 para6 EN_badge=[10] KO_badge=[10] ---
+  MSG[[10]]: Dear brothers, I'm a walled-in virgin still,      but my breasts are full—  And when my lover sees me,      he knows he'll soon be satisfied.
+  EN : Well, dear brothers, I am a wall, but now my breasts are like towers. And when my lover sees me, he knows he's found total satisfaction.
+  KO : 오빠들, 나 이제 성벽 맞는데, 내 가슴은 망대 같아. 그래서 내 사랑이 나를 볼 때, 그는 완전한 만족감을 얻을 거야.
+
+--- ch8 para7 EN_badge=[11-12] KO_badge=[11-12] ---
+  MSG[[11, 12]]: King Solomon may have vast vineyards      in lush, fertile country,  Where he hires others to work the ground.      People pay anything to get in on that bounty.  But *my* vineyard is all mine,      and I'm keeping it to myself.  You can have your vast vineyards, Solomon,      you and your greedy guests!
+  EN : Solomon has a vineyard at Baal Hamon, and he rents it out to others. Each one has to bring in a thousand silver coins. But my own vineyard is all mine, and I'm in charge of it. You can have your thousand coins, Solomon, and let the renters keep their two hundred!
+  KO : 솔로몬 왕이 바알하몬에 포도밭이 있었는데, 그걸 농부들한테 빌려줬대. 각자 거기서 은 천 개씩 바쳐야 했지. 근데 내 포도밭은 완전 내 거고, 내가 알아서 다 해. 솔로몬, 그 천 개 너나 가져. 농부들은 이백 개나 챙기라 그래!
+  !! FLAGS: MISSING_TOKENS: PN:people, PN:where
+
+--- ch8 para8 EN_badge=[13] KO_badge=[13] ---
+  MSG[[13]]: Oh, lady of the gardens,      my friends are with me listening.      Let me hear your voice!
+  EN : Hey you, chilling in the gardens, my friends are listening for your voice. Let me hear it too!
+  KO : 정원에 있는 아가씨! 내 친구들이 네 목소리를 듣고 싶어 해. 나도 듣게 해줘!
+
+--- ch8 para9 EN_badge=[14] KO_badge=[14] ---
+  MSG[[14]]: Run to me, dear lover.      Come like a gazelle.  Leap like a wild stag      on the spice mountains.
+  EN : Run to me, my love! Be like a gazelle or a young stag on the mountains of spices.
+  KO : 내 사랑, 나에게 달려와 줘! 향기로운 산 위에 있는 가젤이나 어린 사슴처럼 빨리 와줘!
+  !! FLAGS: MISSING_TOKENS: PN:come, PN:leap

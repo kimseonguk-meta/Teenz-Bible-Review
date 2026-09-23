@@ -1,0 +1,54 @@
+====================================================================================================
+CHAPTER 12  EN_title="Remember Your Creator Before It's Too Late"  KO_title="창조주를 기억하라"
+  EN paras=9 KO paras=9 msg_units=8
+
+--- ch12 para0 EN_badge=[1-2] KO_badge=[1-2] ---
+  MSG[[1, 2]]: Honor and enjoy your Creator while you're still young,  Before the years take their toll and your vigor wanes,  Before your vision dims and the world blurs  And the winter years keep you close to the fire.
+  EN : Yo, make sure you remember your Creator while you're still young, before the tough years hit and you start losing your energy. Before your eyesight gets blurry, the world looks fuzzy, and you're stuck inside by the fire during the cold winters.
+  KO : 야, 너 젊을 때 창조주를 기억하고 즐겨야 된대. 힘든 세월이 닥치고 기력이 약해지기 전에 말이야. 눈이 침침해지고 세상이 흐릿해 보이고, 추운 겨울에 불 옆에만 콕 박혀있기 전에.
+
+--- ch12 para1 EN_badge=[3-6] KO_badge=[3-6] ---
+  MSG[[3, 4, 5]]: In old age, your body no longer serves you so well.  Muscles slacken, grip weakens, joints stiffen.  The shades are pulled down on the world.  You can't come and go at will. Things grind to a halt.  The hum of the household fades away.  You are wakened now by bird-song.  Hikes to the mountains are a thing of the past.  Even a stroll down the road has its terrors.  Your hair turns apple-blossom white,  Adorning a fragile and impotent matchstick body.  Yes, you're well on your way to eternal rest,
+  MSG[[6, 7]]: Life, lovely while it lasts, is soon over.  Life as we know it, precious and beautiful, ends.  The body is put back in the same ground it came from.  The spirit returns to God, who first breathed it.
+  EN : When you get old, your body isn't on your side anymore. Your muscles get weak, your grip loosens, and your joints get all stiff. It's like the curtains are drawn on the world. You can't just go wherever you want, whenever you want. Everything just kind of stops. The normal sounds of the house disappear. You get woken up by birds chirping. Forget about hiking up mountains; that's not happening. Even just walking down the street can feel terrifying. Your hair turns white like apple blossoms, sitting on top of a super fragile, weak body. Yeah, you're on your way to your forever home, and your friends are already starting to plan your funeral.
+  KO : 나이 들면 몸이 예전 같지 않은 거임. 근육은 물렁해지고, 쥐는 힘도 약해지고, 관절은 뻣뻣해진대. 세상에 커튼을 쳐버린 것처럼 깜깜하대. 마음대로 돌아다니지도 못한대. 모든 게 그냥 멈춰버리는 거임. 집안의 웅성거리는 소리도 사라지고. 이제는 새소리에 잠이 깬대. 등산은 아예 옛날 얘기고, 길거리 잠깐 나가는 것도 무섭대. 머리는 사과꽃처럼 하얘지고, 성냥개비처럼 여윈 몸만 남는 거지. 그래 영원한 안식처로 갈 날이 머지않은 거임. 친구들은 벌써 장례식 계획 짠다?
+  !! FLAGS: MISSING_TOKENS: PN:adorning, PN:hikes, PN:life, PN:while
+
+--- ch12 para2 EN_badge=[7] KO_badge=[7] ---
+  MSG[[6, 7]]: Life, lovely while it lasts, is soon over.  Life as we know it, precious and beautiful, ends.  The body is put back in the same ground it came from.  The spirit returns to God, who first breathed it.
+  EN : Life is beautiful, but it's over in a flash. The precious and amazing life we have ends. Our bodies go back to the ground they came from, and our spirits go back to God who gave them to us in the first place.
+  KO : 인생은 즐거울 때 즐겨야 돼. 금방 끝나거든. 우리가 아는 소중하고 아름다운 인생은 끝이 있대. 몸은 원래 왔던 흙으로 돌아가고, 영혼은 그걸 주신 하나님께로 돌아가는 거임.
+
+--- ch12 para3 EN_badge=[8] KO_badge=[8] ---
+  MSG[[8]]: It's all smoke, nothing but smoke.  The Quester says that everything's smoke.
+  EN : It's all smoke, just smoke. The Teacher says everything is smoke.
+  KO : 다 연기 같은 거래. 그냥 연기. 전도자가 모든 게 다 연기라고 그랬음.
+  !! FLAGS: MISSING_TOKENS: PN:quester
+
+--- ch12 para4 EN_badge=[9-10] KO_badge=[9-10] ---
+  MSG[[9, 10]]: Besides being wise himself, the Quester also taught others knowledge. He weighed, examined, and arranged many proverbs. The Quester did his best to find the right words and write the plain truth.
+  EN : Besides being wise himself, the Teacher also taught other people what he knew. He carefully considered, studied, and put together a ton of proverbs. The Teacher tried his best to find the perfect words to write down the simple truth.
+  KO : 전도자는 자기가 지혜로울 뿐만 아니라 다른 사람들에게도 지식을 가르쳤대. 수많은 잠언들을 저울질하고, 연구하고, 정리했대. 전도자는 진리의 말씀을 올바르게 쓰려고 최선을 다했음.
+  !! FLAGS: MISSING_TOKENS: PN:quester
+
+--- ch12 para5 EN_badge=[11] KO_badge=[11] ---
+  MSG[[11]]: The words of the wise prod us to live well.  They're like nails hammered home, holding life together.  They are given by God, the one Shepherd.
+  EN : The words of the wise push us to live a good life. They're like nails hammered in tight, holding our lives together. They come from God, the one Shepherd who guides us.
+  KO : 지혜로운 사람들의 말은 우리를 잘 살도록 이끌어준대. 인생을 꽉 잡아주는 못과 같다는 거임. 그건 다 한 분의 목자이신 하나님이 주신 거래.
+
+--- ch12 para6 EN_badge=[12] KO_badge=[12] ---
+  MSG[[12, 13]]: But regarding anything beyond this, dear friend, go easy. There's no end to the publishing of books, and constant study wears you out so you're no good for anything else. The last and final word is this: Fear God.  Do what he tells you.
+  EN : But hey, my friend, when it comes to anything more than this, just chill. People will never stop publishing books, and studying all the time will just wear you out until you're useless. So, here's the final, most important thing:
+  KO : 근데 친구야, 이거 말고 다른 건 너무 신경 쓰지 마. 책은 끝도 없이 나오고, 계속 공부만 하면 지쳐서 아무것도 못하게 된대. 마지막으로 할 말은 이거임.
+  !! FLAGS: MISSING_TOKENS: PN:fear
+
+--- ch12 para7 EN_badge=[13] KO_badge=[13] ---
+  MSG[[12, 13]]: But regarding anything beyond this, dear friend, go easy. There's no end to the publishing of books, and constant study wears you out so you're no good for anything else. The last and final word is this: Fear God.  Do what he tells you.
+  EN : Respect God and do what he tells you.
+  KO : 하나님을 경외하고 그분이 시키는 대로 해라.
+  !! FLAGS: LOW_RATIO 0.17 | MISSING_TOKENS: PN:fear
+
+--- ch12 para8 EN_badge=[14] KO_badge=[14] ---
+  MSG[[14]]: And that's it. Eventually God will bring everything that we do out into the open and judge it according to its hidden intent, whether it's good or evil.
+  EN : And that's it. Eventually, God is going to bring everything we've ever done out into the light and judge it all based on what our secret intentions were, whether they were good or bad.
+  KO : 이게 끝임. 결국 하나님이 우리가 한 모든 일을 드러내시고, 그 속마음이 선했는지 악했는지에 따라 심판하실 거임.
