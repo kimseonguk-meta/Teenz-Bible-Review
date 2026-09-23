@@ -1,353 +1,370 @@
 [
-  {
-    "chapter": 1,
-    "title": "My Crush is a Total King",
+ {
+  "chapter": 1,
+  "title": "My Crush is a Total King",
+  "paragraphs": [
+   "The ultimate song — Solomon's greatest hit of all!",
+   "Just kiss me already, like for real! Your love is on another level, way better than any drink. Even just saying your name feels so good, like a chill stream. No wonder everyone's obsessed with you.",
+   "Let's just go, you and me. Run away together, just us and my king. We'll have the best time, singing and making the best music. Seriously, your love is top-tier, better than the fanciest stuff. It's so obvious why everyone loves you.",
+   "Hey, girls of Jerusalem, I know I look a little weathered, but I'm still beautiful — sun-burnt like those desert tents of Kedar, yet soft like Solomon's Temple hangings. Don't look down on me because I'm dark; the sun did this to me. My brothers were jerks and sent me to work the fields all day, so I had to take care of the farm instead of myself.",
+   "Seriously, where are you at? I miss you like crazy. Tell me where you're working, where you take your sheep for their lunch break. Why do I have to feel so left out, like I'm not in your circle?",
+   "If you don't know, you, the most beautiful girl out there, it's cool. Just hang with your sheep, lead them to the good spots. Stick with your shepherd friends.",
+   "You remind me of one of Pharaoh's super sleek and fancy horses. Those earrings look amazing on you, and that necklace totally highlights your neck. I'm gonna make you some custom jewelry, gold and silver, to really show off how beautiful you are.",
+   "When my king, my lover, was lying next to me, my perfume filled the whole room. His head on my chest was like a bag of the best-smelling spices. My guy is like a whole bouquet of wildflowers, picked just for me from the fields of En Gedi.",
+   "Oh, my friend! You're so beautiful! And your eyes are so pretty—like doves!",
+   "And you, my love—you're so handsome! And our bed is like a secret spot in the forest. We've got a roof of cedar trees and walls of cypress, and it all smells so fresh and green."
+  ],
+  "verseRanges": [
+   "1",
+   "2-3",
+   "4",
+   "5-6",
+   "7",
+   "8",
+   "9-11",
+   "12-14",
+   "15",
+   "16-17"
+  ],
+  "msg_ranges": [
+   "1",
+   "2-3",
+   "4",
+   "5-6",
+   "7",
+   "8",
+   "9-11",
+   "12-14",
+   "15",
+   "16-17"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "1:5-6 restored 'soft like Solomon's Temple hangings' + \"don't look down on me because I'm dark\"; 1:4 'making great music' fixed (was 'making amazing memories'); 1:1 'banger'->'greatest hit'; 1:2-3 'hits different'->'on another level'"
+  ],
+  "confirmations_needed": []
+ },
+ {
+  "chapter": 2,
+  "title": "My Man is on Another Level",
+  "paragraphs": [
+   "I’m just a wildflower from the plains of Sharon, a regular lotus from the valley pools.",
+   "He says, “A lotus blooming in a swamp of weeds—that’s you, my girl, compared to everyone else.”",
+   "And my man? He’s like an apricot tree standing out in a forest of ordinary trees — he just stands out from all the other guys. All I want is to sit in his shade and soak up his delicious love. He brought me home for a festive meal, but honestly? His eyes were feasting on me!",
+   "Oh! Give me something refreshing to eat — and quick! Apricots, raisins, anything! I’m about to faint with love! His left hand cradles my head, and his right arm wraps around my waist!",
+   "Oh, let me warn you, sisters in Jerusalem — by the gazelles, yes, by all the wild deer: don’t wake love up, don’t stir it up, until the time is right and you’re ready.",
+   "Oh! Do you hear that? It’s my love coming! Look! He’s jumping over mountains, leaping over hills. My man is like a graceful gazelle, a young stag full of energy. He’s right there, on tiptoe at the gate, all ears and eyes — ready! My lover is here, and he’s talking to me!",
+   "He says, “Get up, my beautiful love, let’s go! Look around — winter is finally over, the rain is gone! Flowers are blooming everywhere. The whole world is like a choir, singing! The birds are filling the forest with their sweet songs. The lilacs are purple and fragrant, and the cherry trees are full of blossoms. So get up, my dear, my beautiful love — come with me! My shy dove, stop hiding. Come out so I can see your face and hear your voice. Your voice is so calming, and your face is truly stunning.”",
+   "And then I’m like, “You gotta protect us from the foxes, the sneaky foxes trying to get into our flowering garden.”",
+   "My love is mine and I’m his. He hangs out in our garden at night, enjoying the flowers, until dawn breathes its light and the night slips away.",
+   "Turn to me, my love! Come like a gazelle, leap like a young stag over those beautiful mountains!"
+  ],
+  "verseRanges": [
+   "1",
+   "2",
+   "3-4",
+   "5-6",
+   "7",
+   "8-10",
+   "11-14",
+   "15",
+   "16",
+   "17"
+  ],
+  "msg_ranges": [
+   "1",
+   "2",
+   "3-4",
+   "5-6",
+   "7",
+   "8-10",
+   "11-14",
+   "15",
+   "16-17"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "2:5-6 restored (apricots/raisins, faint with love, his arms around her); 2:7 warning restored (was dropped); 2:16 restored 'until dawn breathes its light and night slips away'; 2:8-10 restored 'My lover is here, and he's talking to me'; badge fixes [3-7]->[3-4]/[5-6]/[7], [8-9]->[8-10], [10-14]->[11-14]; slang: lowkey/OMG/no cap/popping off removed"
+  ],
+  "confirmations_needed": []
+ },
+ {
+  "chapter": 3,
+  "title": "I Searched All Night for My Lost Love",
+  "paragraphs": [
+   "I was just tossing and turning all night, couldn’t sleep. I was missing my guy like crazy. It actually hurt that he wasn’t there. So I got up and started wandering around the city, checking every street and alley. I was desperate to find him! I looked everywhere, but he was nowhere. Then the night guards found me while they were on patrol. I asked them, ‘Have you guys seen the one I love?’ And you won’t believe it — right after I left them, I found him! I found my love. I just grabbed him and hugged him so tight, and I wasn’t letting go until I got him home again, safe and sound by the fire.",
+   "So girls of Jerusalem, promise me this — swear it by the gazelles and the wild deer: don’t wake love up or stir it up until the time is right and you’re ready.",
+   "Then I saw something wild — a cloud of dust rising out of the desert, with sweet smells and spicy perfume filling the air! It was Solomon’s carriage, carried and guarded by sixty soldiers, sixty of Israel’s finest — armed to the teeth, trained for battle, ready for anything, anytime. King Solomon had this carriage built from fine Lebanon cedar, framed with silver and roofed with gold, with purple fabric cushions and the inside lined with tooled leather.",
+   "Come on, girls of Jerusalem, you have to see this! Everyone in Zion, don’t miss out! It’s my king, my love, all dressed up and garlanded for his wedding. His heart is full, bursting with joy!"
+  ],
+  "verseRanges": [
+   "1-4",
+   "5",
+   "6-10",
+   "11"
+  ],
+  "msg_ranges": [
+   "1-4",
+   "5",
+   "6-10",
+   "11"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "3:9-10 carriage description restored (cedar/silver/gold/purple cushions/tooled leather — was dropped); 3:6-10 restored 'armed to the teeth, trained for battle, ready for anything, anytime'; 3:11 restored 'garlanded'; badge restructure [1-5]/[6-8]/[9-11] -> [1-4]/[5]/[6-10]/[11]; title clickbait caps toned down"
+  ],
+  "confirmations_needed": []
+ },
+ {
+  "chapter": 4,
+  "title": "He's Completely Captivated by Her Beauty",
+  "paragraphs": [
+   "Wow, you're seriously stunning, my love. Your eyes behind your veil are like gentle doves, and your hair flows like a whole flock of goats cascading down a sunny hill. Your smile? It's so full and expressive, strong and clean. Your lips are a vibrant red, and your mouth is just so elegant and inviting. Even veiled, your cheeks are soft and glowing.",
+   "The way you carry yourself, that smooth, graceful neck—it makes everyone turn their heads. Seriously, total awe and admiration. And your chest is like two young deer, twins of a gazelle, just hanging out among the first spring flowers.",
+   "The sweet scent of your body, the soft, spicy curves—it's all calling to me, and I'm coming. I'll stay right here until the sun comes up and the night fades away. You are beautiful from head to toe, my dear love, beyond compare, like, absolutely flawless.",
+   "Come with me, my bride, let's leave Lebanon. Get away from your high mountain hideout. Ditch that wilderness retreat where you're hanging out with lions and panthers are your bodyguards. You've completely stolen my heart, my dear friend. You just looked at me, and I was a goner. One glance and I was hopelessly in love. Your love is so beautiful, my dear, dear friend—way better than the most expensive wine, and your scent is more exotic than the rarest spices. Your kisses are literally honey, my love, and every word you say is something to be savored. Your clothes smell like the great outdoors, that fresh scent of the high mountains. My dear lover and friend, you're like a secret garden, a private, pure spring. Body and soul, you're a paradise, a whole orchard of juicy fruits—ripe apricots and peaches, oranges and pears; nut trees and cinnamon, and all kinds of fragrant woods; mint and lavender, and every aromatic herb; a garden fountain, sparkling and splashing, fed by fresh springs from the Lebanon mountains.",
+   "Wake up, North Wind! Get a move on, South Wind! Breathe on my garden, let its spicy fragrance fill the air.",
+   "Oh, please let my lover come into his garden! Yes, let him eat all the best, ripe fruits."
+  ],
+  "verseRanges": [
+   "1-3",
+   "4-5",
+   "6-7",
+   "8-14",
+   "15",
+   "16"
+  ],
+  "msg_ranges": [
+   "1-5",
+   "6-7",
+   "8-15",
+   "16"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "title: 'Lowkey Obsessed'->'Completely Captivated' (slang 6-rule)"
+  ],
+  "confirmations_needed": []
+ },
+ {
+  "chapter": 5,
+  "title": "I Messed Up and Lost My Love",
+  "paragraphs": [
+   "I went to my garden, my best friend and my everything! I took in all the amazing smells, had the best food and drinks.",
+   "Hey everyone, let’s celebrate! Cheers to life and love!",
+   "I was sound asleep, but in my dream I was wide awake. Then I heard my lover knocking and calling for me!",
+   "“My dove, my dearest love, let me in! I’m out here soaked with the night dew, freezing and shivering.”",
+   "And I was like, “But I'm already in my PJs and all clean for bed. You want me to get all gross again?”",
+   "But then he reached through the door latch, and honestly? My heart started racing. I jumped up to open the door for him, totally shaky with excitement. But when I unlocked it and swung it open... he was gone. He’d gotten tired of waiting and left. My heart actually broke. I felt so awful. I ran outside to find him, but he was nowhere. I yelled out his name, but got nothing back. Then the night guards found me while they were on patrol — and they beat me up and ripped my clothes! Can you believe that? The guys who are supposed to be protecting the city!",
+   "So I'm begging you, all my girls in Jerusalem, if you see my man, please tell him I'm crazy about him and I need him.",
+   "And they were like, “Okay, but what's so special about this guy? Why are you begging for our help?”",
+   "My man is glowing with health — so radiant! He's literally one in a million. There's no one like him! He's golden, perfect, with raven-black curls tumbling across his shoulders. His eyes are like doves, soft and bright, but deep-set and full of meaning, like wells of water. His face is all rugged and his beard smells like sage. His voice is so warm and makes you feel safe. He's got these quiet, beautiful muscles under his skin. His body is like a work of art, hard and smooth as ivory. He stands tall like a cedar, strong and deep-rooted, A total mountain of a man, smelling like wood and stone. His words are like kisses, and his kisses are like words. Everything about him delights me and thrills me through and through!",
+   "That’s my lover, that’s my man, dear sisters in Jerusalem."
+  ],
+  "verseRanges": [
+   "1",
+   "1",
+   "2",
+   "2",
+   "3",
+   "4-7",
+   "8",
+   "9",
+   "10-16",
+   "10-16"
+  ],
+  "msg_ranges": [
+   "1",
+   "2",
+   "3",
+   "4-7",
+   "8",
+   "9",
+   "10-16"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1",
     "paragraphs": [
-      "The ultimate song, Solomon's banger of a song!",
-      "Just kiss me already, like for real! Your love hits different, way better than any drink. Even just saying your name feels so good, like a chill stream. No wonder everyone's obsessed with you.",
-      "Let's just go, you and me. Run away together, just us and my king. We'll have the best time, singing and making amazing memories. Seriously, your love is top-tier, better than the fanciest stuff. It's so obvious why everyone loves you.",
-      "Hey girls of Jerusalem, I know I look a little rough around the edges, kinda sun-burnt like one of those desert tents, but I've still got it. Don't judge me for my tan. My brothers were being jerks and made me work outside all day, so I had to take care of the farm instead of myself.",
-      "Seriously, where are you at? I miss you like crazy. Tell me where you're working, where you take your sheep for their lunch break. Why do I have to feel so left out, like I'm not in your circle?",
-      "If you don't know, you, the most beautiful girl out there, it's cool. Just hang with your sheep, lead them to the good spots. Stick with your shepherd friends.",
-      "You remind me of one of Pharaoh's super sleek and fancy horses. Those earrings look amazing on you, and that necklace totally highlights your neck. I'm gonna make you some custom jewelry, gold and silver, to really show off how beautiful you are.",
-      "When my king, my lover, was lying next to me, my perfume filled the whole room. His head on my chest was like a bag of the best-smelling spices. My guy is like a whole bouquet of wildflowers, picked just for me from the fields of En Gedi.",
-      "Oh, my friend! You're so beautiful! And your eyes are so pretty—like doves!",
-      "And you, my love—you're so handsome! And our bed is like a secret spot in the forest. We've got a roof of cedar trees and walls of cypress, and it all smells so fresh and green."
+     0,
+     1
     ],
-    "verseRanges": [
-      "1",
-      "2-3",
-      "4",
-      "5-6",
-      "7",
-      "8",
-      "9-11",
-      "12-14",
-      "15",
-      "16-17"
-    ],
-    "msg_ranges": [
-      "1",
-      "2-3",
-      "4",
-      "5-6",
-      "7",
-      "8",
-      "9-11",
-      "12-14",
-      "15",
-      "16-17"
-    ],
-    "merges": [],
-    "splits": [],
-    "changes": [],
-    "confirmations_needed": []
-  },
-  {
-    "chapter": 2,
-    "title": "My Man is on Another Level",
+    "note": "MSG v1 split into 2 paragraphs"
+   },
+   {
+    "msg_range": "2",
     "paragraphs": [
-      "I’m just a wildflower from the plains of Sharon, a regular lotus from the valley pools.",
-      "He says, “A lotus blooming in a swamp of weeds—that’s you, my girl, compared to everyone else.”",
-      "And my man? He’s like a legit apricot tree in a forest of boring ones; he just stands out from all the other guys. All I want is to chill in his shade and just soak up his amazing love. He brought me to this huge feast, but lowkey, it felt like I was the only thing he was looking at!",
-      "OMG, do you hear that? It's my love coming! Look! He's jumping over mountains, leaping over hills. My man is like a total gazelle, a young stag full of energy. He's peeking through the window, looking through the lattice, totally ready!",
-      "He says, “Get up, my beautiful love, let’s go! Look around—winter is finally over, the rain is gone! Flowers are blooming everywhere. The whole world is basically singing! The birds are going crazy in the forest. The lilacs smell amazing, and the cherry blossoms are popping off. So get up, my dear, my beautiful love—come with me! My shy dove, stop hiding. Come out so I can see you and hear your voice. Your voice is so calming and your face is, no cap, stunning.”",
-      "And then I’m like, “You gotta protect us from the foxes, the sneaky foxes that are trying to ruin our perfect little garden.”",
-      "My love is mine and I'm his. He hangs out in our garden at night, checking out the flowers.",
-      "My love, come back to me! Hurry like a gazelle leaping over those amazing mountains, like a young stag!"
+     2,
+     3
     ],
-    "verseRanges": [
-      "1",
-      "2",
-      "3-7",
-      "8-9",
-      "10-14",
-      "15",
-      "16",
-      "17"
-    ],
-    "msg_ranges": [
-      "1",
-      "2",
-      "3-4",
-      "5-6",
-      "7",
-      "8-10",
-      "11-14",
-      "15",
-      "16-17"
-    ],
-    "merges": [],
-    "splits": [],
-    "changes": [],
-    "confirmations_needed": []
-  },
-  {
-    "chapter": 3,
-    "title": "I Searched ALL NIGHT For My Lost Love... And You Won't BELIEVE What Happened Next!",
+    "note": "MSG v2 split into 2 paragraphs"
+   },
+   {
+    "msg_range": "10-16",
     "paragraphs": [
-      "I was just tossing and turning all night, couldn't sleep. I was missing my guy like crazy. It actually hurt that he wasn't there. So I was like, 'I can't just lie here,' and I got up and started wandering around the city, checking every street and alley. I was desperate to find him! I looked everywhere, but he was nowhere. Then the night guards found me while they were on patrol. I asked them, 'Have you guys seen the one I love?' And you won't believe it, right after I left them, I found him! I found my love. I just grabbed him and hugged him so tight, and I wasn't letting go until I got him back to my place, safe and sound. So girls of Jerusalem, promise me this — swear it: don't wake love up or stir it up before it's ready to respond.",
-      "Then I saw something wild — a cloud of dust rising out of the desert, like a whole caravan of spices and perfume! It was King Solomon's wedding carriage, surrounded by sixty armed soldiers, Israel's finest, swords ready and standing guard all through the night.",
-      "Come on, girls of Jerusalem, you have to see this! Everyone in Zion, don't miss out! It's my king, my love, all dressed up for his wedding, looking so happy. His heart is just bursting with joy!"
+     8,
+     9
     ],
-    "verseRanges": [
-      "1-5",
-      "6-8",
-      "9-11"
-    ],
-    "msg_ranges": [
-      "1-4",
-      "5",
-      "6-10",
-      "11"
-    ],
-    "merges": [],
-    "splits": [],
-    "changes": [],
-    "confirmations_needed": []
-  },
-  {
-    "chapter": 4,
-    "title": "He's Lowkey Obsessed With Her Beauty",
+    "note": "MSG 10-16 split into 2 paragraphs"
+   }
+  ],
+  "changes": [
+   "Declared 3 MSG splits; corrected badges to 10-16",
+   "5:2 restored MSG endearments (dove/dearest love) + 'soaked with the night dew, freezing and shivering'; 5:10-16 restored 'raven-black curls', 'eyes like doves...like wells of water', 'sage', 'hard and smooth as ivory', 'like a cedar, strong and deep-rooted', 'delights me and thrills me through and through'; slang: Yo/lowkey/sickest/bounced/'like, actually'/'Jerusalem crew' fixed; title clickbait toned down"
+  ],
+  "confirmations_needed": []
+ },
+ {
+  "chapter": 6,
+  "title": "There's No One Like Her",
+  "paragraphs": [
+   "§Where Did He Go?",
+   "So where did your boyfriend go, beautiful? Seriously, where is he? Can we help you find him?",
+   "§He's In His Garden",
+   "Oh, don’t even worry about it. My guy is already headed to his garden, just chilling among the flowers, checking out all the cool colors and shapes. I totally belong to my lover, and he totally belongs to me. He’s probably just gently touching all those awesome, fragrant flowers.",
+   "§The Man's Praise",
+   "Hey, my amazing friend and love, you're seriously as stunning as Tirzah, that city everyone loves, and as gorgeous as Jerusalem, the city of dreams. You're like the most mind-blowing vision I've ever seen, it's pure ecstasy.",
+   "Honestly, your beauty is just too much for me—I'm completely overwhelmed. I'm not used to feeling like this! I can barely process it. Your hair just flows and shines like a whole flock of goats moving down a sunny hillside in the distance.",
+   "Your smile is so generous and complete—it shows so much emotion, and it's strong and pure. And your cheeks, even with a veil on, are so soft and glowing.",
+   "There’s no one like her anywhere on earth — never has been, never will be. She’s a woman beyond compare.",
+   "My dove is absolutely perfect, pure and innocent like the day she was born, and her mother cradled her with so much joy. Everyone who came by to see her was amazed and admired her—",
+   "All the dads and moms, the neighbors and friends, blessed her and praised her, saying:",
+   "\"Has anyone ever seen anything like this? She's fresh like the dawn, lovely like the moon, radiant like the sun, and absolutely breathtaking like the night sky with all its galaxies of stars!\"",
+   "§Carried Away",
+   "One day, I was just strolling through the orchard, looking for signs that spring was here, checking for buds about to burst into flower, just anticipating everything getting ready and ripe.",
+   "Before I even knew what was happening, my heart was totally swept away, completely carried off by these incredible, lofty thoughts!",
+   "§Dance, Shulammite!",
+   "Dance, dance, my dear Shulammite, my Angel-Princess! Dance, and we'll just feast our eyes on your amazing grace! Everyone wants to see the Shulammite dance her victory dances of love and peace."
+  ],
+  "verseRanges": [
+   "1",
+   "1",
+   "2-3",
+   "2-3",
+   "4",
+   "4",
+   "5",
+   "6-7",
+   "8",
+   "9",
+   "9",
+   "10",
+   "11-12",
+   "11-12",
+   "11-12",
+   "13",
+   "13"
+  ],
+  "msg_ranges": [
+   "1",
+   "2-3",
+   "4-7",
+   "8-9",
+   "10",
+   "11-12",
+   "13"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "9",
     "paragraphs": [
-      "Wow, you're seriously stunning, my love. Your eyes behind your veil are like gentle doves, and your hair flows like a whole flock of goats cascading down a sunny hill. Your smile? It's so full and expressive, strong and clean. Your lips are a vibrant red, and your mouth is just so elegant and inviting. Even veiled, your cheeks are soft and glowing.",
-      "The way you carry yourself, that smooth, graceful neck—it makes everyone turn their heads. Seriously, total awe and admiration. And your chest is like two young deer, twins of a gazelle, just hanging out among the first spring flowers.",
-      "The sweet scent of your body, the soft, spicy curves—it's all calling to me, and I'm coming. I'll stay right here until the sun comes up and the night fades away. You are beautiful from head to toe, my dear love, beyond compare, like, absolutely flawless.",
-      "Come with me, my bride, let's leave Lebanon. Get away from your high mountain hideout. Ditch that wilderness retreat where you're hanging out with lions and panthers are your bodyguards. You've completely stolen my heart, my dear friend. You just looked at me, and I was a goner. One glance and I was hopelessly in love. Your love is so beautiful, my dear, dear friend—way better than the most expensive wine, and your scent is more exotic than the rarest spices. Your kisses are literally honey, my love, and every word you say is something to be savored. Your clothes smell like the great outdoors, that fresh scent of the high mountains. My dear lover and friend, you're like a secret garden, a private, pure spring. Body and soul, you're a paradise, a whole orchard of juicy fruits—ripe apricots and peaches, oranges and pears; nut trees and cinnamon, and all kinds of fragrant woods; mint and lavender, and every aromatic herb; a garden fountain, sparkling and splashing, fed by fresh springs from the Lebanon mountains.",
-      "Wake up, North Wind! Get a move on, South Wind! Breathe on my garden, let its spicy fragrance fill the air.",
-      "Oh, please let my lover come into his garden! Yes, let him eat all the best, ripe fruits."
+     10,
+     11
     ],
-    "verseRanges": [
-      "1-3",
-      "4-5",
-      "6-7",
-      "8-14",
-      "15",
-      "16"
-    ],
-    "msg_ranges": [
-      "1-5",
-      "6-7",
-      "8-15",
-      "16"
-    ],
-    "merges": [],
-    "splits": [],
-    "changes": [],
-    "confirmations_needed": []
-  },
-  {
-    "chapter": 5,
-    "title": "I Messed Up & Lost My Man... Help Me Find Him!",
+    "note": "MSG v9 split into 2 paragraphs"
+   }
+  ],
+  "changes": [
+   "Fixed null § header badges; corrected 9a/9b to 9; declared split",
+   "6:8 rewritten to MSG ('There's no one like her...She's a woman beyond compare' — old text used KJV 'sixty queens and eighty concubines'); badge fixes [2]->[2-3], [3](header)->[4], [11]/[12]->[11-12]; merged split [2]+[3] back to MSG [2-3]; slang: 'like,' filler, 'freaked out'->'amazed'"
+  ],
+  "confirmations_needed": []
+ },
+ {
+  "chapter": 7,
+  "title": "He's Head Over Heels and He Knows It",
+  "paragraphs": [
+   "Wow, you're so beautiful from head to toe. The way you move is so queenly. Your legs are so sleek and elegant, like they were sculpted by a pro artist. Your waist is like a perfectly shaped goblet, just waiting to be filled with the best wine. Your skin is so smooth, like a field of wheat blowing in the wind. And your chest... wow, like two baby deer, twins even. Your neck is like a smooth, curved piece of ivory. Your eyes are so bright and full of secrets. Seriously, you're the definition of feminine! Your whole look just makes everyone turn their heads and pay attention. When I see big, beautiful mountains, I get this feeling of wanting to climb them, and honestly? You make me feel the same way. You've ruined me for anyone else, for real. Your beauty, inside and out, is just perfect, my love, my best friend. You stand so tall and graceful, like a palm tree, and your breasts are like a bunch of sweet dates. I'm not gonna lie, I'm thinking, 'I'm gonna climb that palm tree! I'm gonna get my hands on that fruit!' Oh yeah! Your chest is gonna be like clusters of sweet fruit for me, your breath is gonna smell fresh like mint, and your kisses will be like the best wine ever.",
+   "Yeah, and your kisses are amazing too—they flow right from your lips to mine. I belong to my man. I'm everything he wants. I'm his whole world! Come on, my love — let’s just get out of here and wander through the countryside. We can sleep at some little roadside inn, then wake up super early and listen to the birds. Let's go find some wildflowers, see the blackberry bushes starting to bloom, and check out all the fruit trees with their flowers. And right there, I'll give all of myself to you, all my love.",
+   "Love-apples drench us with their fragrance; new life and growth surround us everywhere. All this fruit, fresh and dried, that I've been saving just for you, my love."
+  ],
+  "verseRanges": [
+   "1-8",
+   "9-11",
+   "12-13"
+  ],
+  "msg_ranges": [
+   "1-9",
+   "10-12",
+   "13"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "title 'Whipped'->'Head Over Heels' (slang); 7:13 restored 'Love-apples drench us with fragrance'; slang: Dang/straight-up/vibe/babe/crash fixed"
+  ],
+  "confirmations_needed": []
+ },
+ {
+  "chapter": 8,
+  "title": "Love is Unstoppable",
+  "paragraphs": [
+   "I so wish you were my actual brother, like, the one who shared my mom's milk. Then I could kiss you right out in public and nobody would bat an eye. I'd lead you by the hand straight to my mom's house, where she raised me. I’d give you my best wine to drink and kiss your cheeks.",
+   "Just imagine! His left hand is cradling my head, and his right arm is wrapped around my waist! But listen, my girls in Jerusalem: don’t try to force love or stir it up before it’s time. You gotta wait until it’s ripe and you’re actually ready.",
+   "Who's this coming up from the wilderness, leaning on her man like that?",
+   "I found you under the apricot tree and woke you up to love, right where your mom went into labor with you — under that very tree she gave birth to you.",
+   "Put me like a seal over your heart, like a signet ring on your finger. Because love is as strong as death, and passion is as intense as the grave. The fire of love stops at nothing — it sweeps everything before it. Flood waters can’t drown love; torrents of rain can’t put it out. Love can’t be bought and it can’t be sold — you won’t find it in any marketplace. My brothers used to stress about me:",
+   "‘Our little sister hasn’t grown up yet. What are we going to do with her when guys start asking for her? She’s young and vulnerable, and we’ll protect her. If she’s a wall, we’ll top it with barbed wire. If she’s a door, we’ll barricade it.’",
+   "Well, dear brothers, I am a wall, and I’ve grown up — my breasts are full. And when my lover sees me, he knows he's found total satisfaction.",
+   "King Solomon may have huge vineyards in rich, fertile country, where he hires others to work the land. People would pay anything to get a share of that harvest. But my vineyard is all mine, and I’m keeping it to myself. You can keep your huge vineyards, Solomon — you and your greedy guests!",
+   "Hey, lady of the gardens — my friends are here listening. Let me hear your voice too!",
+   "Run to me, my love! Be like a gazelle or a young stag on the mountains of spices."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3-4",
+   "5",
+   "5",
+   "6-8",
+   "9",
+   "10",
+   "11-12",
+   "13",
+   "14"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3-4",
+   "5",
+   "6-8",
+   "9",
+   "10",
+   "11-12",
+   "13",
+   "14"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "5",
     "paragraphs": [
-      "I went to my garden, my best friend and my everything! I took in all the amazing smells, had the best food and drinks.",
-      "Yo, let's celebrate, everyone! Cheers to life and love!",
-      "I was totally knocked out, but my dream felt so real. Then I heard my guy knocking and calling for me!",
-      "“Babe, let me in! You're my everything. I'm out here freezing and soaking wet from the night.”",
-      "And I was like, “But I'm already in my PJs and all clean for bed. You want me to get all gross again?”",
-      "But then he reached through the door latch, and honestly? My heart started racing. I jumped up to open the door for him, totally shaky with excitement. But when I unlocked it and swung it open... he was gone. He'd gotten tired of waiting and bounced. My heart, like, actually broke. I felt so awful. I ran outside to find him, but he was nowhere. I yelled out his name, but got nothing back. Then the night guards found me while they were on patrol — and they beat me up and ripped my clothes! Can you believe that? The guys who are supposed to be protecting the city!",
-      "So I'm begging you, all my girls in Jerusalem, if you see my man, please tell him I'm crazy about him and I need him.",
-      "And they were like, “Okay, but what's so special about this guy? Why are you so obsessed that you need our help?”",
-      "My man is lowkey glowing, he's so healthy and radiant! He's literally one in a million. There's no one like him! He's golden, perfect, with the sickest black curls. His eyes are like, soft and bright, but super deep, you know? Like you could get lost in them. His face is all rugged and his beard smells like fresh herbs. His voice is so warm and makes you feel safe. He's got these quiet, beautiful muscles under his skin. His body is like a work of art, so smooth and strong. He's tall and stands strong, like a huge tree. A total mountain of a man, smelling like wood and stone. His words are like kisses, and his kisses are like words. Everything about him is just... wow. He's amazing.",
-      "That's my man, that's my guy, my Jerusalem crew."
+     2,
+     3
     ],
-    "verseRanges": [
-      "1",
-      "1",
-      "2",
-      "2",
-      "3",
-      "4-7",
-      "8",
-      "9",
-      "10-16",
-      "10-16"
-    ],
-    "msg_ranges": [
-      "1",
-      "2",
-      "3",
-      "4-7",
-      "8",
-      "9",
-      "10-16"
-    ],
-    "merges": [],
-    "splits": [
-      {
-        "msg_range": "1",
-        "paragraphs": [
-          0,
-          1
-        ],
-        "note": "MSG v1 split into 2 paragraphs"
-      },
-      {
-        "msg_range": "2",
-        "paragraphs": [
-          2,
-          3
-        ],
-        "note": "MSG v2 split into 2 paragraphs"
-      },
-      {
-        "msg_range": "10-16",
-        "paragraphs": [
-          8,
-          9
-        ],
-        "note": "MSG 10-16 split into 2 paragraphs"
-      }
-    ],
-    "changes": [
-      "Declared 3 MSG splits; corrected badges to 10-16"
-    ],
-    "confirmations_needed": []
-  },
-  {
-    "chapter": 6,
-    "title": "She's a Total Knockout",
-    "paragraphs": [
-      "§Where Did He Go?",
-      "So, like, where did your boyfriend go, beautiful? Seriously, where is he? Can we help you find him?",
-      "§He's In His Garden",
-      "Oh, don't even worry about it. My guy is already headed to his garden, just chilling among the flowers, checking out all the cool colors and shapes.",
-      "I totally belong to my lover, and he totally belongs to me. He's probably just gently touching all those awesome, fragrant flowers.",
-      "§The Man's Praise",
-      "Hey, my amazing friend and love, you're seriously as stunning as Tirzah, that city everyone loves, and as gorgeous as Jerusalem, the city of dreams. You're like the most mind-blowing vision I've ever seen, it's pure ecstasy.",
-      "Honestly, your beauty is just too much for me—I'm completely overwhelmed. I'm not used to feeling like this! I can barely process it. Your hair just flows and shines like a whole flock of goats moving down a sunny hillside in the distance.",
-      "Your smile is so generous and complete—it shows so much emotion, and it's strong and pure. And your cheeks, even with a veil on, are so soft and glowing.",
-      "He could have sixty queens and eighty concubines — plus more women than you could count — and still, none of them would even come close to her.",
-      "My dove is absolutely perfect, pure and innocent like the day she was born, and her mother cradled her with so much joy. Everyone who came by to see her totally freaked out and admired her—",
-      "All the dads and moms, the neighbors and friends, blessed her and praised her, saying:",
-      "\"Has anyone ever seen anything like this? She's fresh like the dawn, lovely like the moon, radiant like the sun, and absolutely breathtaking like the night sky with all its galaxies of stars!\"",
-      "§Carried Away",
-      "One day, I was just strolling through the orchard, looking for signs that spring was here, checking for buds about to burst into flower, just anticipating everything getting ready and ripe.",
-      "Before I even knew what was happening, my heart was totally swept away, completely carried off by these incredible, lofty thoughts!",
-      "§Dance, Shulammite!",
-      "Dance, dance, my dear Shulammite, my Angel-Princess! Dance, and we'll just feast our eyes on your amazing grace! Everyone wants to see the Shulammite dance her victory dances of love and peace."
-    ],
-    "verseRanges": [
-      "1",
-      "1",
-      "2",
-      "2",
-      "3",
-      "4",
-      "4",
-      "5",
-      "6-7",
-      "8",
-      "9",
-      "9",
-      "10",
-      "11",
-      "11",
-      "12",
-      "13",
-      "13"
-    ],
-    "msg_ranges": [
-      "1",
-      "2-3",
-      "4-7",
-      "8-9",
-      "10",
-      "11-12",
-      "13"
-    ],
-    "merges": [],
-    "splits": [
-      {
-        "msg_range": "9",
-        "paragraphs": [
-          10,
-          11
-        ],
-        "note": "MSG v9 split into 2 paragraphs"
-      }
-    ],
-    "changes": [
-      "Fixed null § header badges; corrected 9a/9b to 9; declared split"
-    ],
-    "confirmations_needed": []
-  },
-  {
-    "chapter": 7,
-    "title": "He's Whipped and He Knows It",
-    "paragraphs": [
-      "Dang, you're so fine from head to toe. The way you move is straight-up queenly. Your legs are so sleek and elegant, like they were sculpted by a pro artist. Your waist is like a perfectly shaped goblet, just waiting to be filled with the best wine. Your skin is so smooth, like a field of wheat blowing in the wind. And your chest... wow, like two baby deer, twins even. Your neck is like a smooth, curved piece of ivory. Your eyes are so bright and full of secrets. Seriously, you're the definition of feminine! Your whole vibe just makes everyone turn their heads and pay attention. When I see big, beautiful mountains, I get this feeling of wanting to climb them, and honestly? You make me feel the same way. You've ruined me for anyone else, for real. Your beauty, inside and out, is just perfect, my love, my best friend. You stand so tall and graceful, like a palm tree, and your breasts are like a bunch of sweet dates. I'm not gonna lie, I'm thinking, 'I'm gonna climb that palm tree! I'm gonna get my hands on that fruit!' Oh yeah! Your chest is gonna be like clusters of sweet fruit for me, your breath is gonna smell fresh like mint, and your kisses will be like the best wine ever.",
-      "Yeah, and your kisses are amazing too—they flow right from your lips to mine. I belong to my man. I'm everything he wants. I'm his whole world! C'mon, babe—let's just get out of here and wander through the countryside. We can crash at some random little inn, then wake up super early and listen to the birds. Let's go find some wildflowers, see the blackberry bushes starting to bloom, and check out all the fruit trees with their flowers. And right there, I'll give all of myself to you, all my love.",
-      "The smell of love is all around us, like we're surrounded by this vibe of new life and growth. All this fruit, fresh and dried, that I've been saving just for you, my love."
-    ],
-    "verseRanges": [
-      "1-8",
-      "9-11",
-      "12-13"
-    ],
-    "msg_ranges": [
-      "1-9",
-      "10-12",
-      "13"
-    ],
-    "merges": [],
-    "splits": [],
-    "changes": [],
-    "confirmations_needed": []
-  },
-  {
-    "chapter": 8,
-    "title": "Love is Unstoppable, No Cap",
-    "paragraphs": [
-      "I so wish you were my actual brother, like, the one who shared my mom's milk. Then I could kiss you right out in public and nobody would bat an eye. I'd lead you by the hand straight to my mom's house, where she raised me. I'd give you my special spiced wine to drink and kiss your cheeks.",
-      "Just imagine! His left hand is cradling my head, and his right arm is wrapped around my waist! But yo, a little PSA for all my girls in Jerusalem: Don't try to force love or stir it up before it's time. You gotta wait until it's ripe and you're actually ready.",
-      "Who's this coming up from the wilderness, leaning on her man like that?",
-      "I woke you up under the apricot tree, right where your mom went into labor with you. Yeah, under that exact tree, she gave birth to you.",
-      "Put me like a seal over your heart, like a signet ring on your finger. Because love is as strong as death, and passion is as intense as the grave. It's a blazing fire, a legit flame from God. No amount of water can quench love; no floods can sweep it away. If someone tried to buy love with all their money, they'd be totally laughed at. My brothers used to stress about me:",
-      "'Our little sister, she hasn't developed yet. What are we gonna do with her when guys start asking her out? She's like a wall, so we'll build a silver tower to protect her. She's like a door, so we'll board her up with cedar planks.'",
-      "Well, dear brothers, I am a wall, but now my breasts are like towers. And when my lover sees me, he knows he's found total satisfaction.",
-      "Solomon has a vineyard at Baal Hamon, and he rents it out to others. Each one has to bring in a thousand silver coins. But my own vineyard is all mine, and I'm in charge of it. You can have your thousand coins, Solomon, and let the renters keep their two hundred!",
-      "Hey you, chilling in the gardens, my friends are listening for your voice. Let me hear it too!",
-      "Run to me, my love! Be like a gazelle or a young stag on the mountains of spices."
-    ],
-    "verseRanges": [
-      "1-2",
-      "3-4",
-      "5",
-      "5",
-      "6-8",
-      "9",
-      "10",
-      "11-12",
-      "13",
-      "14"
-    ],
-    "msg_ranges": [
-      "1-2",
-      "3-4",
-      "5",
-      "6-8",
-      "9",
-      "10",
-      "11-12",
-      "13",
-      "14"
-    ],
-    "merges": [],
-    "splits": [
-      {
-        "msg_range": "5",
-        "paragraphs": [
-          2,
-          3
-        ],
-        "note": "MSG v5 split into 2 paragraphs"
-      }
-    ],
-    "changes": [
-      "Declared MSG v5 split; corrected [8-9] to [9] to avoid overlap",
-      "Corrected [11] to [11-12] for full verse coverage"
-    ],
-    "confirmations_needed": []
-  }
+    "note": "MSG v5 split into 2 paragraphs"
+   }
+  ],
+  "changes": [
+   "Declared MSG v5 split; corrected [8-9] to [9] to avoid overlap",
+   "Corrected [11] to [11-12] for full verse coverage",
+   "8:5 restored 'I found you under the apricot tree and woke you up to love'; 8:6-7 rewritten to MSG (fire stops at nothing/can't be bought — KJV 'thousand coins/Baal Hamon/flame from God' removed); 8:9 rewritten to MSG ('young and vulnerable...barbed wire/barricade' — KJV 'silver tower/cedar planks' removed); 8:10 'my breasts are full' (MSG); 8:13 restored 'lady of the gardens'; slang: yo/PSA/legit fixed; title 'No Cap' removed"
+  ],
+  "confirmations_needed": []
+ }
 ]
