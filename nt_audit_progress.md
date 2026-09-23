@@ -4,6 +4,7 @@
 | 책 | 게이트 1-8 | 이슈 | 수정 | merge/split 후보(신규) | Docs |
 |---|---|---|---|---|---|
 | Acts | 1-8 전부 통과 | 실제 1건(13:50-52 EN "two" 누락→복원), 오탐 22건 문서화 | EN 1건 | 0건 (기존 적용분 4+승인 1은 merge-split-candidates.md 기록) | 재업로드, API 28/28, export-back 407행 내용 대조 OK |
+| Ephesians | 1-8 전부 통과 | 실제 3건(KO 2건: 6:5-8 'slave or free' 드리프트→복원, 3:14-19 'parcels out' EN primary 정정 / KO 타이틀 6장 부여), § 1:1 OK, 경미 3건 관찰 기록 | 텍스트 3건 | 2건 (ch2 1-6·ch3 v8 splits, pending 누적) | 재업로드, API 6/6, export-back VERIFIED OK |
 | 1Corinthians | 1-8 전부 통과 | 실제 9건(EN 4건: 2:6-10 'on a cross'·2:14-16 'Isaiah'·1:22-25 Jews/Greeks 복원, 16:12 따옴표 / KO 5건: 14:20-25 의미반전·16:10-11 누락+반전·14:13-17 드리프트·13:1 오타·9:8-12 인용구), 오탐 1건 문서화, 메타 20건(msg_ranges=verseRanges) | 텍스트 9건 + 메타 20건 | 1건 (8:7 merge) | 재업로드, API 16/16, export-back 148행 내용 대조 OK |
 
 
