@@ -42,5 +42,27 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "Judges",
+  "title": "사사기 (Judges): MSG + Teen EN + KO",
+  "id": "1r_5xMr0fi01guprEOjjJ0ykIXyPeWR8jQPYkkVSTOIw",
+  "webViewLink": "https://docs.google.com/document/d/1r_5xMr0fi01guprEOjjJ0ykIXyPeWR8jQPYkkVSTOIw/edit?usp=drivesdk",
+  "tables": 21,
+  "expected": 21,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "Psalms",
+  "title": null,
+  "id": "1wa-Pp8mm3nlEvhDU9-OkQFy9DZ85j55rHDUIi0uGNJs",
+  "webViewLink": null,
+  "tables": 150,
+  "expected": 150,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]
