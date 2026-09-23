@@ -5,7 +5,7 @@
   "paragraphs": [
    "§Running Away from God",
    "A while back, God hit up this guy named Jonah, son of Amittai, with a message: \"Yo, get up and head over to the huge city of Nineveh. You need to call them out. They're acting up, and I'm not gonna let it slide anymore.\"",
-   "But Jonah was like, \"Nah,\" and bounced in the complete opposite direction, toward Tarshish, trying to ghost God. He went down to the port of Joppa, found a boat going to Tarshish, paid for his ticket, and hopped on. He was trying to get as far away from God as possible.",
+   "But Jonah was like, \"Nah,\" and bounced in the complete opposite direction, toward Tarshish, trying to run away from God. He went down to the port of Joppa, found a boat going to Tarshish, paid for his ticket, and hopped on. He was trying to get as far away from God as possible.",
    "But God was not having it and whipped up a crazy storm at sea, with waves that were seriously massive.",
    "The ship felt like it was about to snap in half. The sailors were freaking out, praying like crazy to their own gods. They started chucking all the cargo overboard to make the ship lighter. Meanwhile, Jonah had gone down below deck to catch some Zs. Dude was completely knocked out. The captain found him and was like, “Bro, what are you doing? Sleeping?! Get up and pray to your god! Maybe your god will notice we're in deep trouble and save us.”",
    "Then the sailors were all like, “Okay, we need to figure out who’s to blame for this mess. Let's draw straws to see which one of us is the reason for this disaster.”",
@@ -64,7 +64,8 @@
    }
   ],
   "changes": [
-   "Ch1: added missing MSG § header 'Running Away from God' (before v1); text complete vs MSG"
+   "Ch1: added missing MSG § header 'Running Away from God' (before v1); text complete vs MSG",
+   "Ch1: 슬랭 'ghost God' → 'run away from God' (MSG 1:3 'running away from God'; KO는 이미 '하나님한테서 도망가려고')"
   ]
  },
  {
