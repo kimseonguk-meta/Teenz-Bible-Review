@@ -31,3 +31,12 @@
 
 ### A5. ch27 — MSG 9-12 → (9-10)/(11-12) split — 상태: approved (성욱 2026-09-22 승인)
 - 1차 감사에서 teen이 합쳤던 것을 MSG 1:1로 되돌림. 승인済.
+
+---
+
+## 1Corinthians (감사: 2026-09-23)
+
+### C1. ch8 — MSG 7 → merge (두 문단을 하나로) — 상태: pending
+- MSG: 8:7이 두 개의 별도 문단 — "In strict logic, then, nothing happened to the meat when it was offered up to an idol..." / "We need to be sensitive to the fact that we're not all at the same level of understanding in this."
+- EN/KO: 한 문단으로 합쳐짐 (ch8 p3, 배지 '7').
+- 근거: 내용 누락 없음 (두 문단 내용 모두 한 문단 안에 반영됨). 적용 시 splits 선언 필요.
