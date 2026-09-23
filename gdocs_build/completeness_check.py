@@ -120,6 +120,9 @@ ALIASES = {
     'nineveh': {'ninevites'},
     'nazarene': {'nazareth'},
     'nazareth': {'nazarene'},
+    # teen-voice gloss pairs (2John: chapter title + body use "Fakers" for MSG "Deceiver")
+    'deceiver': {'fakers'},
+    'fakers': {'deceiver'},
     # place <-> people-adjective pairs (MSG "Syro-Phoenician" / teen "Syro-Phoenicia")
     'phoenician': {'phoenicia'},
     'phoenicia': {'phoenician'},
