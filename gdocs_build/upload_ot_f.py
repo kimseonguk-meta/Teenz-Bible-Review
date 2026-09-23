@@ -54,10 +54,10 @@ BOOK_MAP = {k: (ko, en, n) for k, ko, en, n in BOOKS_F}
 EXISTING_IDS = {
     'Joshua': '1Cex7fB4AK1AikruhfcpyTdG06Sz0qnSG8metjJx8PyE',  # 2026-09-24 생성 (workerA 등록 누락 — Drive에 기존 Doc 없음 확인)
     'Psalms': '1wa-Pp8mm3nlEvhDU9-OkQFy9DZ85j55rHDUIi0uGNJs',  # 2026-09-24 생성 (첫 업로드 검증 실패 — 파서 버그 수정 후 재업로드)
-    'Jeremiah': '1_9YRCZ8ECbgNbHbAz2F',
-    'Lamentations': '1XPly-2mqmpBcIZjqb40',
-    'Ezekiel': '1KlzFNz99jYhYusNHSzl',
-    'Daniel': '1i7uLZ_e2hfRYobUrQne',
+    'Jeremiah': '1_9YRCZ8ECbgNbHbAz2FtuFin-Hmol37xnoylR9QYUsE',
+    'Lamentations': '1XPly-2mqmpBcIZjqb40_zNuPGMyIdlluf208rCADQEg',
+    'Ezekiel': '1KlzFNz99jYhYusNHSzlE5Hx5Ss5KjH8oqM7XEJh6n-4',
+    'Daniel': '1i7uLZ_e2hfRYobUrQnetmKn7Y4RdmSfOmAuiz9BSFeo',
 }
 
 RES_PATH = os.path.join(GDIR, 'upload_results_workerF.json')
