@@ -1,0 +1,143 @@
+# EXODUS 10 — Egypt's Next-Level Disasters: Locusts & Total Blackout
+TEEN paras: 20 | badges: ['1-2', '3-6', '6', '7', '8', '9', '10-11', '12-13', '13-14', '14-15', '16-17', '18-19', '20', '21', '22-23', '24', '25-26', '27', '28', '29']
+KO paras: 20 | badges: ['1-2', '3-6', '6', '7', '8', '9', '10-11', '12-13', '13-14', '14-15', '16-17', '18-19', '20', '21', '22-23', '24', '25-26', '27', '28', '29']
+MSG sections: 19 | ranges: ['1-2', '3-6', '7', '8', '9', '10-11', '12', '13', '14-15', '16-17', '18-19', '20', '21', '22-23', '24', '25-26', '27', '28', '29']
+
+--- MSG [1-2] ---
+God said to Moses: “Go to Pharaoh. I’ve made him stubborn, him and his servants, so that I can force him to look at these signs and so you’ll be able to tell your children and grandchildren how I toyed with the Egyptians, like a cat with a mouse; you’ll tell them the stories of the signs that I brought down on them, so that you’ll all know that I am God.”
+
+>>> TEEN:
+  [p0 badge=1-2] So God tells Moses, "Aight, go see Pharaoh. I've made him and his crew extra stubborn, basically so I can show off these wild signs. This way, you can tell your kids and even your grandkids the story of how I totally messed with the Egyptians. For real, you'll have stories for days about the signs I dropped on them, and everyone will know I'm the one true God."
+  [KO p0] 하나님이 모세한테 말했대. "파라오한테 가라. 내가 일부러 걔랑 걔 신하들 고집 세게 만든 거임. 왜냐면 내가 진짜 놀라운 거 보여주려고. 그래야 나중에 니 아들, 손자들한테 내가 이집트 애들 어떻게 가지고 놀았는지 썰 풀 수 있잖아. 내가 보여준 역대급 사건들 얘기해주면서 내가 진짜 신인 거 다 알게 되는 거지."
+
+--- MSG [3-6] ---
+Moses and Aaron went to Pharaoh and said to him, “God, the God of the Hebrews, says, ‘How long are you going to refuse to knuckle under? Release my people so that they can worship me. If you refuse to release my people, watch out; tomorrow I’m bringing locusts into your country. They’ll cover every square inch of ground; no one will be able to see the ground. They’ll devour everything left over from the hailstorm, even the saplings out in the fields—they’ll clear-cut the trees. And they’ll invade your houses, filling the houses of your servants, filling every house in Egypt. Nobody will have ever seen anything like this, from the time your ancestors first set foot on this soil until today.’” Then he turned on his heel and left Pharaoh.
+
+>>> TEEN:
+  [p1 badge=3-6] Moses and Aaron rolled up to Pharaoh and were like, "The God of the Hebrews has a message for you: How long are you gonna keep being so stubborn? Let my people go so they can worship me. If you don't, then get ready. Tomorrow, I'm sending a plague of locusts into your country. They're gonna cover everything, like, you won't even see the ground. They'll eat all the leftovers from the hail, even the new trees growing in the fields—total deforestation. Then they're gonna swarm your houses, your officials' houses, every single house in Egypt. It's gonna be a scene nobody, not even your great-great-grandparents, has ever witnessed."
+  [KO p1] 모세랑 아론이 파라오한테 가서 말했어. "히브리 사람들의 하나님이 말씀하셨어요. '언제까지 그렇게 뻐팅길래? 내 백성 보내줘라, 예배드리러 가야 하니까. 만약 안 보내주면 각오해라. 내일 내가 니네 나라에 메뚜기 떼 보낼 거임. 땅이 안 보일 정도로 쫙 깔릴걸. 우박 맞고 남은 거 싹 다 먹어치우고, 들에 있는 나무들까지 다 갈아먹을 거다. 그리고 니네 집, 니네 신하들 집, 이집트 모든 집에 다 쳐들어갈 거야. 이런 건 니네 조상들도 본 적 없는 역대급 장면일 거다.'"
+  [p2 badge=6] Then he just turned and bounced, leaving Pharaoh shook.
+  [KO p2] 그러고는 휙 돌아서 그냥 나와버렸대. 파라오는 완전 얼이 빠졌지.
+
+--- MSG [7] ---
+Pharaoh’s servants said to him, “How long are you going to let this man harass us? Let these people go and worship their God. Can’t you see that Egypt is on its last legs?”
+
+>>> TEEN:
+  [p3 badge=7] Pharaoh's officials came to him like, "Bro, how long are you gonna let this guy mess with us? Just let the people go worship their God. Can't you see Egypt is literally falling apart?"
+  [KO p3] 파라오 신하들이 와서 말했어. "아니 폐하, 언제까지 저 인간이 우리 괴롭히게 냅둘 거예요? 그냥 저 사람들 보내서 자기네 신한테 예배드리라고 해요. 지금 이집트 망하기 직전인 거 안 보이세요?"
+
+--- MSG [8] ---
+So Moses and Aaron were brought back to Pharaoh. He said to them, “Go ahead then. Go worship your God. But just who exactly is going with you?”
+
+>>> TEEN:
+  [p4 badge=8] So they brought Moses and Aaron back to Pharaoh. He said to them, "Fine, go ahead. Go worship your God. But uh, who exactly is going?"
+  [KO p4] 그래서 모세랑 아론이 다시 파라오 앞에 불려갔어. 파라오가 말했지. "그래, 가라. 가서 니네 신한테 예배드려. 근데 정확히 누가 가는데?"
+
+--- MSG [9] ---
+Moses said, “We’re taking young and old, sons and daughters, flocks and herds—this is our worship-celebration of God.”
+
+>>> TEEN:
+  [p5 badge=9] Moses was like, "Everyone. Young, old, our sons, our daughters, all our sheep and cattle—this is a huge worship festival for our God."
+  [KO p5] 모세가 말했어. "젊은 사람이든 늙은 사람이든, 아들이든 딸이든, 양 떼랑 소 떼 전부 다요. 이건 우리 하나님께 드리는 대단한 축제거든요."
+
+--- MSG [10-11] ---
+He said, “I’d sooner send you off with God’s blessings than let you go with your children. Look, you’re up to no good—it’s written all over your faces. No way. Just the men are going—go ahead and worship God. That’s what you want so badly.” And they were thrown out of Pharaoh’s presence.
+
+>>> TEEN:
+  [p6 badge=10-11] Pharaoh shot back, "Yeah, right. I'd sooner wish you Godspeed than let you take your kids. Look, I can see it on your faces, you're up to something shady. No deal. Just the men can go—go on and worship your God since you're so desperate." And with that, they got kicked out of Pharaoh's court.
+  [KO p6] 파라오가 말했어. "어림도 없지. 니네 애들 데리고 가느니 차라리 하나님의 축복이나 빌어주겠다. 딱 보니까 너네 꿍꿍이가 있네. 얼굴에 다 쓰여있어. 절대 안 돼. 남자들만 가. 그렇게 원하던 거니까 가서 니네 신이나 섬겨." 그러고는 파라오 앞에서 쫓겨났대.
+
+--- MSG [12] ---
+God said to Moses: “Stretch your hand over Egypt and signal the locusts to cover the land of Egypt, devouring every blade of grass in the country, everything that the hail didn’t get.”
+
+>>> TEEN:
+  [p7 badge=12-13] God told Moses, "Stretch your hand over Egypt and give the signal. The locusts are coming to cover the whole country and eat every green thing the hail didn't destroy."
+  [KO p7] 하나님이 모세한테 말했어. "이집트 위로 손을 뻗어서 메뚜기들한테 신호를 보내라. 이집트 땅을 다 덮어서 우박이 못 없앤 풀들을 싹 다 먹어치우게 해라."
+
+--- MSG [13] ---
+Moses stretched out his staff over the land of Egypt. God let loose an east wind. It blew that day and night. By morning the east wind had brought in the locusts.
+
+>>> TEEN:
+  [p7 badge=12-13] God told Moses, "Stretch your hand over Egypt and give the signal. The locusts are coming to cover the whole country and eat every green thing the hail didn't destroy."
+  [KO p7] 하나님이 모세한테 말했어. "이집트 위로 손을 뻗어서 메뚜기들한테 신호를 보내라. 이집트 땅을 다 덮어서 우박이 못 없앤 풀들을 싹 다 먹어치우게 해라."
+  [p8 badge=13-14] Moses stretched his staff out over the land. Then God sent this crazy east wind that blew all day and all night. By morning, the wind had brought a massive swarm of locusts.
+  [KO p8] 모세가 이집트 땅 위로 지팡이를 뻗었더니, 하나님이 동풍을 불게 했대. 그 바람이 밤낮으로 불더니 아침 되니까 메뚜기 떼를 몰고 온 거야.
+
+--- MSG [14-15] ---
+The locusts covered the country of Egypt, settling over every square inch of Egypt; the place was thick with locusts. There never was an invasion of locusts like it in the past, and never will be again. The ground was completely covered, black with locusts. They ate everything, every blade of grass, every piece of fruit, anything that the hail didn’t get. Nothing left but bare trees and bare fields—not a sign of green in the whole land of Egypt.
+
+>>> TEEN:
+  [p8 badge=13-14] Moses stretched his staff out over the land. Then God sent this crazy east wind that blew all day and all night. By morning, the wind had brought a massive swarm of locusts.
+  [KO p8] 모세가 이집트 땅 위로 지팡이를 뻗었더니, 하나님이 동풍을 불게 했대. 그 바람이 밤낮으로 불더니 아침 되니까 메뚜기 떼를 몰고 온 거야.
+  [p9 badge=14-15] The locusts swarmed the entire country of Egypt, landing on every single inch of it. It was thick with them. No cap, there had never been a locust invasion like this before, and there never will be again. The ground was just black with bugs. They ate everything—every blade of grass, every piece of fruit, anything the hail missed. All that was left were bare trees and empty fields. Not a single green thing could be seen in all of Egypt.
+  [KO p9] 메뚜기들이 이집트 온 나라를 덮고, 모든 땅에 새까맣게 앉았는데, 진짜 장난 아니었대. 옛날에도 이런 메뚜기 떼는 없었고, 앞으로도 없을 거래. 땅이 아예 메뚜기 때문에 까맣게 보일 정도였어. 걔네가 풀이란 풀, 열매란 열매, 우박 맞고 남은 건 싹 다 먹어치웠어. 앙상한 나무랑 텅 빈 들판만 남았지. 이집트 땅 전체에 초록색이라고는 하나도 없었대.
+
+--- MSG [16-17] ---
+Pharaoh had Moses and Aaron back in no time. He said, “I’ve sinned against your God and against you. Overlook my sin one more time. Pray to your God to get me out of this—get death out of here!”
+
+>>> TEEN:
+  [p10 badge=16-17] Pharaoh, totally panicking, called for Moses and Aaron ASAP. He said, "My bad, I've sinned against your God and you guys. Please, just forgive me one more time. Pray to your God to get me out of this mess—I'm literally dying here!"
+  [KO p10] 파라오가 급하게 모세랑 아론을 다시 불렀어. "내가 니네 하나님이랑 너네한테 잘못했다. 이번 한 번만 내 죄를 용서해줘라. 제발 니네 하나님한테 기도해서 나 좀 살려달라고 해줘. 이 죽음의 재앙 좀 없애달라고!"
+
+--- MSG [18-19] ---
+Moses left Pharaoh and prayed to God. God reversed the wind—a powerful west wind took the locusts and dumped them into the Red Sea. There wasn’t a single locust left in the whole country of Egypt.
+
+>>> TEEN:
+  [p11 badge=18-19] Moses left Pharaoh and prayed to God. God switched up the wind, sending a super strong west wind that picked up all the locusts and chucked them into the Red Sea. Not a single locust was left in the whole country.
+  [KO p11] 모세가 파라오한테서 나와서 하나님께 기도했대. 그랬더니 하나님이 바람 방향을 반대로 바꿔서, 엄청 강한 서풍이 불게 했어. 그 바람이 메뚜기들을 싹 다 홍해에다 버렸대. 이집트 땅에 메뚜기 한 마리도 안 남았어.
+
+--- MSG [20] ---
+But God made Pharaoh stubborn as ever. He still didn’t release the Israelites.
+
+>>> TEEN:
+  [p12 badge=20] But God made Pharaoh stubborn again. He still wouldn't let the Israelites go.
+  [KO p12] 근데 하나님이 또 파라오 마음을 고집불통으로 만들었대. 그래서 이스라엘 백성을 안 보내줬어.
+
+--- MSG [21] ---
+God said to Moses: “Stretch your hand to the skies. Let darkness descend on the land of Egypt—a darkness so dark you can touch it.”
+
+>>> TEEN:
+  [p13 badge=21] Then God said to Moses, "Stretch your hand up to the sky. Let a darkness fall over Egypt—a darkness so thick you can actually feel it."
+  [KO p13] 하나님이 모세한테 말했어. "하늘을 향해 손을 뻗어라. 이집트 땅에 어둠이 내리게 해라. 손으로 만져질 것 같은 칠흑 같은 어둠이."
+
+--- MSG [22-23] ---
+Moses stretched out his hand to the skies. Thick darkness descended on the land of Egypt for three days. Nobody could see anybody. For three days no one could so much as move. Except for the Israelites: they had light where they were living.
+
+>>> TEEN:
+  [p14 badge=22-23] Moses stretched his hand to the sky, and a heavy darkness just blanketed all of Egypt for three days. No one could see anyone else. For three whole days, nobody could even move. But the Israelites? They had light right where they were living.
+  [KO p14] 모세가 하늘로 손을 뻗으니까, 사흘 동안 짙은 어둠이 이집트 땅을 뒤덮었대. 아무도 서로를 볼 수가 없었고, 사흘 동안 아무도 꼼짝도 못 했어. 근데 이스라엘 사람들이 사는 곳은 빛이 있었대.
+
+--- MSG [24] ---
+Pharaoh called in Moses: “Go and worship God. Leave your flocks and herds behind. But go ahead and take your children.”
+
+>>> TEEN:
+  [p15 badge=24] Pharaoh called Moses in and said, "Okay, for real this time. Go and worship your God. You can even take your kids. Just leave your flocks and herds here."
+  [KO p15] 파라오가 모세를 불렀어. "가서 하나님께 예배드려라. 양 떼랑 소 떼는 놔두고. 애들은 데려가도 좋아."
+
+--- MSG [25-26] ---
+But Moses said, “You have to let us take our sacrificial animals and offerings with us so we can sacrifice them in worship to our God. Our livestock has to go with us with not a hoof left behind; they are part of the worship of our God. And we don’t know just what will be needed until we get there.”
+
+>>> TEEN:
+  [p16 badge=25-26] But Moses replied, "Nah, that's not gonna work. You have to let us take our animals for sacrifices and offerings to our God. All our livestock has to come with us, not a single hoof stays behind. They're part of how we worship our God, and we won't even know what we need until we get there."
+  [KO p16] 근데 모세가 말했어. "그건 안되죠. 우리 하나님께 제사를 드리려면 제물로 바칠 동물들이랑 예물이 있어야 해요. 우리 가축들 한 마리도 빠짐없이 다 데려가야 합니다. 발굽 하나도 여기 남겨둘 수 없어요. 다 우리 하나님 예배에 써야 하거든요. 거기 도착하기 전까지 뭐가 얼마나 필요할지 우리도 몰라요."
+
+--- MSG [27] ---
+But God kept Pharaoh stubborn as ever. He wouldn’t agree to release them.
+
+>>> TEEN:
+  [p17 badge=27] But God kept Pharaoh's heart hard, and he refused to let them go.
+  [KO p17] 하지만 하나님이 파라오를 계속 고집 세게 놔뒀어. 그는 그들을 보내주지 않았지.
+
+--- MSG [28] ---
+Pharaoh said to Moses: “Get out of my sight! And watch your step. I don’t want to ever see you again. If I lay eyes on you again, you’re dead.”
+
+>>> TEEN:
+  [p18 badge=28] Pharaoh yelled at Moses, "Get out of my face! And don't even think about coming back. I never want to see you again. If I ever see you again, you're dead."
+  [KO p18] 파라오가 모세한테 소리쳤어. "내 눈앞에서 물러가! 그리고 조심해라. 다시는 너 볼 생각 없다. 다음에 내 눈에 띄면 넌 죽은 목숨이야."
+
+--- MSG [29] ---
+Moses said, “Have it your way. You won’t see my face again.”
+
+>>> TEEN:
+  [p19 badge=29] Moses just said, "Fine by me. You'll never see my face again."
+  [KO p19] 모세가 말했어. "좋을 대로 하세요. 다시는 내 얼굴 볼 일 없을 겁니다."

@@ -1,0 +1,32 @@
+# EXODUS 31 — God's Dream Team for the Holy Tent
+TEEN paras: 4 | badges: ['1-5', '6-11', '12-17', '18']
+KO paras: 4 | badges: ['1-5', '6-11', '12-17', '18']
+MSG sections: 4 | ranges: ['1-5', '6-11', '12-17', '18']
+
+--- MSG [1-5] ---
+God spoke to Moses: “See what I’ve done; I’ve personally chosen Bezalel son of Uri, son of Hur of the tribe of Judah. I’ve filled him with the Spirit of God, giving him skill and know-how and expertise in every kind of craft to create designs and work in gold, silver, and bronze; to cut and set gemstones; to carve wood—he’s an all-around craftsman.
+
+>>> TEEN:
+  [p0 badge=1-5] God told Moses, "Yo, check it out. I’ve handpicked Bezalel, son of Uri, from Judah's tribe. I’ve filled him with the Spirit of God, giving him mad skills, know-how, and expertise in all kinds of crafts. He can come up with sick designs and work with gold, silver, and bronze; he can cut and set gemstones, carve wood—he’s a legit master craftsman.
+  [KO p0] 하나님이 모세한테 말했대. "내가 유다 지파의 브살렐이라는 사람을 직접 골랐어. 내 영을 가득 부어줘서, 모든 종류의 공예에 대한 기술, 지식, 전문성을 갖추게 했지. 디자인을 만들고 금, 은, 청동으로 작업하고, 보석을 깎아 세팅하고, 나무를 조각하는... 진짜 만렙 장인인 거임.
+
+--- MSG [6-11] ---
+“Not only that, but I’ve given him Oholiab, son of Ahisamach of the tribe of Dan, to work with him. And to all who have an aptitude for crafts I’ve given the skills to make all the things I’ve commanded you: the Tent of Meeting, the Chest of The Testimony and its Atonement-Cover, all the implements for the Tent, the Table and its implements, the pure Lampstand and all its implements, the Altar of Incense, the Altar of Whole-Burnt-Offering and all its implements, the Washbasin and its base, the official vestments, the holy vestments for Aaron the priest and his sons in their priestly duties, the anointing oil, and the aromatic incense for the Holy Place—they’ll make everything just the way I’ve commanded you.”
+
+>>> TEEN:
+  [p1 badge=6-11] And that's not all. I’ve also assigned Oholiab, son of Ahisamach from the tribe of Dan, to be his wingman. Plus, to everyone who's already got a talent for crafting, I’ve given them the skills to make all the things I've commanded: the Tent of Meeting, the Ark of the Covenant with its cover, all the gear for the Tent, the table and its stuff, the pure gold lampstand and all its accessories, the Altar of Incense, the main altar for burnt offerings and all its tools, the washbasin and its stand, the official robes for Aaron the priest and his sons, the anointing oil, and the special incense for the Holy Place. They'll make everything exactly how I told you."
+  [KO p1] "거기다 단 지파의 오홀리압을 걔 파트너로 붙여줬어. 그리고 재능 있는 모든 사람들한테 내가 명령한 모든 걸 만들 수 있는 스킬을 줬지. 회막, 증거궤랑 속죄소, 성막의 모든 기구, 상이랑 그 부속품, 순금 등잔대랑 그 부속품, 분향단, 번제단이랑 그 부속품, 물두멍이랑 그 받침, 제사장 아론과 그 아들들이 입을 거룩한 옷, 관유, 성소에서 쓸 향기로운 향까지. 내가 명령한 그대로 다 만들게 될 거야."
+
+--- MSG [12-17] ---
+God spoke to Moses: “Tell the Israelites, ‘Above all, keep my Sabbaths, the sign between me and you, generation after generation, to keep the knowledge alive that I am the God who makes you holy. Keep the Sabbath; it’s holy to you. Whoever profanes it will most certainly be put to death. Whoever works on it will be excommunicated from the people. There are six days for work but the seventh day is Sabbath, pure rest, holy to God. Anyone who works on the Sabbath will most certainly be put to death. The Israelites will keep the Sabbath, observe Sabbath-keeping down through the generations, as a standing covenant. It’s a fixed sign between me and the Israelites. Yes, because in six days God made the Heavens and the Earth and on the seventh day he stopped and took a long, deep breath.’”
+
+>>> TEEN:
+  [p2 badge=12-17] Then God said to Moses, "Tell the Israelites, ‘Look, the most important thing is to keep my Sabbaths. It’s a sign between me and you forever, so you always know that I am the God who makes you holy. Keep the Sabbath; it's sacred to you. Anyone who disrespects it will be put to death, no questions asked. Whoever works on that day will be cut off from the community. You have six days for work, but the seventh day is a Sabbath of pure rest, holy to God. Anyone who works on the Sabbath will be put to death. The Israelites must keep the Sabbath, observing it for all generations as a permanent promise. It’s a lasting sign between me and the Israelites. Why? Because in six days God made the heavens
+  [KO p2] 하나님이 모세한테 또 말했어. "이스라엘 백성한테 전해. '다른 건 몰라도 내 안식일은 꼭 지켜라. 이건 나랑 너희 사이에 대대로 이어질 약속의 증표 같은 거야. 내가 너희를 거룩하게 하는 하나님인 걸 알게 하려는 거지. 안식일은 너희한테 거룩한 날이니까 꼭 지켜. 누구든지 그날을 더럽히면 반드시 죽을 거고, 그날 일하는 사람은 백성 중에서 끊어질 거다. 6일 동안은 일하고, 7일째는 완전한 휴식의 날, 하나님께 거룩한 안식일이야. 누구든지 안식일에 일하면 반드시 죽는다. 이스라엘 자손은 대대로 이 안식일을 지켜야 해. 이건 나랑 이스라엘 자손 사이에 영원한 표징이야. 왜냐면 하나님이 6일 동안 하늘과 땅을 만들고, 7
+
+--- MSG [18] ---
+When he finished speaking with him on Mount Sinai, he gave Moses two tablets of Testimony, slabs of stone, written with the finger of God.
+
+>>> TEEN:
+  [p3 badge=18] When he finished talking with him on Mount Sinai, he gave Moses two stone tablets of the Testimony, written with the very finger of God.
+  [KO p3] 하나님이 시내산에서 모세와 말을 다 마치고, 증거판 두 개를 줬는데, 그건 하나님이 직접 손가락으로 쓴 돌판이었대. 대단한 거지.

@@ -1,0 +1,57 @@
+# EXODUS 26 — Building God's Epic Tent
+TEEN paras: 9 | badges: ['1', '2-6', '7-11', '12-14', '15-25', '26-30', '31-33', '34-35', '36-37']
+KO paras: 9 | badges: ['1', '2-6', '7-11', '12-14', '15-25', '26-30', '31-33', '34-35', '36-37']
+MSG sections: 7 | ranges: ['1-6', '7-11', '12-14', '15-25', '26-30', '31-35', '36-37']
+
+--- MSG [1-6] ---
+“Make The Dwelling itself from ten panels of tapestry woven from fine twisted linen, blue and purple and scarlet material, with an angel-cherubim design. A skilled craftsman should do it. The panels of tapestry are each to be forty-six feet long and six feet wide. Join five of the panels together, and then the other five together. Make loops of blue along the edge of the outside panel of the first set and the same on the outside panel of the second set. Make fifty loops on each panel. Then make fifty gold clasps and join the tapestries together so that The Dwelling is one whole.
+
+>>> TEEN:
+  [p0 badge=1] Alright, so God was like, "Build me a house, but make it a tent." This wasn't just any tent, though. It was gonna be legit. He said, "Make the main part, The Dwelling, out of ten huge tapestries. Use the best linen, and weave it with blue, purple, and scarlet threads. And get a pro to stitch in some cool angel designs."
+  [KO p0] 자, 하나님이 뭐라고 하셨냐면 "야, 나 살 집 좀 지어봐. 근데 텐트로." 근데 이게 그냥 텐트가 아니었던 거임. 완전 엄청난급이었지. 하나님이 말씀하시길, "성소는 말이야, 열 폭짜리 천으로 만들어. 완전 좋은 실로 짠 아마포에다가 파란색, 보라색, 빨간색 실을 써. 그리고 전문 기술자 시켜서 천사 모양 디자인도 좀 넣어봐."
+  [p1 badge=2-6] Each tapestry had to be massive, like 46 feet long and 6 feet wide. Then, you connect five of them together to make one giant sheet, and do the same with the other five. Along the edges where they'll connect, you put a bunch of blue loops—fifty on each side. Then, you make fifty gold clips to hook the two big sheets together, making The Dwelling one whole epic tent.
+  [KO p1] 각 천은 길이가 14미터, 너비가 1.8미터로 엄청 커야 했대. 그리고 다섯 폭을 하나로 합치고, 나머지 다섯 폭도 또 하나로 합치는 거야. 얘네 둘을 연결할 가장자리에는 파란색으로 고리를 만들래. 양쪽에 각각 50개씩. 그런 다음에 금으로 갈고리 50개를 만들어서 이 두 개의 큰 천을 연결하면, 성소가 하나의 완전체 텐트가 되는 거지.
+
+--- MSG [7-11] ---
+“Next make tapestries of goat hair for a tent that will cover The Dwelling. Make eleven panels of these tapestries. The length of each panel will be forty-five feet long and six feet wide. Join five of the panels together, and then the other six. Fold the sixth panel double at the front of the tent. Now make fifty loops along the edge of the end panel and fifty loops along the edge of the joining panel. Make fifty clasps of bronze and connect the clasps with the loops, bringing the tent together.
+
+>>> TEEN:
+  [p2 badge=7-11] Next up, you make another layer of tapestries, this time out of goat hair, to go over The Dwelling like a tent cover. You'll need eleven of these, each one 45 feet long and 6 feet wide. You join five together, and then the other six. The extra one gets folded over at the front of the tent. Then, you put fifty loops on the edges of these big goat-hair sheets and use fifty bronze clips to hook them together. That way, the whole tent cover is one piece.
+  [KO p2] 그 다음엔, 염소 털로 짠 천으로 텐트 덮개를 만들래. 성소 위에 덮는 용도인 거임. 이 천은 열한 폭으로 만들고, 각 폭의 길이는 13.7미터, 너비는 1.8미터. 다섯 폭을 하나로 합치고, 나머지 여섯 폭도 합쳐. 여섯 번째 폭은 텐트 앞쪽에서 반으로 접으래. 그리고 이 염소 털 천 가장자리에도 고리를 50개씩 만들고, 청동 갈고리 50개로 연결해서 텐트 덮개를 하나로 합치는 거야.
+
+--- MSG [12-14] ---
+“Hang half of the overlap of the tapestry panels over the rear of The Dwelling. The eighteen inches of overlap on either side will cover the sides of the tent. Finally, make a covering for the tapestries of tanned rams’ skins dyed red and over that a covering of dolphin skins.
+
+>>> TEEN:
+  [p3 badge=12-14] Any extra tapestry material hangs over the back of The Dwelling. The overlap on the sides, about 18 inches on each, will cover the sides of the main tent. To top it all off, you put a layer of tanned ram skins dyed red, and over that, a final layer of tough dolphin skins. Talk about weatherproof.
+  [KO p3] 남는 천은 성소 뒤쪽으로 늘어뜨리래. 양쪽으로 45센티미터 정도 남는 부분은 텐트 옆면을 덮게 될 거래. 마지막으로, 붉게 물들인 숫양 가죽으로 덮개를 만들고, 그 위에는 돌고래 가죽으로 또 덮개를 만들어서 마무리. 이 정도면 방수는 그냥 기본이지.
+
+--- MSG [15-25] ---
+“Frame The Dwelling with planks of acacia wood, each section of frame fifteen feet long and two and one-quarter feet wide, with two pegs for securing them. Make all the frames identical: twenty frames for the south side with forty silver sockets to receive the two pegs from each of the twenty frames; the same construction on the north side of The Dwelling; for the rear of The Dwelling, which faces west, make six frames with two additional frames for the rear corners. Both of the two corner frames need to be double in thickness from top to bottom and fit into a single ring—eight frames altogether with sixteen sockets of silver, two under each frame.
+
+>>> TEEN:
+  [p4 badge=15-25] Now for the frame. You build it with acacia wood planks. Each plank is 15 feet tall and a little over 2 feet wide, with two pegs at the bottom to lock it in place. All the frames have to be exactly the same. You need twenty frames for the south side, and you'll make forty silver bases for the pegs to fit into—two for each frame. The north side is built the exact same way. For the back of the tent, which faces west, you make six frames, plus two extra for the corners. These corner frames are double-thick from top to bottom and fit into a single ring. So that's eight frames in the back with sixteen silver bases, two for each frame.
+  [KO p4] 이제 뼈대를 만들 차례. 아카시아 나무로 널빤지를 만들어서 프레임을 짜는 거야. 각 널빤지는 높이가 4.5미터, 너비가 70센티미터 정도 되고, 바닥에 고정할 수 있게 촉(peg)이 두 개씩 달려있어. 모든 프레임은 다 똑같이 만들어야 한대. 남쪽 면에는 프레임 20개가 필요한데, 각 프레임에서 나온 촉 두 개를 끼울 은 받침 40개를 만들래. 북쪽 면도 똑같이 만들면 돼. 텐트 뒤쪽, 그러니까 서쪽 면에는 프레임 6개를 만들고, 모서리용으로 2개를 추가로 만들어. 이 모서리 프레임 2개는 위아래로 두 겹으로 만들고, 고리 하나에 끼우래. 그럼 뒤쪽은 총 8개 프레임에 은 받침 16개가 되는 거지. 각 프레임 아래에 2
+
+--- MSG [26-30] ---
+“Now make crossbars of acacia wood, five for the frames on one side of The Dwelling, five for the other side, and five for the back side facing west. The center crossbar runs from end to end halfway up the frames. Cover the frames with a veneer of gold and make gold rings to hold the crossbars. And cover the crossbars with a veneer of gold. Then put The Dwelling together, following the design you were shown on the mountain.
+
+>>> TEEN:
+  [p5 badge=26-30] To hold it all together, you make crossbars out of acacia wood. Five for the frames on one side, five for the other side, and five for the back. The middle crossbar runs all the way from one end to the other, halfway up the frames. Then, you cover all the frames with a thin layer of gold, make gold rings to hold the crossbars, and cover the crossbars with gold too. Once all the pieces are ready, you put The Dwelling together exactly like God showed you on the mountain.
+  [KO p5] 이걸 다 고정시키려고 아카시아 나무로 가로대를 만든대. 텐트 한쪽 면에 5개, 다른 쪽 면에 5개, 그리고 서쪽을 보는 뒷면에 5개. 중앙 가로대는 프레임 중간 높이에서 끝에서 끝까지 이어지게 하래. 그리고 모든 프레임은 얇은 금으로 싹 다 덮고, 가로대를 끼울 금 고리를 만들고, 가로대도 금으로 덮으래. 모든 부품이 준비되면, 하나님이 산에서 보여주신 설계도 그대로 성소를 조립하는 거임.
+
+--- MSG [31-35] ---
+“Make a curtain of blue, purple, and scarlet material and fine twisted linen. Have a design of angel-cherubim woven into it by a skilled craftsman. Fasten it with gold hooks to four posts of acacia wood covered with a veneer of gold, set on four silver bases. After hanging the curtain from the clasps, bring the Chest of The Testimony in behind the curtain. The curtain will separate the Holy Place from the Holy-of-Holies. Now place the Atonement-Cover lid on the Chest of The Testimony in the Holy-of-Holies. Place the Table and the Lampstand outside the curtain, the Lampstand on the south side of The Dwelling and the Table opposite it on the north side.
+
+>>> TEEN:
+  [p6 badge=31-33] Then, you make a sick curtain out of blue, purple, and scarlet material with fine linen. A skilled artist has to weave a design of angels into it. You hang this curtain with gold hooks on four acacia wood posts that are also covered in gold and set in four silver bases. After you hang the curtain, you bring the Ark of the Covenant (the Chest of The Testimony) behind it. This curtain separates the Holy Place from the Most Holy Place (the Holy-of-Holies).
+  [KO p6] 그런 다음, 파란색, 보라색, 빨간색 실이랑 고운 아마포로 휘장을 짜래. 완전 실력 좋은 장인이 천사 디자인을 넣어서 짜야 한대. 이 휘장은 금 갈고리를 써서 네 개의 아카시아 나무 기둥에 거는 거야. 이 기둥들도 금으로 덮여있고, 네 개의 은 받침 위에 세워져. 휘장을 걸고 나면, 그 뒤로 언약궤(증거궤)를 가져다 놓으래. 이 휘장이 성소랑 지성소를 구분하는 역할을 하는 거지.
+  [p7 badge=34-35] Inside the Most Holy Place, you put the special lid, the Atonement-Cover, on top of the Ark. Outside the curtain, in the Holy Place, you put the Table and the Lampstand. The Lampstand goes on the south side, and the Table goes on the north side, opposite it.
+  [KO p7] 지성소 안에는 언약궤 위에 속죄판이라는 특별한 뚜껑을 덮어. 휘장 밖, 즉 성소에는 상이랑 등잔대를 놓는데, 등잔대는 남쪽에, 상은 그 맞은편인 북쪽에 놓으래.
+
+--- MSG [36-37] ---
+“Make a screen for the door of the tent. Weave it from blue, purple, and scarlet material and fine twisted linen. Frame the weaving with five poles of acacia wood covered with a veneer of gold and make gold hooks to hang the weaving. Cast five bronze bases for the poles.”
+
+>>> TEEN:
+  [p8 badge=36-37] Finally, you make a screen for the entrance of the tent. It's woven from blue, purple, and scarlet material and fine linen. You hang it on five acacia wood poles that are covered in gold, using gold hooks. And you make five bronze bases for these poles.
+  [KO p8] 마지막으로, 텐트 입구에 가림막을 만들어. 파란색, 보라색, 빨간색 실이랑 고운 아마포로 짜서 만들어. 이 가림막은 금으로 덮인 다섯 개의 아카시아 나무 기둥에 금 갈고리를 써서 걸어. 그리고 이 기둥들을 받칠 청동 받침 5개를 만들면 끝. 엄청난 거지?

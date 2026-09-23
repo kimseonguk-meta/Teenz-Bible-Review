@@ -1,0 +1,70 @@
+[
+ {
+  "changes": [
+   "Ch1: rebuilt from 17 paragraphs to 13 following MSG paragraphing; all § headers now carry non-null badges shared with their following body paragraph (principle 2)",
+   "Ch1: fixed all badges to MSG ranges — eliminated '5-6', '6-7', '10', '9-10', '11', '14-15', '16'; MSG 5-7/9-11/14-16 are each one paragraph again (not split into two)",
+   "Ch1 v1-2: restored 'called' and 'rest — everything's coming together' from MSG greeting",
+   "Ch1 v3-4: restored 'insisting — begging!', 'gift to guard and cherish', 'beneath their pious skin are shameless scoundrels', 'swap sheer grace for sheer license'",
+   "Ch1 v5-7: restored 'in brief', 'the surrounding cities that acted just like them', 'burning and burning and never burning up ... stock warning'",
+   "Ch1 v9-11: restored 'went to the mat with the Devil', Michael's 'No you don't — God will take care of you!', 'canceled out in Korah's rebellion'",
+   "Ch1 v12-13: restored 'giving you a black eye', 'grabbing anything that isn't nailed down', 'puffs of smoke' metaphor, 'doubly dead, pulled up by the roots', 'nothing on the beach but the foam of their shame', 'lost stars in outer space on their way to the black hole'",
+   "Ch1 v14-16: Enoch quote now includes 'bring judgment against them all — convicting every single person'",
+   "Ch1 v17-19: restored 'don't take these things seriously anymore', 'make a religion of their own whims and lusts', 'There's nothing to them'",
+   "Ch1 v20-21: restored 'carefully', 'arms open and outstretched'",
+   "Ch1 v22-23: restored 'stinks to high heaven'",
+   "Ch1 v24-25: restored 'standing tall in his bright presence, fresh and celebrating'",
+   "Ch1: kept chapter title 'Watch Out for the Fakes'",
+   "Jude 5-7: restored MSG \"sexual rack and ruin\" — EN \"went totally off the rails, wrecked by sexual corruption\"; KO \"성적으로 완전히 타락해버렸지\""
+  ],
+  "chapter": 1,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-2",
+   "3-4",
+   "3-4",
+   "5-7",
+   "5-7",
+   "8",
+   "9-11",
+   "12-13",
+   "14-16",
+   "17-19",
+   "20-21",
+   "22-23",
+   "24-25"
+  ],
+  "paragraphs": [
+   "Hey, what up? It's Jude — a slave of Jesus Christ and brother of James. I'm writing to you who are loved by God the Father, called, and kept safe by Jesus Christ. So relax — everything's gonna be all right. Rest — everything's coming together. Open your hearts, because love is on the way!",
+   "§Fight with All You Have in You",
+   "Dear friends, I've dropped everything to write you about this life of salvation that we all share. But I have to write now, insisting — begging! — that you fight with everything you have in you for this faith. It's a gift we've been entrusted with, so guard it and cherish it. What happened is this: some people have infiltrated our ranks (our Scriptures warned us this would happen). Beneath their pious skin they're shameless scoundrels. Their whole design is to swap the sheer grace of our God for sheer license — which means doing away with Jesus Christ, our one and only Master.",
+   "§Lost Stars in Outer Space",
+   "I'm gonna lay this out as clearly as I can — in brief — even though you once knew all of this well enough that you shouldn't need reminding. Here it is: the Master saved a people out of the land of Egypt, but later he destroyed the ones who defected. And you know the story of the angels who didn't stick to their post and abandoned it for darker missions. Now they're chained up in a black hole, locked away until the great Judgment Day. Sodom and Gomorrah are another example — those cities, along with the surrounding ones that acted just like them, went totally off the rails, wrecked by sexual corruption. Burning and burning and never burning up, they're still serving as a stock warning for us today.",
+   "This is exactly the same program these latest infiltrators are running: dirty sex, rules and rulers thrown out, glory dragged in the mud.",
+   "The archangel Michael — who went to the mat with the Devil as they fought over the body of Moses — wouldn't dare level him with a blasphemous curse. He just said, \"No you don't — God will take care of you!\" But these people sneer at anything they can't understand, and by doing whatever they feel like — living by pure animal instinct — they walk right into their own destruction. I'm fed up with them! They've gone down Cain's road. They've been sucked into Balaam's error by greed. They're canceled out in Korah's rebellion.",
+   "These people are eyesores at your love feasts, where you worship and eat together — they're giving you a black eye. They carouse shamelessly, grabbing anything that isn't nailed down. They're puffs of smoke blown around by gusts of wind; late-autumn trees stripped clean of leaf and fruit, doubly dead, pulled up by the roots; wild ocean waves leaving nothing on the beach but the foam of their shame; lost stars in outer space on their way to the black hole.",
+   "Enoch, the seventh after Adam, prophesied about them: \"Look! The Master is coming with thousands of holy angels to bring judgment against them all — convicting every single person of every defiling act of shameless sacrilege, and of every dirty word they've spewed out of their pious filth.\" These are the complainers, the bellyachers, always grabbing for the biggest piece of the pie, talking big, saying anything they think will get them ahead.",
+   "But remember, dear friends: the apostles of our Master, Jesus Christ, told us this would happen. \"In the last days there will be people who don't take these things seriously anymore. They'll treat them like a joke and make a religion of their own whims and lusts.\" These are the ones who split churches, thinking only of themselves. There's nothing to them — no sign of the Spirit!",
+   "But you, dear friends, carefully build yourselves up in this most holy faith. Pray in the Holy Spirit. Stay right at the center of God's love, keeping your arms open and outstretched, ready for the mercy of our Master, Jesus Christ. This is the unending life — the real life!",
+   "Go easy on those who hesitate in the faith. Go after those who take the wrong way. Be tender with sinners, but not soft on sin — the sin itself stinks to high heaven.",
+   "And now, to the one who can keep you on your feet, standing tall in his bright presence, fresh and celebrating — to our one God, our only Savior, through Jesus Christ our Master: be glory, majesty, strength, and rule before all time, and now, and to the end of all time. Yes!"
+  ],
+  "splits": [],
+  "title": "Watch Out for the Fakes",
+  "verseRanges": [
+   "1-2",
+   "3-4",
+   "3-4",
+   "5-7",
+   "5-7",
+   "8",
+   "9-11",
+   "12-13",
+   "14-16",
+   "17-19",
+   "20-21",
+   "22-23",
+   "24-25"
+  ]
+ }
+]

@@ -1,0 +1,106 @@
+# EXODUS 9 — Pharaoh's Ego vs. God's Power: Hailstorm Edition
+TEEN paras: 14 | badges: ['1-4', '5', '6-7', '8-12', '12', '13-19', '20-21', '22-23', '23-26', '27-28', '29-30', '31-32', '33', '34-35']
+KO paras: 14 | badges: ['1-4', '5', '6-7', '8-12', '12', '13-19', '20-21', '22-23', '23-26', '27-28', '29-30', '31-32', '33', '34-35']
+MSG sections: 14 | ranges: ['1-4', '5', '6-7', '8-11', '12', '13-19', '20-21', '22', '23-26', '27-28', '29-30', '31-32', '33', '34-35']
+
+--- MSG [1-4] ---
+God said to Moses, “Go to Pharaoh and tell him, ‘God, the God of the Hebrews, says: Release my people so they can worship me. If you refuse to release them and continue to hold on to them, I’m giving you fair warning: God will come down hard on your livestock out in the fields—horses, donkeys, camels, cattle, sheep—striking them with a severe disease. God will draw a sharp line between the livestock of Israel and the livestock of Egypt. Not one animal that belongs to the Israelites will die.’”
+
+>>> TEEN:
+  [p0 badge=1-4] God told Moses, "Go to Pharaoh and tell him, 'God, the God of the Hebrews, is saying: Let my people go so they can worship me. If you refuse to let them go and keep holding them, I'm giving you a heads-up: God's gonna come down hard on your livestock in the fields—horses, donkeys, camels, cattle, sheep—hitting them with a serious disease. God will make a clear distinction between Israel's livestock and Egypt's. Not a single animal belonging to the Israelites will die.'"
+  [KO p0] 하나님이 모세한테 말했대. "바로한테 가서 전해라. '히브리 사람들의 하나님이신 그 하나님이 말한다. 내 백성 보내줘라, 나를 예배할 수 있게. 만약 니가 걔네를 안 보내주고 계속 붙잡고 있으면, 내가 경고하는데, 하나님이 들판에 있는 니네 가축들—말, 당나귀, 낙타, 소, 양—한테 제대로 한 방 먹일 거다. 완전 심한 병으로 싹 다. 하나님이 이스라엘 가축이랑 이집트 가축 사이에 선을 딱 그을 건데, 이스라엘 자손들 가축은 한 마리도 안 죽을 거임.'"
+
+--- MSG [5] ---
+Then God set the time: “Tomorrow God will do this thing.”
+
+>>> TEEN:
+  [p1 badge=5] Then God set the time: "Tomorrow, God's gonna do this."
+  [KO p1] 그러고 나서 하나님이 시간도 정해줬대. "내일 하나님이 이 일을 할 거다."
+
+--- MSG [6-7] ---
+And the next day God did it. All the livestock of Egypt died, but not one animal of the Israelites died. Pharaoh sent men to find out what had happened and there it was: none of the livestock of the Israelites had died—not one death. But Pharaoh stayed stubborn. He wouldn’t release the people.
+
+>>> TEEN:
+  [p2 badge=6-7] And the next day, God did it. All of Egypt's livestock died, but not one of the Israelites' animals died. Pharaoh sent guys to check it out, and it was true: none of the Israelites' livestock had died—not a single one. But Pharaoh was still stubborn. He wouldn't let the people go.
+  [KO p2] 다음 날, 진짜 하나님이 그렇게 했어. 이집트 가축은 싹 다 죽었는데, 이스라엘 사람들 가축은 한 마리도 안 죽은 거임. 바로가 사람들 보내서 확인해봤는데, 진짜이었어. 이스라엘 가축은 한 마리도 안 죽었음. 단 한 마리도. 근데 바로는 여전히 고집불통이었대. 백성들을 안 보내줬어.
+
+--- MSG [8-11] ---
+God said to Moses and Aaron, “Take fistfuls of soot from a furnace and have Moses throw it into the air right before Pharaoh’s eyes; it will become a film of fine dust all over Egypt and cause sores, an eruption of boils on people and animals throughout Egypt.” So they took soot from a furnace, stood in front of Pharaoh, and threw it up into the air. It caused boils to erupt on people and animals. The magicians weren’t able to compete with Moses this time because of the boils—they were covered with boils just like everyone else in Egypt.
+
+>>> TEEN:
+  [p3 badge=8-12] God said to Moses and Aaron, "Grab handfuls of soot from a furnace, and have Moses throw it in the air right in front of Pharaoh. It'll turn into a fine dust all over Egypt and cause nasty sores and boils to break out on people and animals everywhere." So they took soot from a furnace, stood in front of Pharaoh, and Moses tossed it in the air. It caused boils to pop up on people and animals. The magicians couldn't even hang with Moses this time because of the boils—they were covered in them just like everyone else in Egypt.
+  [KO p3] 하나님이 모세랑 아론한테 말했대. "화덕에서 재를 두 주먹만큼 집어서, 모세 니가 바로 눈앞에서 공중으로 확 뿌려라. 그게 온 이집트 땅에 고운 먼지처럼 퍼져서, 사람들하고 동물들 몸에 종기가 생기고 고름이 터져 나올 거다." 그래서 걔네가 화덕에서 재를 가져다가 바로 앞에 서서 공중에 뿌렸대. 그랬더니 사람들하고 동물들 몸에 종기가 막 터져 나온 거임. 마술사들도 이번엔 종기 때문에 모세랑 상대가 안 됐어. 걔네도 다른 이집트 사람들처럼 온몸에 종기가 났거든.
+
+--- MSG [12] ---
+God hardened Pharaoh in his stubbornness. He wouldn’t listen, just as God had said to Moses.
+
+>>> TEEN:
+  [p3 badge=8-12] God said to Moses and Aaron, "Grab handfuls of soot from a furnace, and have Moses throw it in the air right in front of Pharaoh. It'll turn into a fine dust all over Egypt and cause nasty sores and boils to break out on people and animals everywhere." So they took soot from a furnace, stood in front of Pharaoh, and Moses tossed it in the air. It caused boils to pop up on people and animals. The magicians couldn't even hang with Moses this time because of the boils—they were covered in them just like everyone else in Egypt.
+  [KO p3] 하나님이 모세랑 아론한테 말했대. "화덕에서 재를 두 주먹만큼 집어서, 모세 니가 바로 눈앞에서 공중으로 확 뿌려라. 그게 온 이집트 땅에 고운 먼지처럼 퍼져서, 사람들하고 동물들 몸에 종기가 생기고 고름이 터져 나올 거다." 그래서 걔네가 화덕에서 재를 가져다가 바로 앞에 서서 공중에 뿌렸대. 그랬더니 사람들하고 동물들 몸에 종기가 막 터져 나온 거임. 마술사들도 이번엔 종기 때문에 모세랑 상대가 안 됐어. 걔네도 다른 이집트 사람들처럼 온몸에 종기가 났거든.
+  [p4 badge=12] God made Pharaoh even more stubborn. He wouldn't listen, just like God had told Moses would happen.
+  [KO p4] 하나님이 바로의 고집을 더 세게 만들었대. 그는 모세 말을 안 들었어. 딱 하나님이 모세한테 말했던 그대로였지.
+
+--- MSG [13-19] ---
+God said to Moses, “Get up early in the morning and confront Pharaoh. Tell him, ‘God, the God of the Hebrews, says: Release my people so they can worship me. This time I am going to strike you and your servants and your people with the full force of my power so you’ll get it into your head that there’s no one like me anywhere in all the Earth. You know that by now I could have struck you and your people with deadly disease and there would be nothing left of you, not a trace. But for one reason only I’ve kept you on your feet: To make you recognize my power so that my reputation spreads in all the Earth. You are still building yourself up at my people’s expense. You are not letting them go. So here’s what’s going to happen: At this time tomorrow I’m sending a terrific hailstorm—there’s never been a storm like this in Egypt from the day of its founding until now. So get your livestock under roof—everything exposed in the open fields, people and animals, will die when the hail comes down.’”
+
+>>> TEEN:
+  [p5 badge=13-19] God told Moses, "Get up early and go to Pharaoh. Tell him, 'God, the God of the Hebrews, says: Let my people go so they can worship me. This time I'm about to hit you, your officials, and your people with my full power so you'll finally get it that there's no one like me in the whole world. You know I could've just hit you and your people with a deadly plague and wiped you off the map by now. But I've kept you around for one reason: to show you my power and to make my name famous everywhere. You're still acting all high and mighty at my people's expense and not letting them go. So here's the deal: around this time tomorrow, I'm sending a crazy hailstorm—the worst storm Egypt has ever seen si
+  [KO p5] 하나님이 모세한테 말했대. "아침 일찍 일어나서 바로한테 가라. 그리고 전해. '히브리 사람들의 하나님이신 그 하나님이 말한다. 내 백성 보내줘라, 나를 예배할 수 있게. 이번엔 내가 내 모든 힘을 다해서 너랑 니 신하들이랑 니 백성을 칠 거다. 그래야 온 세상에 나 같은 존재가 없다는 걸 니 머릿속에 제대로 박아 넣지. 솔직히 내가 지금이라도 너랑 니 백성을 무서운 병으로 쳐서 흔적도 없이 없애버릴 수 있다는 거 알지? 근데 내가 딱 한 가지 이유 때문에 너를 살려둔 거야. 내 능력을 니가 직접 보게 하고, 내 명성이 온 세상에 퍼지게 하려고. 넌 아직도 내 백성을 희생시켜서 니 자신을 세우고 있잖아. 걔네를 안 보내
+
+--- MSG [20-21] ---
+All of Pharaoh’s servants who had respect for God’s word got their workers and animals under cover as fast as they could, but those who didn’t take God’s word seriously left their workers and animals out in the field.
+
+>>> TEEN:
+  [p6 badge=20-21] All of Pharaoh's officials who actually respected God's word quickly got their workers and animals under cover. But the ones who didn't take God's word seriously just left their workers and animals out in the fields.
+  [KO p6] 바로의 신하들 중에 하나님 말씀을 두려워하는 사람들은 자기 일꾼들이랑 동물들을 최대한 빨리 대피시켰대. 근데 하나님 말씀을 귓등으로도 안 들은 사람들은 자기 일꾼들이랑 동물들을 그냥 들판에 내버려 뒀어.
+
+--- MSG [22] ---
+God said to Moses: “Stretch your hands to the skies. Signal the hail to fall all over Egypt on people and animals and crops exposed in the fields of Egypt.”
+
+>>> TEEN:
+  [p7 badge=22-23] God told Moses: "Stretch your hands toward the sky. Signal the hail to fall all over Egypt—on people, animals, and all the crops in the fields."
+  [KO p7] 하나님이 모세한테 말했대. "니 손을 하늘로 뻗어라. 이집트 온 땅에, 들판에 있는 사람이랑 동물이랑 농작물 위에 우박이 쏟아지라고 신호를 보내라."
+
+--- MSG [23-26] ---
+Moses lifted his staff to the skies and God sent cracks of thunder and hail shot through with lightning strikes. God rained hail down on the land of Egypt. The hail came, hail and lightning—a fierce hailstorm. There had been nothing like it in Egypt in its entire history. The hail hit hard all over Egypt. Everything exposed out in the fields, people and animals and crops, was smashed. Even the trees in the fields were shattered. Except for Goshen where the Israelites lived; there was no hail in Goshen.
+
+>>> TEEN:
+  [p7 badge=22-23] God told Moses: "Stretch your hands toward the sky. Signal the hail to fall all over Egypt—on people, animals, and all the crops in the fields."
+  [KO p7] 하나님이 모세한테 말했대. "니 손을 하늘로 뻗어라. 이집트 온 땅에, 들판에 있는 사람이랑 동물이랑 농작물 위에 우박이 쏟아지라고 신호를 보내라."
+  [p8 badge=23-26] Moses lifted his staff to the sky, and God sent thunder, hail, and crazy lightning strikes. God just rained hail down on Egypt. The hail was insane, mixed with lightning—a super intense hailstorm. There had never been anything like it in Egypt's entire history. The hail wrecked everything all over Egypt. Everything left out in the fields—people, animals, and crops—was destroyed. It even shattered the trees. The only place it didn't hail was in Goshen, where the Israelites lived.
+  [KO p8] 모세가 지팡이를 하늘로 들어 올리니까, 하나님이 천둥 번개를 보내고 우박 사이에 번개가 막 내리꽂혔대. 하나님이 이집트 땅에 우박을 비처럼 쏟아부은 거야. 우박이 막 쏟아지는데, 우박이랑 번개랑 뒤섞여서 완전 무서운 폭풍이었어. 이집트 역사상 그런 건 한 번도 없었대. 우박이 이집트 전역을 강타했어. 들판에 나와 있던 모든 것들, 사람이든 동물이든 농작물이든 다 박살 났어. 심지어 들판의 나무들까지 다 부서졌대. 근데 이스라엘 사람들이 사는 고센 땅만 빼고. 거기엔 우박이 하나도 안 내렸어.
+
+--- MSG [27-28] ---
+Pharaoh summoned Moses and Aaron. He said, “I’ve sinned for sure this time—God is in the right and I and my people are in the wrong. Pray to God. We’ve had enough of God’s thunder and hail. I’ll let you go. The sooner you’re out of here the better.”
+
+>>> TEEN:
+  [p9 badge=27-28] Pharaoh called for Moses and Aaron. He said, "Okay, for real, I've sinned this time. God is right, and I and my people are wrong. Pray to God. We've had enough of God's thunder and hail. I'll let you go. The faster you're out of here, the better."
+  [KO p9] 바로가 모세랑 아론을 불렀어. 그가 말했대. "이번엔 내가 진짜 죄를 지었다. 하나님이 옳고, 나랑 내 백성이 틀렸어. 하나님께 기도 좀 해줘. 이젠 하나님의 천둥이랑 우박은 지긋지긋하다. 너네 가게 해줄게. 여기서 빨리 물러가주는 게 서로 좋을 것 같다."
+
+--- MSG [29-30] ---
+Moses said, “As soon as I’m out of the city, I’ll stretch out my arms to God. The thunder will stop and the hail end so you’ll know that the land is God’s land. Still, I know that you and your servants have no respect for God.”
+
+>>> TEEN:
+  [p10 badge=29-30] Moses replied, "As soon as I leave the city, I'll stretch out my hands to God. The thunder will stop and the hail will end, so you'll know that this land belongs to God. But, I know you and your officials still don't actually respect God."
+  [KO p10] 모세가 말했대. "내가 이 성에서 나가자마자, 하나님께 두 팔을 벌려 기도할게요. 그럼 천둥이 멈추고 우박도 그칠 겁니다. 그래야 이 땅이 하나님의 땅이라는 걸 당신이 알게 되겠죠. 근데 뭐, 나는 당신이랑 당신 신하들이 여전히 하나님을 존중하지 않는다는 거 압니다."
+
+--- MSG [31-32] ---
+(The flax and the barley were ruined, for they were just ripening, but the wheat and spelt weren’t hurt—they ripen later.)
+
+>>> TEEN:
+  [p11 badge=31-32] (The flax and barley crops were ruined because they were just about to be harvested, but the wheat and spelt were fine since they ripen later.)
+  [KO p11] (마침 익어가던 삼이랑 보리는 망가졌는데, 밀이랑 귀리는 나중에 익는 거라 괜찮았대.)
+
+--- MSG [33] ---
+Moses left Pharaoh and the city and stretched out his arms to God. The thunder and hail stopped; the storm cleared.
+
+>>> TEEN:
+  [p12 badge=33] Moses left Pharaoh and the city and stretched out his hands to God. The thunder and hail stopped, and the storm ended.
+  [KO p12] 모세는 바로랑 그 도시를 떠나서 하나님께 두 팔을 벌렸어. 천둥이랑 우박이 멈추고, 폭풍이 싹 걷혔대.
+
+--- MSG [34-35] ---
+But when Pharaoh saw that the rain and hail and thunder had stopped, he kept right on sinning, stubborn as ever, both he and his servants. Pharaoh’s heart turned rock-hard. He refused to release the Israelites, as God had ordered through Moses.
+
+>>> TEEN:
+  [p13 badge=34-35] But when Pharaoh saw that the rain, hail, and thunder had stopped, he went right back to sinning, being as stubborn as ever, him and his officials. Pharaoh's heart became rock-hard. He refused to let the Israelites go, just as God had commanded through Moses.
+  [KO p13] 근데 바로는 비랑 우박이랑 천둥이 멈춘 걸 보고, 또 죄를 짓기 시작했어. 그랑 그의 신하들 모두 여전히 고집불통이었지. 바로의 마음은 돌처럼 굳어버렸어. 그는 이스라엘 자손들을 보내주지 않았어. 하나님이 모세를 통해 명령했던 그대로.

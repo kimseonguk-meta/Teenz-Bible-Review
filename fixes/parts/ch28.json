@@ -1,0 +1,58 @@
+{
+  "chapter": 28,
+  "title": "He's Back. And It's Everything.",
+  "paragraphs": [
+    "After the Sabbath, at the crack of dawn on Sunday, Mary Magdalene and the other Mary went to pay their respects at Jesus' tomb. Out of nowhere, the ground started shaking like crazy. A legit angel of God came down from heaven, rolled away the massive stone like it was nothing, and then just sat on it, chilling. The angel was blazing with light, like lightning, and his clothes were whiter than fresh snow. The guards hired to protect the tomb were so freaked out they literally couldn't move. They were basically frozen in fear.",
+    "The angel looked at the women and said, \"Don't be scared. I know you're looking for Jesus, the one who was crucified. But he's not here. He has risen, just like he said he would. Come on, check out the spot where he was laid.\" The women peeked inside, and sure enough, the tomb was empty. The angel then gave them their mission: \"Now, go quick and tell his disciples that he's risen from the dead and is on his way to Galilee. You'll see him there. That's the message.\"",
+    "The women were a mix of terrified and totally ecstatic. They took off running from the tomb to find the disciples and tell them the insane news. Suddenly, Jesus himself was right there in front of them. \"Good morning!\" he said. They dropped to their knees, grabbed his feet, and just started worshiping. Jesus told them, \"You're holding on to me for dear life! Don't be afraid. Go tell my brothers to head to Galilee. I'll meet them there.\"",
+    "Meanwhile, some of the guards who had fled the scene went into the city and spilled the beans to the high priests about everything that had just gone down. The religious leaders called an emergency meeting and came up with a seriously shady plan. They paid the soldiers a huge amount of money to spread a lie: \"Tell everyone his disciples came in the middle of the night and stole his body while we were asleep.\" They even promised the soldiers they'd have their backs if the governor found out they were sleeping on the job. The soldiers took the cash and did what they were told. And that fake news story is still floating around today.",
+    "The eleven disciples booked it to Galilee, to the mountain where Jesus had told them to meet him. When they saw him, they worshiped him, but some of them were still a little hesitant, not fully sure if they could handle this level of commitment. But Jesus didn't let their doubts slow him down. He came to them and dropped this bombshell:",
+    "\"God has given me all authority in heaven and on earth. So go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And for sure, I am with you always, to the very end of the age.\""
+  ],
+  "verseRanges": [
+    "1-4",
+    "5-7",
+    "8-10",
+    "11-15",
+    "16-17",
+    "18-20"
+  ],
+  "msg_ranges": [
+    "1-4",
+    "5-6",
+    "7",
+    "8-10",
+    "11-15",
+    "16-17",
+    "18-20"
+  ],
+  "merges": [
+    {
+      "para": 1,
+      "msg_ranges": [
+        "5-6",
+        "7"
+      ],
+      "note": "천사의 빈 무덤 선언과 갈릴리 메시지 2개 MSG 문단을 한 문단으로"
+    }
+  ],
+  "splits": [
+    {
+      "msg_range": "18-20",
+      "paras": [
+        4,
+        5
+      ],
+      "note": "MSG 18-20(대위임령) 문단이 EN4 끝부분 도입부('dropped this bombshell' = 'undeterred... gave his charge')와 EN5 본문 인용으로 나뉨"
+    }
+  ],
+  "changes": [
+    "배지 겹침 해소 (핵심): MSG 28장 문단 구분 확인 → [1-4],[5-6],[7],[8-10],[11-15],[16-17],[18-20]. 기존 '5-8'/'8-10' 8절 중복 → '5-7'/'8-10'으로 해소, 기존 '16-18'/'18-20' 18절 중복 → '16-17'/'18-20'으로 해소. 1-20 전절 커버, 겹침 없음",
+    "P2(8-10): MSG 원문의 'You're holding on to me for dear life!' 복원 — 기존 EN에 빠져 있었음",
+    "P5(18-20): 문단 앞의 stray '>' 마크다운 인용 부호 제거"
+  ],
+  "confirmations_needed": [
+    "ch28 P1: MSG 5-6,7 병합 (5-6,7)",
+    "ch28 P4/P5: MSG 18-20 분할 (splits 선언됨) — EN4 도입부 + EN5 인용"
+  ]
+}

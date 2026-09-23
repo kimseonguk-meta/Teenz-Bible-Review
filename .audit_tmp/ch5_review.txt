@@ -1,0 +1,185 @@
+### TITLE EN: The Ultimate Lie Detector Test
+### TITLE KO: 최후의 거짓말 탐지기
+
+[MSG 0] range=1-2 header='Ananias and Sapphira'
+But a man named Ananias—his wife, Sapphira, conniving in this with him—sold a piece of land, secretly kept part of the price for himself, and then brought the rest to the apostles and made an offering of it.
+
+[MSG 1] range=3-4 header=None
+Peter said, "Ananias, how did Satan get you to lie to the Holy Spirit and secretly keep back part of the price of the field? Before you sold it, it was all yours, and after you sold it, the money was yours to do with as you wished. So what got into you to pull a trick like this? You didn't lie to men but to God."
+
+[MSG 2] range=5-6 header=None
+Ananias, when he heard those words, fell down dead. *That* put the fear of God into everyone who heard of it. The younger men went right to work and wrapped him up, then carried him out and buried him.
+
+[MSG 3] range=7-8 header=None
+Not more than three hours later, his wife, knowing nothing of what had happened, came in. Peter said, "Tell me, were you given this price for your field?" "Yes," she said, "that price."
+
+[MSG 4] range=9-10 header=None
+Peter responded, "What's going on here that you connived to conspire against the Spirit of the Master? The men who buried your husband are at the door, and you're next." No sooner were the words out of his mouth than she also fell down, dead. When the young men returned they found her body. They carried her out and buried her beside her husband.
+
+[MSG 5] range=11 header=None
+By this time the whole church and, in fact, everyone who heard of these things had a healthy respect for God. They knew God was not to be trifled with.
+
+[MSG 6] range=12-16 header='They All Met Regularly'
+Through the work of the apostles, many God-signs were set up among the people, many wonderful things done. They all met regularly and in remarkable harmony on the Temple porch named after Solomon. But even though people admired them a lot, outsiders were wary about joining them. On the other hand, those who put their trust in the Master were added right and left, men and women both. They even carried the sick out into the streets and laid them on stretchers and bedrolls, hoping they would be touched by Peter's shadow when he walked by. They came from the villages surrounding Jerusalem, throngs of them, bringing the sick and bedeviled. And they all were healed.
+
+[MSG 7] range=17-20 header='To Obey God Rather than Men'
+Provoked mightily by all this, the Chief Priest and those on his side, mainly the sect of Sadducees, went into action, arrested the apostles and put them in the town jail. But during the night an angel of God opened the jailhouse door and led them out. He said, "Go to the Temple and take your stand. Tell the people everything there is to say about this Life." Promptly obedient, they entered the Temple at daybreak and went on with their teaching.
+
+[MSG 8] range=21-23 header=None
+Meanwhile, the Chief Priest and his cronies convened the High Council, Israel's senate, and sent to the jail to have the prisoners brought in. When the police got there, they couldn't find them anywhere in the jail. They went back and reported, "We found the jail locked tight as a drum and the guards posted at the doors, but when we went inside we didn't find a soul."
+
+[MSG 9] range=24 header=None
+The chief of the Temple police and the high priests were puzzled. "What's going on here anyway?"
+
+[MSG 10] range=25-26 header=None
+Just then someone showed up and said, "Did you know that the men you put in jail are back in the Temple teaching the people?" The chief and his police went and got them, but they handled them gently, fearful that the people would riot and turn on them.
+
+[MSG 11] range=27-28 header=None
+Bringing them back, they stood them before the High Council. The Chief Priest said, "Didn't we give you strict orders not to teach in Jesus' name? And here you have filled Jerusalem with your teaching and are trying your best to blame us for the death of this man."
+
+[MSG 12] range=29-32 header=None
+Peter and the apostles answered, "It's necessary to obey God rather than men. The God of our ancestors raised up Jesus, the One you killed by hanging him on a cross. God set him on high at his side, Prince and Savior, to give Israel the gift of a changed life and sins forgiven. And we are witnesses to these things. The Holy Spirit, whom God gives to those who obey him, corroborates every detail."
+
+[MSG 13] range=33-37 header=None
+When they heard that, they were furious and wanted to kill them on the spot. But one of the council members stood up, a Pharisee by the name of Gamaliel, a teacher of God's Law who was honored by everyone. He ordered the men taken out of the room for a short time, then said, "Fellow Israelites, be careful what you do to these men. Not long ago Theudas made something of a splash, claiming to be somebody, and got about four hundred men to join him. He was killed, his followers dispersed, and nothing came of it. A little later, at the time of the census, Judas the Galilean appeared and acquired a following. He also fizzled out and the people following him were scattered to the four winds.
+
+[MSG 14] range=38-39 header=None
+"So I am telling you: Hands off these men! Let them alone. If this program or this work is merely human, it will fall apart, but if it is of God, there is nothing you can do about it—and you better not be found fighting against God!"
+
+[MSG 15] range=40-42 header=None
+That convinced them. They called the apostles back in. After giving them a thorough whipping, they warned them not to speak in Jesus' name and sent them off. The apostles went out of the High Council overjoyed because they had been given the honor of being dishonored on account of the Name. Every day they were in the Temple and homes, teaching and preaching Christ Jesus, not letting up for a minute.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Ananias and Sapphira
+
+[EN 1] badge=1-2
+So, there was this guy Ananias and his wife, Sapphira. They sold a piece of land, but then they got this dishonest scheme. They decided to keep some of the cash for themselves and only give the rest to the apostles, acting like they were giving the full amount. Complete deception.
+
+[EN 2] badge=3-4
+Peter wasn't having it. He was like, “Ananias, my guy, why’d you let Satan talk you into lying to the Holy Spirit? You think you can hold out on God? Before you sold the land, it was yours. After you sold it, the money was yours. So why pull a stunt like this? You didn’t just lie to us; you straight-up lied to God.”
+
+[EN 3] badge=5-6
+As soon as Peter said that, Ananias just dropped dead on the spot. And everyone who heard about it was totally freaked out. Some of the younger guys came, wrapped him up, and hauled him out to be buried.
+
+[EN 4] badge=7
+About three hours later, his wife Sapphira came in, not knowing what had happened to her husband. Peter asked her, “So, tell me, was this the full price you got for the field?”
+
+[EN 5] badge=None
+§More Miracles and More Trouble
+
+[EN 6] badge=8
+She said, “Yep, that’s the price.”
+
+[EN 7] badge=9-10
+Peter was like, “Wow. So you two were in on this together, conspiring against the Spirit of the Master? The guys who just buried your husband are at the door, and guess what? You’re next.” And boom, she fell down dead too. The young men came back, found her, and buried her right next to her husband.
+
+[EN 8] badge=11
+After that, the whole church and everyone else who heard the story had a major reality check. They knew God wasn't someone you could just mess with.
+
+[EN 9] badge=12-14
+Meanwhile, the apostles were out there flexing their God-given powers, doing all sorts of amazing miracles and signs. They would all hang out together at the Temple on Solomon’s Porch, in total harmony. People thought they were awesome, but nobody from the outside dared to join them. Still, more and more people, both men and women, started believing in the Master and joining the crew.
+
+[EN 10] badge=15-16
+It got so crazy that people would bring their sick friends and family out into the streets, laying them on mats and beds, just hoping that Peter’s shadow might fall on them as he walked by. Crowds of people came from all the towns around Jerusalem, bringing their sick and those who were tormented by evil spirits. And every single one of them was healed.
+
+[EN 11] badge=17-20
+But the high priest and his crew, the Sadducees, got super salty about all this. They were so jealous that they had the apostles arrested and thrown in the public jail. But that night, an angel of the Lord came, opened the jail doors, and led them out. The angel said, “Go back to the Temple and tell the people everything about this new life.”
+
+[EN 12] badge=21
+So, at the crack of dawn, they went right back to the Temple and started teaching again.
+
+[EN 13] badge=22-24
+Later that morning, the high priest and his cronies got the whole High Council together and sent for the prisoners. But when the guards got to the jail, the apostles were gone. They went back and reported, “The jail was locked up tight, and the guards were at their posts, but when we opened the doors, there was nobody inside.”
+
+[EN 14] badge=25
+The captain of the Temple guard and the chief priests were totally baffled. They were like, “What in the world is going on?”
+
+[EN 15] badge=26-27
+Then someone ran in and said, “You’re not gonna believe this, but the men you put in jail are back in the Temple, teaching the people!” So the captain and his guards went and got them. They were gentle this time because they were afraid the people would riot.
+
+[EN 16] badge=27-29
+They brought the apostles before the High Council, and the high priest started grilling them. “We gave you strict orders not to teach in this Jesus’ name, right? And what do you do? You fill all of Jerusalem with your teaching and try to blame us for this man’s death!”
+
+[EN 17] badge=30-32
+Peter and the other apostles just looked at them and said, “We have to obey God, not you. The God of our ancestors raised Jesus from the dead—the same Jesus you killed by hanging him on a cross. God has put him in the place of honor, as our Prince and Savior, to give Israel a chance to change their lives and be forgiven of their sins. We are witnesses to all of this, and so is the Holy Spirit, who God gives to everyone who obeys him.”
+
+[EN 18] badge=33-34
+When the council heard that, they were furious and wanted to kill the apostles right then and there. But one of them, a Pharisee named Gamaliel, who was a respected teacher of the law, stood up. He had the apostles taken out of the room for a minute and then said to the council, “Men of Israel, be careful what you’re about to do to these men. Remember that guy Theudas who showed up a while ago, claiming to be a big shot? He got about four hundred followers, but then he was killed, and his whole movement fell apart. Then there was Judas the Galilean, who got a following during the census. He died too, and his followers scattered.
+
+[EN 19] badge=35-39
+“So here’s my advice: leave these men alone. If what they’re doing is just a human thing, it will fail. But if it’s from God, you won’t be able to stop them. You might even find yourselves fighting against God.”
+
+[EN 20] badge=40
+They all thought that was pretty solid advice. So they called the apostles back in, had them whipped, and warned them again not to speak in the name of Jesus. Then they let them go.
+
+[EN 21] badge=41-42
+The apostles left the High Council, not bummed out, but overjoyed that they were considered worthy to be dishonored for the name of Jesus. And they didn’t stop for a second. Every single day, in the Temple and in people’s homes, they kept on teaching and preaching the good news that Jesus is the Christ.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§아나니아와 삽비라
+
+[KO 1] badge=1-2
+근데 아나니아라는 사람이 자기 아내 삽비라랑 짜고 땅을 팔았는데, 그 돈 일부를 슬쩍 자기 주머니에 챙긴 거임. 그리고 나머지만 사도들한테 가져와서 헌금이라고 냈음.
+
+[KO 2] badge=3-4
+베드로가 말했음. "아나니아야, 너 왜 사탄한테 넘어가서 성령님한테 거짓말하고 땅값 일부를 빼돌렸냐? 그 땅은 팔기 전에도 네 거였고, 팔고 나서도 네 돈이라 네 맘대로 할 수 있었잖아. 근데 대체 무슨 생각으로 이런 사기를 친 거냐? 너 사람한테 거짓말한 거 아니고, 하나님한테 거짓말한 거야."
+
+[KO 3] badge=5-6
+아나니아가 이 말을 듣자마자 쓰러져서 죽어버림. 이 소식 들은 사람들 전부 완전 쫄아서 하나님을 두려워하게 됐음. 젊은이들이 바로 시신을 싸서 메고 나가서 묻어버렸대.
+
+[KO 4] badge=7
+한 세 시간쯤 지났나? 아내가 뭔 일 있었는지 하나도 모르고 들어왔음. 베드로가 물어봤지. "그대들 땅 팔고 받은 돈이 이거 전부인가요?"
+
+[KO 5] badge=None
+§더 많은 기적, 더 많은 문제
+
+[KO 6] badge=8
+삽비라가 "네, 그 돈 맞아요." 라고 대답함.
+
+[KO 7] badge=9-10
+베드로가 말했음. "너네가 짜고 주님의 영을 시험하다니, 이게 무슨 짓이냐? 네 남편을 묻고 온 젊은이들이 바로 문 앞에 와 있는데, 다음은 네 차례다." 이 말이 끝나자마자 삽비라도 쓰러져서 죽었음. 젊은 애들이 돌아와 보니까 여자가 죽어있는 거야. 그래서 그 시체도 메고 나가서 남편 옆에 묻었대.
+
+[KO 8] badge=11
+이 사건 때문에 교회랑 소식 들은 모든 사람들이 하나님을 완전 경외하게 됐음. 하나님 함부로 대하면 안 된다는 걸 깨달은 거지.
+
+[KO 9] badge=None
+다 같이 정기적으로 모임
+
+[KO 10] badge=12-16
+사도들이 하나님의 능력을 보여주는 기적들을 사람들 앞에서 대박 많이 보여줬음. 그래서 다들 마음이 하나가 돼서 솔로몬 행각이라는 데서 정기적으로 모였대. 사람들이 사도들을 엄청 칭찬했는데, 또 막상 그 모임에 끼는 건 좀 무서워하는 사람들도 있었음. 근데 주님 믿는 사람들은 남녀노소 할 것 없이 여기저기서 계속 늘어났음. 심지어 아픈 사람들을 길거리에 데리고 나와서 침대나 이불에 눕혀놓고, 베드로 그림자라도 닿게 해달라고 빌 정도였대. 예루살렘 근처 다른 동네에서도 아픈 사람이랑 귀신 들린 사람들 데리고 막 몰려왔는데, 전부 다 나았음. 역대급이었음.
+
+[KO 11] badge=None
+사람보다 하나님께 순종하는 것
+
+[KO 12] badge=17-20
+대제사장이랑 그쪽 편인 사두개파 사람들이 이 모든 일에 완전 화가 나서 행동 개시함. 사도들을 잡아다가 감옥에 가둬버렸음. 근데 그날 밤에 하나님의 천사가 와서 감옥 문 열고 사도들을 데리고 나감. 천사가 말했음. "성전으로 가서 당당하게 서라. 그리고 이 생명의 메시지에 대해 하나도 빠짐없이 사람들한테 다 전해라."
+
+[KO 13] badge=21
+사도들은 바로 순종해서 새벽에 성전에 들어가서 또 가르치기 시작했음.
+
+[KO 14] badge=22-23
+한편, 대제사장이랑 그 패거리들은 이스라엘 최고 회의를 소집하고 감옥에 사람을 보내서 죄수들 데려오라고 시킴. 근데 경비대가 감옥에 가보니까 아무도 없는 거임. 돌아와서 보고했음. "감옥 문은 완전 단단히 잠겨있고 간수들도 다 지키고 있었는데, 안에 들어가 보니까 한 명도 없었습니다."
+
+[KO 15] badge=24
+성전 경비대장이랑 대제사장들은 완전 멘붕왔음. "아니 이게 뭔 일이래?"
+
+[KO 16] badge=25-26
+그때 누가 와서 말했음. "님들, 감옥에 가뒀던 그 사람들 지금 성전에서 또 사람들 가르치고 있는데요?" 경비대장이 부하들 데리고 가서 사도들을 다시 잡아왔음. 근데 백성들이 들고일어날까 봐 무서워서 완전 조심스럽게 데려왔대.
+
+[KO 17] badge=27-28
+사도들을 데려다가 다시 최고 회의 앞에 세웠음. 대제사장이 말했음. "우리가 예수 이름으로 가르치지 말라고 그렇게 단단히 경고하지 않았냐? 근데 너네는 온 예루살렘에 너네 가르침을 퍼뜨리고, 그 사람 죽은 걸 우리 탓으로 돌리려고 하고 있잖아."
+
+[KO 18] badge=29-32
+베드로랑 다른 사도들이 대답했음. "사람 말 듣는 것보다 하나님 말씀 듣는 게 당연한 거 아님? 당신들이 십자가에 못 박아 죽인 그 예수를 우리 조상들의 하나님이 다시 살리셨음. 그리고 하나님이 이스라엘 백성들한테 회개하고 죄 용서받을 기회를 주시려고, 예수를 왕이랑 구원자로 삼아서 자기 바로 옆 높은 자리에 앉히셨다고. 우리는 이 모든 일의 증인임. 그리고 하나님께 순종하는 사람들한테 주시는 성령님도 이 모든 게 진짜라고 증언해주심."
+
+[KO 19] badge=33-37
+이 말을 들은 사람들은 빡침이 거의 폭발 직전이라 당장 사도들을 죽이려고 했음. 근데 그때 가말리엘이라는 바리새파 사람이 일어났음. 이 사람은 율법 교사로 모든 사람한테 존경받는 사람이었는데, 사도들을 잠깐 밖으로 내보내고 이렇게 말했음. "여러분, 이 사람들 함부로 대하지 말고 조심하셈. 얼마 전에 드다라는 사람이 자기가 뭐 대단한 인물인 것처럼 행세해서 한 400명 정도 모았었잖아. 근데 걔 죽으니까 따르던 애들 다 흩어지고 그냥 없던 일처럼 됐음. 그 후에도 인구조사 할 때 갈릴리 사람 유다가 나타나서 세력 좀 키웠는데, 걔도 망하고 따르던 사람들 다 흩어졌잖아.
+
+[KO 20] badge=38-39
+그러니까 내 말은, 이 사람들 그냥 냅두셈. 만약 이 계획이나 일이 그냥 사람들 생각에서 나온 거면 알아서 망할 거임. 근데 만약 하나님한테서 나온 거면, 당신들이 뭔 짓을 해도 못 막음. 괜히 하나님이랑 싸우는 사람 되지 마셈!"
+
+[KO 21] badge=40-42
+들어보니까 맞는 말이거든. 그래서 사도들을 다시 불러서 엄청 때리고, 다시는 예수 이름으로 말하지 말라고 경고하고 풀어줬음. 사도들은 예수 이름 때문에 모욕당한 걸 오히려 영광으로 생각하면서 완전 기뻐하며 회의장에서 나왔대. 그리고 그날부터 하루도 안 쉬고 성전이랑 집에서 예수가 바로 그리스도라고 가르치고 전했음.
+

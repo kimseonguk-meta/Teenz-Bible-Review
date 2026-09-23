@@ -1,0 +1,152 @@
+# EXODUS 23 — God's Top Rules for Living Right
+TEEN paras: 24 | badges: ['1', '2-3', '4-5', '6', '7', '8', '9', '10-11', '12', '13', '14', '15', '16', '16', '17', '18', '18', '19', '19', '20-24', '25-26', '27', '28-31', '32-33']
+KO paras: 24 | badges: ['1', '2-3', '4-5', '6', '7', '8', '9', '10-11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23-27', '28-29', '30', '31-32', '33']
+MSG sections: 20 | ranges: ['1-3', '4-5', '6', '7', '8', '9', '10-11', '12', '13', '14', '15', '16', '17', '18', '19', '20-24', '25-26', '27', '28-31', '32-33']
+
+--- MSG [1-3] ---
+“Don’t pass on malicious gossip. “Don’t link up with a wicked person and give corrupt testimony. Don’t go along with the crowd in doing evil and don’t mess up your testimony in a case just to please the crowd. And just because someone is poor, don’t show favoritism in a dispute.
+
+>>> TEEN:
+  [p0 badge=1] Don't spread false reports or rumors.
+  [KO p0] 가짜뉴스나 이상한 소문 퍼뜨리지 마.
+  [p1 badge=2-3] Don't team up with bad people and lie for them in court. Don't just follow the crowd when they're doing wrong, and don't change your story just to be popular. Also, don't automatically side with someone just because they're poor.
+  [KO p1] 나쁜 자이랑 한패 먹고 거짓말 하지 마. 애들이 다 한다고 나쁜 짓 따라하지 말고, 인기 얻으려고 괜히 말 바꾸지 마. 그리고 가난하다고 무조건 편들어주지도 마.
+
+--- MSG [4-5] ---
+“If you find your enemy’s ox or donkey loose, take it back to him. If you see the donkey of someone who hates you lying helpless under its load, don’t walk off and leave it. Help it up.
+
+>>> TEEN:
+  [p2 badge=4-5] If you see your enemy's pet wandering around, take it back to them. If you see an animal of someone you don't like struggling, don't just ignore it. Help it out.
+  [KO p2] 네 원수네 소나 나귀가 길 잃고 헤매고 있으면, 꼭 주인한테 데려다 줘. 그리고 널 싫어하는 사람의 나귀가 짐에 깔려 쓰러져 있으면, 그냥 지나치지 말고 꼭 도와줘.
+
+--- MSG [6] ---
+“When there is a dispute concerning your poor, don’t tamper with the justice due them.
+
+>>> TEEN:
+  [p3 badge=6] When poor people are involved in a legal case, make sure they get treated fairly.
+  [KO p3] 가난한 사람들이 재판받을 때, 불공평하게 대하지 마.
+
+--- MSG [7] ---
+“Stay clear of false accusations. Don’t contribute to the death of innocent and good people. I don’t let the wicked off the hook.
+
+>>> TEEN:
+  [p4 badge=7] Don't make false accusations. Don't be the reason innocent people get hurt or killed. I make sure the wicked get what's coming to them.
+  [KO p4] 거짓말로 사람 잡지 마. 착하고 죄 없는 사람들 죽게 만들지 마. 악당들은 내가 알아서 처리할 거니까.
+
+--- MSG [8] ---
+“Don’t take bribes. Bribes blind perfectly good eyes and twist the speech of good people.
+
+>>> TEEN:
+  [p5 badge=8] Don't take bribes. It messes with your judgment and makes you say things you don't mean.
+  [KO p5] 뇌물 받지 마. 뇌물 받으면 눈이 멀어서 제대로 된 판단을 못하게 되거든.
+
+--- MSG [9] ---
+“Don’t take advantage of a stranger. You know what it’s like to be a stranger; you were strangers in Egypt.
+
+>>> TEEN:
+  [p6 badge=9] Don't take advantage of foreigners. You know what it's like to be the new kid, you were foreigners in Egypt.
+  [KO p6] 외국인이라고 막 대하지 마. 너네도 이집트에서 외국인으로 살아봐서 알잖아.
+
+--- MSG [10-11] ---
+“Sow your land for six years and gather in its crops, but in the seventh year leave it alone and give it a rest so that your poor may eat from it. What they leave, let the wildlife have. Do the same with your vineyards and olive groves.
+
+>>> TEEN:
+  [p7 badge=10-11] For six years, you can farm your land and harvest the crops. But in the seventh year, let the land chill and take a break. Let the poor eat from it, and whatever they leave, the wild animals can have. Do the same with your vineyards and olive groves.
+  [KO p7] 6년 동안은 열심히 농사짓고 수확해. 근데 7년째 되는 해에는 땅을 그냥 내버려 둬. 쉬게 해주는 거야. 그럼 가난한 사람들이 거기서 나는 거 먹을 수 있고, 남은 건 동물들이 먹게 해. 포도밭이랑 올리브 밭도 똑같이 해.
+
+--- MSG [12] ---
+“Work for six days and rest the seventh so your ox and donkey may rest and your servant and migrant workers may have time to get their needed rest.
+
+>>> TEEN:
+  [p8 badge=12] Work for six days, but on the seventh day, you rest. This is so your animals and workers can also get a break and recharge.
+  [KO p8] 6일 동안 일하고 7일째에는 쉬어. 그래야 네 소랑 나귀도 쉬고, 네 종이랑 외국인 노동자들도 쉴 수 있지.
+
+--- MSG [13] ---
+“Listen carefully to everything I tell you. Don’t pay attention to other gods—don’t so much as mention their names.
+
+>>> TEEN:
+  [p9 badge=13] Listen up to everything I'm telling you. Don't even think about other gods, don't even say their names.
+  [KO p9] 내가 하는 말 잘 들어. 다른 신들한테는 신경도 쓰지 마. 이름도 꺼내지 마.
+
+--- MSG [14] ---
+“Three times a year you are to hold a festival for me.
+
+>>> TEEN:
+  [p10 badge=14] Three times a year, you're going to have a big festival for me.
+  [KO p10] 일 년에 세 번, 나를 위한 축제를 열어.
+
+--- MSG [15] ---
+“Hold the spring Festival of Unraised Bread when you eat unraised bread for seven days at the time set for the month of Abib, as I commanded you. That was the month you came out of Egypt. No one should show up before me empty-handed.
+
+>>> TEEN:
+  [p11 badge=15] Hold the Festival of Unraised Bread in the spring. For seven days, you'll eat bread made without yeast, just like I told you. This is to remember the month you left Egypt. And don't show up to my party empty-handed.
+  [KO p11] 봄에는 무교절을 지켜. 내가 명령한 대로 아빕월에 7일 동안 누룩 없는 빵을 먹는 거야. 그 달에 너네가 이집트에서 나왔잖아. 빈손으로 오면 안 돼.
+
+--- MSG [16] ---
+“Hold the summer Festival of Harvest when you bring in the firstfruits of all your work in the fields. “Hold the autumn Festival of Ingathering at the end of the season when you bring in the year’s crops.
+
+>>> TEEN:
+  [p12 badge=16] Hold the Festival of Harvest in the summer, when you bring in the first crops from your fields.
+  [KO p12] 여름에는 수확절을 지켜. 밭에서 처음으로 거둔 열매를 가져오는 거야.
+  [p13 badge=16] Hold the Festival of Ingathering in the fall, at the end of the season, when you've harvested everything for the year.
+  [KO p13] 가을에는 수장절을 지켜. 한 해 농사 다 끝내고 곡식 거둬들일 때 하는 거야.
+
+--- MSG [17] ---
+“Three times a year all your males are to appear before the Master, God.
+
+>>> TEEN:
+  [p14 badge=17] Three times a year, all the guys need to show up and meet with me, your God.
+  [KO p14] 일 년에 세 번, 모든 남자는 나, 주 하나님 앞에 나와야 해.
+
+--- MSG [18] ---
+“Don’t offer the blood of a sacrifice to me with anything that has yeast in it. “Don’t leave the fat from my festival offering out overnight.
+
+>>> TEEN:
+  [p15 badge=18] Don't offer the blood of a sacrifice to me with anything that has yeast in it.
+  [KO p15] 나한테 제물의 피를 바칠 때, 누룩 넣은 빵이랑 같이 바치지 마.
+  [p16 badge=18] Don't leave the fat from my festival offering out overnight.
+  [KO p16] 축제 제물로 바친 기름을 밤새도록 놔두지 마.
+
+--- MSG [19] ---
+“Bring the choice first produce of the year to the house of your God. “Don’t boil a kid in its mother’s milk.
+
+>>> TEEN:
+  [p17 badge=19] Bring the best of your first harvest to my house.
+  [KO p17] 그 해에 처음 수확한 것 중에 제일 좋은 걸 네 하나님의 집으로 가져와.
+  [p18 badge=19] Don't boil a baby goat in its mother's milk. That's just messed up.
+  [KO p18] 녀석 염소를 그 어미의 젖에 삶지 마. 그건 좀 아니잖아.
+
+--- MSG [20-24] ---
+“Now get yourselves ready. I’m sending my Angel ahead of you to guard you in your travels, to lead you to the place that I’ve prepared. Pay close attention to him. Obey him. Don’t go against him. He won’t put up with your rebellions because he’s acting on my authority. But if you obey him and do everything I tell you, I’ll be an enemy to your enemies, I’ll fight those who fight you. When my Angel goes ahead of you and leads you to the land of the Amorites, the Hittites, the Perizzites, the Canaanites, the Hivites, and the Jebusites, I’ll clear the country of them. So don’t worship or serve their gods; don’t do anything they do because I’m going to wipe them right off the face of the Earth and smash their sacred phallic pillars to bits.
+
+>>> TEEN:
+  [p19 badge=20-24] Alright, listen up. I'm sending my Angel ahead of you to protect you on your journey and lead you to the place I've prepared. Pay attention to him and do what he says. Don't rebel against him, because he's got my authority. If you listen to him and do everything I say, I'll be against your enemies and fight anyone who fights you. My Angel will lead you to the land of all those other people, and I'll wipe them out. So don't worship their gods or do any of the weird stuff they do. I'm going to completely destroy them and their idols.
+  [KO p19] 자, 이제 준비해. 내가 내 천사를 너네보다 먼저 보내서, 가는 길에 너네를 지켜주고 내가 마련한 곳으로 이끌어 줄 거야. 그 말 잘 듣고, 순종해. 거역하지 마. 걔는 내 권위로 행동하는 거라 너네 반항 안 봐줌. 근데 너네가 걔 말 잘 듣고 내가 시키는 대로 다 하면, 내가 너네 적들의 적이 되어주고, 너네랑 싸우는 사람들이랑 내가 싸워줄게. 내 천사가 너네를 아모리, 헷, 브리스, 가나안, 히위, 여부스 족속의 땅으로 이끌면, 내가 걔네들 싹 쓸어버릴 거야. 그러니까 걔네 신들 섬기거나 따라 하지 마. 내가 걔네들 다 없애버리고 신상도 다 부숴버릴 거니까.
+
+--- MSG [25-26] ---
+“But you—you serve your God and he’ll bless your food and your water. I’ll get rid of the sickness among you; there won’t be any miscarriages nor barren women in your land. I’ll make sure you live full and complete lives.
+
+>>> TEEN:
+  [p20 badge=25-26] You serve me, your God, and I'll bless your food and water. I'll keep you from getting sick, and everyone will have kids if they want them. I'll make sure you live a long, full life.
+  [KO p20] 너네는 너네 하나님만 섬겨. 그러면 내가 너네 먹을 거랑 마실 물에 복을 줄게. 너네 중에 아픈 사람 없게 해주고, 애 못 낳는 사람도 없게 해줄게. 너네 수명도 꽉 채워서 살게 해줄 거야.
+
+--- MSG [27] ---
+“I’ll send my Terror on ahead of you and throw those peoples you’re approaching into a panic. All you’ll see of your enemies is the backs of their necks.
+
+>>> TEEN:
+  [p21 badge=27] I'll send my Terror ahead of you and freak out all the people you're about to face. Your enemies will be running away from you.
+  [KO p21] 내가 내 공포를 먼저 보내서 너네가 만날 민족들을 혼란에 빠뜨릴 거야. 너네는 적들의 뒷모습만 보게 될걸.
+
+--- MSG [28-31] ---
+“And I’ll send Despair on ahead of you. It will push the Hivites, the Canaanites, and the Hittites out of your way. I won’t get rid of them all at once lest the land grow up in weeds and the wild animals take over. Little by little I’ll get them out of there while you have a chance to get your crops going and make the land your own. I will make your borders stretch from the Red Sea to the Mediterranean Sea and from the Wilderness to the Euphrates River. I’m turning everyone living in that land over to you; go ahead and drive them out.
+
+>>> TEEN:
+  [p22 badge=28-31] I'll send Despair ahead of you, and it will push out the Hivites, Canaanites, and Hittites. But I won't get rid of them all at once, or the land will get overgrown with weeds and wild animals. I'll do it little by little, while you get your farms going and take over the land. I'm giving you all this land, from the Red Sea to the Mediterranean, and from the Wilderness to the Euphrates River. I'm putting everyone in that land under your control, so go and drive them out.
+  [KO p22] 그리고 내가 절망을 앞세워서 히위, 가나안, 헷 족속을 쫓아낼 거야. 한 번에 다 쫓아내지는 않을 거야. 그랬다간 땅이 황폐해지고 들짐승이 너무 많아질 테니까. 너네가 농사짓고 땅을 차지할 시간을 주면서, 조금씩 쫓아내 줄게. 내가 너네 땅 경계를 홍해에서 지중해까지, 광야에서 유프라테스 강까지 정해줄게. 그 땅에 사는 사람들 다 너네한테 넘겨줄 테니까, 가서 쫓아내.
+
+--- MSG [32-33] ---
+“Don’t make any deals with them or their gods. They are not to stay in the same country with you lest they get you to sin by worshiping their gods. Beware. That’s a huge danger.”
+
+>>> TEEN:
+  [p23 badge=32-33] Don't make any deals with them or their gods. They can't live in the same country as you, or they'll make you sin by worshiping their gods. Seriously, that's a huge trap.
+  [KO p23] 걔네들이나 걔네 신들이랑은 어떤 거래도 하지 마. 너네랑 같은 나라에 살게 하면 안 돼. 걔네가 너네를 꼬드겨서 자기네 신들을 섬기게 하고 죄짓게 만들 수도 있어. 조심해. 그거 진짜 위험한 거야.

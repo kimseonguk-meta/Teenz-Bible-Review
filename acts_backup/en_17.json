@@ -1,0 +1,78 @@
+{
+  "changes": [
+    "Ch17: § headers fixed to MSG's real headers (Thessalonica; Berea; Athens) — removed fabricated 'Thessalonica and Berea', 'Trouble in Berea', 'Paul in Athens'",
+    "Ch17: split merged 4-6 (→4-5, 5-7), 8-9/10 (→8-9, 10-12), 13-15/16-19 (→13-15, 16, 17-18)",
+    "Ch17: badges corrected to MSG ranges (4-5, 5-7, 8-9, 10-12, 13-15, 16, 17-18, 24-29, 30-31, 32-34)",
+    "Ch17: declared split for MSG's own overlap (v5 in 4-5/5-7)",
+    "Ch17: restored 'raised from the dead' (not 'miraculous transformation'), 'furious' (not 'salty'), 'city fathers', 'Epicurean and Stoic intellectuals', 'chisel a god out of stone'; removed slang (Spill the tea, haters, bounced)",
+    "Ch17: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved"
+  ],
+  "chapter": 17,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-3",
+    "1-3",
+    "4-5",
+    "5-7",
+    "8-9",
+    "10-12",
+    "10-12",
+    "13-15",
+    "16",
+    "16",
+    "17-18",
+    "19-21",
+    "22-23",
+    "24-29",
+    "30-31",
+    "32-34"
+  ],
+  "paragraphs": [
+    "§Thessalonica",
+    "They headed south through Amphipolis and Apollonia to Thessalonica, where there was a Jewish community. As he always did in a new town, Paul went to their synagogue — and for three Sabbaths in a row, he taught them from the Scriptures. He unpacked the texts so they could finally understand what they'd been reading their whole lives: that the Messiah had to suffer, die, and rise from the dead — no other way — and that \"this Jesus I'm telling you about is that Messiah.\"",
+    "Some of them were convinced and joined Paul and Silas — including a large number of God-fearing Greeks and quite a few prominent women. But the hard-line Jews were furious about the converts. Wild with jealousy, they rounded up some street toughs and soon had an ugly mob rampaging through the city, hunting for Paul and Silas.",
+    "They stormed Jason's house, thinking Paul and Silas were hiding there. When they couldn't find them, they grabbed Jason and some other believers instead and dragged them before the city officials, shouting, \"These people are turning the world upside down, and now they're here, attacking everything we stand for! And Jason welcomed them into his house — these traitors who say Jesus is king and Caesar is nobody!\"",
+    "The city officials and the crowd were rattled by all this. They made Jason and the others post bail, then let them go while they looked into the charges.",
+    "§Berea",
+    "That night, under cover of darkness, the believers got Paul and Silas out of town as quickly as possible. They sent them to Berea, where Paul and Silas again met with the Jewish community. The reception there was way better than in Thessalonica. The Jews welcomed Paul's message eagerly and met with him every day, checking the Scriptures to see if what he said held up. Many of them believed — including a good number of prominent Greek men and women.",
+    "But it wasn't long before the hard-line Jews in Thessalonica heard that Paul was preaching God's Word in Berea too. They wasted no time — they showed up and stirred up a mob scene there as well. With his friends' help, Paul slipped away — caught a boat and headed out to sea. Silas and Timothy stayed behind. The men who helped Paul escape took him all the way to Athens and left him there. Paul sent word back with them to Silas and Timothy: \"Come as fast as you can!\"",
+    "§Athens",
+    "The longer Paul waited in Athens for Silas and Timothy, the more upset he got — idols everywhere! The city was stuffed with them.",
+    "He debated with the Jews and other God-fearing people in the synagogue. And every day he went out to the marketplace and talked with whoever happened to be there. Through these conversations he got to know some Epicurean and Stoic thinkers. Some of them sneered, \"What's this chatterbox trying to say?\" But others, hearing him talk about Jesus and the resurrection, were curious: \"He's bringing in some foreign gods. Let's hear more.\"",
+    "They brought him to the Areopagus and asked for a public talk, where it was a bit quieter. They said, \"This is new to us — we've never heard anything like it. Where did you get this? Explain it so we can understand.\" Downtown Athens was a gossip hub. There were always people hanging around — locals and visitors alike — waiting to hear the latest on just about anything.",
+    "So Paul stood up in the middle of the Areopagus and laid it out. \"It's obvious you Athenians take religion seriously. When I got here the other day, I was struck by all the shrines I saw. Then I found one inscribed, 'To an unknown god.' I'm here to tell you about this God, so you can worship knowing exactly who you're dealing with.\"",
+    "\"The God who made the world and everything in it — Lord of heaven and earth — doesn't live in handmade temples, and he doesn't need humans to run errands for him, as if he couldn't manage on his own. He makes us; we don't make him. Starting from one man, he created the entire human race and made the earth livable, with plenty of time and space — so we could seek God, not just fumble in the dark, but actually find him. He's not playing hide-and-seek. He's not far away; he's close. We live and move in him — we can't get away from him! One of your own poets put it well: 'We are his offspring.' Well, if we're his offspring, it doesn't make sense to think we could hire a sculptor to carve a god out of stone, does it?\"",
+    "\"God overlooked those times when people didn't know better — but that's over now. What's unknown is now known, and he's calling everyone to a radical turnaround. He's set a day when he'll judge the whole human race and set everything right. And he's already chosen the judge, proving it to everyone by raising him from the dead.\"",
+    "At the words \"raised from the dead,\" the crowd split: some laughed at him and walked off cracking jokes; others said, \"We want to hear more about this — let's do it again sometime.\" That was it for the day, and Paul left. But some were convinced right then and there and stuck with Paul — including Dionysius, a member of the Areopagus, and a woman named Damaris."
+  ],
+  "splits": [
+    {
+      "msg_range": "5",
+      "note": "MSG's own overlap: v5 closes MSG para 4-5 and opens MSG para 5-7; badges follow MSG paragraph boundaries",
+      "paras": [
+        2,
+        3
+      ]
+    }
+  ],
+  "title": "Riot in Thessalonica",
+  "verseRanges": [
+    "1-3",
+    "1-3",
+    "4-5",
+    "5-7",
+    "8-9",
+    "10-12",
+    "10-12",
+    "13-15",
+    "16",
+    "16",
+    "17-18",
+    "19-21",
+    "22-23",
+    "24-29",
+    "30-31",
+    "32-34"
+  ]
+}

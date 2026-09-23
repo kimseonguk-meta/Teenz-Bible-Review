@@ -1,0 +1,89 @@
+### TITLE EN: Lame Dude Gets a Miraculous Healing
+### TITLE KO: 앉은뱅이의 기적적인 치유
+
+[MSG 0] range=1-5 header=None
+One day at three o'clock in the afternoon, Peter and John were on their way into the Temple for prayer meeting. At the same time there was a man crippled from birth being carried up. Every day he was set down at the Temple gate, the one named Beautiful, to beg from those going into the Temple. When he saw Peter and John about to enter the Temple, he asked for a handout. Peter, with John at his side, looked him straight in the eye and said, "Look here." He looked up, expecting to get something from them.
+
+[MSG 1] range=6-8 header=None
+Peter said, "I don't have a nickel to my name, but what I do have, I give you: In the name of Jesus Christ of Nazareth, walk!" He grabbed him by the right hand and pulled him up. In an instant his feet and ankles became firm. He jumped to his feet and walked.
+
+[MSG 2] range=8-10 header=None
+The man went into the Temple with them, walking back and forth, dancing and praising God. Everybody there saw him walking around and praising God. They recognized him as the one who sat begging at the Temple's Gate Beautiful and rubbed their eyes, astonished, scarcely believing what they were seeing.
+
+[MSG 3] range=11 header=None
+The man threw his arms around Peter and John, ecstatic. All the people ran up to where they were at Solomon's Porch to see it for themselves.
+
+[MSG 4] range=12-16 header='Turn to Face God'
+When Peter saw he had a congregation, he addressed the people: "Oh, Israelites, why does this take you by such complete surprise, and why stare at us as if *our* power or piety made him walk? The God of Abraham and Isaac and Jacob, the God of our ancestors, has glorified his Son Jesus. The very One that Pilate called innocent, you repudiated. You repudiated the Holy One, the Just One, and asked for a murderer in his place. You no sooner killed the Author of Life than God raised him from the dead—and we're the witnesses. Faith in Jesus' name put this man, whose condition you know so well, on his feet—yes, faith and nothing but faith put this man healed and whole right before your eyes.
+
+[MSG 5] range=17-18 header=None
+"And now, friends, I know you had no idea what you were doing when you killed Jesus, and neither did your leaders. But God, who through the preaching of all the prophets had said all along that his Messiah would be killed, knew exactly what you were doing and used it to fulfill his plans.
+
+[MSG 6] range=19-23 header=None
+"Now it's time to change your ways! Turn to face God so he can wipe away your sins, pour out showers of blessing to refresh you, and send you the Messiah he prepared for you, namely, Jesus. For the time being he must remain out of sight in heaven until everything is restored to order again just the way God, through the preaching of his holy prophets of old, said it would be. Moses, for instance, said, 'Your God will raise up for you a prophet just like me from your family. Listen to every word he speaks to you. Every last living soul who refuses to listen to that prophet will be wiped out from the people.'
+
+[MSG 7] range=24-26 header=None
+"All the prophets from Samuel on down said the same thing, said most emphatically that these days would come. These prophets, along with the covenant God made with your ancestors, are your family tree. God's covenant-word to Abraham provides the text: 'By your offspring all the families of the earth will be blessed.' But you are first in line: God, having raised up his Son, sent him to bless you as you turn, one by one, from your evil ways."
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Healing at the Temple Gate
+
+[EN 1] badge=1-3
+So, Peter and John were heading to the Temple for a prayer sesh around 3 PM. Right at the "Beautiful" gate, they see this guy who's been crippled since day one, basically just chilling there, asking for cash from everyone going in. He spots Peter and John and is like, "Hey, spare some change?" Peter, with John right there, locks eyes with the man and says, "Hey, look at us." The guy looks up, probably thinking he's about to get some serious coin.
+
+[EN 2] badge=4-7
+But Peter hits him with, "Look, I'm broke. I don't have any money. But what I *do* have, I'll give you. In the name of Jesus Christ of Nazareth, get up and walk!" Then he grabs the guy's hand and yanks him up. Instantly, the man's feet and ankles get super strong. He literally jumps up and starts walking. An absolute miracle.
+
+[EN 3] badge=8-9
+The guy, totally stoked, goes into the Temple with them, just walking around, dancing, and shouting out how awesome God is. Everyone there sees him and is like, "Wait, isn't that the guy who's always begging at the gate?" They were all bugging out, totally shocked at what they were seeing.
+
+[EN 4] badge=10
+The man was so excited he was hugging Peter and John, and a massive crowd ran over to Solomon's Porch to see what was up.
+
+[EN 5] badge=None
+§Peter Explains
+
+[EN 6] badge=12-16
+When Peter saw he had an audience, he went off. "Hey, people of Israel, why are you so surprised? And why are you staring at us like *we* did this with our own power? The God of our ancestors, Abraham, Isaac, and Jacob, just showed his power and glorified His Son Jesus. This is the same Jesus you guys ghosted and told Pilate to get rid of, even when Pilate said He was innocent. You dissed the Holy and Righteous One and asked for a murderer to be freed instead. You literally took out the Author of Life, but God brought him back from the dead, and we're the receipts. It was faith in Jesus' name that healed this guy you all know. Straight up, faith in Jesus made him 100% better, right in front of you.
+
+[EN 7] badge=17-23
+"Look, bros, I know you and your leaders had no clue what you were really doing when you messed up and had Jesus killed. But God knew. He used your epic fail to make what the prophets had been saying all along come true—that the Messiah had to suffer. So now you gotta switch it up! Turn back to God, so He can wipe your slate clean and send some major blessings your way. He'll send Jesus, the Messiah He's got lined up for you. But for now, Jesus is chilling in heaven until it's time to restore everything, just like God's been saying through his prophets since way back. Even Moses said, 'God's gonna send a prophet just like me from your own people. You better listen to every single thing he says, or you'll be totally cut off.'
+
+[EN 8] badge=24-26
+"All the prophets, from Samuel on, were all talking about these days. You guys are the heirs of those prophets and the deal God made with your ancestors. Remember what God told Abraham? 'Through your family, everyone on earth will be blessed.' And you're first in line for that blessing. God raised up His Son and sent him to you first, to bless you by helping you turn away from your messed-up lives."
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§성전 문 앞에서의 치유
+
+[KO 1] badge=1-5
+하루는 오후 세 시, 베드로랑 요한이 기도하러 성전에 들어가고 있었음. 마침 그때 사람들이 태어날 때부터 못 걷는 사람을 데리고 오는 거야. 그 사람은 맨날 ‘아름다운 문’이라는 성전 문에 앉아서 성전 들어가는 사람들한테 구걸하던 사람이었거든. 그 사람이 베드로랑 요한이 성전 들어가려는 거 보고 구걸을 한 거지. 베드로랑 그 옆에 있던 요한이 그 사람 눈을 똑바로 쳐다보면서 말했음. "우리 좀 봐봐." 그러자 그는 뭔가 얻을 게 있나 싶어서 고개를 돌렸지.
+
+[KO 2] badge=6-8
+베드로가 말했음. "나는 동전 한 푼도 없는데, 대신 내가 가진 걸 너한테 줄게. 나사렛 예수 그리스도의 이름으로 일어나 걸어!" 베드로가 그 사람 오른손을 잡아서 일으키니까 바로 그 사람 발이랑 발목에 힘이 빡 들어가는 거임. 그는 벌떡 일어나서 걷기 시작했음.
+
+[KO 3] badge=8-10
+그 사람은 베드로랑 요한이랑 같이 성전으로 들어가서 막 걸어 다니고 춤추면서 하나님을 찬양했음. 거기 있던 사람들 전부 다 그 사람이 걸어 다니면서 하나님 찬양하는 걸 본 거야. 사람들은 그가 성전의 아름다운 문 앞에서 구걸하던 그 사람인 줄 알아보고는 완전 깜짝 놀라서 눈을 비볐음. 눈으로 보면서도 완전 믿기지가 않았던 거지.
+
+[KO 4] badge=11
+그 사람은 너무 기뻐서 어쩔 줄 몰라 하면서 베드로랑 요한을 꽉 껴안았음. 모든 사람이 그 광경을 직접 보려고 그들이 있던 솔로몬 복도로 막 달려왔음.
+
+[KO 5] badge=None
+하나님께로 돌아와
+
+[KO 6] badge=None
+§베드로의 설명
+
+[KO 7] badge=12-16
+사람들이 막 모여든 걸 보고 베드로가 그들한테 말했음. "이스라엘 동포 여러분, 이 일에 왜 이렇게까지 놀라는 거임? 이 사람이 걷게 된 게 꼭 우리 능력이나 신앙심 때문인 것처럼 왜 우리를 그렇게 쳐다봄? 아브라함과 이삭과 야곱의 하나님, 바로 우리 조상들의 하나님께서 자기 아들 예수를 완전 높여주셨음. 빌라도가 죄 없다고 했는데도 여러분은 그분을 거절했잖아. 여러분은 거룩하고 의로운 분을 거절하고, 대신 살인자를 풀어달라고 했음. 여러분이 생명의 주인을 죽였지만, 하나님은 그분을 죽은 사람들 가운데서 다시 살리셨음. 우리가 바로 그 증인임. 예수의 이름을 믿는 믿음이 이 사람을 일으켜 세운 거임. 이 사람 상태, 여러분도 잘 알잖아? 응. 바로 그 믿음, 오직 믿음만이 여러분 눈앞에서 이 사람을 완전하게 낫게 한 거임.
+
+[KO 8] badge=17-18
+친구들, 여러분이 예수를 죽일 때, 자기가 뭔 짓을 하는지 몰랐을 거임. 여러분 지도자들도 마찬가지였고. 하지만 모든 예언자들의 말을 통해서 메시아가 죽임당할 거라고 처음부터 말씀하신 하나님은, 여러분이 무슨 짓을 하는지 정확히 알고 계셨고, 그 일을 사용해서 자기 계획을 이루신 거임.
+
+[KO 9] badge=19-23
+이제 여러분, 정신 차리고 행동을 고칠 때임! 하나님께로 돌아오셈. 그러면 하나님이 여러분 죄를 싹 다 씻어주시고, 축복의 비를 쏟아부어서 여러분을 새롭게 해주실 거임. 그리고 여러분을 위해 준비해두신 메시아, 예수를 보내주실 거임. 하나님께서 옛날 거룩한 예언자들의 말을 통해 말씀하신 대로, 예수는 모든 것의 질서가 다시 회복될 때까지 하늘에 계셔서 우리 눈에 보이지 않을 거임. 예를 들어 모세는 이렇게 말했음. ‘너희 하나님께서 너희를 위해 너희 민족 가운데서 나 같은 예언자 한 명을 일으켜 세우실 것이다. 너희는 그가 하는 말을 전부 다 들어야 한다. 그 예언자의 말을 듣지 않는 사람은 한 명도 남김없이 그 민족 가운데서 멸망할 것이다.’
+
+[KO 10] badge=24-26
+사무엘부터 시작해서 그 뒤를 이은 예언자들도 전부 다 똑같은 이야기를 전했고, 이 날이 올 거라고 힘주어 말했음. 여러분은 이 예언자들의 후손이고, 또 하나님께서 여러분의 조상들과 맺은 그 약속의 후손임. 하나님께서 아브라함에게 주신 약속의 말씀이 뭐였음? ‘이 땅의 모든 민족이 네 후손 때문에 복을 받을 것이다.’ 근데 여러분이 맨 먼저임. 하나님께서는 여러분 한 사람 한 사람이 그 나쁜 길에서 돌아서면 여러분에게 복을 주시려고 자기 아들을 일으켜 세우시고 여러분에게 보내신 거임.”
+

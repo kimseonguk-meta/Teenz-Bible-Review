@@ -1,0 +1,58 @@
+{
+  "changes": [
+    "Ch6: § header fixed to MSG's real header (The Word of God Prospered) — removed fabricated 'The Seven Chosen', 'Stephen Shines', 'Stephen Gets Arrested'",
+    "Ch6: split MSG 1-4 into complaint (1-2) / Twelve's solution (3-4) with declared split",
+    "Ch6: split merged 11/12-14 into separate paras; badges corrected to MSG ranges",
+    "Ch6: restored 'Nicolas, a convert from Antioch'",
+    "Ch6: moderated slang (beefing, ghosted, OG leaders, totally roasted, straight up)",
+    "Ch6: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved",
+    "Ch6: header badge corrected 1-2 → 1-4 (Principle 2: header shares badge with following text)"
+  ],
+  "chapter": 6,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-4",
+    "1-4",
+    "1-4",
+    "5-6",
+    "7",
+    "8-10",
+    "11",
+    "12-14",
+    "15"
+  ],
+  "paragraphs": [
+    "§The Word of God Prospered",
+    "Things were growing fast — new disciples were joining every day. But then some tension broke out. The Greek-speaking believers (called \"Hellenists\") felt their widows were getting skipped over when food was handed out each day, while the Hebrew-speaking widows got served first. It didn't feel fair.",
+    "So the Twelve gathered all the disciples together and said, \"Look, it doesn't make sense for us to stop preaching and teaching God's Word just to manage food lines. Here's what we'll do: pick seven men from among you — guys everyone respects, full of the Holy Spirit and wisdom — and we'll put them in charge of this. That frees us up to stick with what we're supposed to do: praying and preaching.\"",
+    "The whole congregation loved the idea. They picked Stephen — a man packed with faith and the Holy Spirit — plus Philip, Procorus, Nicanor, Timon, Parmenas, and Nicolas, who had converted to Judaism in Antioch. Then they presented these seven to the apostles, who prayed and laid their hands on them.",
+    "God's Word kept spreading. The number of disciples in Jerusalem shot up. And here's the wild part — a whole lot of priests started believing too.",
+    "Stephen was overflowing with God's grace and power, doing amazing things among the people — clear, undeniable signs that God was at work. But then some guys from the Synagogue of Freed Slaves — people from Cyrene, Alexandria, Cilicia, and Asia — started arguing with him. They tried to out-debate him, but they couldn't keep up with his wisdom or the Spirit speaking through him.",
+    "So behind the scenes, they paid some men to lie about him: \"We heard him trash-talking Moses and God.\"",
+    "That got everyone riled up — the people, the religious leaders, the scholars. They seized Stephen and hauled him in front of the High Council. Then they brought in their paid liars to testify: \"This guy never shuts up about destroying this Holy Place and changing God's Law. We even heard him say that Jesus of Nazareth is going to tear down this Temple and throw out every custom Moses gave us.\"",
+    "Everyone on the High Council stared at Stephen — and they couldn't look away. His face was glowing like an angel's."
+  ],
+  "splits": [
+    {
+      "msg_range": "1-4",
+      "note": "Long MSG para 1-4 split: the widows' complaint (1-2) / the Twelve's seven-men solution (3-4)",
+      "paras": [
+        1,
+        2
+      ]
+    }
+  ],
+  "title": "The First Dream Team and Stephen's Stand",
+  "verseRanges": [
+    "1-2",
+    "1-2",
+    "3-4",
+    "5-6",
+    "7",
+    "8-10",
+    "11",
+    "12-14",
+    "15"
+  ]
+}

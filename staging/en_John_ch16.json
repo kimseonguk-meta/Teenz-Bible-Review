@@ -1,0 +1,79 @@
+{
+  "chapter": 16,
+  "title": "Grief Turns to Explosive Joy",
+  "paragraphs": [
+    "§Hated by the World",
+    "\"I've told you these things to get you ready for the rough times ahead. They're going to throw you out of the meeting places. There'll even come a time when anyone who kills you will think he's doing God a favor. They'll do these things because they never really understood the Father. I've told you these things so that when the time comes and they start in on you, you'll be warned and ready.",
+    "§The Friend Will Come",
+    "\"I didn't tell you this earlier, because I was with you every day. But now I'm on my way to the One who sent me. Not one of you has asked, 'Where are you going?' Instead, the longer I've talked, the sadder you've become. So let me say it again, this truth: it's better for you that I leave. If I don't leave, the Friend won't come. But if I go, I'll send him to you.",
+    "\"When he comes, he'll expose how wrong the godless world's ideas of sin, righteousness, and judgment are. He'll show them that refusing to believe in me is their basic sin; that righteousness comes from above, where I am with the Father, out of their sight and control; that judgment happens as the ruler of this godless world is put on trial and convicted.",
+    "\"I still have many things to tell you, but you can't handle them now. But when the Friend comes—the Spirit of Truth—he'll take you by the hand and guide you into all the truth there is. He won't draw attention to himself, but will make sense of what's about to happen and, really, of everything I've done and said. He'll honor me; he'll take from me and deliver it to you. Everything the Father has is also mine. That's why I've said, 'He takes from me and delivers to you.'",
+    "\"In a day or so you're not going to see me, but then in another day or so you will see me.\"",
+    "§Joy Like a River Overflowing",
+    "That stirred up a hornet's nest of questions among the disciples: \"What's he talking about—'In a day or so you're not going to see me, but then in another day or so you will see me'? And, 'Because I'm on my way to the Father'? What is this 'day or so'? We don't know what he's talking about.\"",
+    "Jesus knew they were dying to ask him what he meant, so he said, \"Are you trying to figure out among yourselves what I meant when I said, 'In a day or so you're not going to see me, but then in another day or so you will see me'? Then get this firmly into your minds: you're going to be in deep mourning while the godless world throws a party. You'll be sad, very sad—but your sadness will turn into gladness.",
+    "\"When a woman gives birth, she goes through a hard time—no getting around it. But when the baby is born, there's joy in the birth. This new life in the world wipes out the memory of the pain. The sadness you have right now is like that pain, but the coming joy is similar too. When I see you again, you'll be full of joy, and it'll be a joy no one can steal from you. You won't be so full of questions anymore.",
+    "\"This is what I want you to do: ask the Father for whatever fits with the things I've revealed to you. Ask in my name, in line with my will, and he'll certainly give it to you. Your joy will be a river overflowing its banks!",
+    "\"I've used figures of speech in telling you these things. Soon I'll drop the figures and tell you about the Father in plain language. Then you can make your requests directly to him, in connection with this life I've revealed to you. I won't keep making requests of the Father on your behalf. I won't need to. Because you've gone out on a limb, committing yourselves to love and trust me, believing I came straight from the Father, the Father loves you directly. First, I left the Father and came into the world; now I leave the world and go to the Father.\"",
+    "His disciples said, \"Finally! You're giving it to us straight, in plain talk—no more figures of speech. Now we know you know everything—it all comes together in you. You won't have to put up with our questions anymore. We're convinced you came from God.\"",
+    "Jesus answered them, \"Do you finally believe? Actually, you're about to run for it—saving your own skins and abandoning me. But I'm not abandoned. The Father is with me. I've told you all this so that, trusting me, you'll be unshakable and sure, deeply at peace. In this godless world you'll keep running into difficulties. But take heart! I've conquered the world.\""
+  ],
+  "verseRanges": [
+    "1-4",
+    "1-4",
+    "4-7",
+    "4-7",
+    "8-11",
+    "12-15",
+    "16",
+    "17-18",
+    "17-18",
+    "19-20",
+    "21-23",
+    "23-24",
+    "25-28",
+    "29-30",
+    "31-33"
+  ],
+  "msg_ranges": [
+    "1-4",
+    "1-4",
+    "4-7",
+    "4-7",
+    "8-11",
+    "12-15",
+    "16",
+    "17-18",
+    "17-18",
+    "19-20",
+    "21-23",
+    "23-24",
+    "25-28",
+    "29-30",
+    "31-33"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "4",
+      "paras": [
+        2,
+        4
+      ],
+      "note": "MSG 원문이 4절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "23",
+      "paras": [
+        11,
+        12
+      ],
+      "note": "MSG 원문이 23절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    }
+  ],
+  "changes": [
+    "John 16장: MSG 문단 구조 기준으로 EN 전면 재구성"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

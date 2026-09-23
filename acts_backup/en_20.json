@@ -1,0 +1,79 @@
+{
+  "changes": [
+    "Ch20: § headers fixed to MSG's real headers (Macedonia and Greece; On to Jerusalem) — removed fabricated 'Traveling Through Greece', 'The Kid Who Fell Out the Window', \"Paul's Farewell Speech\"",
+    "Ch20: split merged 3-6 (→2-4, 5-6), 7-8/9-12 (→7-9, 10-12), 25-28 (→25-27, 28), 32-35 (→32, 33-35)",
+    "Ch20: badges corrected to MSG ranges (2-4, 5-6, 7-9, 13-16, 25-27, 28, 32, 33-35)",
+    "Ch20: declared split for MSG's own overlap (v2 in 1-2/2-4)",
+    "Ch20: restored full travel itinerary (Assos walking plan, Chios/Samos/Miletus), 'incredibly extravagant generosity of God', 'hugged him hard', 'vicious wolves' speech; moderated slang (chilled out, crushing it, haters, dipped, haters, stay woke, phonies, totally gutted)",
+    "Ch20: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved",
+    "EN: high-similarity short paragraphs re-paraphrased for MSG independence"
+  ],
+  "chapter": 20,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-2",
+    "1-2",
+    "2-4",
+    "5-6",
+    "7-9",
+    "10-12",
+    "13-16",
+    "17-21",
+    "17-21",
+    "22-24",
+    "25-27",
+    "28",
+    "29-31",
+    "32",
+    "33-35",
+    "36-38"
+  ],
+  "paragraphs": [
+    "§Macedonia and Greece",
+    "With things back to normal, Paul gathered the disciples and encouraged them to keep up the good work in Ephesus. Then, after saying goodbye, he left for Macedonia. As he traveled through the region, going from one gathering to the next, he kept encouraging everyone — lifting their spirits and filling them with fresh hope.",
+    "Then he arrived in Greece and stayed three months. Just as he was about to sail for Syria, the Jews hatched a plot against him. So he changed plans — went back by land through Macedonia — and slipped away from them. His travel companions were Sopater, son of Pyrrhus, from Berea; Aristarchus and Secundus, both from Thessalonica; Gaius from Derbe; Timothy; and two from the Asia province, Tychicus and Trophimus.",
+    "They traveled ahead and waited for us at Troas. We stayed on in Philippi through Passover week, then sailed off. Five days later we rejoined them at Troas and spent a week there.",
+    "We met on Sunday to worship and share the Master's Supper. Paul spoke to the congregation. We'd planned to leave first thing in the morning, but Paul kept talking — way past midnight. We were meeting in a well-lit upstairs room. A young man named Eutychus was sitting in an open window. As Paul went on and on, Eutychus drifted off to sleep and fell out the third-story window. When they picked him up, he was dead.",
+    "Paul went down, threw himself on the boy, and hugged him tight. \"Stop crying,\" he said. \"He's alive!\" Then Paul went back upstairs, shared the Master's Supper, and kept on telling stories of faith until dawn! Then they left — Paul one way, the congregation the other — leading the boy away alive, and full of life themselves.",
+    "Meanwhile, the rest of us had gone ahead to the ship and sailed for Assos, where we were supposed to pick up Paul. Paul had wanted to walk there, so he'd arranged it that way earlier. Everything went as planned: we met him at Assos, took him aboard, and sailed to Mitylene. The next day we anchored off Chios, a day later off Samos, and then reached Miletus. Paul had decided to skip Ephesus so he wouldn't get held up in the Asia province. He was in a hurry to reach Jerusalem in time for Pentecost, if at all possible.",
+    "§On to Jerusalem",
+    "From Miletus he sent word to Ephesus, asking the church leaders to come to him. When they arrived, he said, \"You know that from the very first day I set foot in Asia, I was with you completely — risking my life, serving the Master no matter what, putting up with endless schemes from Jews who wanted to kill me. I never held back or watered down anything. Every truth and encouragement that could make a difference for you, you got. I taught you in public and I taught you in your homes, urging Jews and Greeks alike toward a radical turnaround before God and an equally radical trust in our Master Jesus.\"",
+    "\"But now there's another urgency pulling me. I feel I have to go to Jerusalem. I have no idea what will happen when I get there. I do know it won't be easy — the Holy Spirit has told me clearly, over and over, that hard times and prison are ahead. But that hardly matters. What matters most to me is finishing what God started: the job the Master Jesus gave me — telling everyone I meet about this unbelievably generous grace of God.\"",
+    "\"So this is goodbye. You're not going to see me again, and I won't see you — all of you I've spent so long with, proclaiming the news of God's kingdom. I've done my best for you, given you everything I had, held back nothing of what God wanted for you.\"",
+    "\"Now it's up to you. Stay alert — for yourselves and for your flock. The Holy Spirit has put you in charge of these people — God's own people — to guard and protect them. God himself thought they were worth dying for.\"",
+    "\"I know that as soon as I'm gone, vicious wolves will show up and tear into this flock — men from your own ranks twisting words to lure disciples into following them instead of Jesus. So stay awake and keep your guard up. Remember those three years I spent with you, never letting up, pouring my heart out with each one of you.\"",
+    "\"Now I entrust you to God — our wonderful God, whose gracious Word can mold you into what he intends you to be and supply everything you could ever need among this family of holy friends.\"",
+    "\"As you well know, I've never had any hunger for wealth or fancy things. With these hands I earned what I needed and provided for those who worked with me. In everything I've done, I've shown you how important it is to work hard for the weak and never exploit them. You won't go wrong if you keep remembering what our Master said: 'You're far happier giving than getting.'\"",
+    "Then Paul knelt down — all of them kneeling with him — and prayed. And then came a flood of tears. Lots of hugging Paul, not wanting to let him go. They knew they'd never see him again — he'd told them plainly. The pain cut deep. Then, bravely, they walked him down to the ship."
+  ],
+  "splits": [
+    {
+      "msg_range": "2",
+      "note": "MSG's own overlap: v2 closes MSG para 1-2 and opens MSG para 2-4; badges follow MSG paragraph boundaries",
+      "paras": [
+        1,
+        2
+      ]
+    }
+  ],
+  "title": "Goodbye Tour: Paul Heads to Jerusalem",
+  "verseRanges": [
+    "1-2",
+    "1-2",
+    "2-4",
+    "5-6",
+    "7-9",
+    "10-12",
+    "13-16",
+    "17-21",
+    "17-21",
+    "22-24",
+    "25-27",
+    "28",
+    "29-31",
+    "32",
+    "33-35",
+    "36-38"
+  ]
+}

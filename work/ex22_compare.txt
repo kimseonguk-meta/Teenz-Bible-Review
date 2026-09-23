@@ -1,0 +1,145 @@
+# EXODUS 22 — Spill the Tea: God's Rules on Stepping Out of Line
+TEEN paras: 21 | badges: ['1-3', '3-4', '5', '6', '7-8', '9', '10-13', '14-15', '16-17', '18', '19', '20', '21', '22-24', '25', '26-27', '28', '29', '29-30', '30', '31']
+KO paras: 21 | badges: ['1-3', '3-4', '5', '6', '7-8', '9', '10-13', '14-15', '16-17', '18', '19', '20', '23', '24', '25', '26', '27', '28', '29', '30', '31']
+MSG sections: 19 | ranges: ['1-3', '3-4', '5', '6', '7-8', '9', '10-13', '14-15', '16-17', '18', '19', '20', '21', '22-24', '25', '26-27', '28', '29-30', '31']
+
+--- MSG [1-3] ---
+“If someone steals an ox or a lamb and slaughters or sells it, the thief must pay five cattle in place of the ox and four sheep in place of the lamb. If the thief is caught while breaking in and is hit hard and dies, there is no bloodguilt. But if it happens after daybreak, there is bloodguilt.
+
+>>> TEEN:
+  [p0 badge=1-3] Alright, so check it. If you steal someone's cow or sheep and then, like, butcher it or sell it, you're in deep. You gotta pay them back five cows for the one you took, or four sheep for the one you jacked. But if you get caught breaking in at night and someone hits you and you die, no one's in trouble. But if it's daytime, then yeah, someone's gotta pay.
+  [KO p0] 야, 들어봐. 만약 누가 소나 양을 훔쳐서 잡거나 팔아버리면, 그 도둑은 소 한 마리당 소 다섯 마리로, 양 한 마리당 양 네 마리로 갚아야 된대. 근데 만약 도둑이 밤에 몰래 들어오다가 맞아서 죽으면, 그건 때린 사람 잘못이 아니래. 근데 해가 뜬 낮에 그런 일이 생기면, 그건 살인죄가 되는 거임.
+  [p1 badge=3-4] A thief has to pay back everything they stole, for real. If you can't pay, you get sold to pay for your crime. If you're caught with the stolen stuff, and the cow or donkey or sheep is still alive, you gotta pay back double.
+  [KO p1] 도둑은 훔친 거에 대해 무조건 다 갚아야 한대. 만약 갚을 돈이 없으면, 그 도둑을 팔아서라도 갚게 해야 된대. 만약 훔친 물건, 예를 들어 소나 나귀나 양을 산 채로 갖고 있다가 걸리면, 2배로 갚아야 된대.
+
+--- MSG [3-4] ---
+“A thief must make full restitution for what is stolen. The thief who is unable to pay is to be sold for his thieving. If caught red-handed with the stolen goods, and the ox or donkey or lamb is still alive, the thief pays double.
+
+>>> TEEN:
+  [p0 badge=1-3] Alright, so check it. If you steal someone's cow or sheep and then, like, butcher it or sell it, you're in deep. You gotta pay them back five cows for the one you took, or four sheep for the one you jacked. But if you get caught breaking in at night and someone hits you and you die, no one's in trouble. But if it's daytime, then yeah, someone's gotta pay.
+  [KO p0] 야, 들어봐. 만약 누가 소나 양을 훔쳐서 잡거나 팔아버리면, 그 도둑은 소 한 마리당 소 다섯 마리로, 양 한 마리당 양 네 마리로 갚아야 된대. 근데 만약 도둑이 밤에 몰래 들어오다가 맞아서 죽으면, 그건 때린 사람 잘못이 아니래. 근데 해가 뜬 낮에 그런 일이 생기면, 그건 살인죄가 되는 거임.
+  [p1 badge=3-4] A thief has to pay back everything they stole, for real. If you can't pay, you get sold to pay for your crime. If you're caught with the stolen stuff, and the cow or donkey or sheep is still alive, you gotta pay back double.
+  [KO p1] 도둑은 훔친 거에 대해 무조건 다 갚아야 한대. 만약 갚을 돈이 없으면, 그 도둑을 팔아서라도 갚게 해야 된대. 만약 훔친 물건, 예를 들어 소나 나귀나 양을 산 채로 갖고 있다가 걸리면, 2배로 갚아야 된대.
+
+--- MSG [5] ---
+“If someone grazes livestock in a field or vineyard but lets them loose so they graze in someone else’s field, restitution must be made from the best of the owner’s field or vineyard.
+
+>>> TEEN:
+  [p2 badge=5] If you're letting your animals graze and they wander into someone else's field and start munching, you have to pay them back with the best stuff from your own field or vineyard. No cap.
+  [KO p2] 만약 어떤 사람이 자기 밭이나 포도원에서 가축을 키우다가, 그 가축이 남의 밭에 들어가서 곡식을 먹어버리면, 자기 밭이나 포도원에서 나는 것 중에 제일 좋은 걸로 갚아줘야 한대.
+
+--- MSG [6] ---
+“If fire breaks out and spreads to the brush so that the sheaves of grain or the standing grain or even the whole field is burned up, whoever started the fire must pay for the damages.
+
+>>> TEEN:
+  [p3 badge=6] If a fire you started gets out of control and burns up someone's crops or their whole field, you're paying for all of it. Every last bit.
+  [KO p3] 만약 불이 나서 다른 사람 밭으로 번져서, 쌓아놓은 곡식이나 서 있는 곡식, 아니면 밭 전체를 태워버리면, 불을 낸 사람이 다 물어줘야 된대.
+
+--- MSG [7-8] ---
+“If someone gives a neighbor money or things for safekeeping and they are stolen from the neighbor’s house, the thief, if caught, must pay back double. If the thief is not caught, the owner must be brought before God to determine whether the owner was the one who took the neighbor’s goods.
+
+>>> TEEN:
+  [p4 badge=7-8] If you give your neighbor some money or stuff to keep safe and it gets stolen from their house, if they catch the thief, the thief has to pay back double. If they don't find the thief, the owner of the house has to go before God to see if they were the one who actually took the stuff.
+  [KO p4] 만약 누가 이웃한테 돈이나 물건을 맡겼는데, 그 이웃집에서 도둑맞으면, 도둑을 잡았을 경우 그 도둑이 2배로 갚아야 한대. 만약 도둑을 못 잡으면, 집주인이 하나님 앞에 가서 자기가 그 이웃 물건에 손대지 않았는지 증명해야 된대.
+
+--- MSG [9] ---
+“In all cases of stolen goods, whether oxen, donkeys, sheep, clothing, anything in fact missing of which someone says, ‘That’s mine,’ both parties must come before the judges. The one the judges pronounce guilty must pay double to the other.
+
+>>> TEEN:
+  [p5 badge=9] Basically, anytime something's stolen—a cow, a donkey, a sheep, clothes, whatever—and someone's like, 'Yo, that's mine,' both people have to go to the judges. Whoever the judges say is guilty has to pay the other person back double.
+  [KO p5] 소, 나귀, 양, 옷 같은 어떤 물건이든 도둑맞았을 때, '이거 내 건데'라고 주인이 나타나면, 양쪽 다 재판관 앞에 가야 한대. 재판관이 유죄라고 판결한 사람이 상대방한테 2배로 갚아야 된대.
+
+--- MSG [10-13] ---
+“If someone gives a donkey or ox or lamb or any kind of animal to another for safekeeping and it dies or is injured or lost and there is no witness, an oath before God must be made between them to decide whether one has laid hands on the property of the other. The owner must accept this and no damages are assessed. But if it turns out it was stolen, the owner must be compensated. If it has been torn by wild beasts, the torn animal must be brought in as evidence; no damages have to be paid.
+
+>>> TEEN:
+  [p6 badge=10-13] If you're watching someone's animal—a donkey, a cow, a sheep, whatever—and it dies or gets hurt or just disappears and nobody saw what happened, you have to make a promise to God that you didn't do anything to it. The owner just has to accept that, and you don't have to pay. But if it turns out the animal was stolen, you gotta pay the owner back. If a wild animal killed it, you have to show them the dead animal as proof, and then you don't have to pay.
+  [KO p6] 만약 누가 나귀나 소나 양 같은 동물을 이웃한테 맡겼는데, 그 동물이 죽거나 다치거나 없어졌는데 본 사람이 없으면, 두 사람 사이에 하나님 앞에서 맹세를 해서, 상대방의 재산에 손을 댔는지 안 댔는지 가려야 한대. 주인은 그 맹세를 받아들여야 하고, 손해배상은 없는 거임. 근데 만약 도둑맞은 걸로 밝혀지면, 주인이 보상을 받아야 된대. 만약 들짐승한테 찢겨 죽었으면, 그 찢긴 동물을 증거로 가져와야 하고, 그러면 보상 안 해도 된대.
+
+--- MSG [14-15] ---
+“If someone borrows an animal from a neighbor and it gets injured or dies while the owner is not present, he must pay for it. But if the owner was with it, he doesn’t have to pay. If the animal was hired, the payment covers the loss.
+
+>>> TEEN:
+  [p7 badge=14-15] If you borrow an animal from your neighbor and it gets hurt or dies when the owner isn't around, you have to pay for it. But if the owner was with it, you're good, you don't have to pay. If you rented the animal, the rental fee covers it.
+  [KO p7] 만약 이웃한테 동물을 빌렸는데, 주인이 없을 때 그 동물이 다치거나 죽으면, 빌린 사람이 갚아야 된대. 근데 주인이랑 같이 있었으면, 갚을 필요 없대. 만약 돈 내고 빌린 거면, 그 빌린 돈에 손해 비용이 포함된 거래.
+
+--- MSG [16-17] ---
+“If a man seduces a virgin who is not engaged to be married and sleeps with her, he must pay the marriage price and marry her. If her father absolutely refuses to give her away, the man must still pay the marriage price for virgins.
+
+>>> TEEN:
+  [p8 badge=16-17] If a guy sleeps with a virgin who isn't engaged, he has to pay the marriage price and marry her. If her dad is totally against it and says no way, the guy still has to pay the money for virgins.
+  [KO p8] 만약 어떤 남자가 약혼하지 않은 처녀를 꼬셔서 같이 자면, 그는 결혼 지참금을 내고 그 여자랑 결혼해야 된대. 만약 여자의 아버지가 절대 딸을 줄 수 없다고 하면, 그 남자는 그래도 처녀에게 주는 결혼 지참금을 내야 한대.
+
+--- MSG [18] ---
+“Don’t let a sorceress live.
+
+>>> TEEN:
+  [p9 badge=18] Don't let a sorceress live. Period.
+  [KO p9] 마술 부리는 여자는 살려두지 말래.
+
+--- MSG [19] ---
+“Anyone who has sex with an animal gets the death penalty.
+
+>>> TEEN:
+  [p10 badge=19] Anyone who has sex with an animal? Death penalty.
+  [KO p10] 동물이랑 성관계하는 사람은 무조건 사형이래.
+
+--- MSG [20] ---
+“Anyone who sacrifices to a god other than God alone must be put to death.
+
+>>> TEEN:
+  [p11 badge=20] Anyone who sacrifices to any god other than the one true God has to be put to death.
+  [KO p11] 오직 하나님 외에 다른 신에게 제사를 드리는 사람은 반드시 죽여야 한대.
+
+--- MSG [21] ---
+“Don’t abuse or take advantage of strangers; you, remember, were once strangers in Egypt.
+
+>>> TEEN:
+  [p12 badge=21] Don't be a jerk to strangers or take advantage of them. Remember, you guys were strangers in Egypt once.
+  [KO p12] 너희 땅에 사는 외국인을 괴롭히거나 이용하지 말래. 너희도 예전에 이집트에서 외국인이었잖아, 기억하래.
+
+--- MSG [22-24] ---
+“Don’t mistreat widows or orphans. If you do and they cry out to me, you can be sure I’ll take them most seriously; I’ll show my anger and come raging among you with the sword, and your wives will end up widows and your children orphans.
+
+>>> TEEN:
+  [p13 badge=22-24] Don't mess with widows or orphans. If you do and they cry out to me, you better believe I'm gonna hear them. I'll get super angry and come at you with a sword, and then your wives will be widows and your kids will be orphans.
+  [KO p13] 과부나 고아를 함부로 대하지 말래. 만약 너희가 그들을 괴롭혀서 그들이 나한테 울부짖으면, 내가 반드시 그들의 기도를 들어줄 거래. 내가 엄청 화나서 칼로 너희를 쳐서, 너희 아내들은 과부가 되고 너희 자식들은 고아가 될 거래.
+
+--- MSG [25] ---
+“If you lend money to my people, to any of the down-and-out among you, don’t come down hard on them and gouge them with interest.
+
+>>> TEEN:
+  [p14 badge=25] If you lend money to my people, to anyone who's struggling, don't be a loan shark and charge them a ton of interest.
+  [KO p14] 만약 내 백성, 그러니까 너희 중에 가난한 사람한테 돈을 빌려주면, 빚 독촉 심하게 하거나 이자 많이 받지 말래.
+
+--- MSG [26-27] ---
+“If you take your neighbor’s coat as security, give it back before nightfall; it may be your neighbor’s only covering—what else does the person have to sleep in? And if I hear the neighbor crying out from the cold, I’ll step in—I’m compassionate.
+
+>>> TEEN:
+  [p15 badge=26-27] If you take your neighbor's coat as a deposit, give it back before it gets dark. It might be the only thing they have to keep warm at night. And if I hear them crying out because they're cold, I'll step in—I'm a compassionate God.
+  [KO p15] 만약 네 이웃의 겉옷을 담보로 잡았으면, 해가 지기 전에 돌려주래. 그게 그 이웃이 가진 유일한 덮을 옷일 수도 있잖아. 그 사람이 덮고 잘 게 뭐 있겠냐고. 만약 그 이웃이 추워서 나한테 울부짖으면, 내가 바로 들어줄 거래. 나는 자비로운 하나님이래.
+
+--- MSG [28] ---
+“Don’t curse God; and don’t damn your leaders.
+
+>>> TEEN:
+  [p16 badge=28] Don't curse God, and don't bad-mouth your leaders.
+  [KO p16] 하나님을 저주하지 말고, 너희 지도자들을 욕하지 말래.
+
+--- MSG [29-30] ---
+“Don’t be stingy as your wine vats fill up. “Dedicate your firstborn sons to me. The same with your cattle and sheep—they are to stay for seven days with their mother, then give them to me.
+
+>>> TEEN:
+  [p17 badge=29] Don't be stingy when you're making wine.
+  [KO p17] 너희 포도주 통이 가득 찰 때, 인색하게 굴지 말래.
+  [p18 badge=29-30] Give me your firstborn sons. Same with your cows and sheep—let them stay with their mom for seven days, then give them to me.
+  [KO p18] 너희 첫째 아들들은 나한테 바치래. 소나 양도 마찬가지로, 7일 동안 어미랑 같이 있다가 나한테 바치래.
+  [p19 badge=30] Be holy for me.
+  [KO p19] 나를 위해 거룩한 사람이 되래.
+
+--- MSG [31] ---
+“Be holy for my sake. “Don’t eat mutilated flesh you find in the fields; throw it to the dogs.”
+
+>>> TEEN:
+  [p20 badge=31] Don't eat meat from an animal you find dead in a field; throw it to the dogs.
+  [KO p20] 들에서 찢겨 죽은 동물의 고기는 먹지 말고, 개한테 던져주래.

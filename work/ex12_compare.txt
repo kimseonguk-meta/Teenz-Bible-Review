@@ -1,0 +1,155 @@
+# EXODUS 12 — The Ultimate Escape Plan
+TEEN paras: 26 | badges: ['1-8', '9-11', '12-13', '14-16', '17-20', '21-23', '24-27', '27', '28', '29-30', '30', '31-32', '33', '34-36', '37-39', '40-42', '43', '43', '44', '45', '46', '46', '47', '48', '49', '50-51']
+KO paras: 26 | badges: ['1-8', '9-11', '12-13', '14-16', '17-20', '21-23', '24-27', '27', '28', '29-30', '30', '31-32', '33', '34-36', '37-39', '40-42', '43', '43', '44', '45', '46', '46', '47', '48', '49', '50-51']
+MSG sections: 19 | ranges: ['1-10', '11', '12-13', '14-16', '17-20', '21-23', '24-27', '28', '29', '30', '31-32', '33', '34-36', '37-39', '40-42', '43-47', '48', '49', '50-51']
+
+--- MSG [1-10] ---
+God said to Moses and Aaron while still in Egypt, “This month is to be the first month of the year for you. Address the whole community of Israel; tell them that on the tenth of this month each man is to take a lamb for his family, one lamb to a house. If the family is too small for a lamb, then share it with a close neighbor, depending on the number of persons involved. Be mindful of how much each person will eat. Your lamb must be a healthy male, one year old; you can select it from either the sheep or the goats. Keep it penned until the fourteenth day of this month and then slaughter it—the entire community of Israel will do this—at dusk. Then take some of the blood and smear it on the two doorposts and the lintel of the houses in which you will eat it. You are to eat the meat, roasted in the fire, that night, along with bread, made without yeast, and bitter herbs. Don’t eat any of it raw or boiled in water; make sure it’s roasted—the whole animal, head, legs, and innards. Don’t leave any of it until morning; if there are leftovers, burn them in the fire.
+
+>>> TEEN:
+  [p0 badge=1-8] So, God told Moses and Aaron in Egypt, 'Yo, this month is now officially the start of your year.' He tells them to pass the message to all of Israel: 'On the tenth of this month, every family needs to get a lamb, one per house. If your fam is too small to finish a whole lamb, team up with a neighbor. Just make sure you have enough for everyone. And the lamb has to be a one-year-old male, no flaws, either a sheep or a goat. Keep it safe 'til the fourteenth, then the whole community of Israel will slaughter them at sunset. Then, you're gonna take some of the blood and paint it on the top and sides of the doorframes of the houses where you're eating. That night, you'll roast the meat over a fir
+  [KO p0] 하나님이 이집트에서 모세랑 아론한테 말했대. "야, 이 달부터가 너네 달력의 첫 달임. 이스라엘 백성 전체한테 알려줘. 이달 10일에 각자 가족 수대로 어린 양 한 마리씩 구해놓으라고. 만약에 식구가 별로 없어서 양 한 마리가 너무 많으면, 옆집이랑 같이 나눠 먹으래. 각자 얼마나 먹을지 생각해서 사람 수를 정하라고 하셨어. 양은 1년 된 건강한 수컷이어야 하고, 양이나 염소 중에서 고르면 된대. 이달 14일까지 잘 데리고 있다가, 해 질 녘에 이스라엘 온 백성이 다 같이 잡는 거야. 그리고 그 피를 받아서, 양고기 먹을 집 문 양쪽 기둥이랑 위쪽 가로대에 바르래. 그날 밤에 그 고기는 불에 구워서 누룩 안 넣은 빵이랑
+  [p1 badge=9-11] And check it, this is how you eat it: be ready to bounce, with your shoes on and your staff in your hand. Eat it quick, 'cause this is God's Passover.
+  [KO p1] "그리고 먹을 때 자세가 중요함. 허리띠 딱 매고, 신발 신고, 지팡이 손에 잡고, 완전 나갈 준비하고 먹어야 돼. 완전 급하게 먹어야 된대. 이게 바로 하나님을 위한 유월절(Passover)인 거임."
+
+--- MSG [11] ---
+“And here is how you are to eat it: Be fully dressed with your sandals on and your stick in your hand. Eat in a hurry; it’s the Passover to God.
+
+>>> TEEN:
+  [p1 badge=9-11] And check it, this is how you eat it: be ready to bounce, with your shoes on and your staff in your hand. Eat it quick, 'cause this is God's Passover.
+  [KO p1] "그리고 먹을 때 자세가 중요함. 허리띠 딱 매고, 신발 신고, 지팡이 손에 잡고, 완전 나갈 준비하고 먹어야 돼. 완전 급하게 먹어야 된대. 이게 바로 하나님을 위한 유월절(Passover)인 거임."
+
+--- MSG [12-13] ---
+“I will go through the land of Egypt on this night and strike down every firstborn in the land of Egypt, whether human or animal, and bring judgment on all the gods of Egypt. I am God. The blood will serve as a sign on the houses where you live. When I see the blood I will pass over you—no disaster will touch you when I strike the land of Egypt.
+
+>>> TEEN:
+  [p2 badge=12-13] 'Tonight, I'm going on a walk through Egypt, and I'm taking out every firstborn, both people and animals. I'm also gonna wreck all the so-called gods of Egypt. I am the one true God. That blood on your houses? That's your signal. When I see the blood, I'll pass over you. No plague will hit you when I strike Egypt.'
+  [KO p2] "내가 오늘 밤에 이집트 땅을 쫙 돌면서, 사람이든 짐승이든 처음 난 것들은 다 칠 거임. 그리고 이집트의 모든 신들을 심판할 거래. 내가 바로 하나님이다. 너네가 사는 집에 발라놓은 피가 바로 신호임. 내가 그 피를 보면 너네 집은 그냥 지나갈게. 내가 이집트를 칠 때 너네는 아무 일도 없을 거임."
+
+--- MSG [14-16] ---
+“This will be a memorial day for you; you will celebrate it as a festival to God down through the generations, a fixed festival celebration to be observed always. You will eat unraised bread (matzoth) for seven days: On the first day get rid of all yeast from your houses—anyone who eats anything with yeast from the first day to the seventh day will be cut off from Israel. The first and the seventh days are set aside as holy; do no work on those days. Only what you have to do for meals; each person can do that.
+
+>>> TEEN:
+  [p3 badge=14-16] 'This day is gonna be a big deal for you guys. You'll celebrate it as a festival to God forever. It's a permanent thing. For seven days, you'll eat bread made without yeast. On day one, get all the yeast out of your houses. If anyone eats anything with yeast from day one to day seven, they're cut off from Israel. The first and seventh days are holy—no work. The only thing you can do is cook.'
+  [KO p3] "이 날은 너네한테 완전 기념일이 될 거임. 대대로 하나님의 축제로 지켜야 돼. 이건 영원히 지켜야 할 축제임. 7일 동안은 누룩 안 들어간 빵(무교병)을 먹어야 함. 첫째 날에 집에서 누룩을 싹 다 없애버려. 첫째 날부터 일곱째 날까지 누룩 들어간 거 먹는 사람은 이스라엘에서 쫓겨날 줄 알아. 첫째 날이랑 일곱째 날은 거룩한 날이니까 아무 일도 하지 마. 그냥 밥 해먹는 것만 각자 알아서 하래."
+
+--- MSG [17-20] ---
+“Keep the Festival of Unraised Bread! This marks the exact day I brought you out in force from the land of Egypt. Honor the day down through your generations, a fixed festival to be observed always. In the first month, beginning on the fourteenth day at evening until the twenty-first day at evening, you are to eat unraised bread. For those seven days not a trace of yeast is to be found in your houses. Anyone, whether a visitor or a native of the land, who eats anything raised shall be cut off from the community of Israel. Don’t eat anything raised. Only matzoth.”
+
+>>> TEEN:
+  [p4 badge=17-20] 'Keep the Festival of Unleavened Bread! This is the exact day I brought you out of Egypt in full force. Honor this day for all time. In the first month, from the evening of the fourteenth day to the evening of the twenty-first day, you'll eat unleavened bread. For those seven days, there should be zero yeast in your houses. Anyone, whether they're visiting or from here, who eats anything with yeast will be cut off from the community of Israel. Don't eat anything with yeast. Only unleavened bread.'
+  [KO p4] "무교병 축제를 꼭 지켜! 바로 이 날에 내가 너네를 이집트 땅에서 군대처럼 이끌고 나왔음. 대대로 이 날을 기억하고, 영원히 지켜야 할 축제로 삼으래. 첫째 달 14일 저녁부터 21일 저녁까지는 무교병을 먹어야 함. 그 7일 동안은 집에서 누룩이 아예 없어야 돼. 이방인이든 본토인이든 누룩 들어간 거 먹는 사람은 이스라엘 공동체에서 끊어질 거임. 누룩 들어간 건 절대 먹지 말고, 무교병만 먹으래."
+
+--- MSG [21-23] ---
+Moses assembled all the elders of Israel. He said, “Select a lamb for your families and slaughter the Passover lamb. Take a bunch of hyssop and dip it in the bowl of blood and smear it on the lintel and on the two doorposts. No one is to leave the house until morning. God will pass through to strike Egypt down. When he sees the blood on the lintel and the two doorposts, God will pass over the doorway; he won’t let the destroyer enter your house to strike you down with ruin.
+
+>>> TEEN:
+  [p5 badge=21-23] Moses got all the elders of Israel together and said, 'Go pick out a lamb for your families and slaughter the Passover lamb. Take a bunch of hyssop, dip it in the bowl of blood, and wipe it on the top and sides of your doorframes. Nobody leaves their house until morning. God's gonna pass through to strike down Egypt. When he sees the blood on your doorframes, he'll pass over your doorway. He won't let the destroyer come into your house and mess you up.'
+  [KO p5] 모세가 이스라엘 장로들을 다 불러 모아서 말했대. "가족 수대로 양 한 마리씩 골라서 유월절 양으로 잡으셈. 그리고 우슬초 한 묶음을 가져다가 그릇에 담긴 피에 적셔서, 문 위쪽 가로대랑 양쪽 기둥에 바르셈. 아침까지 아무도 집 밖으로 나가면 안 됨. 하나님이 이집트를 치러 지나가실 거임. 문 가로대랑 양쪽 기둥에 묻은 피를 보시면, 하나님이 그 문은 그냥 지나가실 거래. 파괴자가 너네 집에 들어와서 너네를 치지 못하게 막아주실 거임."
+
+--- MSG [24-27] ---
+“Keep this word. It’s the law for you and your children, forever. When you enter the land which God will give you as he promised, keep doing this. And when your children say to you, ‘Why are we doing this?’ tell them: ‘It’s the Passover-sacrifice to God who passed over the homes of the Israelites in Egypt when he hit Egypt with death but rescued us.’” The people bowed and worshiped.
+
+>>> TEEN:
+  [p6 badge=24-27] 'Remember this. It's a rule for you and your kids, forever. When you get to the land God promised you, keep doing this. And when your kids ask, 'Why are we doing this?' you tell them: 'It's the Passover sacrifice to God, who passed over the homes of the Israelites in Egypt when he struck Egypt but saved us.''
+  [KO p6] "이거 꼭 기억해. 너랑 네 자식들이 영원히 지켜야 할 법임. 하나님이 약속하신 대로 너네한테 땅을 주시면, 거기 들어가서도 계속 이렇게 해야 돼. 나중에 너네 자식들이 '아빠, 우리 이거 왜 하는 거임?' 하고 물어보면 이렇게 말해주셈. '이건 하나님께 드리는 유월절 제사야. 하나님이 이집트를 치실 때, 이스라엘 백성들의 집은 그냥 지나가셔서 우리를 구해 주셨거든.'"
+  [p7 badge=27] The people bowed down and worshiped.
+  [KO p7] 백성들이 듣고 머리를 숙여 경배했대.
+
+--- MSG [28] ---
+The Israelites then went and did what God had commanded Moses and Aaron. They did it all.
+
+>>> TEEN:
+  [p8 badge=28] The Israelites went and did exactly what God had commanded Moses and Aaron. They did it all.
+  [KO p8] 그리고 이스라엘 백성들은 가서 하나님이 모세랑 아론한테 명령하신 대로 다 했대. 진짜 하나도 빠짐없이 다 했음.
+
+--- MSG [29] ---
+At midnight God struck every firstborn in the land of Egypt, from the firstborn of Pharaoh, who sits on his throne, right down to the firstborn of the prisoner locked up in jail. Also the firstborn of the animals.
+
+>>> TEEN:
+  [p9 badge=29-30] At midnight, God struck down every firstborn in Egypt, from the firstborn of Pharaoh on his throne to the firstborn of the prisoner in jail. The firstborn animals too.
+  [KO p9] 한밤중에 하나님이 이집트 땅의 모든 처음 난 것들을 치셨음. 왕좌에 앉은 파라오의 맏아들부터 감옥에 갇힌 죄수의 맏아들까지, 그리고 짐승의 첫 녀석까지 싹 다.
+
+--- MSG [30] ---
+Pharaoh got up that night, he and all his servants and everyone else in Egypt—what wild wailing and lament in Egypt! There wasn’t a house in which someone wasn’t dead.
+
+>>> TEEN:
+  [p9 badge=29-30] At midnight, God struck down every firstborn in Egypt, from the firstborn of Pharaoh on his throne to the firstborn of the prisoner in jail. The firstborn animals too.
+  [KO p9] 한밤중에 하나님이 이집트 땅의 모든 처음 난 것들을 치셨음. 왕좌에 앉은 파라오의 맏아들부터 감옥에 갇힌 죄수의 맏아들까지, 그리고 짐승의 첫 녀석까지 싹 다.
+  [p10 badge=30] Pharaoh and all his officials and everyone in Egypt woke up that night to some crazy loud crying. There wasn't a single house where someone wasn't dead.
+  [KO p10] 그날 밤 파라오랑 그의 모든 신하랑 이집트 사람들이 다 일어났는데, 이집트 전체가 완전 통곡의 바다였음. 죽은 사람이 없는 집이 한 군데도 없었대.
+
+--- MSG [31-32] ---
+Pharaoh called in Moses and Aaron that very night and said, “Get out of here and be done with you—you and your Israelites! Go worship God on your own terms. And yes, take your sheep and cattle as you’ve insisted, but go. And bless me.”
+
+>>> TEEN:
+  [p11 badge=31-32] Pharaoh called for Moses and Aaron that same night and said, 'Get out of here! You and your Israelites! Go worship your God, whatever. And yeah, take your sheep and cattle like you wanted, but just go. And bless me too, I guess.'
+  [KO p11] 파라오가 그날 밤에 바로 모세랑 아론을 불러서 말했음. "당장 물러가! 너랑 네 이스라엘 백성들 다 데리고 나가! 너네 방식대로 가서 하나님 섬기든가 말든가 해. 그리고 너네가 말한 대로 양이랑 소도 다 가져가. 제발 그냥 가. 그리고 나 좀 축복해주라."
+
+--- MSG [33] ---
+The Egyptians couldn’t wait to get rid of them; they pushed them to hurry up, saying, “We’re all as good as dead.”
+
+>>> TEEN:
+  [p12 badge=33] The Egyptians were desperate to get them out, telling them to hurry up, saying, 'We're all gonna die!'
+  [KO p12] 이집트 사람들은 이스라엘 백성들을 빨리 내보내고 싶어서 안달이었음. "이러다 우리 다 죽겠다"면서 막 재촉했대.
+
+--- MSG [34-36] ---
+The people grabbed their bread dough before it had risen, bundled their bread bowls in their cloaks and threw them over their shoulders. The Israelites had already done what Moses had told them; they had asked the Egyptians for silver and gold things and clothing. God saw to it that the Egyptians liked the people and so readily gave them what they asked for. Oh yes! They picked those Egyptians clean.
+
+>>> TEEN:
+  [p13 badge=34-36] The people grabbed their dough before it could rise, wrapped up their mixing bowls in their clothes, and threw them over their shoulders. The Israelites had already done what Moses told them; they'd asked the Egyptians for silver and gold and clothes. God made the Egyptians like them, so they gave them whatever they asked for. Oh yeah, they totally cleaned out the Egyptians.
+  [KO p13] 백성들은 빵 반죽이 부풀기도 전에 급하게 챙겨서, 빵 그릇을 옷에 싸서 어깨에 메고 나왔음. 이스라엘 백성들은 이미 모세가 시킨 대로 이집트 사람들한테 은, 금, 옷 같은 걸 다 받아 놨었대. 하나님이 이집트 사람들이 이스라엘 백성들을 좋게 보게 만드셔서, 달라는 대로 다 줬다고 함. 진짜 이집트인들 탈탈 털어버림.
+
+--- MSG [37-39] ---
+The Israelites moved on from Rameses to Succoth, about 600,000 on foot, besides their dependents. Hebrews and non-Hebrews alike set out, not to mention the large flocks and herds of livestock. They baked unraised cakes with the bread dough they had brought out of Egypt; it hadn’t raised—they’d been rushed out of Egypt and hadn’t time to fix food for the journey.
+
+>>> TEEN:
+  [p14 badge=37-39] The Israelites traveled from Rameses to Succoth. There were about 600,000 men on foot, not counting their families. A mixed crowd of people went with them, plus huge flocks and herds of animals. They baked flat cakes with the dough they brought from Egypt; it hadn't risen because they were rushed out of Egypt and had no time to prep food.
+  [KO p14] 이스라엘 백성들은 라암셋을 떠나서 숙곳으로 갔는데, 딸린 식구들 빼고 걸어서 가는 남자만 약 60만 명이었대. 히브리 사람이랑 다른 민족들이 막 섞여서 나섰고, 양 떼랑 소 떼도 엄청 많았음. 이집트에서 가져온 빵 반죽으로 누룩 안 넣은 빵을 구웠는데, 반죽이 부풀 틈도 없이 급하게 쫓겨나와서 길에서 먹을 음식을 준비할 시간도 없었대.
+
+--- MSG [40-42] ---
+The Israelites had lived in Egypt 430 years. At the end of the 430 years, to the very day, God’s entire army left Egypt. God kept watch all night, watching over the Israelites as he brought them out of Egypt. Because God kept watch, all Israel for all generations will honor God by keeping watch this night—a watchnight.
+
+>>> TEEN:
+  [p15 badge=40-42] The Israelites had lived in Egypt for 430 years. On the exact day the 430 years were up, God's entire army left Egypt. God stayed up all night, watching over the Israelites as he brought them out of Egypt. Because God kept watch, all of Israel for all time will honor God by keeping watch this night—a watchnight.
+  [KO p15] 이스라엘 백성들이 이집트에서 산 기간이 총 430년이었음. 정확히 430년이 끝나는 바로 그날, 하나님의 모든 군대가 이집트를 떠났대. 하나님이 밤새도록 깨어서 이스라엘 백성들을 이집트에서 이끌어내시는 걸 지켜보셨음. 하나님이 그렇게 지켜보셨기 때문에, 모든 이스라엘 백성들은 대대로 이 밤을 기억하며 밤을 새워 하나님을 기념해야 한대. 바로 '지킴의 밤'인 거임.
+
+--- MSG [43-47] ---
+God said to Moses and Aaron, “These are the rules for the Passover: No foreigners are to eat it. Any slave, if he’s paid for and circumcised, can eat it. No casual visitor or hired hand can eat it. Eat it in one house—don’t take the meat outside the house. Don’t break any of the bones. The whole community of Israel is to be included in the meal.
+
+>>> TEEN:
+  [p16 badge=43] God said to Moses and Aaron, 'These are the rules for the Passover:'
+  [KO p16] 하나님이 모세랑 아론한테 말씀하셨음. "유월절 규칙은 이렇다."
+  [p17 badge=43] 'No foreigners can eat it.'
+  [KO p17] "외국인은 절대 못 먹음."
+  [p18 badge=44] 'Any slave who's been bought and circumcised can eat it.'
+  [KO p18] "돈 주고 산 노예는 할례를 받으면 먹을 수 있음."
+  [p19 badge=45] 'No visitors or hired workers can eat it.'
+  [KO p19] "잠깐 머무는 손님이나 품꾼은 못 먹음."
+  [p20 badge=46] 'Eat it in one house—don't take the meat outside.'
+  [KO p20] "한 집에서만 먹어야 함. 고기를 집 밖으로 가져나가면 안 됨."
+  [p21 badge=46] 'Don't break any of its bones.'
+  [KO p21] "뼈를 하나도 꺾으면 안 됨."
+  [p22 badge=47] 'The whole community of Israel has to be in on the meal.'
+  [KO p22] "이스라엘 온 공동체가 다 같이 먹어야 함."
+
+--- MSG [48] ---
+“If an immigrant is staying with you and wants to keep the Passover to God, every male in his family must be circumcised, then he can participate in the Meal—he will then be treated as a native son. But no uncircumcised person can eat it.
+
+>>> TEEN:
+  [p23 badge=48] 'If an immigrant is living with you and wants to celebrate God's Passover, all the males in his family have to be circumcised. Then he can join in and be treated like a native. But no uncircumcised person can eat it.'
+  [KO p23] "만약 너네랑 같이 사는 이방인이 하나님께 유월절을 지키고 싶어 하면, 그 집의 모든 남자가 할례를 받아야 함. 그러면 참여할 수 있고, 본토인처럼 대우받을 거임. 근데 할례 안 받은 사람은 절대 못 먹음."
+
+--- MSG [49] ---
+“The same law applies both to the native and the immigrant who is staying with you.”
+
+>>> TEEN:
+  [p24 badge=49] 'The same rule applies to everyone, whether you're a native or an immigrant living with you.'
+  [KO p24] "이 법은 본토인이든 너네랑 같이 사는 이방인이든 똑같이 적용됨."
+
+--- MSG [50-51] ---
+All the Israelites did exactly as God commanded Moses and Aaron. That very day God brought the Israelites out of the land of Egypt, tribe by tribe.
+
+>>> TEEN:
+  [p25 badge=50-51] All the Israelites did exactly what God commanded Moses and Aaron. That very day, God brought the Israelites out of Egypt, tribe by tribe.
+  [KO p25] 모든 이스라엘 백성들은 하나님이 모세와 아론에게 명령하신 대로 정확히 다 했대. 바로 그날, 하나님이 이스라엘 백성들을 각 지파별로 이집트 땅에서 이끌어내셨음.

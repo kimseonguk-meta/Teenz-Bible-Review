@@ -1,0 +1,233 @@
+[
+ {
+  "chapter": 1,
+  "title": "The Real Influencers",
+  "paragraphs": [
+   "Hey, everyone in the church at Thessalonica! It's Paul, here with Silas and Timothy. This letter's for all you Christians brought together by God the Father and the Master, Jesus Christ. God's amazing grace and solid peace to you!",
+   "§Convictions of Steel",
+   "Every time we think of you guys, we thank God. Day and night you're in our prayers — we keep remembering your work of faith, your labor of love, and your patience of hope as you follow our Master, Jesus Christ, right in front of God our Father. It's clear to us, friends: God doesn't just love you like crazy — He's put His hand on you for something special. When we preached the Message to you, it wasn't just words. Something happened inside you. The Holy Spirit put steel in your convictions.",
+   "You paid close attention to how we lived when we were with you, and you decided to live the same way. By copying us, you were really copying the Master. Even though serious trouble came with the Word, you pulled massive joy from the Holy Spirit out of it — taking the trouble with the joy, and the joy with the trouble.",
+   "Do you know that believers all over Macedonia and Achaia look up to you? Word's gotten around. Your lives are echoing the Master's Word — not just in those provinces but all over the place. News of your faith in God is out. We don't even have to say anything anymore — you're the message! People come up and tell us how you welcomed us with open arms, how you ditched the dead idols of your old life to embrace and serve God, the true God. They marvel at how expectantly you're waiting for the arrival of His Son, who He raised from the dead — Jesus, who rescued us from certain doom."
+  ],
+  "verseRanges": [
+   "1",
+   "2-5",
+   "2-5",
+   "5-6",
+   "7-10"
+  ],
+  "msg_ranges": [
+   "1",
+   "2-5",
+   "5-6",
+   "7-10"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "5",
+    "paras": [
+     2,
+     3
+    ],
+    "note": "MSG 원문이 5절을 두 문단(2-5/5-6)에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+   }
+  ],
+  "changes": [
+   "1장: MSG 문단 구조 기준으로 배지 재구성. § 헤더를 MSG 본문('Convictions of Steel')으로 교체하고 MSG 위치(1절 인사말 뒤)로 이동.",
+   "배지 수정: P1 '1-2'→'1', P2 '2-3'→'2-5', P3 '6-7'→'5-6', P4 '8-10'→'7-10' (MSG 문단 구분에 맞춤).",
+   "복원: 'Day and night you're in our prayers'(밤낮 기도), 'before God our Father'(하나님 아버지 앞에서), 'believers look up to you / not only in the provinces but all over the place'(지방뿐 아니라 모든 곳), 'you're the message!'(너희 자체가 메시지), 'whom he raised from the dead'(죽은 자 가운데서 살리신), 'with open arms'(두 팔 벌려), 'embrace and serve God'(안고 섬김)."
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 2,
+  "title": "We're Legit, Not Fakes",
+  "paragraphs": [
+   "So, friends, it's obvious our visit to you was no waste of time. We'd just been roughed up in Philippi — you know that — but it didn't slow us down. We were sure of ourselves in God, so we went right ahead and said our piece, bringing God's Message to you even though people were against us.",
+   "§No Hidden Agendas",
+   "God tested us thoroughly to make sure we were qualified to be trusted with this Message. So be sure of this: when we talk to you, we're not chasing crowd approval — only God approval. We've been through His battery of tests, so you can count on it: both we and the Message are free of error, mixed motives, and hidden agendas. We never used words to butter you up — no one knows that better than you. And God knows we never used words as a smokescreen to take advantage of you.",
+   "Even though we had some standing as Christ's apostles, we never threw our weight around or tried to act important — not with you, not with anyone. We weren't standoffish with you; we took you just as you were. We were never patronizing, never condescending — we cared for you like a mother cares for her children. We loved you dearly. We didn't just want to pass on the Message; we wanted to give you our hearts. And we did.",
+   "You remember us back then, friends — working our fingers to the bone, up half the night, moonlighting so you wouldn't have to carry the burden of supporting us while we proclaimed God's Message to you. You saw with your own eyes how discreet and respectful we were among you, with real sensitivity to you as fellow believers. And God knows we weren't freeloaders! You experienced it all firsthand. With each of you we were like a father with his child — holding your hand, whispering encouragement, walking you step-by-step through how to live well before God, who called us into His own kingdom, into this delightful life.",
+   "And now we look back on all of this and thank God — a geyser of thanks! When you got the Message of God we preached, you didn't shrug it off as just one more human opinion. You took it to heart as God's true word to you — which it is — God Himself at work in you believers!",
+   "Friends, do you realize you followed in the exact footsteps of the churches of God in Judea — the first to follow in the footsteps of Jesus Christ? You got the same bad treatment from your countrymen as they got from theirs: the Jews, who killed the Master Jesus (not to mention the prophets) and then ran us out of town. They offend God and everyone else by trying to stop us from telling people who've never heard of our God how to be saved. They've made a career out of opposing God, and they've gotten really good at it. But God is fed up — He's ready to put an end to it.",
+   "Do you have any idea how homesick we got for you, dear friends? It hadn't even been that long, and it was only our bodies that were separated from you — not our hearts — but we tried our very best to get back and see you. You can't imagine how much we missed you! I, Paul, tried over and over, but Satan blocked us every time. When our Master Jesus appears, who do you think we'll be proud of if not you? You're our pride and joy!"
+  ],
+  "verseRanges": [
+   "1-2",
+   "3-5",
+   "3-5",
+   "6-8",
+   "9-12",
+   "13",
+   "14-16",
+   "17-20"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3-5",
+   "6-8",
+   "9-12",
+   "13",
+   "14-16",
+   "17-20"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "2장: MSG 문단 구조 기준으로 배지 재구성. § 헤더를 MSG 본문('No Hidden Agendas')으로 교체하고 MSG 위치(1-2 문단 뒤)로 이동.",
+   "배지 수정: P2 '3-6'→'3-5', P5 '13-14'→'13', P6 '14-16' 유지 (MSG 구분에 맞춤).",
+   "오역 수정: 'We had God's back' → 'We were sure of ourselves in God'(하나님 안에서 자신을 확신)로 정정.",
+   "복원: 'No one knows that better than you'(너희가 제일 잘 앎), 'holding your hand, whispering encouragement'(손 잡아 주고 속삭이듯 격려 — 기존 'fist bumps, hyping you up' 대체), 'the Jews'(유대인들), 'people who've never heard of our God'(하나님을 들어본 적 없는 사람들).",
+   "표현 순화: 'passed his vibe check', 'lit life' 같은 과한 슬랭 정리."
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 3,
+  "title": "We Miss You Guys, For Real",
+  "paragraphs": [
+   "When we couldn't stand being away from you any longer, and couldn't find any way to come visit you ourselves, we stayed in Athens and sent Timothy — to get you up and about, cheering you on so these hard times wouldn't discourage you. He's a brother and companion in the faith, God's man for spreading the Message, preaching Christ.",
+   "Don't let the troubles surprise you. You've always known we're in for this kind of thing — it's part of our calling. When we were with you, we made it clear there was trouble ahead, and now that it's happened, you know what it's like. That's why I couldn't stop worrying; I had to know for myself how your faith was holding up. I didn't want the Tempter getting to you and tearing down everything we built together.",
+   "But now Timothy's back with a terrific report on your faith and love, and we feel so much better. It's especially great to know you still think well of us, and that you want to see us as much as we want to see you! In the middle of our own trouble and hard times here, just knowing how you're doing keeps us going. Knowing your faith is alive keeps us alive.",
+   "What kind of thank-you could possibly be enough for all the joy we feel before God because of you? We do what we can — praying night and day, asking for the bonus of seeing your faces again, and doing what we can to help when your faith falters.",
+   "May God our Father Himself and our Master Jesus clear the road to you! And may the Master pour on the love until it fills your lives and splashes over onto everyone around you — just like it does from us to you. May you be filled with strength and purity, confident as you stand in the presence of God our Father when our Master Jesus arrives with all His followers."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3-5",
+   "6-8",
+   "9-10",
+   "11-13"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3-5",
+   "6-8",
+   "9-10",
+   "11-13"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "3장: MSG 문단 구조 기준으로 배지 재구성. MSG에 없는 § 헤더('Encouraged by Your Faith') 삭제 — MSG 3장에는 섹션 헤더가 없음.",
+   "배지 수정: P1 '1-3'→'1-2', P2 '3-4'→'3-5', P3 '6-9'→'6-8', P5 '12-13'→'11-13' (MSG 문단 구분에 맞춤).",
+   "복원: 'in the presence of God our Father'(하나님 우리 아버지 앞에 설) — 기존 EN/KO에서 누락."
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 4,
+  "title": "Level Up Your Life & The Ultimate Comeback",
+  "paragraphs": [
+   "§You're God-Taught",
+   "One final word, friends — and we don't just ask, we urge: keep doing what we told you to do to please God. Not some boring religious plod, but a living, spirited dance. You know the guidelines we laid out for you from the Master Jesus. God wants you to live a pure life — so stay away from sexual promiscuity.",
+   "Learn to appreciate your body and give it dignity — don't abuse it the way people who know nothing of God do.",
+   "Don't trample over your brothers' and sisters' concerns to get what you want. Their concerns are God's concerns, and He'll take care of them. We've warned you about this before. God hasn't invited us into a messy, grungy life — He's called us into something holy and beautiful, as beautiful on the inside as it is on the outside.",
+   "If you ignore this advice, you're not just offending people — you're rejecting God, who is giving you the gift of His Holy Spirit.",
+   "When it comes to getting along with each other, you don't need me to tell you what to do — you're God-taught in these matters. Just love one another! You're already good at it; your friends all over Macedonia prove it. Keep it up, and get better and better at it.",
+   "Stay calm; mind your own business; do your own job. You've heard all this from us before, but a reminder never hurts. We want you living in a way that earns the respect of outsiders — not lying around sponging off your friends.",
+   "§The Master's Coming",
+   "Now about the question that's come up — what happens to those already dead and buried? We don't want you in the dark about this any longer. First: don't grieve over them like people who have nothing to look forward to, as if the grave were the last word. Since Jesus died and broke loose from the grave, God will most certainly bring back to life those who died in Jesus.",
+   "And here's more — we can tell you with total confidence, because we have the Master's word on it: when the Master comes again to get us, those of us still alive won't jump ahead of the dead and leave them behind. In fact, they'll be ahead of us. The Master Himself will give the command — archangel thunder! God's trumpet blast! He'll come down from heaven and the dead in Christ will rise — they go first. Then the rest of us still alive will be caught up with them into the clouds to meet the Master. Oh, we'll be walking on air! And then one huge family reunion with the Master. So reassure each other with these words."
+  ],
+  "verseRanges": [
+   "1-3",
+   "1-3",
+   "4-5",
+   "6-7",
+   "8",
+   "9-10",
+   "11-12",
+   "13-14",
+   "13-14",
+   "15-18"
+  ],
+  "msg_ranges": [
+   "1-3",
+   "4-5",
+   "6-7",
+   "8",
+   "9-10",
+   "11-12",
+   "13-14",
+   "15-18"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "4장: MSG 문단 구조 기준으로 전면 재구성. MSG에 없는 § 헤더('God Called You to Be Holy') 삭제 — MSG 4장 헤더는 'You're God-Taught'와 'The Master's Coming' 2개뿐.",
+   "§ 헤더 2개를 MSG 본문 그대로('You're God-Taught', 'The Master's Coming') 사용하고 MSG 위치에 배치.",
+   "기존 EN이 MSG 4-5와 6-7을 하나의 문단(배지 '3-6')으로 합쳐 있던 것을 MSG 문단 구분에 맞춰 '4-5'와 '6-7' 2개 문단으로 분리 (merge 아님 — MSG 구조 복원).",
+   "배지 수정: P2 '3-6'→'4-5'/'6-7' 분리, P4 '7-8'→'8' (MSG 구분에 맞춤).",
+   "MSG에 없는 해석 삽입 삭제: 'Your body is a temple, not a trash can'(MSG에는 temple 비유 없음).",
+   "복원: 'Their concerns are God's concerns'(그들의 사정은 하나님의 관심사), 'holy and beautiful—as beautiful on the inside as the outside'(겉만큼 속까지 아름다운), 'we don't want you in the dark any longer'(어둠 속에 두지 않음)."
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 5,
+  "title": "The Ultimate Surprise Party",
+  "paragraphs": [
+   "I don't think I need to get into the question of when all this is going to happen, friends. You know as well as I do that the day of the Master's coming can't be posted on our calendars. He won't call ahead and make an appointment any more than a burglar would. Just when everybody's walking around feeling smug, congratulating each other — \"We've sure got it made! Now we can take it easy!\" — suddenly everything will fall apart. It's going to come as suddenly and inescapably as labor pains to a pregnant woman.",
+   "But friends, you're not in the dark, so how could any of this catch you off guard? You're sons of Light, daughters of Day. We live under wide open skies and we know where we stand. So let's not sleepwalk through life like those others — let's keep our eyes open and be smart. People sleep at night and get drunk at night, but not us! Since we're creatures of Day, let's act like it: walk out into the daylight sober, dressed up in faith, love, and the hope of salvation.",
+   "God didn't set us up for an angry rejection — He set us up for salvation through our Master, Jesus Christ. He died for us — a death that triggered life. Whether we're awake with the living or asleep with the dead, we're alive with Him! So speak encouraging words to one another. Build up hope so you'll all be together in this — no one left out, no one left behind. I know you're already doing this; just keep doing it.",
+   "§The Way He Wants You to Live",
+   "And now, friends, we ask you to honor those leaders who work so hard for you — the ones given the responsibility of urging and guiding you along in your obedience. Overwhelm them with appreciation and love!",
+   "Get along with each other, everyone doing their part. Here's our counsel: warn the freeloaders to get a move on. Gently encourage the stragglers, and reach out for the exhausted — pull them back to their feet. Be patient with each person, attentive to individual needs. And when you get on each other's nerves, be careful not to snap at each other. Look for the best in each other, and always do your best to bring it out.",
+   "Be cheerful no matter what; pray all the time; thank God no matter what happens. This is the way God wants you who belong to Christ Jesus to live.",
+   "Don't suppress the Spirit, and don't stifle those who have a word from the Master. On the other hand, don't be gullible. Check out everything, and keep only what's good. Throw out anything tainted with evil.",
+   "May God Himself, the God who makes everything holy and whole, make you holy and whole — put you together, spirit, soul, and body — and keep you fit for the coming of our Master, Jesus Christ. The One who called you is completely dependable. If He said it, He'll do it!",
+   "Friends, keep up your prayers for us. Greet all the followers of Jesus there with a holy embrace. And make sure this letter gets read out to all the brothers and sisters — don't leave anyone out.",
+   "The amazing grace of Jesus Christ be with you!"
+  ],
+  "verseRanges": [
+   "1-3",
+   "4-8",
+   "9-11",
+   "12-13",
+   "12-13",
+   "13-15",
+   "16-18",
+   "19-22",
+   "23-24",
+   "25-27",
+   "28"
+  ],
+  "msg_ranges": [
+   "1-3",
+   "4-8",
+   "9-11",
+   "12-13",
+   "13-15",
+   "16-18",
+   "19-22",
+   "23-24",
+   "25-27",
+   "28"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "13",
+    "paras": [
+     4,
+     5
+    ],
+    "note": "MSG 원문이 13절을 두 문단(12-13/13-15)에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+   }
+  ],
+  "changes": [
+   "5장: MSG 문단 구조 기준으로 전면 재구성. MSG에 없는 § 헤더('The Day of the Lord') 삭제. MSG 헤더('The Way He Wants You to Live')를 § 문단으로 복원하고 MSG 위치(9-11 뒤, 12-13 앞)에 배치.",
+   "배지 수정: P1 '1-5'→'1-3', P5 '14-15'→'13-15' (MSG 문단 구분에 맞춤).",
+   "복원: 'as suddenly and inescapably as birth pangs to a pregnant woman'(임산부의 진통 — 기존 'pop quiz' 대체는 MSG 이미지 훼손), 'sons of Light, daughters of Day'(빛의 아들들, 낮의 딸들), 'We live under wide open skies and know where we stand'(탁 트인 하늘 아래), 'People sleep at night and get drunk at night. But not us!'(밤/낮 대조), 'salvation'(구원 — 기존 'life-changing moment' 정정), 'a death that triggered life'(생명을 촉발시킨 죽음), 'no one left out, no one left behind'(빠짐·뒤처짐 없음), 'warn the freeloaders'(경고해서 움직이게), 'holy and whole'(거룩하고 온전하게), 'this letter gets read to all the brothers and sisters'(편지가 빠짐없이 읽힘).",
+   "표현 순화: 'the big guy'(하나님 지칭 슬랭) → 'the Master'로 정정."
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ }
+]

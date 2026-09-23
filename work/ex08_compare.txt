@@ -1,0 +1,152 @@
+# EXODUS 8 — Pharaoh's Frog & Gnat Problem is Next Level
+TEEN paras: 21 | badges: ['1-4', '5-6', '6', '7', '8', '9', '10', '10-11', '12-14', '15', '16', '17', '18', '19', '20-24', '24', '25', '26-27', '28', '29-31', '32']
+KO paras: 21 | badges: ['1-4', '5-6', '6', '7', '8', '9', '10', '10-11', '12-14', '15', '16', '17', '18', '19', '20-24', '24', '25', '26-27', '28', '29-31', '32']
+MSG sections: 20 | ranges: ['1-4', '5', '6', '7', '8', '9', '10-11', '12-14', '15', '16', '17', '18', '19', '20-23', '24', '25', '26-27', '28', '29', '30-32']
+
+--- MSG [1-4] ---
+God said to Moses, “Go to Pharaoh and tell him, ‘God’s Message: Release my people so they can worship me. If you refuse to release them, I’m warning you, I’ll hit the whole country with frogs. The Nile will swarm with frogs—they’ll come up into your houses, into your bedrooms and into your beds, into your servants’ quarters, among the people, into your ovens and pots and pans. They’ll be all over you, all over everyone—frogs everywhere, on and in everything!’”
+
+>>> TEEN:
+  [p0 badge=1-4] God told Moses, "Go hit up Pharaoh and tell him, 'God's message is this: Let my people go so they can worship me. If you refuse, I'm warning you, I'm about to drop a plague of frogs on the whole country. The Nile will be swarming with them—they'll get into your house, your bedroom, your bed, your staff's rooms, all over your people, even in your ovens and cooking pots. They'll be all over you, all over everyone—frogs literally everywhere, on and in everything. No cap.'"
+  [KO p0] 하나님이 모세한테 말했대. "파라오한테 가서 전해. '하나님 메시지인데, 내 백성 좀 보내줘라, 예배해야 하니까. 만약 안 보내주면, 경고하는데, 온 나라를 개구리로 덮어버릴 거임. 나일강이 개구리로 들끓을 거고, 걔네가 니네 집, 침실, 침대, 신하들 숙소, 백성들 사이, 심지어 오븐이랑 냄비 속까지 다 들어갈 거다. 너랑 모든 사람들한테 다 개구리가 들러붙을 거임. 진짜 모든 곳에, 모든 것 안에 개구리 천지가 될 거라고!'"
+
+--- MSG [5] ---
+God said to Moses, “Tell Aaron, ‘Wave your staff over the rivers and canals and ponds. Bring up frogs on the land of Egypt.’”
+
+>>> TEEN:
+  [p1 badge=5-6] God then said to Moses, "Tell Aaron, 'Wave your staff over the rivers, canals, and ponds. Bring up frogs all over the land of Egypt.'"
+  [KO p1] 하나님이 모세한테 말했대. "아론한테 '네 지팡이를 강이랑 운하랑 연못 위로 흔들어서 이집트 땅에 개구리 떼를 불러와라'고 전해."
+
+--- MSG [6] ---
+Aaron stretched his staff over the waters of Egypt and a mob of frogs came up and covered the country.
+
+>>> TEEN:
+  [p1 badge=5-6] God then said to Moses, "Tell Aaron, 'Wave your staff over the rivers, canals, and ponds. Bring up frogs all over the land of Egypt.'"
+  [KO p1] 하나님이 모세한테 말했대. "아론한테 '네 지팡이를 강이랑 운하랑 연못 위로 흔들어서 이집트 땅에 개구리 떼를 불러와라'고 전해."
+  [p2 badge=6] So Aaron stretched his staff over all the water in Egypt, and a whole mob of frogs came up and covered the country.
+  [KO p2] 아론이 이집트 물 위로 지팡이를 쫙 뻗으니까, 진짜 개구리 떼가 몰려나와서 온 나라를 덮어버렸대.
+
+--- MSG [7] ---
+But again the magicians did the same thing using their incantations—they also produced frogs in Egypt.
+
+>>> TEEN:
+  [p3 badge=7] But then the magicians did the same thing with their secret arts—they also made frogs appear in Egypt.
+  [KO p3] 근데 또 마술사들이 자기들 마술로 똑같은 짓을 하는 거임. 걔네도 이집트에 개구리를 만들어냈대.
+
+--- MSG [8] ---
+Pharaoh called in Moses and Aaron and said, “Pray to God to rid us of these frogs. I’ll release the people so that they can make their sacrifices and worship God.”
+
+>>> TEEN:
+  [p4 badge=8] Pharaoh called Moses and Aaron and was like, "Yo, pray to your God to get rid of these frogs. I'll let the people go so they can do their sacrifices and worship God."
+  [KO p4] 파라오가 모세랑 아론을 불러서 말했어. "하나님한테 기도해서 이 개구리들 좀 없애달라고 해줘. 그럼 내가 백성들 보내서 제사 지내고 예배하게 해줄게."
+
+--- MSG [9] ---
+Moses said to Pharaoh, “Certainly. Set the time. When do you want the frogs out of here, away from your servants and people and out of your houses? You’ll be rid of frogs except for those in the Nile.”
+
+>>> TEEN:
+  [p5 badge=9] Moses said to Pharaoh, "Bet. You name the time. When do you want the frogs gone from you, your servants, your people, and your houses? They'll be gone, except for the ones in the Nile."
+  [KO p5] 모세가 파라오한테 말했지. "알겠어요. 시간 정하셈. 언제 개구리들이 폐하랑, 신하들이랑, 백성들이랑, 집에서 사라지게 해드릴까여? 나일강에 있는 놈들 빼고 싹 다 없어질 거임."
+
+--- MSG [10-11] ---
+“Make it tomorrow.” Moses said, “Tomorrow it is—so you’ll realize that there is no God like our God. The frogs will be gone. You and your houses and your servants and your people, free of frogs. The only frogs left will be the ones in the Nile.”
+
+>>> TEEN:
+  [p6 badge=10] "Make it tomorrow."
+  [KO p6] "내일 당장."
+  [p7 badge=10-11] Moses said, "Tomorrow it is. This is so you'll know there's no one like our God. The frogs will be gone. You, your houses, your servants, and your people will be frog-free. The only ones left will be in the Nile."
+  [KO p7] 모세가 말했어. "콜. 내일 바로 해드림. 그래야 우리 하나님 같은 신이 없다는 걸 깨달으실 거 아님? 개구리들 다 사라질 거임. 폐하랑, 집이랑, 신하들이랑, 백성들 모두 개구리한테서 해방될 거고, 나일강에 있는 놈들만 남을 거임."
+
+--- MSG [12-14] ---
+Moses and Aaron left Pharaoh, and Moses prayed to God about the frogs he had brought on Pharaoh. God responded to Moses’ prayer: The frogs died off—houses, courtyards, fields, all free of frogs. They piled the frogs in heaps. The country reeked of dead frogs.
+
+>>> TEEN:
+  [p8 badge=12-14] Moses and Aaron bounced from Pharaoh's place, and Moses prayed to God about the frog situation he'd brought on Pharaoh. God came through on Moses' prayer: the frogs died off—in the houses, courtyards, fields, all gone. They piled them up in huge heaps, and the whole country smelled like dead frogs. It was nasty.
+  [KO p8] 모세랑 아론이 파라오한테서 떠나고, 모세는 파라오한테 보냈던 개구리 문제에 대해 하나님께 기도했대. 하나님이 모세 기도에 응답해서, 개구리들이 싹 다 죽어버린 거임. 집, 마당, 들판, 개구리 한 마리도 없이 깨끗해졌어. 사람들이 개구리 시체를 산더미처럼 쌓아 올렸는데, 온 나라에 죽은 개구리 냄새가 진동했대. 진짜 역겨웠지.
+
+--- MSG [15] ---
+But when Pharaoh saw that he had some breathing room, he got stubborn again and wouldn’t listen to Moses and Aaron. Just as God had said.
+
+>>> TEEN:
+  [p9 badge=15] But when Pharaoh saw he had some breathing room, he got stubborn again and wouldn't listen to Moses and Aaron. Just like God said would happen.
+  [KO p9] 근데 파라오가 좀 살만해지니까, 다시 고집부리면서 모세랑 아론 말을 안 듣는 거임. 딱 하나님이 말한 대로였지.
+
+--- MSG [16] ---
+God said to Moses, “Tell Aaron, ‘Take your staff and strike the dust. The dust will turn into gnats all over Egypt.’”
+
+>>> TEEN:
+  [p10 badge=16] God told Moses, "Tell Aaron, 'Take your staff and smack the dust. It's gonna turn into gnats all over Egypt.'"
+  [KO p10] 하나님이 모세한테 말했대. "아론한테 '네 지팡이를 잡고 땅의 먼지를 쳐라. 그럼 그 먼지가 온 이집트 땅에서 각다귀로 변할 것이다'라고 전해."
+
+--- MSG [17] ---
+He did it. Aaron grabbed his staff and struck the dust of the Earth; it turned into gnats, gnats all over people and animals. All the dust of the Earth turned into gnats, gnats everywhere in Egypt.
+
+>>> TEEN:
+  [p11 badge=17] And he did it. Aaron grabbed his staff, hit the dust, and it turned into gnats that were all over people and animals. All the dust in the whole country turned into gnats. Gnats were everywhere in Egypt.
+  [KO p11] 그가 그대로 했어. 아론이 지팡이를 잡고 땅의 먼지를 치니까, 그게 각다귀로 변해서 사람들이랑 동물들한테 다 들러붙는 거임. 온 이집트 땅의 먼지가 다 각다귀로 변해서, 사방에 각다귀 천지였대.
+
+--- MSG [18] ---
+The magicians tried to produce gnats with their spells but this time they couldn’t do it. There were gnats everywhere, all over people and animals.
+
+>>> TEEN:
+  [p12 badge=18] The magicians tried to do the same thing with their spells, but this time they couldn't pull it off. There were just gnats everywhere, on people and animals.
+  [KO p12] 마술사들이 자기들 주문으로 각다귀를 만들어보려고 했는데 이번엔 안 되는 거임. 그냥 사방에 각다귀가 사람이고 동물이고 할 거 없이 다 뒤덮고 있었어.
+
+--- MSG [19] ---
+The magicians said to Pharaoh, “This is God’s doing.” But Pharaoh was stubborn and wouldn’t listen. Just as God had said.
+
+>>> TEEN:
+  [p13 badge=19] The magicians told Pharaoh, "This is God's doing. This is legit." But Pharaoh was being stubborn and wouldn't listen. Just like God said.
+  [KO p13] 마술사들이 파라오한테 말했지. "이건 하나님의 손길입니다. 이건 찐입니다." 근데 파라오는 고집불통이라 듣지도 않았대. 딱 하나님이 말한 대로.
+
+--- MSG [20-23] ---
+God said to Moses, “Get up early in the morning and confront Pharaoh as he goes down to the water. Tell him, ‘God’s Message: Release my people so they can worship me. If you don’t release my people, I’ll release swarms of flies on you, your servants, your people, and your homes. The houses of the Egyptians and even the ground under their feet will be thick with flies. But when it happens, I’ll set Goshen where my people live aside as a sanctuary—no flies in Goshen. That will show you that I am God in this land. I’ll make a sharp distinction between your people and mine. This sign will occur tomorrow.’”
+
+>>> TEEN:
+  [p14 badge=20-24] God told Moses, "Get up early and go meet Pharaoh when he goes down to the water. Tell him, 'God's message is: Let my people go so they can worship me. If you don't, I'm gonna unleash swarms of flies on you, your servants, your people, and your homes. The houses of the Egyptians and even the ground they walk on will be thick with flies. But I'll make Goshen, where my people live, a safe zone—no flies there. That'll show you that I am God, right here in this land. I'll make a clear difference between your people and mine. This sign will happen tomorrow.'"
+  [KO p14] 하나님이 모세한테 말했대. "아침에 일찍 일어나서 파라오가 물가로 내려갈 때 딱 마주쳐서 전해. '하나님 메시지다. 내 백성을 보내서 나를 예배하게 하라. 만약 내 백성을 보내지 않으면, 내가 너랑 네 신하들, 네 백성들, 그리고 너네 집들에 파리 떼를 보낼 것이다. 이집트 사람들 집이랑 걔네가 밟는 땅까지 파리로 뒤덮일 거다. 근데 그 일이 일어날 때, 내 백성이 사는 고센 땅은 내가 따로 보호 구역으로 만들어서, 거기엔 파리가 한 마리도 없을 거다. 그걸 보고 내가 이 땅의 하나님인 줄 알게 될 거다. 내가 네 백성이랑 내 백성을 확실히 구분할 거임. 이 표적은 내일 일어날 거다.'"
+
+--- MSG [24] ---
+And God did just that. Thick swarms of flies in Pharaoh’s palace and the houses of his servants. All over Egypt, the country ruined by flies.
+
+>>> TEEN:
+  [p14 badge=20-24] God told Moses, "Get up early and go meet Pharaoh when he goes down to the water. Tell him, 'God's message is: Let my people go so they can worship me. If you don't, I'm gonna unleash swarms of flies on you, your servants, your people, and your homes. The houses of the Egyptians and even the ground they walk on will be thick with flies. But I'll make Goshen, where my people live, a safe zone—no flies there. That'll show you that I am God, right here in this land. I'll make a clear difference between your people and mine. This sign will happen tomorrow.'"
+  [KO p14] 하나님이 모세한테 말했대. "아침에 일찍 일어나서 파라오가 물가로 내려갈 때 딱 마주쳐서 전해. '하나님 메시지다. 내 백성을 보내서 나를 예배하게 하라. 만약 내 백성을 보내지 않으면, 내가 너랑 네 신하들, 네 백성들, 그리고 너네 집들에 파리 떼를 보낼 것이다. 이집트 사람들 집이랑 걔네가 밟는 땅까지 파리로 뒤덮일 거다. 근데 그 일이 일어날 때, 내 백성이 사는 고센 땅은 내가 따로 보호 구역으로 만들어서, 거기엔 파리가 한 마리도 없을 거다. 그걸 보고 내가 이 땅의 하나님인 줄 알게 될 거다. 내가 네 백성이랑 내 백성을 확실히 구분할 거임. 이 표적은 내일 일어날 거다.'"
+  [p15 badge=24] And God did exactly that. Thick swarms of flies filled Pharaoh's palace and his servants' houses. The whole country of Egypt was ruined by all the flies.
+  [KO p15] 그리고 하나님은 진짜 그대로 했어. 파라오 궁전이랑 신하들 집에 파리 떼가 새까맣게 몰려들었대. 온 이집트가 파리 때문에 망가질 지경이었어.
+
+--- MSG [25] ---
+Pharaoh called in Moses and Aaron and said, “Go ahead. Sacrifice to your God—but do it here in this country.”
+
+>>> TEEN:
+  [p16 badge=25] Pharaoh called Moses and Aaron in and said, "Fine, go ahead. Sacrifice to your God—but do it here in this country."
+  [KO p16] 파라오가 모세랑 아론을 불러서 말했지. "알겠다. 가서 너네 하나님한테 제사 지내라. 근데 여기서, 이 나라 안에서 해."
+
+--- MSG [26-27] ---
+Moses said, “That would not be wise. What we sacrifice to our God would give great offense to Egyptians. If we openly sacrifice what is so deeply offensive to Egyptians, they’ll kill us. Let us go three days’ journey into the wilderness and sacrifice to our God, just as he instructed us.”
+
+>>> TEEN:
+  [p17 badge=26-27] Moses was like, "That's not a good idea. The sacrifices we make to our God would seriously offend the Egyptians. If we do something they find that offensive right in front of them, they'll literally kill us. Let us go on a three-day trip into the wilderness to sacrifice to our God, just like he told us to."
+  [KO p17] 모세가 말했어. "그건 좀 아닌 듯요. 우리가 우리 하나님한테 바치는 제물은 이집트 사람들이 진짜 싫어하는 거임. 만약 우리가 이집트 사람들이 극혐하는 걸 대놓고 제물로 바치면, 걔네가 우리 죽일걸요? 그냥 우리더러 광야로 3일 길을 가게 해서, 거기서 우리 하나님께 제사 드리게 해주셈. 하나님이 시킨 대로요."
+
+--- MSG [28] ---
+Pharaoh said, “All right. I’ll release you to go and sacrifice to your God in the wilderness. Only don’t go too far. Now pray for me.”
+
+>>> TEEN:
+  [p18 badge=28] Pharaoh said, "Alright, fine. I'll let you go sacrifice to your God in the wilderness. Just don't go too far. Now, pray for me."
+  [KO p18] 파라오가 말했어. "좋아. 너네가 광야에 가서 너네 하나님께 제사 드리는 거 허락해줄게. 근데 너무 멀리 가지는 마라. 자, 이제 날 위해 기도 좀 해줘."
+
+--- MSG [29] ---
+Moses said, “As soon as I leave here, I will pray to God that tomorrow the flies will leave Pharaoh, his servants, and his people. But don’t play games with us and change your mind about releasing us to sacrifice to God.”
+
+>>> TEEN:
+  [p19 badge=29-31] Moses replied, "As soon as I leave, I'll pray to God that the flies will leave you, your servants, and your people by tomorrow. But don't play games with us again and change your mind about letting us go sacrifice to God."
+  [KO p19] 모세가 대답했지. "여기서 나가자마자 하나님께 기도해서 내일 파리 떼가 폐하랑, 신하들이랑, 백성들한테서 떠나게 해달라고 할게요. 근데 또 장난치지 마셈. 우리 보내서 하나님께 제사 드리는 거 또 맘 바꾸고 그러면 안 됨."
+
+--- MSG [30-32] ---
+Moses left Pharaoh and prayed to God. God did what Moses asked. He got rid of the flies from Pharaoh and his servants and his people. There wasn’t a fly left. But Pharaoh became stubborn once again and wouldn’t release the people.
+
+>>> TEEN:
+  [p19 badge=29-31] Moses replied, "As soon as I leave, I'll pray to God that the flies will leave you, your servants, and your people by tomorrow. But don't play games with us again and change your mind about letting us go sacrifice to God."
+  [KO p19] 모세가 대답했지. "여기서 나가자마자 하나님께 기도해서 내일 파리 떼가 폐하랑, 신하들이랑, 백성들한테서 떠나게 해달라고 할게요. 근데 또 장난치지 마셈. 우리 보내서 하나님께 제사 드리는 거 또 맘 바꾸고 그러면 안 됨."
+  [p20 badge=32] Moses left Pharaoh and prayed to God. And God did what Moses asked. He got rid of all the flies from Pharaoh, his servants, and his people. Not a single fly was left. But Pharaoh got stubborn again and wouldn't let the people go.
+  [KO p20] 모세는 파라오를 떠나 하나님께 기도했어. 하나님은 모세가 부탁한 대로 해줬지. 파라오와 그의 신하들, 그리고 그의 백성들에게서 파리를 싹 다 없애주셨어. 파리 한 마리도 안 남았대. 근데 파라오는 또다시 고집을 부리면서 백성을 보내주지 않았어.

@@ -1,0 +1,39 @@
+[
+ {
+  "chapter": 1,
+  "title": "Edom's Ultimate Downfall: A Prophecy",
+  "paragraphs": [
+   "§Your World Will Collapse",
+   "So, here's the deal with Edom, straight from God. A messenger went to the nations that don't follow God with this message:",
+   "'Get up and get ready to fight Edom!'",
+   "God's telling Edom, 'Listen, I'm about to make you irrelevant, the most looked-down-on nation. You think you're all that, living up in the mountains, thinking no one can touch you. But you're wrong. Even if you hung out on a high cliff like an eagle, even if you built your nest in the stars, I'd bring you down.' And that's a promise from God.",
+   "'If thieves came, they'd take everything, right? Well, Esau's going to be completely wrecked. Your allies will turn on you, your friends will betray you, and your world will fall apart. You won't see it coming. So don't be shocked when I get rid of all the wise and powerful people in Edom. Your heroes will abandon you, and no one will be left in your mountains. This is all because of how you treated your brother, Jacob. You'll be disgraced and forgotten. When foreigners attacked Jerusalem and took your brother's people, you just stood there and watched. You were just as bad as them. You shouldn't have celebrated their suffering or taken advantage of them when they were at their lowest. You shouldn't have blocked their escape or handed over the survivors.'",
+   "'God's day of judgment is coming for all nations. What you've done will be done to you. It's coming back to hit you. Just like you partied on my holy mountain, all the other nations will face God's anger. They'll be completely destroyed. But on Mount Zion, there will be safety. Jacob's family will get back everything that was taken from them. They'll be like a fire, and Esau's family will be like straw, completely burned up.' God has spoken.",
+   "Then, people from the south will take over Edom's mountains, and people from the foothills will take over the Philistine's land. They'll reclaim the lands of Ephraim and Samaria, and Benjamin will take Gilead. The exiled Israelites will return and take over the land of Canaan, all the way to Zarephath. And the Jerusalem exiles from the far northwest in Sepharad will come back and take over the cities in the south. The survivors on Mount Zion will rule over the mountains of Esau, and it will be a kingdom that honors God."
+  ],
+  "verseRanges": [
+   "1",
+   "1",
+   "1",
+   "2-4",
+   "5-14",
+   "15-18",
+   "19-21"
+  ],
+  "splits": [
+   {
+    "msg_range": "1",
+    "paras": [
+     1,
+     2
+    ]
+   }
+  ],
+  "changes": [
+   "Ch1: added missing MSG § header 'Your World Will Collapse' (before v1)",
+   "Ch1: split MSG v1 into two paras to match KO structure (EN/KO parity, principle 4)",
+   "Ch1: restored MSG 2-4 'even if you built your nest in the stars' (KO already had it; EN was missing it)",
+   "Ch1: restored MSG 19-21 'Jerusalem exiles from the far northwest in Sepharad' (KO already had it; EN was missing it)"
+  ]
+ }
+]

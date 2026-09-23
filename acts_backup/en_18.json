@@ -1,0 +1,83 @@
+{
+  "changes": [
+    "Ch18: § headers fixed to MSG's real headers (Corinth; Ephesus) — removed fabricated 'Paul in Corinth', 'Paul Before Gallio', 'Back to Antioch'",
+    "Ch18: split merged 7-11 (→7-8, 8-11), 12-14/15-17 (→12-13, 14-16, 17), 18-19 (→18, 19-21), 22-23 (→21-22, 23), 24-28 (→24-26, 27-28)",
+    "Ch18: badges corrected to MSG ranges (12-13, 14-16, 17, 18, 21-22, 23, 24-26, 27-28)",
+    "Ch18: declared splits for MSG's own overlaps (v8 in 7-8/8-11; v21 in 19-21/21-22)",
+    "Ch18: restored Paul's 'You've made your bed; now lie in it', Gallio's full speech, Sosthenes beating 'in plain sight of the court', Apollos' full description; moderated slang (bounced, total hater, hyped, Nah, fired up)",
+    "Ch18: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved"
+  ],
+  "chapter": 18,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-4",
+    "1-4",
+    "5-6",
+    "7-8",
+    "8-11",
+    "12-13",
+    "14-16",
+    "17",
+    "18",
+    "18",
+    "19-21",
+    "21-22",
+    "23",
+    "24-26",
+    "27-28"
+  ],
+  "paragraphs": [
+    "§Corinth",
+    "After Athens, Paul went to Corinth. There he met Aquila — a Jew born in Pontus — and his wife Priscilla. They'd just arrived from Italy, part of the mass expulsion of Jews from Rome ordered by Claudius. Paul moved in with them, and they worked together making tents — that was their shared trade. But every Sabbath, Paul was at the synagogue, doing his best to convince both Jews and Greeks about Jesus.",
+    "When Silas and Timothy arrived from Macedonia, Paul could devote all his time to preaching and teaching — throwing everything he had into persuading the Jews that Jesus really was God's Messiah. But no luck. All they did was argue and contradict him at every turn. Completely fed up, Paul finally washed his hands of them. \"Fine, have it your way,\" he said. \"You've made your choice; now live with it. From now on I'm spending my time with the other nations.\"",
+    "He walked out and went to the house of Titius Justus, a God-fearing man who lived right next door to the synagogue. But Paul's work among the Jews wasn't a total loss — Crispus, the synagogue leader, put his trust in the Master, and his whole family believed along with him.",
+    "As they listened to Paul, a great many Corinthians believed and were baptized. One night the Master spoke to Paul in a vision: \"Keep going, and don't let anyone scare you or shut you up. No matter what happens, I'm with you, and no one will be able to harm you. You have no idea how many people I have on my side in this city.\" That was all Paul needed to stay. He remained another eighteen months, faithfully teaching God's Word to the Corinthians.",
+    "Then Gallio became governor of Achaia, and the Jews launched a campaign against Paul. They dragged him into court and charged him: \"This man is convincing people to worship God in ways that break the law.\"",
+    "Just as Paul was about to speak in his own defense, Gallio cut in and said to the Jews, \"If this were a real crime, I'd gladly hear your case. But this sounds like another Jewish squabble to me — one more of your endless nitpicky arguments about religion. Sort it out yourselves. I'm not wasting my time on this.\" And he threw them out of the courtroom.",
+    "Then the mob turned on Sosthenes, the new synagogue leader, and beat him up right in front of the court. Gallio didn't lift a finger. He couldn't have cared less.",
+    "§Ephesus",
+    "Paul stayed a while longer in Corinth, but eventually it was time to say goodbye to his friends. He sailed for Syria, with Priscilla and Aquila. Before boarding the ship at Cenchrea, he had his head shaved as part of a vow he'd made.",
+    "They landed at Ephesus, where Priscilla and Aquila got off and stayed. Paul went ashore briefly to preach to the Jews in the synagogue. They wanted him to stay longer, but he couldn't. As he said goodbye, he promised, \"I'll be back, God willing.\"",
+    "From Ephesus he sailed to Caesarea. He greeted the church there, then went on to Antioch, wrapping up the journey.",
+    "After spending a good while with the Christians in Antioch, Paul set out again through Galatia and Phrygia, retracing his old route — town after town, encouraging the disciples and giving them fresh heart.",
+    "A man named Apollos arrived in Ephesus. He was a Jew from Alexandria, Egypt — a brilliant speaker, eloquent and powerful when he preached the Scriptures. He knew the way of the Master well and was on fire with enthusiasm. Everything he taught about Jesus was accurate as far as it went — but he only knew up to John's baptism. He preached boldly in the synagogue. When Priscilla and Aquila heard him, they took him aside and filled in the rest of the story.",
+    "When Apollos decided to go on to Achaia, his friends in Ephesus blessed the plan and wrote a letter of introduction, urging the disciples there to welcome him warmly. It paid off: Apollos was a huge help to the believers there, who'd come to faith through God's incredible grace. He was especially effective debating the Jews in public, laying out proof after proof from the Scriptures that Jesus really was God's Messiah."
+  ],
+  "splits": [
+    {
+      "msg_range": "21",
+      "note": "MSG's own overlap: v21 closes MSG para 19-21 and opens MSG para 21-22; badges follow MSG paragraph boundaries",
+      "paras": [
+        10,
+        11
+      ]
+    },
+    {
+      "msg_range": "8",
+      "note": "MSG's own overlap: v8 closes MSG para 7-8 and opens MSG para 8-11; badges follow MSG paragraph boundaries",
+      "paras": [
+        3,
+        4
+      ]
+    }
+  ],
+  "title": "Corinth: A New Team and a Nighttime Promise",
+  "verseRanges": [
+    "1-4",
+    "1-4",
+    "5-6",
+    "7-8",
+    "8-11",
+    "12-13",
+    "14-16",
+    "17",
+    "18",
+    "18",
+    "19-21",
+    "21-22",
+    "23",
+    "24-26",
+    "27-28"
+  ]
+}

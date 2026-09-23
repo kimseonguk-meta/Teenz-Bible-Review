@@ -1,0 +1,111 @@
+# EXODUS 20 — God Drops the Top 10 Rules
+TEEN paras: 15 | badges: ['1', '2-3', '4-6', '7', '8-11', '12', '13', '14', '15', '16', '17', '18-19', '20', '21', '22-26']
+KO paras: 15 | badges: ['1', '2-3', '4-6', '7', '8-12', '13', '14', '15', '16', '17', '18-19', '20-22', '23', '24', '25-26']
+MSG sections: 15 | ranges: ['1-2', '3', '4-6', '7', '8-11', '12', '13', '14', '15', '16', '17', '18-19', '20', '21', '22-26']
+
+--- MSG [1-2] ---
+God spoke all these words: I am God, your God,  who brought you out of the land of Egypt,  out of a life of slavery.
+
+>>> TEEN:
+  [p0 badge=1] God dropped all these rules on them:
+  [KO p0] 하나님이 이 모든 말씀을 하셨대.
+  [p1 badge=2-3] Yo, I'm God, your God. The one who got you out of Egypt, where you were living like slaves. So for real, no other gods. Just me.
+  [KO p1] 나는 너의 하나님, 여호와야. 내가 너희를 이집트 땅, 노예살이하던 곳에서 데리고 나왔어. 그러니까 다른 신은 절대 안 돼. 나만.
+
+--- MSG [3] ---
+No other gods, only me.
+
+>>> TEEN:
+  [p1 badge=2-3] Yo, I'm God, your God. The one who got you out of Egypt, where you were living like slaves. So for real, no other gods. Just me.
+  [KO p1] 나는 너의 하나님, 여호와야. 내가 너희를 이집트 땅, 노예살이하던 곳에서 데리고 나왔어. 그러니까 다른 신은 절대 안 돼. 나만.
+
+--- MSG [4-6] ---
+No carved gods of any size, shape, or form of anything whatever, whether of things that fly or walk or swim. Don’t bow down to them and don’t serve them because *I* am God, your God, and I’m a most jealous God, punishing the children for any sins their parents pass on to them to the third, and yes, even to the fourth generation of those who hate me. But I’m unswervingly loyal to the thousands who love me and keep my commandments.
+
+>>> TEEN:
+  [p2 badge=4-6] Don't make any statues or idols of anything—not birds, not animals, not fish, whatever. Don't bow down to them or serve them, because I'm your God, and I'm lowkey a jealous God. I'll hold kids accountable for the sins their parents pass down, even to the third or fourth generation of those who hate me. But for the thousands who love me and keep my commands, I'm loyal forever, no cap.
+  [KO p2] 하늘에 있든, 땅에 있든, 물속에 있든, 어떤 모양으로도 우상을 만들지 마. 절하거나 섬기지도 말고. 왜냐면 나는 너의 하나님, 여호와고, 질투가 진짜 대단한 하나님이거든. 나를 미워하는 애들은 아빠 죄를 아들한테, 3대, 4대까지 벌을 내릴 거임. 근데 나를 사랑하고 내 계명을 지키는 수천 대에는 은혜를 베풀어. 진짜.
+
+--- MSG [7] ---
+No using the name of God, your God, in curses or silly banter; God won’t put up with the irreverent use of his name.
+
+>>> TEEN:
+  [p3 badge=7] Don't use my name, the name of God your God, as a curse or in some dumb joke. God's not gonna let it slide if you're disrespectful with his name.
+  [KO p3] 너의 하나님, 여호와의 이름을 막 쓰지 마. 하나님은 자기 이름을 함부로 부르는 걸 용서 안 하신대.
+
+--- MSG [8-11] ---
+Observe the Sabbath day, to keep it holy. Work six days and do everything you need to do. But the seventh day is a Sabbath to God, your God. Don’t do any work—not you, nor your son, nor your daughter, nor your servant, nor your maid, nor your animals, not even the foreign guest visiting in your town. For in six days God made Heaven, Earth, and sea, and everything in them; he rested on the seventh day. Therefore God blessed the Sabbath day; he set it apart as a holy day.
+
+>>> TEEN:
+  [p4 badge=8-11] Make sure you keep the Sabbath day holy. You get six days to do all your work. But the seventh day is a Sabbath for me, your God. Nobody does any work—not you, your son, your daughter, your male or female servants, your animals, or even any foreigners staying with you. Because in six days I made the heavens, the earth, the sea, and everything in them, and then I rested on the seventh day. That's why I blessed the Sabbath day and set it apart as holy.
+  [KO p4] 안식일을 기억해서 거룩하게 지켜. 6일 동안은 네 할 일 다 하고. 근데 7일째는 너의 하나님, 여호와를 위한 안식일이야. 너나, 네 아들딸, 남종 여종, 가축, 심지어 너희 동네에 사는 외국인까지 아무도 일하면 안 돼. 왜냐면 하나님이 6일 동안 하늘이랑 땅이랑 바다랑 그 안의 모든 걸 만들고 7일째에 쉬셨거든. 그래서 하나님이 안식일을 복 주고 거룩하게 하셨대.
+
+--- MSG [12] ---
+Honor your father and mother so that you’ll live a long time in the land that God, your God, is giving you.
+
+>>> TEEN:
+  [p5 badge=12] Respect your father and mother so you can live a long time in the land that I, your God, am giving you.
+  [KO p5] 네 부모님을 공경해. 그래야 너의 하나님, 여호와가 너한테 주는 땅에서 오래오래 살 수 있어.
+
+--- MSG [13] ---
+No murder.
+
+>>> TEEN:
+  [p6 badge=13] Don't murder.
+  [KO p6] 살인하지 마.
+
+--- MSG [14] ---
+No adultery.
+
+>>> TEEN:
+  [p7 badge=14] Don't commit adultery.
+  [KO p7] 간음하지 마.
+
+--- MSG [15] ---
+No stealing.
+
+>>> TEEN:
+  [p8 badge=15] Don't steal.
+  [KO p8] 도둑질하지 마.
+
+--- MSG [16] ---
+No lies about your neighbor.
+
+>>> TEEN:
+  [p9 badge=16] Don't lie about your neighbor.
+  [KO p9] 네 이웃에 대해 거짓말하지 마.
+
+--- MSG [17] ---
+No lusting after your neighbor’s house—or wife or servant or maid or ox or donkey. Don’t set your heart on anything that is your neighbor’s.
+
+>>> TEEN:
+  [p10 badge=17] Don't be all jealous of your neighbor's house—or their spouse, or their workers, or their animals. Don't get fixated on anything that belongs to your neighbor.
+  [KO p10] 네 이웃의 집을 탐내지 마. 아내나 남종, 여종, 소나 나귀, 뭐든 네 이웃 거는 탐내면 안 돼.
+
+--- MSG [18-19] ---
+All the people, experiencing the thunder and lightning, the trumpet blast and the smoking mountain, were afraid—they pulled back and stood at a distance. They said to Moses, “You speak to us and we’ll listen, but don’t have God speak to us or we’ll die.”
+
+>>> TEEN:
+  [p11 badge=18-19] All the people saw the thunder and lightning, heard the trumpet, and saw the mountain smoking. It was wild. They were scared, so they backed up and stood far away. They told Moses, "You talk to us and we'll listen, but don't have God talk to us or we'll literally die."
+  [KO p11] 백성들이 천둥이랑 번개, 나팔 소리, 연기 나는 산을 보고 다 무서워서 벌벌 떨면서 멀리 떨어져 섰대. 그러고는 모세한테 말했어. "아저씨가 우리한테 말하면 우리가 들을게요. 근데 하나님이 직접 말하게는 하지 마세요. 우리 죽을 것 같아요."
+
+--- MSG [20] ---
+Moses spoke to the people: “Don’t be afraid. God has come to test you and instill a deep and reverent awe within you so that you won’t sin.”
+
+>>> TEEN:
+  [p12 badge=20] Moses told the people, "Don't be afraid. God came to test you and make you have a deep respect for him so you won't sin."
+  [KO p12] 모세가 백성들한테 말했어. "두려워하지 마. 하나님이 너희를 시험하고, 너희 마음속에 하나님을 향한 진짜 존경심을 심어서 죄짓지 않게 하려고 오신 거야."
+
+--- MSG [21] ---
+The people kept their distance while Moses approached the thick cloud where God was.
+
+>>> TEEN:
+  [p13 badge=21] The people kept their distance while Moses went up into the thick cloud where God was.
+  [KO p13] 백성들은 멀리 서 있고, 모세는 하나님이 계신 짙은 구름 속으로 다가갔대.
+
+--- MSG [22-26] ---
+God said to Moses, “Give this Message to the People of Israel: ‘You’ve experienced firsthand how I spoke with you from Heaven. Don’t make gods of silver and gods of gold and then set them alongside me. Make me an earthen Altar. Sacrifice your Whole-Burnt-Offerings, your Peace-Offerings, your sheep, and your cattle on it. Every place where I cause my name to be honored in your worship, I’ll be there myself and bless you. If you use stones to make my Altar, don’t use dressed stones. If you use a chisel on the stones you’ll profane the Altar. Don’t use steps to climb to my Altar because that will expose your nakedness.’”
+
+>>> TEEN:
+  [p14 badge=22-26] God told Moses, "Give this message to the Israelites: 'You guys saw for yourselves how I talked to you from heaven. So don't make gods of silver and gold and put them next to me. Make me an altar out of dirt. Sacrifice your burnt offerings and peace offerings, your sheep and your cattle on it. Everywhere I make my name known in your worship, I'll show up and bless you. If you use stones to make my altar, don't use cut stones. If you use a tool on the stones, you'll make the altar unholy. And don't use stairs to get to my altar, because that would expose you.'"
+  [KO p14] 하나님이 모세한테 말했어. "이스라엘 백성한테 이 메시지를 전해. '너희는 내가 하늘에서 너희랑 직접 말하는 걸 경험했지. 그러니까 은으로 신을 만들거나 금으로 신을 만들어서 내 옆에 두지 마. 나한테 흙으로 제단을 쌓아. 그 위에서 너희의 번제랑 화목제, 양이랑 소를 바쳐. 내가 내 이름을 예배 안에서 기억하게 하는 모든 곳에서, 내가 직접 가서 너희를 축복할게. 만약 돌로 내 제단을 만들 거면, 다듬은 돌로 쓰지 마. 돌에 정을 대면 제단을 더럽히는 거야. 그리고 내 제단에 계단으로 올라오지 마. 그러다 네 맨살이 드러날라.'"

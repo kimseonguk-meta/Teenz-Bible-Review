@@ -1,0 +1,188 @@
+### TITLE EN: Paul's Epic Monologue
+### TITLE KO: 바울의 대연설
+
+[MSG 0] range=1-2 header=None
+"My dear brothers and fathers, listen carefully to what I have to say before you jump to conclusions about me." When they heard him speaking Hebrew, they grew even quieter. No one wanted to miss a word of this.
+
+[MSG 1] range=2-3 header=None
+He continued, "I am a good Jew, born in Tarsus in the province of Cilicia, but educated here in Jerusalem under the exacting eye of Rabbi Gamaliel, thoroughly instructed in our religious traditions. And I've always been passionately on God's side, just as you are right now.
+
+[MSG 2] range=4-5 header=None
+"I went after anyone connected with this 'Way,' went at them with all my might, ready to kill for God. I rounded up men and women right and left and had them thrown in prison. You can ask the Chief Priest or anyone in the High Council to verify this; they all knew me well. Then I went off to our brothers in Damascus, armed with official documents authorizing me to hunt down the followers of Jesus there, arrest them, and bring them back to Jerusalem for sentencing.
+
+[MSG 3] range=6-7 header=None
+"As I arrived on the outskirts of Damascus about noon, a blinding light blazed out of the skies and I fell to the ground, dazed. I heard a voice: 'Saul, Saul, why are you out to get me?'
+
+[MSG 4] range=8-9 header=None
+"'Who are you, Master?' I asked. "He said, 'I am Jesus the Nazarene, the One you're hunting down.' My companions saw the light, but they didn't hear the conversation.
+
+[MSG 5] range=10-11 header=None
+"Then I said, 'What do I do now, Master?' "He said, 'Get to your feet and enter Damascus. There you'll be told everything that's been set out for you to do.' And so we entered Damascus, but nothing like the entrance I had planned—I was blind as a bat and my companions had to lead me in by the hand.
+
+[MSG 6] range=12-13 header=None
+"And that's when I met Ananias, a man with a sterling reputation in observing our laws—the Jewish community in Damascus is unanimous on that score. He came and put his arm on my shoulder. 'Look up,' he said. I looked, and found myself looking right into his eyes—I could see again!
+
+[MSG 7] range=14-16 header=None
+"Then he said, 'The God of our ancestors has handpicked you to be briefed on his plan of action. You've actually seen the Righteous Innocent and heard him speak. You are to be a key witness to everyone you meet of what you've seen and heard. So what are you waiting for? Get up and get yourself baptized, scrubbed clean of those sins and personally acquainted with God.'
+
+[MSG 8] range=17-18 header=None
+"Well, it happened just as Ananias said. After I was back in Jerusalem and praying one day in the Temple, lost in the presence of God, I saw him, saw God's Righteous Innocent, and heard him say to me, 'Hurry up! Get out of here as quickly as you can. None of the Jews here in Jerusalem are going to accept what you say about me.'
+
+[MSG 9] range=19-20 header=None
+"At first I objected: 'Who has better credentials? They all know how obsessed I was with hunting out those who believed in you, beating them up in the meeting places and throwing them in jail. And when your witness Stephen was murdered, I was right there, holding the coats of the murderers and cheering them on. And now they see me totally converted. What better qualification could I have?'
+
+[MSG 10] range=21 header=None
+"But he said, 'Don't argue. Go. I'm sending you on a long journey to outsider non-Jews.'"
+
+[MSG 11] range=22-25 header='A Roman Citizen'
+The people in the crowd had listened attentively up to this point, but now they broke loose, shouting out, "Kill him! He's an insect! Stomp on him!" They shook their fists. They filled the air with curses. That's when the captain intervened and ordered Paul taken into the barracks. By now the captain was thoroughly exasperated. He decided to interrogate Paul under torture in order to get to the bottom of this, to find out what he had done that provoked this outraged violence. As they spread-eagled him with strips of leather, getting him ready for the whip, Paul said to the centurion standing there, "Is this legal: torturing a Roman citizen without a fair trial?"
+
+[MSG 12] range=26 header=None
+When the centurion heard that, he went directly to the captain. "Do you realize what you've done? This man is a Roman citizen!"
+
+[MSG 13] range=27 header=None
+The captain came back and took charge. "Is what I hear right? You're a Roman citizen?" Paul said, "I certainly am."
+
+[MSG 14] range=28 header=None
+The captain was impressed. "I paid a huge sum for my citizenship. How much did it cost you?" "Nothing," said Paul. "It cost me nothing. I was free from the day of my birth."
+
+[MSG 15] range=29 header=None
+That put a stop to the interrogation. And it put the fear of God into the captain. He had put a Roman citizen in chains and come within a whisker of putting him under torture!
+
+[MSG 16] range=30 header=None
+The next day, determined to get to the root of the trouble and know for sure what was behind the Jewish accusation, the captain released Paul and ordered a meeting of the high priests and the High Council to see what they could make of it. Paul was led in and took his place before them.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Paul's Defense Speech
+
+[EN 1] badge=1
+"Hey, listen up, my guys and dads! Before you totally cancel me, just hear me out." When the crowd heard him speaking their language, they went dead silent. This was gonna be good.
+
+[EN 2] badge=2-3
+Paul went on, "I'm a legit Jew, born in Tarsus, but I grew up right here in Jerusalem. I was top of my class, studied under the famous Gamaliel, and knew our traditions inside and out. I was super passionate about God, just like you guys are right now.
+
+[EN 3] badge=4-5
+"I was so hardcore, I went after anyone who followed 'The Way.' I was ready to take them down for God. I had guys and girls arrested and thrown in jail. The head priest and the whole council can back me up on this; they knew what I was about. I even got official papers to go to Damascus and hunt down more of Jesus' followers to bring them back for punishment.
+
+[EN 4] badge=None
+§Blinded by the Light
+
+[EN 5] badge=6-7
+"But then, as I was getting close to Damascus around noon, this insane light from the sky just blasted me. I hit the ground, totally stunned. Then I heard a voice, 'Saul, Saul, why are you trying to cancel me?'
+
+[EN 6] badge=9
+"I was like, 'Who are you, sir?'
+
+[EN 7] badge=10
+"And the voice said, 'I'm Jesus of Nazareth, the one you're hunting.' My crew saw the light, but they didn't hear the voice.
+
+[EN 8] badge=11
+"So I asked, 'What's the plan, sir?'
+
+[EN 9] badge=12-13
+"He told me, 'Get up and go into Damascus. You'll get the full download there.' So we went into the city, but I was completely blind. My friends had to lead me by the hand. It was not the grand entrance I had in mind.
+
+[EN 10] badge=13-14
+"That's when I met this guy Ananias. He was a super respected guy who followed all our laws—everyone in the Jewish community in Damascus vouched for him. He came over, put his hand on my shoulder, and said, 'Look up.' And just like that, I could see again! I was looking right at him.
+
+[EN 11] badge=14-16
+"Then he told me, 'The God of our ancestors chose you to know his game plan. You've actually seen the real deal, the Righteous One, and heard him speak. You're going to be his witness and tell everyone what you've seen and heard. So what are you waiting for? Get up, get baptized, and wash away your sins. It's time to get to know God for real.'
+
+[EN 12] badge=17
+"And it all went down just like Ananias said. Later, I was back in Jerusalem, praying in the Temple, totally in the zone, when I saw him—the Righteous One. He told me, 'Hurry! Get out of Jerusalem now. Nobody here is going to believe what you say about me.'
+
+[EN 13] badge=19-20
+"I tried to argue, like, 'But I'm the perfect guy for the job! They all know how I used to hunt down your followers, beat them up, and throw them in jail. I was even there when your boy Stephen was killed, holding the coats for the guys who did it and cheering them on. Now they see me completely flipped. Wouldn't that make them listen?'
+
+[EN 14] badge=21
+"But he was like, 'Don't argue. Just go. I'm sending you on a mission to the outsiders, the non-Jews.'"
+
+[EN 15] badge=22
+The crowd was actually listening until he said that. Then they totally lost it. They started screaming, "Get rid of him! He doesn't deserve to live!" They were shaking their fists and cursing like crazy. The captain had to step in and ordered his soldiers to take Paul into the barracks. He was so done with the drama and decided to torture Paul to get the truth out of him and find out why everyone was so triggered.
+
+[EN 16] badge=23
+As they were tying Paul up to whip him, he casually said to the centurion standing there, "Is it even legal to torture a Roman citizen who hasn't had a fair trial?"
+
+[EN 17] badge=24
+When the centurion heard that, he ran to the captain. "Uh, you might want to rethink this. This guy is a Roman citizen!"
+
+[EN 18] badge=25
+The captain rushed back and was like, "For real? You're a Roman citizen?"
+
+[EN 19] badge=26
+Paul was like, "Yup. Sure am."
+
+[EN 20] badge=27
+The captain was stunned. "I had to pay a ton of money for my citizenship. How much did you pay?"
+
+[EN 21] badge=28
+"Nothing," Paul said. "I was born with it."
+
+[EN 22] badge=29
+That shut down the whole interrogation. The captain was terrified. He had just chained up a Roman citizen and almost had him tortured. Big yikes.
+
+[EN 23] badge=30
+The next day, the captain was still trying to figure out what the deal was with the Jews' accusations. So he let Paul go and called a meeting with the high priests and the council to sort things out. Paul was brought in and stood before them, ready for round two.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§바울의 변론
+
+[KO 1] badge=1-2
+“형님들, 어른들! 내 말 좀 들어보셈. 나에 대해 함부로 단정 짓지 말고, 지금부터 내가 하는 말을 잘 들어주길 바람.” 사람들이 그가 히브리말로 말하는 걸 듣고는 완전 조용해진 거임. 모두 그의 말을 한마디도 안 놓치려고 귀 쫑긋 세우고 있었음.
+
+[KO 2] badge=2-3
+그가 말을 이어갔음. “나는 길리기아의 다소에서 태어난 유대인임. 여기 예루살렘에서 교육받았고, 랍비 가말리엘 밑에서 우리 종교의 전통을 열심히 배웠음. 그리고 지금 여러분처럼 나도 항상 하나님께 진심이었음.”
+
+[KO 3] badge=4-5
+“나는 이 ‘도’와 관련된 사람이면 누구든지 쫓아가서 죽일 각오가 되어 있었음. 남자든 여자든 안 가리고 잡아다가 감옥에 쳐넣었음. 대제사장이나 최고 의회 누구한테 물어봐도 다 아는 사실임. 그들이 나를 잘 알고 있었거든. 그러다가 예수를 따르는 사람들을 잡으려고 다마스쿠스로 떠났음. 그들을 예루살렘으로 끌고 와서 벌을 주려고 공식 문서까지 받아갔음.”
+
+[KO 4] badge=None
+§빛에 눈이 멀다
+
+[KO 5] badge=6-7
+“정오쯤 다마스쿠스 근처에 다다랐을 때, 하늘에서 갑자기 눈부신 빛이 번쩍했음. 나는 땅에 쓰러졌고 눈앞이 캄캄해졌음. 그때 ‘사울아, 사울아, 왜 나를 괴롭히냐?’ 하는 음성이 들렸음.”
+
+[KO 6] badge=8-9
+“나는 ‘주님, 누구세요?’ 하고 물었음. ‘나는 네가 박해하는 나사렛 예수다’라고 그분이 말씀하셨음. 같이 가던 사람들은 빛은 봤지만, 그 대화는 못 들었음.”
+
+[KO 7] badge=10-11
+“그래서 내가 ‘주님, 이제 제가 뭘 해야 합니까?’ 하고 물었음. 그분은 ‘일어나서 다마스쿠스로 들어가라. 네가 해야 할 일을 알려줄 사람이 거기에 있다’고 하셨음. 그래서 우리는 다마스쿠스로 들어갔음. 내가 처음 계획했던 거랑은 완전 다른 모습으로 그 도시에 들어간 거임. 나는 눈이 멀어서 볼 수가 없었고, 동료들이 내 손을 잡고 데려다줘야 했음.”
+
+[KO 8] badge=12-13
+“바로 그때 아나니아라는 사람을 만났음. 그는 우리 율법을 잘 지키기로 소문난 사람이었음. 다마스쿠스의 유대인들도 다 인정하는 사실임. 그가 와서 내 어깨에 손을 얹고 ‘눈을 떠라’고 말했음. 내가 눈을 뜨니까, 어느새 그의 눈을 똑바로 쳐다볼 수 있게 됐음. 다시 보게 된 거임! 대박!”
+
+[KO 9] badge=14-16
+“그러자 그가 말했음. ‘우리 조상의 하나님이 너를 선택해서 그분의 계획을 알게 하셨다. 너는 의로우신 분을 직접 뵙고 그분의 음성을 들었다. 이제 너는 네가 보고 들은 것을 모든 사람에게 증언하는 핵심 증인이 될 거다. 그러니 망설이지 말고 일어나서 세례를 받아라. 죄를 깨끗이 씻고 하나님과 직접 소통해라.’”
+
+[KO 10] badge=17-18
+“진짜 아나니아가 말한 대로 됐음. 예루살렘으로 돌아와서 성전에서 기도하다가 하나님의 임재에 휩싸여 그분을 뵈었음. 하나님의 의로우신 분을 뵙고 그분의 말씀을 들었음. ‘서둘러! 최대한 빨리 여기를 떠나라. 여기 예루살렘 사람들은 네가 나에 대해 하는 말을 아무도 안 믿을 거다.’”
+
+[KO 11] badge=19-20
+“처음에는 반대했음. ‘저보다 더 적합한 사람이 어디 있겠습니까? 제가 주님을 믿는 사람들을 얼마나 괴롭혔는지, 회당에서 때리고 감옥에 가뒀는지 모르는 사람이 없습니다. 주님의 증인 스데반이 죽을 때도 제가 바로 거기서 살인자들의 옷을 지키며 응원했습니다. 근데 이제 제가 완전히 변한 걸 그들도 압니다. 그러니 저한테 무슨 자격이 더 필요하겠습니까?’라고 했음.”
+
+[KO 12] badge=21
+“하지만 그분은 ‘더 이상 말하지 마라. 그냥 가라. 내가 너를 멀리 이방인들에게 보내겠다’고 말씀하셨음.”
+
+[KO 13] badge=None
+로마 시민 바울
+
+[KO 14] badge=22-25
+사람들이 집중해서 듣다가 갑자기 소리를 질렀음. “저자를 죽여라! 없애버려!” 그들은 주먹을 휘두르고 욕을 퍼부었음. 그때 지휘관이 끼어들어서 바울을 병영으로 데려가라고 명령했음. 지휘관도 완전 엄청 화났음. 그는 이 일의 진실을 밝히려고 바울을 고문하고 심문하기로 했음. 대체 무슨 짓을 했길래 이런 난리가 났는지 알아내려고 한 거임. 그들이 그의 팔다리를 가죽 끈으로 묶고 채찍질할 준비를 하는데, 바울이 옆에 서 있던 백부장에게 말했음. “재판도 없이 로마 시민을 고문하는 게 법에 맞음?”
+
+[KO 15] badge=26
+백부장이 그 말을 듣고 바로 지휘관에게 달려갔음. “지금 뭐 하시는 겁니까? 이 사람 로마 시민입니다!”
+
+[KO 16] badge=27
+지휘관이 돌아와서 직접 심문했음. “너 진짜 로마 시민임?” 바울이 말했음. “응 맞음.”
+
+[KO 17] badge=28
+지휘관이 관심을 보였음. “나는 돈 엄청 써서 시민권 땄는데. 너는 얼마나 냄?” “한 푼도 안 냈는데요.” 바울이 말했음. “저는 태어날 때부터 자유인이었음.”
+
+[KO 18] badge=29
+그걸로 심문은 끝났음. 그 일로 지휘관은 두려움에 떨었음. 로마 시민을 묶었고, 하마터면 고문까지 할 뻔했으니까!
+
+[KO 19] badge=30
+다음 날, 지휘관은 문제의 원인을 확실히 밝히려고 작정했음. 유대인들의 고발 뒤에 뭐가 있는지 알아내려고 한 거임. 그는 바울을 풀어주고 대제사장들과 최고 의회를 소집하라고 명령했음. 그들의 생각을 들어보려고. 바울은 그들 앞에 끌려 나갔음.
+

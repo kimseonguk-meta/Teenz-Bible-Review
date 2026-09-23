@@ -1,0 +1,74 @@
+{
+  "changes": [
+    "Ch12: § headers fixed to MSG's real headers (Peter Under Heavy Guard; The Death of Herod) — removed fabricated 'James Killed, Peter Arrested', 'Peter's Miraculous Escape', 'Peter Knocks at Mary's Door'",
+    "Ch12: split merged 5-8 (→5, 6, 7-9), 9-11 (→10-11), 12-13 (→12-14 + 15-16), 13-17 (→16-17), 20-23 (→20-22 + 23), 23-25 (→24 + 25)",
+    "Ch12: declared split for MSG's own overlap (v16 in 15-16/16-17)",
+    "Ch12: restored 'vicious little production and the spectacle the Jewish mob was looking forward to', crowd's exact 'The voice of God! The voice of God!', 'Rotten to the core, a maggoty old man'; removed invented 'miraculous transformation'; moderated slang",
+    "Ch12: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved"
+  ],
+  "chapter": 12,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-4",
+    "1-4",
+    "5",
+    "6",
+    "7-9",
+    "10-11",
+    "12-14",
+    "15-16",
+    "16-17",
+    "18-19",
+    "20-22",
+    "20-22",
+    "23",
+    "24",
+    "25"
+  ],
+  "paragraphs": [
+    "§Peter Under Heavy Guard",
+    "That's when King Herod decided to go after some of the church members. He had James, John's brother, killed with a sword. When he saw how popular that made him with the Jewish leaders, he went further and arrested Peter too — right in the middle of Passover Week. He threw Peter in jail and assigned four squads of four soldiers each to guard him. Herod was planning to put him on public trial and execute him after Passover.",
+    "The whole time Peter was locked up under that heavy guard, the church prayed for him like crazy.",
+    "Then came the night before Herod was going to bring him out to kill him. Peter was chained to two soldiers, one on each side — and he was sleeping like a baby. There were guards posted at the door watching the cell. Herod wasn't taking any chances.",
+    "Suddenly an angel was standing next to him, and light flooded the cell. The angel poked Peter to wake him up: \"Hurry!\" The chains fell right off his wrists. The angel said, \"Get dressed. Put your shoes on.\" Peter did. Then, \"Grab your coat and follow me.\" Peter followed — but he didn't believe it was really happening. He thought he was dreaming.",
+    "They walked right past the first guard post, then the second, and came to the huge iron gate that led into the city. It swung open for them all by itself, and they stepped out onto the street — free. At the first intersection, the angel left him and went on his way. That's when it hit Peter: this was no dream. \"I can't believe it — this is real! The Master sent his angel and rescued me from what Herod had planned, and from the public spectacle the Jewish crowd was hoping to see.\"",
+    "Still shaking his head in amazement, he headed to Mary's house — the Mary who was John Mark's mother. The place was packed with friends who were praying. When he knocked at the outer gate, a young servant girl named Rhoda came to answer. But the second she recognized his voice — Peter's voice! — she got so excited to run and tell everyone that she forgot to open the gate and left him standing outside in the street.",
+    "But nobody believed her. They brushed her off. \"You're out of your mind,\" they said. She stuck to her story and insisted. They still wouldn't buy it: \"It must be his angel.\" All this time, poor Peter was still out in the street, knocking away.",
+    "Finally they opened the gate and saw him — and lost it! Peter raised his hands to calm everyone down. He told them how the Master had gotten him out of prison, then said, \"Go tell James and the other brothers what happened.\" Then he left and went somewhere else.",
+    "At daybreak the prison was in chaos. \"Where's Peter? What happened to Peter?\" When Herod ordered Peter brought out and the guards couldn't produce him or explain what happened, Herod had them executed. Fed up with Judea, he left for Caesarea to cool off.",
+    "§The Death of Herod",
+    "But things went from bad to worse for Herod. The people of Tyre and Sidon had gotten on his bad side. So they won over Blastus — Herod's right-hand man — to speak up for them, and put together a delegation to make peace. Since they depended on Herod's country for their food supply, they couldn't let the standoff drag on. On the day of the meeting, Herod put on his royal robes, took his throne, and gave them a big fancy speech. The crowd played along and shouted their flattery: \"This is the voice of a god, not a man!\"",
+    "That was it. God had had enough of Herod's arrogance and sent an angel to strike him down — because Herod had given God zero credit. Down he went, and he died, eaten by worms.",
+    "Meanwhile, God's Word kept spreading and growing like crazy.",
+    "Barnabas and Saul, after delivering the relief offering to the church in Jerusalem, headed back to Antioch. This time they brought John along — the one they called Mark."
+  ],
+  "splits": [
+    {
+      "msg_range": "16",
+      "note": "MSG's own overlap: v16 closes MSG para 15-16 and opens MSG para 16-17; badges follow MSG paragraph boundaries",
+      "paras": [
+        7,
+        8
+      ]
+    }
+  ],
+  "title": "The Great Escape and a King's Epic Fail",
+  "verseRanges": [
+    "1-4",
+    "1-4",
+    "5",
+    "6",
+    "7-9",
+    "10-11",
+    "12-14",
+    "15-16",
+    "16-17",
+    "18-19",
+    "20-22",
+    "20-22",
+    "23",
+    "24",
+    "25"
+  ]
+}

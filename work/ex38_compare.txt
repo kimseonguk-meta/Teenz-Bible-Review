@@ -1,0 +1,62 @@
+# EXODUS 38 — Building God's Epic Hangout Spot
+TEEN paras: 8 | badges: ['1-7', '8', '9-11', '12-20', '21-23', '24', '24-28', '29-31']
+KO paras: 8 | badges: ['1-7', '8', '9-11', '12-20', '21-23', '24', '24-28', '29-31']
+MSG sections: 8 | ranges: ['1-7', '8', '9-11', '12-20', '21-23', '24', '25-28', '29-31']
+
+--- MSG [1-7] ---
+He made the Altar of Whole-Burnt-Offering from acacia wood. He made it seven and a half feet square and four and a half feet high. He made horns at each of the four corners. The horns were made of one piece with the Altar and covered with a veneer of bronze. He made from bronze all the utensils for the Altar: the buckets for removing the ashes, shovels, basins, forks, and fire pans. He made a grate of bronze mesh under the ledge halfway up the Altar. He cast four rings at each of the four corners of the bronze grating to hold the poles. He made the poles of acacia wood and covered them with a veneer of bronze. He inserted the poles through the rings on the two sides of the Altar for carrying it. The Altar was made out of boards; it was hollow.
+
+>>> TEEN:
+  [p0 badge=1-7] First, he built the Altar for burnt offerings from acacia wood. It was a square, 7.5 feet by 7.5 feet, and 4.5 feet high. It had these horns on each of the four corners, all carved from the same piece as the Altar, and then covered in bronze. He also made all the tools for the Altar out of bronze: the buckets for the ash, shovels, basins, forks, and fire pans. He made a bronze mesh grate that sat under the ledge, halfway up the Altar. Then he cast four rings for the corners of the grate to hold the poles. The poles were made of acacia wood and covered in bronze too. He'd slide the poles through the rings on the sides to carry the Altar. The whole thing was hollow, made of boards.
+  [KO p0] 먼저, 번제단을 아카시아 나무로 만들었대. 가로세로 7.5피트, 높이는 4.5피트인 정사각형 모양이었어. 네 귀퉁이에는 뿔 모양이 있었는데, 제단이랑 한 몸으로 만들고 전체를 싹 다 청동으로 덮었대. 제단에 쓰는 모든 기구, 그러니까 재 버리는 통, 삽, 대야, 갈고리, 불 옮기는 그릇 같은 것도 다 청동으로 만들었어. 제단 중간쯤 높이에 있는 턱 아래에는 청동 그물망으로 된 석쇠를 만들었대. 그리고 그 청동 석쇠 네 귀퉁이에 막대기를 끼울 고리 네 개를 부어서 만들었지. 막대기는 아카시아 나무로 만들고 청동을 입혔어. 제단 양쪽 고리에 이 막대기를 끼워서 운반할 수 있게 한 거야. 제단은 널빤지로 만들어서 속은 비어 
+
+--- MSG [8] ---
+He made the Bronze Washbasin and its bronze stand from the mirrors of the women’s work group who were assigned to serve at the entrance to the Tent of Meeting.
+
+>>> TEEN:
+  [p1 badge=8] He made the bronze Washbasin and its stand from the mirrors donated by the women who served at the entrance to the Tent of Meeting. Talk about a glow-up!
+  [KO p1] 청동 세면대랑 그 받침대는 회막 입구에서 봉사하는 여인들이 쓰던 거울로 만들었대. 완전 엄청난 거지 않아? 자기 헌신이 정말 굉장했음.
+
+--- MSG [9-11] ---
+And he made the Courtyard. On the south side the hangings for the Courtyard, woven from fine twisted linen, were 150 feet long, with their twenty posts and twenty bronze bases, and fastening hooks and bands of silver. The north side was exactly the same.
+
+>>> TEEN:
+  [p2 badge=9-11] Then he set up the Courtyard. The south side had hangings made of fine twisted linen, 150 feet long. They were held up by twenty posts with twenty bronze bases, and had silver hooks and bands. The north side was identical.
+  [KO p2] 그리고 뜰을 만들었어. 남쪽에는 고운 실로 짠 아마포 커튼을 쳤는데, 길이가 150피트나 됐대. 기둥 20개랑 청동 받침 20개로 지탱했고, 갈고리랑 띠는 은으로 만들었어. 북쪽도 완전 똑같이 만들었대.
+
+--- MSG [12-20] ---
+The west end of the Courtyard had seventy-five feet of hangings with ten posts and bases, and fastening hooks and bands of silver. Across the seventy-five feet at the front, or east end, were twenty-two and a half feet of hangings, with their three posts and bases on one side and the same for the other side. All the hangings around the Courtyard were of fine twisted linen. The bases for the posts were bronze and the fastening hooks and bands on the posts were of silver. The posts of the Courtyard were both capped and banded with silver. The screen at the door of the Courtyard was embroidered in blue, purple, and scarlet fabric with fine twisted linen. It was thirty feet long and seven and a half feet high, matching the hangings of the Courtyard. There were four posts with bases of bronze and fastening hooks of silver; they were capped and banded in silver. All the pegs for The Dwelling and the Courtyard were made of bronze.
+
+>>> TEEN:
+  [p3 badge=12-20] The west end of the Courtyard was 75 feet wide with ten posts and bases, and silver hooks and bands. The front, or east end, was also 75 feet across. It had 22.5 feet of hangings with three posts and bases on each side of the entrance. All the hangings around the Courtyard were made of fine twisted linen. The bases for the posts were bronze, but the hooks and bands on them were silver. The tops of the posts were also capped and banded with silver. The screen for the entrance was this amazing embroidery of blue, purple, and scarlet fabric on fine twisted linen. It was 30 feet long and 7.5 feet high, just like the other hangings. It had four posts with bronze bases and silver hooks, and the to
+  [KO p3] 뜰 서쪽 끝은 폭이 75피트였는데, 커튼이랑 기둥 10개, 받침 10개가 있었고, 갈고리랑 띠는 은으로 만들었어. 앞쪽, 그러니까 동쪽도 폭이 75피트였는데, 입구 양쪽으로 22.5피트 길이의 커튼이랑 기둥 3개, 받침 3개가 각각 있었어. 뜰 주위의 모든 커튼은 고운 실로 짠 아마포였대. 기둥 받침은 청동이었고, 기둥에 달린 갈고리랑 띠는 은이었어. 기둥 꼭대기도 은으로 씌우고 은띠를 둘렀대. 뜰 입구에 치는 막은 청색, 자색, 홍색 실이랑 고운 아마포 실로 수를 놓아 만들었어. 길이는 30피트, 높이는 7.5피트로 뜰의 다른 커튼들이랑 똑같았지. 기둥 4개에 청동 받침 4개가 있었고, 갈고리는 은이었어. 기둥 꼭대기
+
+--- MSG [21-23] ---
+This is an inventory of The Dwelling that housed The Testimony drawn up by order of Moses for the work of the Levites under Ithamar, son of Aaron the priest. Bezalel, the son of Uri, son of Hur, of the tribe of Judah, made everything that God had commanded Moses. Working with Bezalel was Oholiab, the son of Ahisamach, of the tribe of Dan, an artisan, designer, and embroiderer in blue, purple, and scarlet fabrics and fine linen.
+
+>>> TEEN:
+  [p4 badge=21-23] Here's the final inventory of everything for the Dwelling, which held the Testimony. It was all recorded by the Levites under the direction of Ithamar, son of Aaron the priest, just as Moses ordered. Bezalel, son of Uri, son of Hur, from the tribe of Judah, was the master craftsman who made everything God commanded Moses. And his right-hand man was Oholiab, son of Ahisamach, from the tribe of Dan. This guy was a total artist—a designer and embroiderer who worked with blue, purple, and scarlet fabrics and fine linen.
+  [KO p4] 이게 바로 증거판을 모신 성막에 들어간 물품 목록이야. 모세가 명령해서 제사장 아론의 아들 이다말이 레위 사람들을 시켜서 작성한 거래. 유다 지파 홀의 손자요 우리의 아들인 브살렐이 하나님께서 모세에게 명령하신 모든 것을 만들었어. 브살렐이랑 같이 일한 사람은 단 지파 아히사막의 아들 오홀리압이었는데, 이 사람은 기술자, 디자이너, 그리고 청색, 자색, 홍색 실이랑 고운 아마포로 수를 놓는 장인이었대.
+
+--- MSG [24] ---
+Gold. The total amount of gold used in construction of the Sanctuary, all of it contributed freely, weighed out at 1,900 pounds according to the Sanctuary standard.
+
+>>> TEEN:
+  [p5 badge=24] Gold. The total amount of gold used for the Sanctuary, all of it given willingly, was about 1,900 pounds, according to the official Sanctuary weight.
+  [KO p5] 금. 성소 건축에 쓰인 금은 전부 사람들이 자발적으로 낸 건데, 성소 기준으로 총 1,900파운드나 됐어.
+  [p6 badge=24-28] Silver. The silver came from everyone in the community who was counted in the census. It totaled 6,437 pounds. That worked out to a beka, or half a shekel, from every guy twenty years or older who was registered. There were 603,550 of them. They used about three and a quarter tons of that silver to cast the bases for the Sanctuary and the hangings—one hundred bases, each weighing about 64 pounds. With the last 37 pounds of silver, they made the hooks for the posts, and the caps and bands for them.
+  [KO p6] 은. 인구 조사를 받은 공동체 사람들이 낸 은은 성소 기준으로 총 6,437파운드였어. 스무 살 이상으로 등록된 모든 사람한테서 1인당 반 세겔씩 받은 건데, 총 603,550명이었대. 이 중에서 3.25톤의 은은 성소와 휘장의 받침 100개를 만드는 데 썼는데, 받침 하나당 64파운드씩 들었어. 나머지 37파운드로는 기둥의 연결 고리랑 기둥 꼭대기를 씌우는 것과 띠를 만들었대.
+
+--- MSG [25-28] ---
+Silver. The silver from those in the community who were registered in the census came to 6,437 pounds according to the Sanctuary standard—that amounted to a *beka*, or half-shekel, for every registered person aged twenty and over, a total of 603,550 men. They used the three and one-quarter tons of silver to cast the bases for the Sanctuary and for the hangings, one hundred bases at sixty-four pounds each. They used the remaining thirty-seven pounds to make the connecting hooks on the posts, and the caps and bands for the posts.
+
+>>> TEEN:
+  [p6 badge=24-28] Silver. The silver came from everyone in the community who was counted in the census. It totaled 6,437 pounds. That worked out to a beka, or half a shekel, from every guy twenty years or older who was registered. There were 603,550 of them. They used about three and a quarter tons of that silver to cast the bases for the Sanctuary and the hangings—one hundred bases, each weighing about 64 pounds. With the last 37 pounds of silver, they made the hooks for the posts, and the caps and bands for them.
+  [KO p6] 은. 인구 조사를 받은 공동체 사람들이 낸 은은 성소 기준으로 총 6,437파운드였어. 스무 살 이상으로 등록된 모든 사람한테서 1인당 반 세겔씩 받은 건데, 총 603,550명이었대. 이 중에서 3.25톤의 은은 성소와 휘장의 받침 100개를 만드는 데 썼는데, 받침 하나당 64파운드씩 들었어. 나머지 37파운드로는 기둥의 연결 고리랑 기둥 꼭대기를 씌우는 것과 띠를 만들었대.
+
+--- MSG [29-31] ---
+Bronze. The bronze that was brought in weighed 4,522 pounds. It was used to make the door of the Tent of Meeting, the Bronze Altar with its bronze grating, all the utensils of the Altar, the bases around the Courtyard, the bases for the gate of the Courtyard, and all the pegs for The Dwelling and the Courtyard.
+
+>>> TEEN:
+  [p7 badge=29-31] Bronze. The total bronze brought in was 4,522 pounds. They used it to make the door of the Tent of Meeting, the bronze Altar with its grate, all the Altar's tools, the bases for the Courtyard, the bases for the Courtyard gate, and all the pegs for the Dwelling and the Courtyard.
+  [KO p7] 청동. 가져온 청동은 총 4,522파운드였어. 이걸로 회막 문, 청동 제단과 그 석쇠, 제단의 모든 기구, 뜰 주위의 받침, 뜰 문의 받침, 그리고 성막과 뜰의 모든 말뚝을 만들었대.

@@ -1,0 +1,62 @@
+# EXODUS 35 — Israel's Got Talent: Building God's House
+TEEN paras: 5 | badges: ['1-3', '4-19', '20-26', '27-29', '29-35']
+KO paras: 5 | badges: ['1-3', '4-19', '20-26', '27-29', '29-35']
+MSG sections: 8 | ranges: ['1', '2-3', '4', '5-9', '10-19', '20-26', '27-29', '30-35']
+
+--- MSG [1] ---
+Moses spoke to the entire congregation of Israel, saying, “These are the things that God has commanded you to do:
+
+>>> TEEN:
+  [p0 badge=1-3] Moses got all the Israelites together and said, 'Alright, listen up, fam. God has a few things He wants you to do. You get six days to do your thing, but the seventh day is a holy day of rest. It's God's chill day, so no work. And I'm dead serious, anyone who works on the Sabbath has to be put to death. Also, no lighting fires in your homes on the Sabbath.'
+  [KO p0] 모세가 이스라엘 백성들을 다 모아놓고 말했대. '얘들아, 주목! 하나님이 너희들한테 하라고 하신 게 있어. 6일 동안은 빡빡하게 일하고, 7일째 되는 날은 무조건 쉬는 날이야. 이건 하나님의 거룩한 휴일이니까, 이날 일하는 사람은 누구든지 죽을 각오해야 돼. 그리고 안식일에는 집에서 불도 피우지 마.'
+
+--- MSG [2-3] ---
+“Work six days, but the seventh day will be a holy rest day, God’s holy rest day. Anyone who works on this day must be put to death. Don’t light any fires in your homes on the Sabbath day.”
+
+>>> TEEN:
+  [p0 badge=1-3] Moses got all the Israelites together and said, 'Alright, listen up, fam. God has a few things He wants you to do. You get six days to do your thing, but the seventh day is a holy day of rest. It's God's chill day, so no work. And I'm dead serious, anyone who works on the Sabbath has to be put to death. Also, no lighting fires in your homes on the Sabbath.'
+  [KO p0] 모세가 이스라엘 백성들을 다 모아놓고 말했대. '얘들아, 주목! 하나님이 너희들한테 하라고 하신 게 있어. 6일 동안은 빡빡하게 일하고, 7일째 되는 날은 무조건 쉬는 날이야. 이건 하나님의 거룩한 휴일이니까, 이날 일하는 사람은 누구든지 죽을 각오해야 돼. 그리고 안식일에는 집에서 불도 피우지 마.'
+
+--- MSG [4] ---
+Moses spoke to the entire congregation of Israel, saying, “This is what God has commanded:
+
+>>> TEEN:
+  [p1 badge=4-19] Then Moses said to all the Israelites, 'Here's what God is asking. He wants you to bring offerings, whatever you feel like giving. We're talking gold, silver, bronze, and some sick fabrics in blue, purple, and scarlet. Also, fine linen, goat hair, tanned ram skins, dolphin skins, and acacia wood. Plus, we need lamp oil, spices for anointing oils and incense, and some onyx and other gems for the Ephod and the Breastpiece. And for all you talented people, it's your time to shine. God wants you to build His Dwelling with its tent and all the parts, the Ark of the Covenant, the fancy table for the holy bread, the lampstand, the altar for incense, the big altar for burnt offerings, the washbasin,
+  [KO p1] 모세가 또 이스라엘 백성들한테 말했어. '하나님이 이렇게 명령하셨다. 너희들 중에서 하나님께 드릴 예물을 모아라. 기쁜 마음으로 내는 사람은 누구든지 환영이야. 금, 은, 청동, 그리고 파란색, 보라색, 빨간색 실로 짠 천, 고운 아마포, 염소 털, 숫양 가죽, 돌고래 가죽, 아카시아 나무, 등불용 기름, 그리고 향기로운 향에 쓸 향료랑 기름, 그리고 에봇과 가슴받이에 박을 보석들까지. 그리고 재능 있는 사람들은 다 모여봐! 하나님이 만들라고 하신 것들을 다 만들어야 돼. 성막이랑 텐트, 갈고리, 뼈대, 가로대, 기둥, 받침, 그리고 언약궤랑 채, 속죄판, 가림막, 그리고 거룩한 빵을 놓을 상이랑 그 부속품들, 불을 밝
+
+--- MSG [5-9] ---
+“Gather from among you an offering for God. Receive on God’s behalf what everyone is willing to give as an offering: gold, silver, bronze; blue, purple, and scarlet material; fine linen; goats’ hair; tanned rams’ skins; dolphin skins; acacia wood; lamp oil; spices for anointing oils and for fragrant incense; onyx stones and other stones for setting in the Ephod and the Breastpiece.
+
+>>> TEEN:
+  [p1 badge=4-19] Then Moses said to all the Israelites, 'Here's what God is asking. He wants you to bring offerings, whatever you feel like giving. We're talking gold, silver, bronze, and some sick fabrics in blue, purple, and scarlet. Also, fine linen, goat hair, tanned ram skins, dolphin skins, and acacia wood. Plus, we need lamp oil, spices for anointing oils and incense, and some onyx and other gems for the Ephod and the Breastpiece. And for all you talented people, it's your time to shine. God wants you to build His Dwelling with its tent and all the parts, the Ark of the Covenant, the fancy table for the holy bread, the lampstand, the altar for incense, the big altar for burnt offerings, the washbasin,
+  [KO p1] 모세가 또 이스라엘 백성들한테 말했어. '하나님이 이렇게 명령하셨다. 너희들 중에서 하나님께 드릴 예물을 모아라. 기쁜 마음으로 내는 사람은 누구든지 환영이야. 금, 은, 청동, 그리고 파란색, 보라색, 빨간색 실로 짠 천, 고운 아마포, 염소 털, 숫양 가죽, 돌고래 가죽, 아카시아 나무, 등불용 기름, 그리고 향기로운 향에 쓸 향료랑 기름, 그리고 에봇과 가슴받이에 박을 보석들까지. 그리고 재능 있는 사람들은 다 모여봐! 하나님이 만들라고 하신 것들을 다 만들어야 돼. 성막이랑 텐트, 갈고리, 뼈대, 가로대, 기둥, 받침, 그리고 언약궤랑 채, 속죄판, 가림막, 그리고 거룩한 빵을 놓을 상이랑 그 부속품들, 불을 밝
+
+--- MSG [10-19] ---
+“Come—all of you who have skills—come and make everything that God has commanded: The Dwelling with its tent and cover, its hooks, frames, crossbars, posts, and bases; the Chest with its poles, the Atonement-Cover and veiling curtain; the Table with its poles and implements and the Bread of the Presence; the Lampstand for giving light with its furnishings and lamps and the oil for lighting; the Altar of Incense with its poles, the anointing oil, the fragrant incense; the screen for the door at the entrance to The Dwelling; the Altar of Whole-Burnt-Offering with its bronze grate and poles and all its implements; the Washbasin with its base; the tapestry hangings for the Courtyard with the posts and bases, the screen for the Courtyard gate; the pegs for The Dwelling, the pegs for the Courtyard with their cords; the official vestments for ministering in the Holy Place, the sacred vestments for Aaron the priest and for his sons serving as priests.”
+
+>>> TEEN:
+  [p1 badge=4-19] Then Moses said to all the Israelites, 'Here's what God is asking. He wants you to bring offerings, whatever you feel like giving. We're talking gold, silver, bronze, and some sick fabrics in blue, purple, and scarlet. Also, fine linen, goat hair, tanned ram skins, dolphin skins, and acacia wood. Plus, we need lamp oil, spices for anointing oils and incense, and some onyx and other gems for the Ephod and the Breastpiece. And for all you talented people, it's your time to shine. God wants you to build His Dwelling with its tent and all the parts, the Ark of the Covenant, the fancy table for the holy bread, the lampstand, the altar for incense, the big altar for burnt offerings, the washbasin,
+  [KO p1] 모세가 또 이스라엘 백성들한테 말했어. '하나님이 이렇게 명령하셨다. 너희들 중에서 하나님께 드릴 예물을 모아라. 기쁜 마음으로 내는 사람은 누구든지 환영이야. 금, 은, 청동, 그리고 파란색, 보라색, 빨간색 실로 짠 천, 고운 아마포, 염소 털, 숫양 가죽, 돌고래 가죽, 아카시아 나무, 등불용 기름, 그리고 향기로운 향에 쓸 향료랑 기름, 그리고 에봇과 가슴받이에 박을 보석들까지. 그리고 재능 있는 사람들은 다 모여봐! 하나님이 만들라고 하신 것들을 다 만들어야 돼. 성막이랑 텐트, 갈고리, 뼈대, 가로대, 기둥, 받침, 그리고 언약궤랑 채, 속죄판, 가림막, 그리고 거룩한 빵을 놓을 상이랑 그 부속품들, 불을 밝
+
+--- MSG [20-26] ---
+So everyone in the community of Israel left the presence of Moses. Then they came back, every one whose heart was roused, whose spirit was freely responsive, bringing offerings to God for building the Tent of Meeting, furnishing it for worship and making the holy vestments. They came, both men and women, all the willing spirits among them, offering brooches, earrings, rings, necklaces—anything made of gold—offering up their gold jewelry to God. And anyone who had blue, purple, and scarlet fabrics; fine linen; goats’ hair; tanned leather; and dolphin skins brought them. Everyone who wanted to offer up silver or bronze as a gift to God brought it. Everyone who had acacia wood that could be used in the work, brought it. All the women skilled at weaving brought their weavings of blue and purple and scarlet fabrics and their fine linens. And all the women who were gifted in spinning, spun the goats’ hair.
+
+>>> TEEN:
+  [p2 badge=20-26] So everyone left, and then they came back, all the people who were super pumped and felt led to give. They brought all their stuff for the Tent of Meeting and for worship. Guys and girls, everyone who was feeling generous, brought brooches, earrings, rings, necklaces—all their gold jewelry—and gave it to God. And anyone who had blue, purple, and scarlet fabrics, fine linen, goat hair, tanned leather, or dolphin skins brought them too. If you had silver, bronze, or acacia wood, you brought it. All the women who were good at weaving brought their woven stuff, and the women who were good at spinning spun goat hair.
+  [KO p2] 그래서 이스라엘 백성들이 다 흩어졌다가 다시 돌아왔는데, 마음이 감동된 사람들이랑 자원하는 사람들이 다들 예물을 들고 왔어. 회막을 짓고 예배에 필요한 모든 것들을 위해 자기 물건들을 가져온 거지. 남자든 여자든, 마음이 원하는 사람들은 다들 브로치, 귀걸이, 반지, 목걸이 같은 금붙이들을 하나님께 바쳤어. 그리고 파란색, 보라색, 빨간색 천, 고운 아마포, 염소 털, 가죽, 돌고래 가죽을 가진 사람들도 다 가져왔대. 은이나 청동을 예물로 바치고 싶은 사람들도 가져왔고, 아카시아 나무를 가진 사람들도 가져왔어. 재주 좋은 여자들은 직접 짠 파란색, 보라색, 빨간색 천이랑 고운 아마포를 가져왔고, 실 잣는 재주가 있는 여
+
+--- MSG [27-29] ---
+The leaders brought onyx and other precious stones for setting in the Ephod and the Breastpiece. They also brought spices and olive oil for lamp oil, anointing oil, and incense. Every man and woman in Israel whose heart moved them freely to bring something for the work that God through Moses had commanded them to make, brought it, a voluntary offering for God.
+
+>>> TEEN:
+  [p3 badge=27-29] The leaders brought onyx and other precious stones for the Ephod and the Breastpiece. They also brought spices and olive oil for the lamps, anointing oil, and incense. Every single person in Israel who felt moved to bring something for the work God had commanded through Moses brought it as a free-will offering to God.
+  [KO p3] 지도자들은 에봇과 가슴받이에 박을 보석들을 가져왔고, 등불용 기름, 향유, 향에 쓸 향료랑 올리브유도 가져왔어. 이스라엘의 모든 남자와 여자들이, 하나님이 모세를 통해 명령하신 일을 위해 자원해서 예물을 가져왔대. 이건 다 하나님께 드리는 자발적인 선물이었던 거임.
+  [p4 badge=29-35] Moses told the Israelites, 'Check it out, God has handpicked Bezalel, from the tribe of Judah. He's filled him with the Spirit of God, giving him mad skills, ability, and knowledge in all kinds of crafts. He can design and work with gold, silver, and bronze, carve and set stones, and carve wood. He's a master craftsman. And God also made him a teacher, him and Oholiab, from the tribe of Dan. God has gifted them with the know-how for all sorts of things, from carving and designing to weaving and embroidering. These guys can make and design anything.'
+  [KO p4] 모세가 이스라엘 백성들한테 말했어. '얘들아, 봐봐. 하나님이 유다 지파의 브살렐을 딱 지명하셨어. 그를 하나님의 영으로 충만하게 하셔서, 온갖 종류의 물건을 만드는 데 필요한 기술, 능력, 지식을 주셨대. 금, 은, 청동으로 디자인하고 작업하고, 돌을 깎아 박고, 나무를 조각하는 모든 종류의 숙련된 기술을 다 할 수 있게 하신 거지. 그리고 하나님이 그를 가르치는 선생으로도 세우셨어. 단 지파의 오홀리압도 마찬가지야. 하나님이 그들에게 조각, 디자인, 직조, 자수 같은 모든 기술을 주셨대. 이 두 사람은 뭐든지 만들고 디자인할 수 있는 역대급 장인들이라고.'
+
+--- MSG [30-35] ---
+Moses told the Israelites, “See, God has selected Bezalel son of Uri, son of Hur, of the tribe of Judah. He’s filled him with the Spirit of God, with skill, ability, and know-how for making all sorts of things, to design and work in gold, silver, and bronze; to carve stones and set them; to carve wood, working in every kind of skilled craft. And he’s also made him a teacher, he and Oholiab son of Ahisamach, of the tribe of Dan. He’s gifted them with the know-how needed for carving, designing, weaving, and embroidering in blue, purple, and scarlet fabrics, and in fine linen. They can make anything and design anything.”
+
+>>> TEEN:
+  [p4 badge=29-35] Moses told the Israelites, 'Check it out, God has handpicked Bezalel, from the tribe of Judah. He's filled him with the Spirit of God, giving him mad skills, ability, and knowledge in all kinds of crafts. He can design and work with gold, silver, and bronze, carve and set stones, and carve wood. He's a master craftsman. And God also made him a teacher, him and Oholiab, from the tribe of Dan. God has gifted them with the know-how for all sorts of things, from carving and designing to weaving and embroidering. These guys can make and design anything.'
+  [KO p4] 모세가 이스라엘 백성들한테 말했어. '얘들아, 봐봐. 하나님이 유다 지파의 브살렐을 딱 지명하셨어. 그를 하나님의 영으로 충만하게 하셔서, 온갖 종류의 물건을 만드는 데 필요한 기술, 능력, 지식을 주셨대. 금, 은, 청동으로 디자인하고 작업하고, 돌을 깎아 박고, 나무를 조각하는 모든 종류의 숙련된 기술을 다 할 수 있게 하신 거지. 그리고 하나님이 그를 가르치는 선생으로도 세우셨어. 단 지파의 오홀리압도 마찬가지야. 하나님이 그들에게 조각, 디자인, 직조, 자수 같은 모든 기술을 주셨대. 이 두 사람은 뭐든지 만들고 디자인할 수 있는 역대급 장인들이라고.'

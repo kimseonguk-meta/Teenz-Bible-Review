@@ -1,0 +1,76 @@
+# EXODUS 24 — God's Exclusive honored Party on the Mountain
+TEEN paras: 10 | badges: ['1-2', '3', '4-6', '7', '8', '9-11', '12-13', '14', '15-16', '17-18']
+KO paras: 10 | badges: ['1-2', '3', '4-6', '7', '8', '9-11', '12-13', '14', '15-16', '17-18']
+MSG sections: 10 | ranges: ['1-2', '3', '4-6', '7', '8', '9-11', '12-13', '14', '15-17', '18']
+
+--- MSG [1-2] ---
+He said to Moses, “Climb the mountain to God, you and Aaron, Nadab, Abihu, and seventy of the elders of Israel. They will worship from a distance; only Moses will approach God. The rest are not to come close. And the people are not to climb the mountain at all.”
+
+>>> TEEN:
+  [p0 badge=1-2] God told Moses, "Yo, you and Aaron, Nadab, Abihu, and seventy of Israel's elders need to climb the mountain to meet with me. They gotta worship from a distance, though. Only you, Moses, can get close to God. The rest of them can't come near, and the people can't even set foot on the mountain."
+  [KO p0] 하나님이 모세한테 말했대. "너랑 아론, 나답, 아비후, 그리고 이스라엘 장로 70명은 산으로 올라와라. 근데 걔네는 멀리서만 경배해야 됨. 오직 너, 모세만 가까이 올 수 있어. 나머지는 접근 금지고, 백성들은 아예 산에 올라오면 안 돼."
+
+--- MSG [3] ---
+So Moses went to the people and told them everything God had said—all the rules and regulations. They all answered in unison: “Everything God said, we’ll do.”
+
+>>> TEEN:
+  [p1 badge=3] So Moses went and told the people everything God had laid out—all the rules and everything. They all answered back together, "Whatever God said, we'll do it."
+  [KO p1] 그래서 모세가 백성들한테 가서 하나님이 하신 모든 말씀, 모든 규칙들을 다 말해줬대. 그랬더니 모두가 한목소리로 "하나님이 말씀하신 거 다 할게요"라고 대답한 거임.
+
+--- MSG [4-6] ---
+Then Moses wrote it all down, everything God had said. He got up early the next morning and built an Altar at the foot of the mountain using twelve pillar-stones for the twelve tribes of Israel. Then he directed young Israelite men to offer Whole-Burnt-Offerings and sacrifice Peace-Offerings of bulls. Moses took half the blood and put it in bowls; the other half he threw against the Altar.
+
+>>> TEEN:
+  [p2 badge=4-6] Then Moses wrote down everything God had said. He got up super early the next morning and built an altar at the bottom of the mountain, using twelve stone pillars for the twelve tribes of Israel. Then he had some young Israelite guys offer up burnt offerings and sacrifice bulls as peace offerings. Moses took half of the blood and put it in bowls, and the other half he splashed against the altar.
+  [KO p2] 그러고 나서 모세는 하나님이 하신 모든 말씀을 다 적었대. 다음날 아침 일찍 일어나서 산기슭에 제단을 쌓고, 이스라엘 12지파를 상징하는 돌기둥 12개를 세웠지. 그리고 젊은 청년들한테 번제랑 화목제로 쓸 소를 바치게 했어. 모세는 피의 절반은 그릇에 담고, 나머지 절반은 제단에 뿌렸대.
+
+--- MSG [7] ---
+Then he took the Book of the Covenant and read it as the people listened. They said, “Everything God said, we’ll do. Yes, we’ll obey.”
+
+>>> TEEN:
+  [p3 badge=7] Then he took the Book of the Covenant and read it out loud so all the people could hear. They said, "Everything God said, we'll do. Yeah, we'll obey."
+  [KO p3] 그리고 언약의 책을 가져다가 백성들한테 읽어줬는데, 그걸 들은 백성들이 "하나님이 말씀하신 모든 것을 우리가 다 행하고, 순종하겠습니다!"라고 말했대. 진짜 순종 모드.
+
+--- MSG [8] ---
+Moses took the rest of the blood and threw it out over the people, saying, “This is the blood of the covenant which God has made with you out of all these words I have spoken.”
+
+>>> TEEN:
+  [p4 badge=8] Moses then took the rest of the blood and sprinkled it over the people, saying, "This blood is the seal of the covenant that God has made with you based on all these words I've spoken."
+  [KO p4] 모세가 남은 피를 가져다가 백성들한테 뿌리면서 말했어. "이건 하나님이 이 모든 말씀을 근거로 너희와 맺으시는 언약의 피다."
+
+--- MSG [9-11] ---
+Then they climbed the mountain—Moses and Aaron, Nadab and Abihu, and seventy of the elders of Israel—and saw the God of Israel. He was standing on a pavement of something like sapphires—pure, clear sky-blue. He didn’t hurt these pillar-leaders of the Israelites: They saw God; and they ate and drank.
+
+>>> TEEN:
+  [p5 badge=9-11] After that, they went up the mountain—Moses, Aaron, Nadab, Abihu, and the seventy elders of Israel—and they saw the God of Israel. He was standing on something that looked like a pavement made of sapphires, like a perfectly clear blue sky. And he didn't even harm these top leaders of the Israelites. They saw God, and then they ate and drank.
+  [KO p5] 그 후에 모세랑 아론, 나답과 아비후, 그리고 이스라엘 장로 70명이 산에 올라가서 이스라엘의 하나님을 봤대. 하나님 발밑에는 사파이어를 깔아놓은 것 같은 게 있었는데, 하늘처럼 맑고 투명했대. 대박이지. 하나님이 이스라엘의 지도자들을 해치지 않으셔서, 그들은 하나님을 뵙고 함께 먹고 마셨다는 거임.
+
+--- MSG [12-13] ---
+God said to Moses, “Climb higher up the mountain and wait there for me; I’ll give you tablets of stone, the teachings and commandments that I’ve written to instruct them.” So Moses got up, accompanied by Joshua his aide. And Moses climbed up the mountain of God.
+
+>>> TEEN:
+  [p6 badge=12-13] God said to Moses, "Climb up higher on the mountain and wait for me there. I'm gonna give you stone tablets with the teachings and commandments I've written to instruct them." So Moses got up with his assistant Joshua, and Moses climbed up the mountain of God.
+  [KO p6] 하나님이 모세한테 말했어. "산 더 위로 올라와서 기다려라. 내가 그들을 가르치려고 기록한 율법과 계명이 담긴 돌판을 너에게 주겠다." 그래서 모세는 자기 부관 여호수아랑 같이 일어나서 하나님의 산으로 올라갔지.
+
+--- MSG [14] ---
+He told the elders of Israel, “Wait for us here until we return to you. You have Aaron and Hur with you; if there are any problems, go to them.”
+
+>>> TEEN:
+  [p7 badge=14] He told the elders of Israel, "Just wait here for us until we get back. You've got Aaron and Hur with you, so if any problems come up, go to them."
+  [KO p7] 모세가 장로들한테는 "우리가 돌아올 때까지 여기서 기다리셈. 아론이랑 훌이 있으니까 무슨 문제 생기면 그 사람들한테 가보셈" 하고 말했대.
+
+--- MSG [15-17] ---
+Then Moses climbed the mountain. The Cloud covered the mountain. The Glory of God settled over Mount Sinai. The Cloud covered it for six days. On the seventh day he called out of the Cloud to Moses. In the view of the Israelites below, the Glory of God looked like a raging fire at the top of the mountain.
+
+>>> TEEN:
+  [p8 badge=15-16] Then Moses climbed the mountain, and a cloud covered it. The Glory of God settled on Mount Sinai, and the cloud covered it for six days. On the seventh day, God called out to Moses from inside the cloud. To the Israelites watching from below, the Glory of God looked like a crazy, raging fire on top of the mountain.
+  [KO p8] 그리고 모세가 산에 오르자, 구름이 산을 덮었어. 여호와의 영광이 시내산 위에 머물렀고, 구름이 6일 동안 산을 덮고 있었대. 7일째 되는 날, 하나님이 구름 속에서 모세를 불렀어. 산 아래에 있던 이스라엘 백성들 눈에는 여호와의 영광이 산꼭대기에서 맹렬하게 타오르는 불처럼 보였대. 완전 역대급.
+  [p9 badge=17-18] Moses went right into the middle of the cloud and kept climbing the mountain. He was on the mountain for forty days and forty nights.
+  [KO p9] 모세는 구름 속으로 들어가서 산을 올랐고, 40일 밤낮으로 산에 있었다는 거임.
+
+--- MSG [18] ---
+Moses entered the middle of the Cloud and climbed the mountain. Moses was on the mountain forty days and forty nights.
+
+>>> TEEN:
+  [p9 badge=17-18] Moses went right into the middle of the cloud and kept climbing the mountain. He was on the mountain for forty days and forty nights.
+  [KO p9] 모세는 구름 속으로 들어가서 산을 올랐고, 40일 밤낮으로 산에 있었다는 거임.

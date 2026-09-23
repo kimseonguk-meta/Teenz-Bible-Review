@@ -1,0 +1,99 @@
+# EXODUS 13 — God's Ultimate Escape Plan & Road Rules
+TEEN paras: 13 | badges: ['1-2', '3', '4-5', '6', '7', '8', '9-10', '11-12', '13-16', '17-18', '18', '19', '20-22']
+KO paras: 13 | badges: ['1-2', '3', '4-5', '6', '7', '8', '9-10', '11-12', '13-16', '17-18', '18', '19', '20-22']
+MSG sections: 13 | ranges: ['1-2', '3', '4-5', '6', '7', '8', '9-10', '11-13', '13-16', '17', '18', '19', '20-22']
+
+--- MSG [1-2] ---
+God spoke to Moses, saying, “Set apart every firstborn to me—the first one to come from the womb among the Israelites, whether person or animal, is mine.”
+
+>>> TEEN:
+  [p0 badge=1-2] God told Moses, “Yo, listen up. Every firstborn male, the first one out of the womb from the Israelites, whether it’s a person or an animal, is mine. Claimed.”
+  [KO p0] 하나님이 모세한테 말했대. “이스라엘 백성 중에서 처음 태어나는 모든 것, 사람이든 동물이든 첫째는 다 내 거니까 나한테 바쳐라.”
+
+--- MSG [3] ---
+Moses said to the people, “Always remember this day. This is the day when you came out of Egypt from a house of slavery. God brought you out of here with a powerful hand. Don’t eat any raised bread.
+
+>>> TEEN:
+  [p1 badge=3] Moses then told the people, “Never forget this day. This is the day you bounced from Egypt, from the house of slavery. God brought you out with a seriously powerful hand. So, no eating bread made with yeast.
+  [KO p1] 모세가 백성들한테 말했어. “오늘을 꼭 기억해라. 오늘이 너네가 노예 생활하던 이집트에서 나온 날이야. 하나님이 진짜 대단한 능력으로 너네를 여기서 꺼내주셨어. 그러니까 누룩 넣은 빵은 절대 먹지 마.
+
+--- MSG [4-5] ---
+“You are leaving in the spring month of Abib. When God brings you into the land of the Canaanite, the Hittite, the Amorite, the Hivite, and the Jebusite, which he promised to your fathers to give you, a land lavish with milk and honey, you are to observe this service during this month:
+
+>>> TEEN:
+  [p2 badge=4-5] “You’re leaving during the spring month of Abib. And when God gets you to the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites—this awesome land flowing with milk and honey that he promised your ancestors he’d give you—you have to celebrate this service this same month.
+  [KO p2] “너네가 지금 떠나는 게 아빕월, 봄이거든. 하나님이 너네 조상들한테 주기로 약속했던 땅, 진짜 젖과 꿀이 흐르는 가나안, 헷, 아모리, 히위, 여부스 족속의 땅으로 너네를 데려가시면, 이 달에 이 예식을 지켜야 돼.
+
+--- MSG [6] ---
+“You are to eat unraised bread for seven days; on the seventh day there is a festival celebration to God.
+
+>>> TEEN:
+  [p3 badge=6] “For seven days, you’ll eat bread without yeast. On the seventh day, there’s a huge festival for God.
+  [KO p3] “7일 동안은 누룩 없는 빵을 먹고, 7일째 되는 날에는 하나님을 위한 축제를 여는 거야.
+
+--- MSG [7] ---
+“Only unraised bread is to be eaten for seven days. There is not to be a trace of anything fermented—no yeast anywhere.
+
+>>> TEEN:
+  [p4 badge=7] “Yeah, for real, only yeast-free bread for seven days. Not even a crumb of anything fermented. No yeast allowed, anywhere.
+  [KO p4] “그래, 7일 동안은 누룩 없는 빵만 먹어야 됨. 발효된 건 흔적도 없어야 돼. 효모 같은 거 절대 안 됨.
+
+--- MSG [8] ---
+“Tell your child on that day: ‘This is because of what God did for me when I came out of Egypt.’
+
+>>> TEEN:
+  [p5 badge=8] “And on that day, you’ll tell your kid: ‘This is all because of what God did for me when I escaped from Egypt.’
+  [KO p5] “그날이 되면 네 아들한테 이렇게 말해줘. ‘이건 내가 이집트에서 나올 때 하나님이 나를 위해 해주신 일 때문이야’라고.
+
+--- MSG [9-10] ---
+“The day of observance will be like a sign on your hand, a memorial between your eyes, and the teaching of God in your mouth. It was with a powerful hand that God brought you out of Egypt. Follow these instructions at the set time, year after year after year.
+
+>>> TEEN:
+  [p6 badge=9-10] “This whole observance will be like a sign on your hand, a reminder right between your eyes, and God’s teaching will be on your lips. Because it was with a powerful hand that God got you out of Egypt. You gotta follow these rules at the right time, every single year.
+  [KO p6] “이 기념일은 네 손의 표시, 네 눈 사이의 기념물, 그리고 네 입의 하나님의 가르침처럼 될 거야. 하나님이 강력한 손으로 너를 이집트에서 이끌어 내셨기 때문이지. 매년 정해진 때에 이 지침을 따라야 한다, 계속.
+
+--- MSG [11-13] ---
+“When God brings you into the land of the Canaanites, as he promised you and your fathers, and turns it over to you, you are to set aside the first birth out of every womb to God. Every first birth from your livestock belongs to God. You can redeem every first birth of a donkey if you want to by substituting a lamb; if you decide not to redeem it, you must break its neck.
+
+>>> TEEN:
+  [p7 badge=11-12] “When God brings you into the Canaanite land, just like he promised you and your ancestors, and hands it over to you, you have to set aside the first male born from every womb for God. Every firstborn male from your livestock also belongs to God. You can buy back a firstborn donkey by swapping it for a lamb. But if you don’t buy it back, you have to break its neck.
+  [KO p7] “하나님이 너와 네 조상들에게 약속하신 대로 너를 가나안 사람들의 땅으로 데려가셔서 그 땅을 너에게 넘겨주실 때, 너는 모든 태에서 처음 태어난 것을 하나님께 바쳐야 해. 네 가축의 모든 첫 수컷도 하나님의 것이야. 나귀의 첫 새끼는 양으로 대신해서 되찾을 수 있어. 만약 되찾지 않으려면 목을 꺾어야 하고.
+  [p8 badge=13-16] “You have to buy back every firstborn son you have. And when the time comes and your son asks, ‘Yo, what’s this all about?’ you tell him, ‘God brought us out of Egypt, out of slavery, with a crazy-strong hand. When Pharaoh was being super stubborn and wouldn’t let us go, God took out every firstborn in Egypt, both people and animals. That’s why I sacrifice every firstborn male animal to God and buy back every firstborn son.’ This whole thing is like a sign on your hand or a symbol on your forehead: God brought us out of Egypt with a powerful hand.”
+  [KO p8] “네 아들들 중 모든 맏아들은 되찾아야 해. 때가 되어 네 아들이 ‘아빠, 이게 다 뭐예요?’라고 물으면, 너는 그에게 이렇게 말해줘. ‘하나님이 우리를 노예의 집이었던 이집트에서 강력한 손으로 이끌어 내셨어. 파라오가 끝까지 고집부리면서 우리를 안 보내주려고 할 때, 하나님이 이집트의 모든 첫째 아들, 사람이든 동물이든 다 죽이셨지. 그래서 내가 모든 태에서 처음 태어난 수컷을 하나님께 제물로 바치고, 모든 맏아들은 되찾는 거야.’ 이 의식은 네 손의 표시나 이마의 상징과 같아. 하나님이 우리를 강력한 손으로 이집트에서 이끌어 내셨다는 뜻이지.”
+
+--- MSG [13-16] ---
+“Redeem every firstborn child among your sons. When the time comes and your son asks you, ‘What does this mean?’ you tell him, ‘God brought us out of Egypt, out of a house of slavery, with a powerful hand. When Pharaoh stubbornly refused to let us go, God killed every firstborn in Egypt, the firstborn of both humans and animals. That’s why I make a sacrifice for every first male birth from the womb to God and redeem every firstborn son.’ The observance functions like a sign on your hands or a symbol on the middle of your forehead: God brought us out of Egypt with a powerful hand.”
+
+>>> TEEN:
+  [p8 badge=13-16] “You have to buy back every firstborn son you have. And when the time comes and your son asks, ‘Yo, what’s this all about?’ you tell him, ‘God brought us out of Egypt, out of slavery, with a crazy-strong hand. When Pharaoh was being super stubborn and wouldn’t let us go, God took out every firstborn in Egypt, both people and animals. That’s why I sacrifice every firstborn male animal to God and buy back every firstborn son.’ This whole thing is like a sign on your hand or a symbol on your forehead: God brought us out of Egypt with a powerful hand.”
+  [KO p8] “네 아들들 중 모든 맏아들은 되찾아야 해. 때가 되어 네 아들이 ‘아빠, 이게 다 뭐예요?’라고 물으면, 너는 그에게 이렇게 말해줘. ‘하나님이 우리를 노예의 집이었던 이집트에서 강력한 손으로 이끌어 내셨어. 파라오가 끝까지 고집부리면서 우리를 안 보내주려고 할 때, 하나님이 이집트의 모든 첫째 아들, 사람이든 동물이든 다 죽이셨지. 그래서 내가 모든 태에서 처음 태어난 수컷을 하나님께 제물로 바치고, 모든 맏아들은 되찾는 거야.’ 이 의식은 네 손의 표시나 이마의 상징과 같아. 하나님이 우리를 강력한 손으로 이집트에서 이끌어 내셨다는 뜻이지.”
+
+--- MSG [17] ---
+It so happened that after Pharaoh released the people, God didn’t lead them by the road through the land of the Philistines, which was the shortest route, for God thought, “If the people encounter war, they’ll change their minds and go back to Egypt.”
+
+>>> TEEN:
+  [p9 badge=17-18] So, it turned out that after Pharaoh finally let the people go, God didn’t lead them on the road through Philistine territory, even though that was the shortcut. God thought, “If the people have to deal with a war, they’ll probably freak out and just go back to Egypt.”
+  [KO p9] 파라오가 백성을 내보낸 후에, 하나님은 필리스티아 사람들 땅을 통과하는 길로 그들을 인도하지 않으셨대. 그게 지름길이었는데도 말이야. 왜냐면 하나님이 생각하시기에, “만약 백성들이 전쟁을 겪게 되면, 마음이 바뀌어서 이집트로 돌아가 버릴지도 몰라” 하셨거든.
+
+--- MSG [18] ---
+So God led the people on the wilderness road, looping around to the Red Sea. The Israelites left Egypt in military formation.
+
+>>> TEEN:
+  [p9 badge=17-18] So, it turned out that after Pharaoh finally let the people go, God didn’t lead them on the road through Philistine territory, even though that was the shortcut. God thought, “If the people have to deal with a war, they’ll probably freak out and just go back to Egypt.”
+  [KO p9] 파라오가 백성을 내보낸 후에, 하나님은 필리스티아 사람들 땅을 통과하는 길로 그들을 인도하지 않으셨대. 그게 지름길이었는데도 말이야. 왜냐면 하나님이 생각하시기에, “만약 백성들이 전쟁을 겪게 되면, 마음이 바뀌어서 이집트로 돌아가 버릴지도 몰라” 하셨거든.
+  [p10 badge=18] So God led the people the long way around, on the wilderness road toward the Red Sea. The Israelites left Egypt looking like a legit army.
+  [KO p10] 그래서 하나님은 백성들을 광야 길로, 홍해 쪽으로 삥 둘러서 인도하셨어. 이스라엘 백성들은 완전 군대처럼 대열을 갖추고 이집트를 떠났지.
+
+--- MSG [19] ---
+Moses took the bones of Joseph with him, for Joseph had made the Israelites solemnly swear to do it, saying, “God will surely hold you accountable, so make sure you bring my bones from here with you.”
+
+>>> TEEN:
+  [p11 badge=19] Moses made sure to take Joseph’s bones with him. Joseph had made the Israelites swear a super serious oath, saying, “God will definitely come through for you, so you have to promise to take my bones with you from here.”
+  [KO p11] 모세는 요셉의 뼈를 챙겨갔어. 왜냐면 요셉이 이스라엘 백성들한테 단단히 맹세시켰거든. “하나님이 분명히 너희를 돌보실 거다. 그때 내 뼈를 꼭 여기서 가지고 나가야 한다” 이렇게.
+
+--- MSG [20-22] ---
+They moved on from Succoth and then camped at Etham at the edge of the wilderness. God went ahead of them in a Pillar of Cloud during the day to guide them on the way, and at night in a Pillar of Fire to give them light; thus they could travel both day and night. The Pillar of Cloud by day and the Pillar of Fire by night never left the people.
+
+>>> TEEN:
+  [p12 badge=20-22] They packed up from Succoth and camped at Etham, right on the edge of the wilderness. God was out in front of them, leading the way in a Pillar of Cloud during the day, and at night, in a Pillar of Fire to light everything up. That way, they could travel day or night. The Pillar of Cloud by day and the Pillar of Fire by night never left its spot at the front of the people.
+  [KO p12] 그들은 숙곳을 떠나서 광야 끝에 있는 에담에 진을 쳤어. 하나님은 낮에는 구름 기둥으로 그들 앞에서 길을 안내해주셨고, 밤에는 불기둥으로 빛을 비춰주셨대. 그래서 밤낮으로 이동할 수 있었던 거임. 낮의 구름 기둥과 밤의 불기둥은 백성들 앞에서 절대 떠나지 않았어.

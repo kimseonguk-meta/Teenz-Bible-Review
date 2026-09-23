@@ -1,0 +1,194 @@
+### TITLE EN: Paul vs. The World
+### TITLE KO: 바울 vs 세상
+
+[MSG 0] range=1-4 header='Tyre and Caesarea'
+And so, with the tearful good-byes behind us, we were on our way. We made a straight run to Cos, the next day reached Rhodes, and then Patara. There we found a ship going direct to Phoenicia, got on board, and set sail. Cyprus came into view on our left, but was soon out of sight as we kept on course for Syria, and eventually docked in the port of Tyre. While the cargo was being unloaded, we looked up the local disciples and stayed with them seven days. Their message to Paul, from insight given by the Spirit, was "Don't go to Jerusalem."
+
+[MSG 1] range=5-6 header=None
+When our time was up, they escorted us out of the city to the docks. Everyone came along—men, women, children. They made a farewell party of the occasion! We all kneeled together on the beach and prayed. Then, after another round of saying good-bye, we climbed on board the ship while they drifted back to their homes.
+
+[MSG 2] range=7-9 header=None
+A short run from Tyre to Ptolemais completed the voyage. We greeted our Christian friends there and stayed with them a day. In the morning we went on to Caesarea and stayed with Philip the Evangelist, one of "the Seven." Philip had four virgin daughters who prophesied.
+
+[MSG 3] range=10-11 header=None
+After several days of visiting, a prophet from Judea by the name of Agabus came down to see us. He went right up to Paul, took Paul's belt, and, in a dramatic gesture, tied himself up, hands and feet. He said, "This is what the Holy Spirit says: The Jews in Jerusalem are going to tie up the man who owns this belt just like this and hand him over to godless unbelievers."
+
+[MSG 4] range=12-13 header=None
+When we heard that, we and everyone there that day begged Paul not to be stubborn and persist in going to Jerusalem. But Paul wouldn't budge: "Why all this hysteria? Why do you insist on making a scene and making it even harder for me? You're looking at this backward. The issue in Jerusalem is not what they do to me, whether arrest or murder, but what the Master Jesus does through my obedience. Can't you see that?"
+
+[MSG 5] range=14 header=None
+We saw that we weren't making even a dent in his resolve, and gave up. "It's in God's hands now," we said. "Master, you handle it."
+
+[MSG 6] range=15-16 header=None
+It wasn't long before we had our luggage together and were on our way to Jerusalem. Some of the disciples from Caesarea went with us and took us to the home of Mnason, who received us warmly as his guests. A native of Cyprus, he had been among the earliest disciples.
+
+[MSG 7] range=17-19 header='Jerusalem'
+In Jerusalem, our friends, glad to see us, received us with open arms. The first thing next morning, we took Paul to see James. All the church leaders were there. After a time of greeting and small talk, Paul told the story, detail by detail, of what God had done among the non-Jewish people through his ministry. They listened with delight and gave God the glory.
+
+[MSG 8] range=20-21 header=None
+They had a story to tell, too: "And just look at what's been happening here—thousands upon thousands of God-fearing Jews have become believers in Jesus! But there's also a problem because they are more zealous than ever in observing the laws of Moses. They've been told that you advise believing Jews who live surrounded by unbelieving outsiders to go light on Moses, telling them that they don't need to circumcise their children or keep up the old traditions. This isn't sitting at all well with them.
+
+[MSG 9] range=22-24 header=None
+"We're worried about what will happen when they discover you're in town. There's bound to be trouble. So here is what we want you to do: There are four men from our company who have taken a vow involving ritual purification, but have no money to pay the expenses. Join these men in their vows and pay their expenses. Then it will become obvious to everyone that there is nothing to the rumors going around about you and that you are in fact scrupulous in your reverence for the laws of Moses.
+
+[MSG 10] range=25 header=None
+"In asking you to do this, we're not going back on our agreement regarding non-Jews who have become believers. We continue to hold fast to what we wrote in that letter, namely, to be careful not to get involved in activities connected with idols; to avoid serving food offensive to Jewish Christians; to guard the morality of sex and marriage."
+
+[MSG 11] range=26 header=None
+So Paul did it—took the men, joined them in their vows, and paid their way. The next day he went to the Temple to make it official and stay there until the proper sacrifices had been offered and completed for each of them.
+
+[MSG 12] range=27-29 header='Paul Under Arrest'
+When the seven days of their purification were nearly up, some Jews from around Ephesus spotted him in the Temple. At once they turned the place upside-down. They grabbed Paul and started yelling at the top of their lungs, "Help! You Israelites, help! This is the man who is going all over the world telling lies against us and our religion and this place. He's even brought Greeks in here and defiled this holy place." (What had happened was that they had seen Paul and Trophimus, the Ephesian Greek, walking together in the city and had just assumed that he had also taken him to the Temple and shown him around.)
+
+[MSG 13] range=30 header=None
+Soon the whole city was in an uproar, people running from everywhere to the Temple to get in on the action. They grabbed Paul, dragged him outside, and locked the Temple gates so he couldn't get back in and gain sanctuary.
+
+[MSG 14] range=31-32 header=None
+As they were trying to kill him, word came to the captain of the guard, "A riot! The whole city's boiling over!" He acted swiftly. His soldiers and centurions ran to the scene at once. As soon as the mob saw the captain and his soldiers, they quit beating Paul.
+
+[MSG 15] range=33-36 header=None
+The captain came up and put Paul under arrest. He first ordered him handcuffed, and then asked who he was and what he had done. All he got from the crowd were shouts, one yelling this, another that. It was impossible to tell one word from another in the mob hysteria, so the captain ordered Paul taken to the military barracks. But when they got to the Temple steps, the mob became so violent that the soldiers had to carry Paul. As they carried him away, the crowd followed, shouting, "Kill him! Kill him!"
+
+[MSG 16] range=37-38 header=None
+When they got to the barracks and were about to go in, Paul said to the captain, "Can I say something to you?" He answered, "Oh, I didn't know you spoke Greek. I thought you were the Egyptian who not long ago started a riot here, and then hid out in the desert with his four thousand thugs."
+
+[MSG 17] range=39 header=None
+Paul said, "No, I'm a Jew, born in Tarsus. And I'm a citizen still of that influential city. I have a simple request: Let me speak to the crowd."
+
+[MSG 18] range=40 header='Paul Tells His Story'
+Standing on the barracks steps, Paul turned and held his arms up. A hush fell over the crowd as Paul began to speak. He spoke in Hebrew.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Heading to Jerusalem
+
+[EN 1] badge=1-3
+So after a super emotional goodbye where everyone was bawling their eyes out, we bounced. We made a beeline for Cos, then hit up Rhodes the next day, and then Patara. We found a ship heading straight to Phoenicia, so we hopped on. We saw Cyprus for a hot second, but then it was out of sight as we kept cruising to Syria. We finally docked in Tyre. While they were unloading the cargo, we found some local believers and crashed with them for a week. They got a message from the Holy Spirit and were like, “Look, for real, don’t go to Jerusalem. It’s a trap!”
+
+[EN 2] badge=4-6
+When our week was up, the whole crew—guys, ladies, and kids—walked us to the docks. It was a total farewell party! We all knelt on the beach and prayed. After another round of goodbyes, we got on the ship, and they all went home.
+
+[EN 3] badge=7-9
+It was a quick trip from Tyre to Ptolemais. We said what’s up to our Christian friends there and stayed for a day. The next morning, we were off to Caesarea and stayed with Philip the Evangelist, one of the original seven deacons. Fun fact: Philip had four daughters who were all prophets.
+
+[EN 4] badge=None
+§Agabus's Warning
+
+[EN 5] badge=10-11
+After a few days of chilling, a prophet named Agabus from Judea came to see us. He walked right up to Paul, snatched his belt, and in a dramatic prophetic gesture, tied his own hands and feet with it. Then he goes, “The Holy Spirit says this: The man who owns this belt is gonna get tied up just like this by the Jews in Jerusalem and handed over to the Gentiles.”
+
+[EN 6] badge=12-14
+When we heard that, we and everyone else there begged Paul not to be so stubborn and just ghost Jerusalem. But Paul was like, “Hey, why are you all panicking? You’re making this way harder for me. You’re looking at it all wrong. It’s not about what they do to me in Jerusalem, whether they arrest me or kill me. It’s about what the Master Jesus does through me when I obey. Don’t you get it?”
+
+[EN 7] badge=15
+We realized we couldn’t change his mind, so we just gave up. “It’s in God’s hands now,” we said. “You do you, Master.”
+
+[EN 8] badge=16
+Soon after, we packed our bags and headed to Jerusalem. Some of the believers from Caesarea came with us and took us to Mnason’s house. He was super welcoming. He was from Cyprus and was one of the OG disciples.
+
+[EN 9] badge=17-19
+In Jerusalem, our friends were stoked to see us and gave us a huge welcome. The next morning, we took Paul to see James, the head honcho of the Jerusalem church. All the church leaders were there too. After catching up, Paul told them everything, play-by-play, about how God had been working among the non-Jews through his ministry. They were totally blown away and gave God a massive shout-out.
+
+[EN 10] badge=20-21
+Then they were like, “Look, you won’t believe what’s been happening here. Thousands of Jews who are all about God have become believers in Jesus! But here’s the tea: they’re also super intense about following the laws of Moses. And they’ve heard some rumors that you’re telling Jews who live around non-Jews to chill out on the old rules, like not circumcising their kids or keeping up the traditions. They are not happy about it.”
+
+[EN 11] badge=22-25
+“We’re kinda worried about what’s gonna happen when they find out you’re in town. It’s gonna be a whole thing. So here’s the plan: we’ve got four guys here who made a vow to do a purification ritual, but they’re broke. You should join them and pay for their expenses. That way, everyone will see that the rumors are fake news and that you’re actually all about respecting the laws of Moses.”
+
+[EN 12] badge=26
+“And don’t worry, we’re not changing our minds about the non-Jews who are believers. We still stand by what we wrote in that letter: they just need to stay away from anything to do with idols, not eat food that would gross out Jewish Christians, and keep it clean when it comes to sex and marriage.”
+
+[EN 13] badge=26-27
+So Paul did it. He took the four guys, joined their vow, and paid for everything. The next day, he went to the Temple to make it official and stayed there until all the sacrifices were done for each of them.
+
+[EN 14] badge=None
+§Paul Arrested
+
+[EN 15] badge=27-29
+When the seven days of the purification were almost over, some Jews from around Ephesus saw him in the Temple. They immediately started a riot. They grabbed Paul and started screaming, “Help! Israelites, help! This is the guy who’s going all over the world, roasting our religion and this holy place. He even brought Greeks in here and contaminated it!” (What really happened was they saw Paul walking in the city with Trophimus, who was a Greek from Ephesus, and just assumed he brought him into the Temple.)
+
+[EN 16] badge=30-32
+Soon the whole city was in an uproar. People were running from everywhere to the Temple to see what was going on. They grabbed Paul, dragged him outside, and locked the Temple gates so he couldn’t get back in and claim sanctuary.
+
+[EN 17] badge=33-35
+While they were trying to kill him, someone told the captain of the guard, “There’s a massive riot! The whole city is going crazy!” He acted fast. He and his soldiers ran to the scene. As soon as the mob saw the captain and his soldiers, they stopped beating Paul.
+
+[EN 18] badge=36
+The captain arrested Paul and had him handcuffed. Then he asked who he was and what he had done. But all he got was a bunch of shouting from the crowd. It was impossible to understand anything in the chaos, so the captain ordered Paul to be taken to the military barracks. But when they got to the Temple steps, the mob got so violent that the soldiers had to carry Paul. As they carried him away, the crowd followed, screaming, “Kill him! Kill him!”
+
+[EN 19] badge=37
+When they were about to go into the barracks, Paul said to the captain, “Can I say something to you?”
+
+[EN 20] badge=38
+The captain was surprised. “Oh, you speak Greek? I thought you were that Egyptian guy who started a riot a while back and then hid in the desert with his four thousand troublemakers.”
+
+[EN 21] badge=39
+Paul was like, “Nah, I’m a Jew, born in Tarsus, a pretty important city. I just have one request: let me talk to the crowd.”
+
+[EN 22] badge=40
+Standing on the barracks steps, Paul raised his arms. The crowd went silent. Then Paul started to speak. He spoke in Hebrew.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§예루살렘으로 향하다
+
+[KO 1] badge=1-4
+눈물의 작별인사를 하고 우리는 바로 출발했음. 바로 고스로 갔다가 다음 날 로도에 도착했고, 그다음엔 바다라에 도착했지. 거기서 페니키아로 바로 가는 배를 발견해서 그걸 타고 출발한 거야. 시리아로 가는 길에 왼쪽으로 키프로스 섬이 보였다가 사라졌어. 드디어 우리는 두로 항구에 도착! 짐 내리는 동안 거기 사는 제자들을 찾아서 7일 동안 같이 지냈음. 그 형들이 성령님의 감동으로 앞으로 있을 일을 알고 바울한테 "예루살렘 가지 마셈"이라고 말해줬어.
+
+[KO 2] badge=5-6
+이제 갈 시간이 되니까 그 사람들이 시내에서 항구까지 우리를 배웅해 줬어. 남녀노소 할 거 없이 다 따라온 거 있지. 완전 송별회 분위기였음! 바닷가에서 다 같이 무릎 꿇고 기도하고, 다시 한번 작별인사하고 우리는 배에 타고 그 사람들은 집으로 돌아갔어.
+
+[KO 3] badge=7-9
+두로에서 돌레마이까지 금방 도착했어. 거기서도 크리스천 형들한테 인사하고 하루 같이 지냈지. 아침에는 가이사랴로 가서 '일곱 명' 중 한 명인 전도자 빌립의 집에서 지냈어. 빌립에게는 예언하는 능력이 있는 딸이 네 명이나 있었대.
+
+[KO 4] badge=10-11
+거기서 며칠 지내고 있는데, 아가보라는 예언자가 유대에서 우리를 보러 왔어. 오자마자 바울한테 가더니, 갑자기 바울 허리띠를 가져다가 자기 손발을 묶는 퍼포먼스를 하는 거야. 그러더니 "성령님이 말씀하심. '예루살렘 유대인들이 이 허리띠 주인을 이렇게 묶어서 하나님 안 믿는 사람들한테 넘겨줄 거임'"이라고 말했어.
+
+[KO 5] badge=12-13
+그 말을 듣고 우리랑 거기 있던 사람들 전부 바울한테 예루살렘 가지 말라고, 제발 그 고집 좀 꺾으라고 빌었지. 근데 바울은 완전 단호했어. "왜들 이래? 왜 이렇게 시끄럽게 해서 나를 더 힘들게 만들어? 너네는 지금 완전 반대로 보고 있어. 예루살렘에서 중요한 건 내가 잡히든 죽든 그 사람들이 나한테 뭘 하느냐가 아니야. 내 순종을 통해서 주 예수님이 하시는 일이 중요한 거라고. 아직도 모르겠냐?"
+
+[KO 6] badge=14
+바울 마음이 진짜 확고한 걸 보고 우리는 포기했어. "이제 하나님 손에 달렸네. 주님, 알아서 해주세요"라고 말했지.
+
+[KO 7] badge=15-16
+얼마 안 돼서 우리는 짐 싸서 예루살렘으로 출발했어. 가이사랴에서 온 제자 몇 명도 같이 가서 우리를 나손이라는 사람 집에 데려다줬어. 그 아저씨는 우리를 완전 따뜻하게 맞아줬음. 키프로스 출신인데, 초창기 제자 중 한 명이었대.
+
+[KO 8] badge=17-19
+예루살렘에 도착하니까 동료들이 우리를 보고 엄청 반가워하면서 두 팔 벌려 환영해 줬어. 다음 날 아침, 우리는 바울이랑 같이 야고보를 만나러 갔지. 교회 리더들도 다 와 있었어. 서로 안부 묻고 인사 나눈 다음에, 바울이 그동안 하나님이 자기를 통해서 이방인들 사이에서 어떤 대단한 일들을 하셨는지 하나하나 다 얘기해 줬어. 다들 얘기를 듣고 완전 기뻐하면서 하나님께 영광을 돌렸지.
+
+[KO 9] badge=20-21
+그쪽도 할 얘기가 있었나 봐. "여기에 무슨 일이 있었는지 좀 봐봐. 하나님을 경외하는 유대인 수만 명이 예수를 믿게 됐어! 근데 문제가 뭐냐면, 이 사람들이 모세 율법을 지키는 데는 완전 진심이라는 거야. 지금 유대인들 사이에서 소문이 돌고 있는데, 당신이 이방인들 속에서 사는 유대인들한테 모세 율법 무시해도 된다고, 자식들한테 할례 안 시켜도 되고 옛날 전통 안 지켜도 된다고 가르친다는 거야. 근데 그건 이 사람들이 절대 받아들일 수 없는 얘기거든."
+
+[KO 10] badge=22-24
+"당신이 여기 온 걸 그 사람들이 알면 어떻게 될지 걱정이야. 분명히 문제 생길걸. 그러니까 이렇게 하자. 우리 중에 정결예식을 하기로 약속했는데 돈이 없어서 못한 사람이 네 명 있어. 당신이 그 사람들 서원에 같이 참여해서 비용을 좀 내줘. 그러면 당신에 대한 소문이 다 뻥이고, 당신이 모세 율법을 완전 존중한다는 게 모든 사람한테 확실히 보일 거야."
+
+[KO 11] badge=25
+"그렇다고 해서 우리가 전에 이방인 신자들에 대해 합의했던 걸 바꾸는 건 아니야. 우리는 그 편지에 쓴 내용은 계속 지킬 거야. '우상 관련된 활동에 끼지 말고, 유대인 크리스천들 기분 나쁘게 하는 음식 내놓지 말고, 성생활이랑 결혼은 도덕적으로 잘 지킬 것' 말이야."
+
+[KO 12] badge=26
+바울은 그 사람들 제안대로 했어. 그 네 사람을 데리고 가서 서원에 참여하고 비용도 내줬지. 다음 날에는 성전에 가서 공식적으로 알렸어. 각 사람을 위한 정결예식 제사를 드리고, 그게 끝날 때까지 거기 머물렀던 거야.
+
+[KO 13] badge=None
+§바울이 체포되다
+
+[KO 14] badge=27-29
+정결예식 기간인 7일이 거의 끝나갈 때쯤, 에베소 근처에서 온 유대인 몇 명이 성전에서 바울을 발견했어. 그들은 보자마자 그곳을 완전 뒤집어 놨지. 바울을 붙잡고 목이 터져라 소리치기 시작했어. "도와주세요! 이스라엘 동포 여러분, 도와주세요! 이 인간은 온 세상을 돌아다니면서 우리랑 우리 종교랑 이 성전을 욕하고 거짓말하는 놈입니다. 이제는 그리스 사람들까지 여기까지 데리고 들어와서 이 거룩한 곳을 더럽혔어요!" (사실 이건 착각이었는데, 바울이랑 에베소 사람 드로비모가 같이 시내를 돌아다니는 걸 보고, 바울이 그를 성전까지 데려와서 구경시켜줬을 거라고 지레짐작한 거였음.)
+
+[KO 15] badge=30
+순식간에 도시 전체가 난리가 났어. 여기저기서 사람들이 성전으로 달려와서 합세했지. 그들은 바울을 붙잡아서 성전 밖으로 끌어낸 다음에, 다시는 거룩한 곳에 못 들어오게 성전 문을 다 잠가버렸어.
+
+[KO 16] badge=31-32
+사람들이 바울을 거의 죽이려고 할 때, "폭동입니다! 도시 전체가 들끓고 있습니다!" 하는 보고가 경비대 지휘관한테 들어갔어. 지휘관은 바로 행동에 나섰지. 병사들이랑 백부장들이 바로 현장으로 달려갔어. 바울을 때리던 사람들은 지휘관이랑 병사들을 보고 나서야 멈췄지.
+
+[KO 17] badge=33-36
+지휘관이 다가가서 바울을 체포했어. 먼저 수갑부터 채우라고 명령하고, 그다음 "너 누구고 무슨 짓 했냐?"고 물었지. 근데 사람들한테서 들려오는 건 저마다 소리 지르는 것뿐이었어. 완전 난리통이라 무슨 말인지 알아들을 수가 없어서, 지휘관은 바울을 군대 막사로 데려가라고 명령했어. 근데 성전 계단에 이르렀을 때 사람들이 너무 난폭해져서 병사들이 바울을 들쳐메고 가야만 했어. 그들이 바울을 메고 가니까 사람들이 따라오면서 외쳤지. "죽여라! 저놈 죽여!"
+
+[KO 18] badge=37-38
+막사에 거의 다 와서 들어가려고 할 때, 바울이 지휘관한테 말했어. "저기, 한마디만 해도 될까요?" 지휘관이 대답했지. "오, 그리스 말을 할 줄 아네? 나는 당신이 얼마 전에 여기서 폭동 일으켰다가 자기 부하 4천 명 데리고 광야로 튄 그 이집트 놈인 줄 알았는데."
+
+[KO 19] badge=39
+바울이 말했어. "아닙니다. 저는 다소 출신 유대인입니다. 지금도 그 꽤 잘나가는 도시의 시민이고요. 부탁 하나만 들어주세요. 저 사람들한테 말할 기회를 좀 주세요."
+
+[KO 20] badge=40
+막사 계단에 서 있던 바울이 돌아서서 손을 들어 올렸어. 바울이 말을 시작하니까 시끄럽던 사람들이 조용해졌지. 그는 히브리말로 이야기했어.
+

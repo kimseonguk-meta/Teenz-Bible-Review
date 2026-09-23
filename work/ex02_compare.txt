@@ -1,0 +1,144 @@
+# EXODUS 2 — Moses's Wild Origin Story & Escape
+TEEN paras: 23 | badges: ['1-2', '3-4', '4', '5-6', '7', '8', '9', '10', '11-12', '13', '14', '14', '15', '16-17', '18', '19', '20', '20-22', '23', '24', '24', '25', '25']
+KO paras: 23 | badges: ['1-2', '3-4', '4', '5-6', '7', '8', '9', '10', '11-12', '13', '14', '14', '15', '16-17', '18', '19', '20', '20-22', '23', '24', '24', '25', '25']
+MSG sections: 18 | ranges: ['1-3', '4-6', '7', '8', '9', '10', '11-12', '13', '14', '15', '16-17', '18', '19', '20', '21-22', '23', '24', '25']
+
+--- MSG [1-3] ---
+A man from the family of Levi married a Levite woman. The woman became pregnant and had a son. She saw there was something special about him and hid him. She hid him for three months. When she couldn’t hide him any longer she got a little basket-boat made of papyrus, waterproofed it with tar and pitch, and placed the child in it. Then she set it afloat in the reeds at the edge of the Nile.
+
+>>> TEEN:
+  [p0 badge=1-2] So, check it out. This guy from the Levi family married a woman from the same tribe. She got pregnant and had a son. Right away, she could tell there was something super special about him, so she hid him for three months.
+  [KO p0] 레위 집안의 어떤 남자가 같은 레위 지파 여자랑 결혼했대. 그리고 그 여자가 임신해서 아들을 낳은 거임. 딱 보니까 애가 뭔가 보통이 아닌 거야, 완전 특별해 보였대. 그래서 석 달 동안 아기를 몰래 숨겨서 키웠어.
+  [p1 badge=3-4] When she just couldn't keep him a secret anymore, she got a small papyrus basket, basically a little boat, and waterproofed it with tar. She put the baby inside and set it floating in the reeds along the edge of the Nile River.
+  [KO p1] 근데 더 이상은 숨길 수가 없게 된 거지. 그래서 갈대로 만든 작은 상자, 거의 뭐 보트 같은 걸 구해서 역청이랑 나무 진으로 방수 처리를 싹 한 거야. 그리고 아기를 그 안에 넣어서 나일강 가장자리 갈대 사이에 띄워 보냈대.
+
+--- MSG [4-6] ---
+The baby’s older sister found herself a vantage point a little way off and watched to see what would happen to him. Pharaoh’s daughter came down to the Nile to bathe; her maidens strolled on the bank. She saw the basket-boat floating in the reeds and sent her maid to get it. She opened it and saw the child—a baby crying! Her heart went out to him. She said, “This must be one of the Hebrew babies.”
+
+>>> TEEN:
+  [p1 badge=3-4] When she just couldn't keep him a secret anymore, she got a small papyrus basket, basically a little boat, and waterproofed it with tar. She put the baby inside and set it floating in the reeds along the edge of the Nile River.
+  [KO p1] 근데 더 이상은 숨길 수가 없게 된 거지. 그래서 갈대로 만든 작은 상자, 거의 뭐 보트 같은 걸 구해서 역청이랑 나무 진으로 방수 처리를 싹 한 거야. 그리고 아기를 그 안에 넣어서 나일강 가장자리 갈대 사이에 띄워 보냈대.
+  [p2 badge=4] The baby's big sister was watching from a distance to see what would go down.
+  [KO p2] 그 아기 누나가 멀찍이서 동생이 어떻게 되나 지켜보고 있었어.
+  [p3 badge=5-6] Then, Pharaoh's daughter came down to the Nile to take a bath, while her maids were walking along the riverbank. She spotted the basket in the reeds and sent her maid to go get it. She opened it up and saw the baby—and he was crying! Her heart totally melted. She was like, "This has to be one of the Hebrew babies."
+  [KO p3] 그때 마침 파라오 딸이 목욕하러 나일강에 내려왔는데, 시녀들은 강둑을 거닐고 있었지. 공주가 갈대 사이에 있는 상자를 본 거야. 그래서 시녀를 시켜서 가져오게 했어. 열어보니까 아기가 떡하니 있는데, 막 울고 있는 거임! 공주 마음이 완전 약해졌지. "이거 분명 히브리 사람들 아기일 거야"라고 말했대.
+
+--- MSG [7] ---
+Then his sister was before her: “Do you want me to go and get a nursing mother from the Hebrews so she can nurse the baby for you?”
+
+>>> TEEN:
+  [p4 badge=7] Just then, his sister popped up and asked her, "Hey, you want me to go find a Hebrew woman who can nurse the baby for you?"
+  [KO p4] 바로 그때, 아기 누나가 공주 앞에 나타나서 말했어. "혹시 제가 가서 히브리 여자들 중에서 아기한테 젖 먹일 유모 한 명 구해올까요?"
+
+--- MSG [8] ---
+Pharaoh’s daughter said, “Yes. Go.” The girl went and called the child’s mother.
+
+>>> TEEN:
+  [p5 badge=8] Pharaoh's daughter said, "Yeah, go for it." So the girl went and got the baby's own mom.
+  [KO p5] 파라오 딸이 "그래, 좋지. 어서 가봐"라고 한 거야. 그래서 그 소녀는 달려가서 자기 엄마, 즉 아기 엄마를 데려왔어.
+
+--- MSG [9] ---
+Pharaoh’s daughter told her, “Take this baby and nurse him for me. I’ll pay you.” The woman took the child and nursed him.
+
+>>> TEEN:
+  [p6 badge=9] Pharaoh's daughter told the mom, "Take this baby and nurse him for me, and I'll pay you." So the woman took her child and nursed him.
+  [KO p6] 파라오 딸이 여자한테 말했지. "이 아기를 데려가서 나 대신 젖을 먹여줘. 삯은 내가 줄게." 그래서 그 여자는 자기 아들을 데려가서 젖을 먹일 수 있었대.
+
+--- MSG [10] ---
+After the child was weaned, she presented him to Pharaoh’s daughter who adopted him as her son. She named him Moses (Pulled-Out), saying, “I pulled him out of the water.”
+
+>>> TEEN:
+  [p7 badge=10] Once the kid was old enough, she brought him to Pharaoh's daughter, who adopted him as her own son. She named him Moses, which means 'Pulled-Out,' saying, "I pulled him out of the water."
+  [KO p7] 아기가 젖을 뗄 나이가 되자, 여자는 아기를 파라오 딸에게 데려갔고, 공주는 그를 아들로 삼았어. 그리고 이름을 모세('건져냄'이란 뜻)라고 지었지. "내가 그를 물에서 건져냈다" 이 말이야.
+
+--- MSG [11-12] ---
+Time passed. Moses grew up. One day he went and saw his brothers, saw all that hard labor. Then he saw an Egyptian hit a Hebrew—one of his relatives! He looked this way and then that; when he realized there was no one in sight, he killed the Egyptian and buried him in the sand.
+
+>>> TEEN:
+  [p8 badge=11-12] Time went by, and Moses grew up. One day, he went out to see his own people, the Hebrews, and saw how hard their labor was. Then he saw an Egyptian beating up a Hebrew, one of his own relatives! He looked around, and when he saw no one was watching, he killed the Egyptian and buried him in the sand.
+  [KO p8] 시간이 흘러서 모세는 어른이 됐어. 어느 날 자기 형제들, 즉 히브리 사람들이 얼마나 힘들게 일하는지 보러 나갔다가, 이집트 사람 하나가 자기 동족인 히브리 사람을 때리는 걸 본 거야. 모세가 주변을 휙휙 둘러봤는데 아무도 없는 걸 확인하고는, 그 이집트 사람을 죽여서 모래에 묻어버렸대.
+
+--- MSG [13] ---
+The next day he went out there again. Two Hebrew men were fighting. He spoke to the man who started it: “Why are you hitting your neighbor?”
+
+>>> TEEN:
+  [p9 badge=13] The next day, he went out again and saw two Hebrew men fighting. He said to the one who started it, "Yo, why are you hitting your friend?"
+  [KO p9] 다음 날 또 나갔는데, 이번엔 히브리 남자 둘이 싸우고 있는 거야. 모세가 먼저 잘못한 사람한테 말했지. "야, 너 왜 친구를 때리냐?"
+
+--- MSG [14] ---
+The man shot back: “Who do you think you are, telling us what to do? Are you going to kill me the way you killed that Egyptian?” Then Moses panicked: “Word’s gotten out—people know about this.”
+
+>>> TEEN:
+  [p10 badge=14] The guy snapped back, "Who made you our boss? You gonna kill me like you killed that Egyptian?"
+  [KO p10] 그러자 그 남자가 쏘아붙였어. "누가 당신을 우리 대장으로 세웠는데? 뭔데 이래라 저래라야? 어제 이집트 사람 죽인 것처럼 나도 죽이게?"
+  [p11 badge=14] That's when Moses freaked out. He thought, "Oh no, the word is out. People know."
+  [KO p11] 그 순간 모세는 완전 쫄았어. '헐, 소문 다 났네. 사람들이 아는구나' 싶었던 거지.
+
+--- MSG [15] ---
+Pharaoh heard about it and tried to kill Moses, but Moses got away to the land of Midian. He sat down by a well.
+
+>>> TEEN:
+  [p12 badge=15] Sure enough, Pharaoh heard about it and tried to kill Moses, but Moses managed to escape to the land of Midian. He sat down by a well.
+  [KO p12] 아니나 다를까, 파라오가 이 소문을 듣고 모세를 죽이려고 했어. 근데 모세는 미디안 땅으로 도망쳐서 겨우 살았대. 거기서 한 우물가에 앉아 있었어.
+
+--- MSG [16-17] ---
+The priest of Midian had seven daughters. They came and drew water, filling the troughs and watering their father’s sheep. When some shepherds came and chased the girls off, Moses came to their rescue and helped them water their sheep.
+
+>>> TEEN:
+  [p13 badge=16-17] Now, the priest of Midian had seven daughters. They came to the well to draw water for their father's sheep. But then some shepherds showed up and tried to chase the girls away. Moses stepped in, came to their rescue, and even helped them water their sheep.
+  [KO p13] 마침 미디안의 제사장한테 딸이 일곱 명 있었는데, 걔네가 아버지 양 떼한테 물을 먹이려고 우물에 와서 물을 긷고 있었어. 근데 어떤 목자들이 와서 그 여자애들을 쫓아내려고 하는 거야. 그때 모세가 딱 나타나서 구해줬고, 심지어 양들한테 물 먹이는 것도 도와줬대.
+
+--- MSG [18] ---
+When they got home to their father, Reuel, he said, “That didn’t take long. Why are you back so soon?”
+
+>>> TEEN:
+  [p14 badge=18] When they got home to their dad, Reuel, he was surprised. "Wow, that was fast. How are you guys back so soon?"
+  [KO p14] 딸들이 집에 돌아오니까 아버지 르우엘이 말했어. "오늘따라 되게 빨리 왔네? 웬일이냐?"
+
+--- MSG [19] ---
+“An Egyptian,” they said, “rescued us from a bunch of shepherds. Why, he even drew water for us and watered the sheep.”
+
+>>> TEEN:
+  [p15 badge=19] They said, "Some Egyptian guy rescued us from the shepherds. He even drew water for us and watered the sheep!"
+  [KO p15] 딸들이 대답했지. "어떤 이집트 남자가 목자들한테서 우리를 구해줬어요. 심지어 물까지 길어서 양들한테 먹여줬다니까요."
+
+--- MSG [20] ---
+He said, “So where is he? Why did you leave him behind? Invite him so he can have something to eat with us.”
+
+>>> TEEN:
+  [p16 badge=20] Their dad was like, "So where is he? Why'd you just leave him there? Go invite him to have dinner with us."
+  [KO p16] 아버지가 말했어. "근데 그 사람은 어딨어? 왜 그냥 두고 와? 당장 초대해서 같이 저녁이라도 먹게 해."
+  [p17 badge=20-22] Moses ended up agreeing to live with the man, who then gave his daughter Zipporah to Moses as his wife. She had a son, and Moses named him Gershom, which means 'Sojourner,' because he said, "I'm a foreigner in a foreign land."
+  [KO p17] 모세는 그 남자랑 같이 살기로 했고, 그 남자는 자기 딸 십보라를 모세한테 아내로 줬어. 십보라가 아들을 낳자 모세는 이름을 게르솜('나그네'란 뜻)이라고 지었지. "내가 낯선 땅에서 나그네로 살고 있구나"라는 의미에서.
+
+--- MSG [21-22] ---
+Moses agreed to settle down there with the man, who then gave his daughter Zipporah (Bird) to him for his wife. She had a son, and Moses named him Gershom (Sojourner), saying, “I’m a sojourner in a foreign country.”
+
+>>> TEEN:
+  [p17 badge=20-22] Moses ended up agreeing to live with the man, who then gave his daughter Zipporah to Moses as his wife. She had a son, and Moses named him Gershom, which means 'Sojourner,' because he said, "I'm a foreigner in a foreign land."
+  [KO p17] 모세는 그 남자랑 같이 살기로 했고, 그 남자는 자기 딸 십보라를 모세한테 아내로 줬어. 십보라가 아들을 낳자 모세는 이름을 게르솜('나그네'란 뜻)이라고 지었지. "내가 낯선 땅에서 나그네로 살고 있구나"라는 의미에서.
+
+--- MSG [23] ---
+Many years later the king of Egypt died. The Israelites groaned under their slavery and cried out. Their cries for relief from their hard labor ascended to God:
+
+>>> TEEN:
+  [p18 badge=23] Many years later, the king of Egypt died. The Israelites were groaning under the weight of their slavery and cried out for help. Their cries reached God.
+  [KO p18] 그렇게 수많은 세월이 흐르고 이집트 왕이 죽었어. 이스라엘 백성들은 노예 생활이 너무 힘들어서 신음하며 부르짖었지. 그 고된 노동에서 벗어나게 해달라는 그들의 울부짖음이 하나님께 올라갔어.
+
+--- MSG [24] ---
+God listened to their groanings. God remembered his covenant with Abraham, with Isaac, and with Jacob.
+
+>>> TEEN:
+  [p19 badge=24] God heard their groaning.
+  [KO p19] 하나님은 그들의 신음 소리를 들으셨대.
+  [p20 badge=24] God remembered his promise to Abraham, Isaac, and Jacob.
+  [KO p20] 하나님은 아브라함과 이삭과 야곱에게 하셨던 약속을 기억하셨어.
+
+--- MSG [25] ---
+God saw what was going on with Israel. God understood.
+
+>>> TEEN:
+  [p21 badge=25] God saw what was happening to the people of Israel.
+  [KO p21] 하나님은 이스라엘 백성들에게 무슨 일이 일어나고 있는지 다 보고 계셨지.
+  [p22 badge=25] And God understood. He got it.
+  [KO p22] 하나님은 다 알고 계셨던 거야. 그들의 고통을.

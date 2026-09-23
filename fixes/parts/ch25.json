@@ -1,0 +1,123 @@
+{
+  "chapter": 25,
+  "title": "Stay Ready or Get Left Behind",
+  "paragraphs": [
+    "Jesus dropped another parable. He said, 'God's Kingdom is like ten bridesmaids waiting for the groom to show up for the wedding party. Five of them were totally clueless and the other five were on top of their game. The clueless ones brought their lamps but forgot to bring extra oil, like showing up to a journey with no extra supplies. The smart ones? They brought a whole backup supply.",
+    "The groom was running late, so all the girls ended up crashing for a nap. Then, in the middle of the night, someone screamed, 'He's here! The groom is finally here! Let's go!' All ten of them jumped up and got their lamps ready. But the five unprepared girls started to panic. 'Our lamps are dying! Quick, give us some of your oil!'",
+    "The smart girls said, 'Sorry, no can do. There isn't enough for all of us. You'll have to run to the store and buy your own.' So they left to go buy more, but while they were gone, the groom arrived. The girls who were ready went into the wedding feast with him, and the door was locked. A little while later, the clueless crew finally showed up, banging on the door. 'Master, let us in!' But he just said, 'Do I even know you? I don't think so.' Then Jesus looked at his crew and said, 'So for real, stay alert. You have no idea when the time will come.'",
+    "Then Jesus hit them with another story. 'It's like a boss who was going on a long trip. He called in his top three employees and gave them some major cash to manage. To one, he gave $5,000, to another $2,000, and to the last one $1,000—all based on what he knew they could handle. The first guy immediately went out and hustled, doubling the investment. The second guy did the same. But the third guy, the one with the $1,000, just dug a hole and buried it. He played it way too safe.'",
+    "After a super long time, the boss came back to see what was up. The guy with the $5,000 showed him the $10,000 he made. The boss was thrilled! 'Let's go! You killed it! You're not just my employee anymore, you're my partner.' The guy with the $2,000 showed him his $4,000, and the boss said the exact same thing. But then the third guy came up and said, 'Look, I know you're a tough boss and you don't mess around. I was scared I'd mess up and lose your money, so I just hid it. Here's your $1,000 back, safe and sound.'",
+    "The boss absolutely lost it. 'You're a terrible employee! It's criminal to be that cautious! If you knew I was serious about results, why did you do the absolute least? You could have at least put it in a savings account and gotten some interest!' Then he told his other guys, 'Take his $1,000 and give it to the one who made the most. And throw this play-it-safe guy out. He's getting kicked out of the company for good.'",
+    "Jesus wasn't done. He dropped a bomb. 'When the Son of Man comes back in all his glory with his angel squad, he's going to sit on his throne and judge everyone. All the nations will be lined up, and he'll separate people like a farmer separates sheep from goats. The sheep will be on his right, and the goats on his left.'",
+    "Then the King will turn to the sheep on his right and say, 'Come on in, you're blessed by my Father! Your spot in the kingdom has been ready since day one. Why? Because when I was hungry, you fed me. When I was thirsty, you gave me a drink. When I was a stranger, you took me in. When I was freezing, you gave me clothes. When I was sick, you checked on me. When I was in jail, you visited me.'",
+    "The sheep will be totally confused. 'Wait, what? When did we ever see you hungry or thirsty or sick or in jail?' And the King will say, 'I'm telling you the honest truth: whenever you did one of these things for the least important person, you were doing it for me.'",
+    "Then he'll turn to the goats on his left and go beast mode. 'Get out of here, you useless goats! You're headed for eternal fire. Why? Because I was hungry, and you didn't give me any food. I was thirsty, and you gave me nothing to drink. I was a stranger, and you ignored me. I was freezing, and you didn't offer a coat. I was sick and in jail, and you never even thought to visit.' They'll argue back, 'Master, when did we ever see you hungry or thirsty or homeless or shivering or sick or in prison and not help?' And he'll reply, 'Seriously, whenever you failed to help someone who was overlooked, you were failing to help me.' And those goats will be sent to their eternal punishment, but the sheep will enter eternal life."
+  ],
+  "verseRanges": [
+    "1-4",
+    "5-8",
+    "9-13",
+    "14-18",
+    "19-25",
+    "26-30",
+    "31-33",
+    "34-36",
+    "37-40",
+    "41-46"
+  ],
+  "msg_ranges": [
+    "1-5",
+    "6",
+    "7-8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14-18",
+    "19-21",
+    "22-23",
+    "24-25",
+    "26-27",
+    "28-30",
+    "31-33",
+    "34-36",
+    "37-40",
+    "41-43",
+    "44",
+    "45",
+    "46"
+  ],
+  "merges": [
+    {
+      "para": 1,
+      "msg_ranges": [
+        "1-5",
+        "6",
+        "7-8"
+      ],
+      "note": "MSG 1-5의 끝부분(5절, 신랑 지각·잠듦)이 EN1로 넘어가고 MSG 6, 7-8과 한 문단"
+    },
+    {
+      "para": 2,
+      "msg_ranges": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "note": "처녀 비유 후반 5개 MSG 문단을 한 문단으로"
+    },
+    {
+      "para": 4,
+      "msg_ranges": [
+        "19-21",
+        "22-23",
+        "24-25"
+      ],
+      "note": "달란트 결산 3개 MSG 문단을 한 문단으로"
+    },
+    {
+      "para": 5,
+      "msg_ranges": [
+        "26-27",
+        "28-30"
+      ],
+      "note": "주인의 책망 2개 MSG 문단을 한 문단으로"
+    },
+    {
+      "para": 9,
+      "msg_ranges": [
+        "41-43",
+        "44",
+        "45",
+        "46"
+      ],
+      "note": "염소 심판 4개 MSG 문단을 한 문단으로"
+    }
+  ],
+  "splits": [
+    {
+      "msg_range": "1-5",
+      "paras": [
+        0,
+        1
+      ],
+      "note": "MSG 1-5 문단이 EN0(1-4절)과 EN1(5절)로 나뉨"
+    }
+  ],
+  "changes": [
+    "배지 전면 재부여: MSG 문단 구분 기준. 기존 '25-30'/'29-31' 겹침 해소 → '19-25','26-30','31-33','34-36','37-40','41-46' (1-46 전절 커버, 겹침 없음)",
+    "P8(37-40): 양들의 질문에 MSG 원문의 'sick' 복원 ('hungry or thirsty or sick or in jail')",
+    "P8: 문장 끝의 stray '>' 마크다운 인용 부호 제거",
+    "P9(41-46): 염소들의 반문에 MSG 원문 6가지 조건 전체 복원 ('hungry or thirsty or homeless or shivering or sick or in prison')"
+  ],
+  "confirmations_needed": [
+    "ch25 P1: MSG 1-5,6,7-8 병합 (1-5,6,7-8)",
+    "ch25 P2: MSG 9,10,11,12,13 병합 (9,10,11,12,13)",
+    "ch25 P4: MSG 19-21,22-23,24-25 병합 (19-21,22-23,24-25)",
+    "ch25 P5: MSG 26-27,28-30 병합 (26-27,28-30)",
+    "ch25 P9: MSG 41-43,44,45,46 병합 (41-43,44,45,46)"
+  ]
+}

@@ -1,0 +1,173 @@
+# EXODUS 32 — Moses Is GONE, So We're Making a GOLDEN COW?!
+TEEN paras: 26 | badges: ['1', '2-4', '4', '5', '5', '6', '7-8', '9-10', '11-13', '14', '15-16', '17', '18', '18', '19-20', '21', '22-23', '24', '25', '26-27', '28', '29', '30', '31-32', '33-34', '35']
+KO paras: 26 | badges: ['1', '2-4', '4', '5', '5', '6', '7-8', '9-10', '11-13', '14', '15-16', '17', '18', '18', '19-20', '21', '22-23', '24', '25', '27', '28', '29', '30', '31-32', '33-34', '35']
+MSG sections: 23 | ranges: ['1', '2-4', '5', '6', '7-8', '9-10', '11-13', '14', '15-16', '17', '18', '19-20', '21', '22-23', '24', '25-26', '27', '28', '29', '30', '31-32', '33-34', '35']
+
+--- MSG [1] ---
+When the people realized that Moses was taking forever in coming down off the mountain, they rallied around Aaron and said, “Do something. Make gods for us who will lead us. That Moses, the man who got us out of Egypt—who knows what’s happened to him?”
+
+>>> TEEN:
+  [p0 badge=1] When the people saw that Moses was taking, like, *forever* to come down from the mountain, they all ganged up on Aaron. They were like, "Yo, do something! Make us some gods to lead us. As for this Moses guy, the one who got us out of Egypt—who even knows what happened to him?"
+  [KO p0] 백성들이 보니까 모세가 산에서 내려오는 게 진짜 너무 늦어지는 거임. 그래서 아론한테 몰려가서 말했음. "아 좀 뭐라도 해봐요. 우리를 이끌 신들을 만들어달라고요. 우리를 이집트에서 데리고 나온 그 모세라는 작자는 어떻게 된 건지 누가 알겠어요?"
+
+--- MSG [2-4] ---
+So Aaron told them, “Take off the gold rings from the ears of your wives and sons and daughters and bring them to me.” They all did it; they removed the gold rings from their ears and brought them to Aaron. He took the gold from their hands and cast it in the form of a calf, shaping it with an engraving tool. The people responded with enthusiasm: “These are your gods, O Israel, who brought you up from Egypt!”
+
+>>> TEEN:
+  [p1 badge=2-4] So Aaron told them, "Alright, take off the gold earrings from your wives, sons, and daughters and bring them to me." Everyone did it; they took off their gold earrings and brought them to Aaron. He took the gold from them, melted it down, and shaped it into a calf using a tool.
+  [KO p1] 그러니까 아론이 그 사람들한테 "니들 아내랑 아들딸 귀에 있는 금고리 다 빼서 나한테 가져와"라고 말했대. 그랬더니 사람들이 진짜 다 그렇게 한 거임. 귀에서 금고리를 빼서 아론한테 가져왔지. 아론은 그 금을 받아서 송아지 모양으로 부어 만들고, 조각칼로 모양을 다듬었음.
+  [p2 badge=4] The people were super hyped and shouted, "These are your gods, Israel, the ones who brought you up from Egypt!"
+  [KO p2] 사람들이 완전 신나서 외쳤지. "이스라엘아, 이분들이 너희를 이집트 땅에서 이끌어 낸 너희의 신들이다!"
+
+--- MSG [5] ---
+Aaron, taking in the situation, built an altar before the calf. Aaron then announced, “Tomorrow is a feast day to God!”
+
+>>> TEEN:
+  [p3 badge=5] Aaron saw how things were going and built an altar in front of the calf.
+  [KO p3] 아론이 이 상황을 보고 송아지 앞에 제단을 쌓았대.
+  [p4 badge=5] Then Aaron announced, "Tomorrow is a festival for God!"
+  [KO p4] 그리고 아론이 선포했음. "내일은 주님을 위한 축제일이다!"
+
+--- MSG [6] ---
+Early the next morning, the people got up and offered Whole-Burnt-Offerings and brought Peace-Offerings. The people sat down to eat and drink and then began to party. It turned into a wild party!
+
+>>> TEEN:
+  [p5 badge=6] Early the next morning, they got up and gave burnt offerings and peace offerings. The people sat down to eat and drink, and then they started to party. It got seriously wild.
+  [KO p5] 다음 날 아침 일찍, 백성들이 일어나서 번제물을 바치고 화목제물도 가져왔음. 그러고는 앉아서 먹고 마시다가 파티를 시작했는데, 완전 광란의 파티가 된 거임.
+
+--- MSG [7-8] ---
+God spoke to Moses, “Go! Get down there! Your people whom you brought up from the land of Egypt have fallen to pieces. In no time at all they’ve turned away from the way I commanded them: They made a molten calf and worshiped it. They’ve sacrificed to it and said, ‘These are the gods, O Israel, that brought you up from the land of Egypt!’”
+
+>>> TEEN:
+  [p6 badge=7-8] God told Moses, "Go! Get down there! Your people, the ones you brought out of Egypt, have totally lost it. It took them no time at all to turn away from what I commanded. They made a golden calf and are worshipping it. They've sacrificed to it and said, 'These are the gods, Israel, that brought you out of Egypt!'"
+  [KO p6] 하나님이 모세한테 말했음. "당장 내려가라! 네가 이집트 땅에서 데리고 나온 네 백성이 완전히 타락했다. 내가 명령한 길에서 어쩜 이렇게 빨리 돌아섰는지. 걔네들 지금 자기들을 위해 송아지 우상을 부어 만들고 그걸 예배하고 있대. 거기에 제물까지 바치면서 '이스라엘아, 이분들이 너희를 이집트 땅에서 이끌어 낸 신들이다!'라고 말하고 있다니까."
+
+--- MSG [9-10] ---
+God said to Moses, “I look at this people—oh! what a stubborn, hard-headed people! Let me alone now, give my anger free reign to burst into flames and incinerate them. But I’ll make a great nation out of you.”
+
+>>> TEEN:
+  [p7 badge=9-10] God said to Moses, "I've been watching this people—and wow, they are so stubborn and hard-headed. Just leave me alone for a sec; let my anger flare up and completely destroy them. But I'll make a great nation out of you."
+  [KO p7] 하나님이 모세한테 또 말했음. "내가 이 백성을 보아하니, 와... 진짜 고집 세고 목이 뻣뻣한 백성이구나. 이제 날 좀 내버려 둬라. 내 분노가 불꽃처럼 타올라서 쟤네들을 다 태워버리게. 대신 너로 큰 나라를 만들어 주겠다."
+
+--- MSG [11-13] ---
+Moses tried to calm his God down. He said, “Why, God, would you lose your temper with your people? Why, you brought them out of Egypt in a tremendous demonstration of power and strength. Why let the Egyptians say, ‘He had it in for them—he brought them out so he could kill them in the mountains, wipe them right off the face of the Earth.’ Stop your anger. Think twice about bringing evil against your people! Think of Abraham, Isaac, and Israel, your servants to whom you gave your word, telling them ‘I will give you many children, as many as the stars in the sky, and I’ll give this land to your children as their land forever.’”
+
+>>> TEEN:
+  [p8 badge=11-13] Moses tried to calm God down. He said, "God, why would you get so mad at your own people? You're the one who brought them out of Egypt with such incredible power and strength. Why would you let the Egyptians say, 'He had a grudge against them—he brought them out just to kill them in the mountains and wipe them off the face of the earth.' Chill out. Reconsider bringing this disaster on your people! Remember Abraham, Isaac, and Israel, your servants who you promised, telling them 'I will make your descendants as numerous as the stars in the sky, and I'll give this land to them as their own forever.'"
+  [KO p8] 모세가 하나님을 진정시키려고 했음. "하나님, 왜 자기 백성한테 그렇게 화를 내세요? 주님이 엄청난 능력과 강한 팔로 이집트에서 이끌어내신 백성이잖아요. 왜 이집트 사람들이 '저 하나님이 자기 백성한테 악의를 품고 있었네. 산에서 죽여서 세상에서 싹 쓸어버리려고 데리고 나왔구만'이라고 말하게 하시려는 거예요. 제발 화 좀 푸세요. 주님의 백성한테 재앙을 내리려던 계획을 다시 생각해주세요. 주님의 종들인 아브라함과 이삭과 이스라엘을 기억하셔야죠. 그들한테 '내가 너희 자손을 하늘의 별처럼 많게 하고, 내가 약속한 이 모든 땅을 너희 자손에게 주어서 영원한 유산이 되게 하겠다'고 맹세까지 하셨잖아요."
+
+--- MSG [14] ---
+And God did think twice. He decided not to do the evil he had threatened against his people.
+
+>>> TEEN:
+  [p9 badge=14] And God did reconsider. He decided not to bring the disaster he had threatened on his people.
+  [KO p9] 그러자 하나님이 진짜 다시 생각하셨대. 백성에게 내리겠다고 말씀하신 재앙을 거두셨음.
+
+--- MSG [15-16] ---
+Moses turned around and came down from the mountain, carrying the two tablets of The Testimony. The tablets were written on both sides, front and back. God made the tablets and God wrote the tablets—engraved them.
+
+>>> TEEN:
+  [p10 badge=15-16] Moses turned and went down the mountain, carrying the two stone tablets of the Testimony. The tablets were written on both sides, front and back. God himself had made the tablets and engraved the writing on them.
+  [KO p10] 모세는 돌아서서 산에서 내려왔는데, 양면에 글씨가 새겨진 증거의 돌판 두 개를 들고 있었음. 앞뒤로 다 쓰여 있었지. 그 돌판은 하나님이 직접 만드시고 글씨도 직접 새기신 거였음.
+
+--- MSG [17] ---
+When Joshua heard the sound of the people shouting noisily, he said to Moses, “That’s the sound of war in the camp!”
+
+>>> TEEN:
+  [p11 badge=17] When Joshua heard the noise of the people shouting, he said to Moses, "It sounds like there's a war in the camp!"
+  [KO p11] 여호수아가 백성들이 시끄럽게 소리 지르는 걸 듣고 모세한테 말했음. "진영에서 전쟁 난 소리가 들립니다!"
+
+--- MSG [18] ---
+But Moses said, Those aren’t songs of victory,  And those aren’t songs of defeat,  I hear songs of people throwing a party.
+
+>>> TEEN:
+  [p12 badge=18] But Moses said,
+  [KO p12] 근데 모세가 말했지.
+  [p13 badge=18] "That's not the sound of people winning, and it's not the sound of people losing. I hear the sound of a party."
+  [KO p13] "저건 승리의 노래도 아니고, 패배의 노래도 아니다. 내가 듣기엔 그냥 엄청나게 노는 소리다."
+
+--- MSG [19-20] ---
+And that’s what it was. When Moses came near to the camp and saw the calf and the people dancing, his anger flared. He threw down the tablets and smashed them to pieces at the foot of the mountain. He took the calf that they had made, melted it down with fire, pulverized it to powder, then scattered it on the water and made the Israelites drink it.
+
+>>> TEEN:
+  [p14 badge=19-20] And he was right. When Moses got close to the camp and saw the calf and the people dancing, he got furious. He threw the tablets down and smashed them to pieces at the base of the mountain. He took the calf they had made, melted it in the fire, ground it into powder, scattered it on the water, and made the Israelites drink it.
+  [KO p14] 진짜 그랬음. 모세가 진영에 가까이 가서 보니까 송아지랑 춤추는 백성들이 보이는 거임. 모세는 완전 화나서 자기가 들고 있던 돌판을 산 아래로 던져서 박살 내버렸음. 그리고 걔네들이 만든 송아지를 가져다가 불에 녹이고, 가루가 될 때까지 빠개서 물에 뿌린다음 이스라엘 자손들한테 마시게 했대. 완전 놀라운 거지.
+
+--- MSG [21] ---
+Moses said to Aaron, “What on Earth did these people ever do to you that you involved them in this huge sin?”
+
+>>> TEEN:
+  [p15 badge=21] Moses said to Aaron, "What in the world did these people do to you that made you lead them into such a massive sin?"
+  [KO p15] 모세가 아론한테 말했음. "이 백성이 형한테 대체 뭘 어쨌길래 이런 큰 죄에 빠지게 만들었어요?"
+
+--- MSG [22-23] ---
+Aaron said, “Master, don’t be angry. You know this people and how set on evil they are. They said to me, ‘Make us gods who will lead us. This Moses, the man who brought us out of Egypt, we don’t know what’s happened to him.’
+
+>>> TEEN:
+  [p16 badge=22-23] Aaron replied, "Don't be angry, sir. You know what these people are like and how they're bent on doing wrong. They said to me, 'Make us gods who will lead us. This Moses guy who brought us out of Egypt, we have no idea what happened to him.'
+  [KO p16] 아론이 대답했음. "주인님, 화내지 마세요. 이 백성이 얼마나 악한지 잘 아시잖아요. 걔네들이 저한테 '우리를 이끌 신들을 만들어 주시오. 우리를 이집트에서 데리고 나온 그 모세라는 사람은 어떻게 됐는지 모르겠소'라고 했단 말이에요.
+
+--- MSG [24] ---
+“So I said, ‘Who has gold?’ And they took off their jewelry and gave it to me. I threw it in the fire and out came this calf.”
+
+>>> TEEN:
+  [p17 badge=24] "So I just said, 'Who has gold?' They took off their jewelry and gave it to me. I threw it in the fire, and... this calf came out."
+  [KO p17] "그래서 제가 '금 있는 사람 누구냐?'고 물었더니, 걔네들이 자기들 장신구를 빼서 저한테 주더라고요. 제가 그걸 불에 던졌더니 이 송아지가 튀어나왔습니다."
+
+--- MSG [25-26] ---
+Moses saw that the people were simply running wild—Aaron had let them run wild, disgracing themselves before their enemies. He took up a position at the entrance to the camp and said, “Whoever is on God’s side, join me!” All the Levites stepped up.
+
+>>> TEEN:
+  [p18 badge=25] Moses saw that the people were running completely wild—Aaron had let them, and they were making a fool of themselves in front of their enemies. He stood at the entrance to the camp and shouted, "Whoever is on God's side, come to me!" All the Levites joined him.
+  [KO p18] 모세가 보니까 백성들이 완전 제멋대로 날뛰고 있었음. 아론이 걔네들을 그냥 내버려 둬서, 적들 앞에서 망신을 당하게 만든 거임. 모세는 진영 입구에 서서 말했음. "누구든지 하나님 편인 사람은 나한테로 와라!" 그랬더니 레위 자손들이 다 그에게로 모였음.
+  [p19 badge=26-27] So Moses stood at the entrance of the camp and shouted, "Whoever is for God, come to me!" All the Levites rallied to him. He then told them, "This is what God, the God of Israel, orders: 'Every man strap on your sword. Go back and forth through the camp from one end to the other. Kill your own brother, friend, and neighbor.'"
+  [KO p19] 모세가 그들에게 말했음. "이스라엘의 하나님, 주님의 명령이다. '각자 허리에 칼을 차고 진영 이 문에서 저 문까지 왔다 갔다 하면서 자기 형제, 친구, 이웃을 쳐죽여라.'"
+
+--- MSG [27] ---
+He then told them, “God’s orders, the God of Israel: ‘Strap on your swords and go to work. Crisscross the camp from one end to the other: Kill brother, friend, neighbor.’”
+
+>>> TEEN:
+  [p19 badge=26-27] So Moses stood at the entrance of the camp and shouted, "Whoever is for God, come to me!" All the Levites rallied to him. He then told them, "This is what God, the God of Israel, orders: 'Every man strap on your sword. Go back and forth through the camp from one end to the other. Kill your own brother, friend, and neighbor.'"
+  [KO p19] 모세가 그들에게 말했음. "이스라엘의 하나님, 주님의 명령이다. '각자 허리에 칼을 차고 진영 이 문에서 저 문까지 왔다 갔다 하면서 자기 형제, 친구, 이웃을 쳐죽여라.'"
+
+--- MSG [28] ---
+The Levites carried out Moses’ orders. Three thousand of the people were killed that day.
+
+>>> TEEN:
+  [p20 badge=28] The Levites did what Moses ordered. About three thousand people were killed that day.
+  [KO p20] 레위 자손들이 모세의 명령대로 했더니, 그날 백성 중에서 삼천 명 정도가 죽었대.
+
+--- MSG [29] ---
+Moses said, “You confirmed your ordination today—and at great cost, even killing your sons and brothers! And God has blessed you.”
+
+>>> TEEN:
+  [p21 badge=29] Then Moses said, "You have been ordained today—and it cost you a lot, even your own sons and brothers. And God has blessed you."
+  [KO p21] 모세가 말했음. "오늘 너희는 아들과 형제를 희생하면서까지 너희 자신을 주님께 바쳤다. 그래서 오늘 주님께서 너희에게 복을 내리신다."
+
+--- MSG [30] ---
+The next day Moses addressed the people: “You have sinned an enormous sin! But I am going to go up to God; maybe I’ll be able to clear you of your sin.”
+
+>>> TEEN:
+  [p22 badge=30] The next day, Moses told the people, "You have committed a huge sin. But I'm going to go up to God; maybe I can get you forgiven."
+  [KO p22] 다음 날 모세가 백성에게 말했음. "너희가 진짜 어마어마한 죄를 지었다. 하지만 내가 이제 하나님께 올라가 보겠다. 어쩌면 너희 죄를 용서받을 수 있을지도 모른다."
+
+--- MSG [31-32] ---
+Moses went back to God and said, “This is terrible. This people has sinned—it’s an enormous sin! They made gods of gold for themselves. And now, if you will only forgive their sin. . . . But if not, erase me out of the book you’ve written.”
+
+>>> TEEN:
+  [p23 badge=31-32] So Moses went back to God and said, "This is awful. These people have sinned—it's a massive sin. They made gods of gold for themselves. Now, if you would just forgive their sin... But if not, then erase me from the book you have written."
+  [KO p23] 모세는 하나님께 돌아가서 말했음. "아, 진짜 끔찍합니다. 이 백성이 큰 죄를 지었습니다. 자기들을 위해 금으로 신들을 만들었어요. 제발 이제 그들의 죄를 용서해주세요... 만약 용서하지 않으시겠다면, 차라리 주님께서 기록하신 책에서 제 이름을 지워버려 주세요."
+
+--- MSG [33-34] ---
+God said to Moses, “I’ll only erase from my book those who sin against me. For right now, you go and lead the people to where I told you. Look, my Angel is going ahead of you. On the day, though, when I settle accounts, their sins will certainly be part of the settlement.”
+
+>>> TEEN:
+  [p24 badge=33-34] God said to Moses, "I will only erase from my book those who have sinned against me. For now, you go and lead the people to the place I told you. Look, my angel will go ahead of you. But when the day of reckoning comes, I will definitely hold them accountable for their sin."
+  [KO p24] 하나님이 모세에게 말했음. "누구든지 나에게 죄를 지은 자, 그 사람만 내 책에서 지울 것이다. 일단 너는 가서 내가 너에게 말한 곳으로 백성을 이끌어라. 내 천사가 네 앞에서 갈 것이다. 하지만 내가 심판하는 날에는, 그들의 죄에 대해 반드시 책임을 물을 것이다."
+
+--- MSG [35] ---
+God sent a plague on the people because of the calf they and Aaron had made.
+
+>>> TEEN:
+  [p25 badge=35] And God sent a plague on the people because of the calf that they and Aaron had made.
+  [KO p25] 그리고 하나님이 백성에게 재앙을 내리셨음. 그들이 아론과 함께 만든 그 송아지 때문이었지.

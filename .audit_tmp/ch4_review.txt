@@ -1,0 +1,155 @@
+### TITLE EN: The Apostles Get Grounded
+### TITLE KO: 사도들의 체포
+
+[MSG 0] range=1-4 header='Nothing to Hide'
+While Peter and John were addressing the people, the priests, the chief of the Temple police, and some Sadducees came up, indignant that these upstart apostles were instructing the people and proclaiming that the resurrection from the dead had taken place in Jesus. They arrested them and threw them in jail until morning, for by now it was late in the evening. But many of those who listened had already believed the Message—in round numbers about five thousand!
+
+[MSG 1] range=5-7 header=None
+The next day a meeting was called in Jerusalem. The rulers, religious leaders, religion scholars, Annas the Chief Priest, Caiaphas, John, Alexander—everybody who was anybody was there. They stood Peter and John in the middle of the room and grilled them: "Who put you in charge here? What business do you have doing this?"
+
+[MSG 2] range=8-12 header=None
+With that, Peter, full of the Holy Spirit, let loose: "Rulers and leaders of the people, if we have been brought to trial today for helping a sick man, put under investigation regarding this healing, I'll be completely frank with you—we have nothing to hide. By the name of Jesus Christ of Nazareth, the One you killed on a cross, the One God raised from the dead, by means of his name this man stands before you healthy and whole. Jesus is 'the stone you masons threw out, which is now the cornerstone.' Salvation comes no other way; no other name has been or will be given to us by which we can be saved, only this one."
+
+[MSG 3] range=13-14 header=None
+They couldn't take their eyes off them—Peter and John standing there so confident, so sure of themselves! Their fascination deepened when they realized these two were laymen with no training in Scripture or formal education. They recognized them as companions of Jesus, but with the man right before them, seeing him standing there so upright—so healed!—what could they say against that?
+
+[MSG 4] range=15-17 header=None
+They sent them out of the room so they could work out a plan. They talked it over: "What can we do with these men? By now it's known all over town that a miracle has occurred, and that they are behind it. There is no way we can refute that. But so that it doesn't go any further, let's silence them with threats so they won't dare to use Jesus' name ever again with anyone."
+
+[MSG 5] range=18-20 header=None
+They called them back and warned them that they were on no account ever again to speak or teach in the name of Jesus. But Peter and John spoke right back, "Whether it's right in God's eyes to listen to you rather than to God, you decide. As for us, there's no question—we can't keep quiet about what we've seen and heard."
+
+[MSG 6] range=21-22 header=None
+The religious leaders renewed their threats, but then released them. They couldn't come up with a charge that would stick, that would keep them in jail. The people wouldn't have stood for it—they were all praising God over what had happened. The man who had been miraculously healed was over forty years old.
+
+[MSG 7] range=23-26 header='One Heart, One Mind'
+As soon as Peter and John were let go, they went to their friends and told them what the high priests and religious leaders had said. Hearing the report, they lifted their voices in a wonderful harmony in prayer: "Strong God, you made heaven and earth and sea and everything in them. By the Holy Spirit you spoke through the mouth of your servant and our father, David: Why the big noise, nations?  Why the mean plots, peoples?  Earth's leaders push for position,  Potentates meet for summit talks,  The God-deniers, the Messiah-defiers!
+
+[MSG 8] range=27-28 header=None
+"For in fact they did meet—Herod and Pontius Pilate with nations and peoples, even Israel itself!—met in this very city to plot against your holy Son Jesus, the One you made Messiah, to carry out the plans you long ago set in motion.
+
+[MSG 9] range=29-30 header=None
+"And now they're at it again! Take care of their threats and give your servants fearless confidence in preaching your Message, as you stretch out your hand to us in healings and miracles and wonders done in the name of your holy servant Jesus."
+
+[MSG 10] range=31 header=None
+While they were praying, the place where they were meeting trembled and shook. They were all filled with the Holy Spirit and continued to speak God's Word with fearless confidence.
+
+[MSG 11] range=32-33 header=None
+The whole congregation of believers was united as one—one heart, one mind! They didn't even claim ownership of their own possessions. No one said, "That's mine; you can't have it." They shared everything. The apostles gave powerful witness to the resurrection of the Master Jesus, and grace was on all of them.
+
+[MSG 12] range=34-35 header=None
+And so it turned out that not a person among them was needy. Those who owned fields or houses sold them and brought the price of the sale to the apostles and made an offering of it. The apostles then distributed it according to each person's need.
+
+[MSG 13] range=36-37 header=None
+Joseph, called by the apostles "Barnabas" (which means "Son of Comfort"), a Levite born in Cyprus, sold a field that he owned, brought the money, and made an offering of it to the apostles.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Arrested for Preaching
+
+[EN 1] badge=1-4
+So, Peter and John were talking to a huge crowd when a bunch of priests, the head of the temple cops, and some super-religious leaders called Sadducees showed up furious. They were totally furious that Peter and John were telling everyone that Jesus had risen from the dead. So, they arrested them and threw them in jail for the night. But here's the thing, about five thousand people who heard the message said, "Whoa, this is legit," and started believing.
+
+[EN 2] badge=5-8
+The next day, all the important leaders in Jerusalem had a meeting. We're talking rulers, religious leaders, the brainy scholars, the head priest Annas, Caiaphas, John, Alexander—the whole group of religious leaders was there. They dragged Peter and John into the middle of the room and started grilling them, asking, "Who gave you the right to do any of this?"
+
+[EN 3] badge=9-12
+But Peter, totally powered up by the Holy Spirit, just roasts them. "Hey, leaders! If we're on trial for helping a sick guy, let me be straight up with you—we've got nothing to hide. This was all done in the name of Jesus Christ of Nazareth, the guy you killed, but God brought back to life. He's the reason this man is standing here totally fine. You builders threw Jesus out like trash, but now he's the cornerstone of everything. There's no other way to be saved, no other name that matters. Only Jesus."
+
+[EN 4] badge=None
+§Told to Shut Up
+
+[EN 5] badge=13-14
+The leaders were stunned. Peter and John were just ordinary guys with no fancy degrees, but they were so confident. Then they realized—these guys were part of Jesus's crew. And with the healed man standing right there, they were totally speechless. What could they even say?
+
+[EN 6] badge=15-17
+They sent Peter and John out of the room to come up with a plan. "What are we gonna do with these guys?" they whispered. "Everyone in town knows they did a miracle. We can't deny it. But we gotta shut this down before it spreads. Let's threaten them and tell them to never talk about Jesus again."
+
+[EN 7] badge=18-22
+So they called Peter and John back in and told them to stop talking about Jesus. But Peter and John said, "You tell us what's right: listening to you or listening to God? We can't just ghost what we've seen and heard." The leaders threatened them some more but had to let them go because they couldn't find a reason to keep them in jail. The people were all praising God for what happened, and the man who was healed was over forty years old!
+
+[EN 8] badge=23-31
+As soon as they were free, Peter and John went back to their friends and told them everything. When their friends heard the story, they all prayed together, "God, you're the one who made everything. You spoke through our ancestor David, who said that the world's leaders would team up against you and your Messiah. And that's exactly what happened! Herod, Pontius Pilate, and all the people plotted against your holy Son, Jesus. But they were just playing into your hands and your plan all along. So now, check out their threats and give us the guts to keep preaching your message. Flex your power with healings and miracles in the name of Jesus."
+
+[EN 9] badge=None
+§The Believers Share Everything
+
+[EN 10] badge=31-32
+While they were praying, the whole house started shaking. They were all filled with the Holy Spirit and kept speaking God's word without any fear.
+
+[EN 11] badge=32-37
+All the believers were like one big family—they shared everything. No one was selfish and said, "That's mine." They even sold their houses and land and gave the money to the apostles to share with anyone who needed it. One guy, Joseph, who the apostles called Barnabas (which means "the encourager"), a Levite from Cyprus, sold a field he owned and gave all the money to the apostles. What a bro.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§전도하다 체포됨
+
+[KO 1] badge=None
+숨길 게 없음
+
+[KO 2] badge=1-4
+베드로랑 요한이 사람들한테 한창 말하고 있는데, 제사장들이랑 성전 경비대장, 그리고 사두개인들이 들이닥친 거임.
+이 사도들이 사람들 가르치는 거랑, 예수님이 죽었다가 살아났다고 떠드는 게 완전 맘에 안 들었던 거지.
+그래서 다짜고짜 사도들을 잡아다가 다음 날 아침까지 감옥에 가둬버렸음. 왜냐면 이미 밤이 깊었거든.
+근데 대박인 건, 그 얘기를 들은 사람들 중에 말씀을 믿게 된 사람이 엄청 많았다는 거. 거의 5천 명이나 됐대!
+
+[KO 3] badge=5-7
+다음 날, 예루살렘에서 회의가 열렸음.
+높은 사람들, 종교 지도자들, 학자들, 대제사장 안나스, 가야바, 요한, 알렉산더 같은 짱짱한 인물들이 다 모인 거야.
+그리고 베드로랑 요한을 가운데 딱 세워놓고 심문하기 시작함.
+"누가 너네한테 이딴 짓 하라고 시켰냐? 뭔 빽으로 이런 일을 벌이는 거냐고?"
+
+[KO 4] badge=8-12
+그 말에 베드로가 성령 풀충전 상태로 당당하게 말했음.
+"백성의 지도자님들, 오늘 우리가 아픈 사람 고쳐준 일로 재판받는 거라면, 완전 솔직하게 다 말씀드림. 우린 숨길 거 하나도 없음.
+여러분들이 십자가에 못 박아 죽였지만, 하나님이 다시 살리신 나사렛 예수 그리스도, 바로 그분의 이름으로 이 사람이 멀쩡하게 여러분 앞에 서 있는 거임.
+'너네 건축자들이 가치 없다고 버린 돌이 가장 중요한 모퉁잇돌이 됐다'는 성경 말씀이 바로 예수님 얘기거든.
+구원받는 길은 다른 데 없음. 오직 예수님 이름 말고는 우리에게 주신 다른 이름이 없고, 앞으로도 없을 거임. 완전 팩트임."
+
+[KO 5] badge=13-14
+베드로랑 요한이 너무 당당하고 자신감 넘치게 서 있으니까, 그 사람들이 눈을 떼지 못하는 거야. 완전 역대급이었음!
+심지어 두 사람이 제대로 신학 교육도 안 받은 일반인인 걸 알고는 더 놀람.
+그들이 예수랑 같이 다녔다는 건 알았지만, 자기들 눈앞에 떡하니 서 있는-완치된!-그 사람을 보니까 아무 말도 못 하겠는 거지. 반박 불가였음!
+
+[KO 6] badge=15-17
+그래서 일단 베드로랑 요한을 밖으로 내보내고 자기들끼리 작전 회의에 들어감.
+"이들을 어떡하면 좋을까? 기적이 일어난 것도, 쟤네가 한 짓인 것도 온 동네에 소문 다 났는데. 우리도 이건 부인할 수 없음.
+일이 더 커지기 전에 쟤네 좀 쫄게 해서 입 막아야 함. 다시는 누구한테도 예수 이름 꺼내지도 못하게 말이야."
+
+[KO 7] badge=18-20
+그리고는 베드로랑 요한을 다시 불러서 경고했음. 어떤 상황에서도 예수 이름으로 말하거나 가르치지 말라고.
+근데 그들이 바로 받아침. "하나님 말 듣는 거랑 당신들 말 듣는 거 중에 뭐가 옳은 건지 직접 판단해보셈. 우리 입장은 확실함. 우리가 보고 들은 걸 말 안 할 수가 없음."
+
+[KO 8] badge=21-22
+종교 지도자들은 다시 한번 협박하고 나서 결국 풀어줌. 왜냐면 가둬둘 만한 죄목을 못 찾았거든. 만약 가뒀다가는 백성들이 들고일어날 판이었음. 사람들이 이번 일로 다들 하나님 찬양하고 난리였거든. 이 기적으로 병 나은 사람은 40살도 넘었대.
+
+[KO 9] badge=None
+한마음 한뜻으로
+
+[KO 10] badge=23-26
+베드로랑 요한은 풀려나자마자 동료들한테 가서 대제사장이랑 종교 지도자들이 한 말을 다 이야기함.
+얘기를 들은 사람들은 진짜 하나가 돼서 다 같이 소리 높여 기도하기 시작했음.
+"전능하신 하나님, 주님은 하늘과 땅과 바다랑 그 안의 모든 걸 만드신 분이잖아요. 주님은 우리 조상 다윗의 입을 통해 성령으로 이렇게 말씀하셨어요.
+'나라들아, 왜 이렇게 시끄럽냐? 민족들아, 뭔 수작을 부리는 거냐? 땅의 왕들이 들고일어나고, 권력자들이 모여서 하나님과 메시아한테 대항하는구나!' 라고요."
+
+[KO 11] badge=27-28
+"진짜 그들이 모였어요. 헤롯이랑 본디오 빌라도, 그리고 다른 나라들이랑 이스라엘 백성까지! 바로 이 도시에 모여서 주님의 거룩한 아들 예수를 해치려고 작당모의했어요. 주님이 메시아로 세우신 그분을요. 근데 사실 이것도 주님이 오래전부터 계획하신 일을 이루려고 모인 거였죠."
+
+[KO 12] badge=29-30
+"이제 걔네가 또 시작이에요! 쟤네가 우리를 위협하는 걸 보시고, 주님의 종들인 우리가 쫄지 않고 담대하게 말씀을 전할 수 있게 힘을 주세요. 주님의 손을 뻗어서, 주님의 거룩한 종 예수의 이름으로 병도 낫게 하시고 기적도 빵빵 터지게 해주세요."
+
+[KO 13] badge=31
+그들이 기도를 마치자, 모여 있던 곳이 막 흔들리는 거임. 그들은 모두 성령으로 가득 차서, 두려움 없이 계속해서 하나님의 말씀을 전했음.
+
+[KO 14] badge=None
+§믿는 자들이 모든 것을 나누다
+
+[KO 15] badge=32-33
+믿는 사람들은 진짜 하나가 됐음. 한마음 한뜻으로 뭉친 거야! 아무도 자기 재산을 가지고 "이거 내 거니까 너 못 써"라고 말하는 사람이 없었음. 모든 걸 다 같이 공유했거든. 사도들은 예수님이 부활했다는 걸 강력하게 증언했고, 모두에게 하나님의 은혜가 넘쳤음.
+
+[KO 16] badge=34-35
+그래서 그들 중에는 가난한 사람이 한 명도 없었대. 밭이나 집이 있는 사람들은 그걸 팔아서 돈을 사도들한테 가져왔고, 사도들은 각자 필요한 만큼 나눠줬음.
+
+[KO 17] badge=36-37
+키프로스 출신 레위 사람인 요셉도 그랬음. 사도들이 그를 바나바('위로의 아들'이라는 뜻)라고 불렀는데, 그도 자기 밭을 팔아서 그 돈을 사도들에게 가져왔음.
+

@@ -1,0 +1,224 @@
+### TITLE EN: Stephen's Mic Drop
+### TITLE KO: 스데반의 한 방
+
+[MSG 0] range=1 header='Stephen, Full of the Holy Spirit'
+Then the Chief Priest said, "What do you have to say for yourself?"
+
+[MSG 1] range=2-3 header=None
+Stephen replied, "Friends, fathers, and brothers, the God of glory appeared to our father Abraham when he was still in Mesopotamia, before the move to Haran, and told him, 'Leave your country and family and go to the land I'll show you.'
+
+[MSG 2] range=4-7 header=None
+"So he left the country of the Chaldees and moved to Haran. After the death of his father, he immigrated to this country where you now live, but God gave him nothing, not so much as a foothold. He did promise to give the country to him and his son later on, even though Abraham had no son at the time. God let him know that his offspring would move to an alien country where they would be enslaved and brutalized for four hundred years. 'But,' God said, 'I will step in and take care of those slaveholders and bring my people out so they can worship me in this place.'
+
+[MSG 3] range=8 header=None
+"Then he made a covenant with him and signed it in Abraham's flesh by circumcision. When Abraham had his son Isaac, within eight days he reproduced the sign of circumcision in him. Isaac became father of Jacob, and Jacob father of twelve 'fathers,' each faithfully passing on the covenant sign.
+
+[MSG 4] range=9-10 header=None
+"But then those 'fathers,' burning up with jealousy, sent Joseph off to Egypt as a slave. God was right there with him, though—he not only rescued him from all his troubles but brought him to the attention of Pharaoh, king of Egypt. He was so impressed with Joseph that he put him in charge of the whole country, including his own personal affairs.
+
+[MSG 5] range=11-15 header=None
+"Later a famine descended on that entire region, stretching from Egypt to Canaan, bringing terrific hardship. Our hungry fathers looked high and low for food, but the cupboard was bare. Jacob heard there was food in Egypt and sent our fathers to scout it out. Having confirmed the report, they went back to Egypt a second time to get food. On that visit, Joseph revealed his true identity to his brothers and introduced the Jacob family to Pharaoh. Then Joseph sent for his father, Jacob, and everyone else in the family, seventy-five in all. That's how the Jacob family got to Egypt.
+
+[MSG 6] range=15-16 header=None
+"Jacob died, and our fathers after him. They were taken to Shechem and buried in the tomb for which Abraham paid a good price to the sons of Hamor.
+
+[MSG 7] range=17-19 header=None
+"When the four hundred years were nearly up, the time God promised Abraham for deliverance, the population of our people in Egypt had become very large. And there was now a king over Egypt who had never heard of Joseph. He exploited our race mercilessly. He went so far as forcing us to abandon our newborn infants, exposing them to the elements to die a cruel death.
+
+[MSG 8] range=20-22 header=None
+"In just such a time Moses was born, a most beautiful baby. He was hidden at home for three months. When he could be hidden no longer, he was put outside—and immediately rescued by Pharaoh's daughter, who mothered him as her own son. Moses was educated in the best schools in Egypt. He was equally impressive as a thinker and an athlete.
+
+[MSG 9] range=23-26 header=None
+"When he was forty years old, he wondered how everything was going with his Hebrew kin and went out to look things over. He saw an Egyptian abusing one of them and stepped in, avenging his underdog brother by knocking the Egyptian flat. He thought his brothers would be glad that he was on their side, and even see him as an instrument of God to deliver them. But they didn't see it that way. The next day two of them were fighting and he tried to break it up, told them to shake hands and get along with each other: 'Friends, you are brothers, why are you beating up on each other?'
+
+[MSG 10] range=27-29 header=None
+"The one who had started the fight said, 'Who put you in charge of us? Are you going to kill me like you killed that Egyptian yesterday?' When Moses heard that, realizing that the word was out, he ran for his life and lived in exile over in Midian. During the years of exile, two sons were born to him.
+
+[MSG 11] range=30-32 header=None
+"Forty years later, in the wilderness of Mount Sinai, an angel appeared to him in the guise of flames of a burning bush. Moses, not believing his eyes, went up to take a closer look. He heard God's voice: 'I am the God of your fathers, the God of Abraham, Isaac, and Jacob.' Frightened nearly out of his skin, Moses shut his eyes and turned away.
+
+[MSG 12] range=33-34 header=None
+"God said, 'Kneel and pray. You are in a holy place, on holy ground. I've seen the agony of my people in Egypt. I've heard their groans. I've come to help them. So get yourself ready; I'm sending you back to Egypt.'
+
+[MSG 13] range=35-39 header=None
+"This is the same Moses whom they earlier rejected, saying, 'Who put you in charge of us?' This is the Moses that God, using the angel flaming in the burning bush, sent back as ruler and redeemer. He led them out of their slavery. He did wonderful things, setting up God-signs all through Egypt, down at the Red Sea, and out in the wilderness for forty years. This is the Moses who said to his congregation, 'God will raise up a prophet just like me from your descendants.' This is the Moses who stood between the angel speaking at Sinai and your fathers assembled in the wilderness and took the life-giving words given to him and handed them over to us, words our fathers would have nothing to do with.
+
+[MSG 14] range=39-41 header=None
+"They craved the old Egyptian ways, whining to Aaron, 'Make us gods we can see and follow. This Moses who got us out here miles from nowhere—who knows what's happened to him!' That was the time when they made a calf-idol, brought sacrifices to it, and congratulated each other on the wonderful religious program they had put together.
+
+[MSG 15] range=42-43 header=None
+"God wasn't at all pleased; but he let them do it their way, worship every new god that came down the pike—and live with the consequences, consequences described by the prophet Amos: Did you bring me offerings of animals and grains      those forty wilderness years, O Israel?  Hardly. You were too busy building shrines      to war gods, to sex goddesses,  Worshiping them with all your might.      That's why I put you in exile in Babylon.
+
+[MSG 16] range=44-47 header=None
+"And all this time our ancestors had a tent shrine for true worship, made to the exact specifications God provided Moses. They had it with them as they followed Joshua, when God cleared the land of pagans, and still had it right down to the time of David. David asked God for a permanent place for worship. But Solomon built it.
+
+[MSG 17] range=48-50 header=None
+"Yet that doesn't mean that Most High God lives in a building made by carpenters and masons. The prophet Isaiah put it well when he wrote, "Heaven is my throne room;      I rest my feet on earth.  So what kind of house      will you build me?" says God.  "Where I can get away and relax? It's already built, and I built it."
+
+[MSG 18] range=51-53 header=None
+"And you continue, so bullheaded! Calluses on your hearts, flaps on your ears! Deliberately ignoring the Holy Spirit, you're just like your ancestors. Was there ever a prophet who didn't get the same treatment? Your ancestors killed anyone who dared talk about the coming of the Just One. And you've kept up the family tradition—traitors and murderers, all of you. You had God's Law handed to you by angels—gift-wrapped!—and you squandered it!"
+
+[MSG 19] range=54-56 header=None
+At that point they went wild, a rioting mob of catcalls and whistles and invective. But Stephen, full of the Holy Spirit, hardly noticed—he only had eyes for God, whom he saw in all his glory with Jesus standing at his side. He said, "Oh! I see heaven wide open and the Son of Man standing at God's side!"
+
+[MSG 20] range=57-58 header=None
+Yelling and hissing, the mob drowned him out. Now in full stampede, they dragged him out of town and pelted him with rocks. The ringleaders took off their coats and asked a young man named Saul to watch them.
+
+[MSG 21] range=59-60 header=None
+As the rocks rained down, Stephen prayed, "Master Jesus, take my life." Then he knelt down, praying loud enough for everyone to hear, "Master, don't blame them for this sin"—his last words. Then he died. Saul was right there, congratulating the killers.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Stephen's Speech
+
+[EN 1] badge=1
+Then the head priest was like, “So, what’s your deal? You got something to say for yourself?”
+
+[EN 2] badge=2-4
+Stephen, totally chill, was like, “Aight, listen up, my guys and dads. God, in all his glory, showed up to our great-great-great-grandpappy Abraham way back when he was in Mesopotamia, even before he bounced to Haran. God told him, ‘Hey, leave your fam and your country. I’m gonna show you a new place.’
+
+[EN 3] badge=None
+§God's Promise to Abraham
+
+[EN 4] badge=5-8
+So Abraham peaced out of the Chaldees and rolled into Haran. After his dad died, he moved to this land where we’re all living now. But God didn’t give him any of it, not even a tiny piece of land to his name. But he promised to give the whole country to him and his kid later, even though Abraham didn’t even have a kid yet. God also gave him a heads-up that his descendants would be foreigners in another country, and they’d be enslaved and treated like dirt for 400 years. But God was like, ‘Don’t trip, I’ll handle those slave owners and get my people out so they can worship me here.’
+
+[EN 5] badge=8-9
+Then God made a deal with Abraham, like a bro-pact, and sealed it with circumcision. When Abraham had his son, Isaac, he did the same thing to him. Isaac had Jacob, and Jacob had the twelve OGs, the founding fathers of our tribes, and they all kept the tradition going.
+
+[EN 6] badge=9-10
+But then those “fathers” got super jelly of their brother Joseph and sold him as a slave to Egypt. But God had his back. He saved him from all his problems and even made him tight with Pharaoh, the king of Egypt. Pharaoh was so impressed with Joseph that he basically made him the ruler of the whole country, even his own house.
+
+[EN 7] badge=11-16
+Then a massive famine hit the whole area, from Egypt to Canaan, and it was brutal. Our ancestors were starving and couldn’t find any food. Jacob heard there was food in Egypt, so he sent our ancestors to check it out. They confirmed it and went back a second time to get more. That’s when Joseph told them who he really was and introduced his whole family to Pharaoh. Then Joseph sent for his dad, Jacob, and the whole fam, 75 people in total. And that’s how we all ended up in Egypt.
+
+[EN 8] badge=15-16
+Jacob and our ancestors died there, and they were buried in the tomb that Abraham bought from the sons of Hamor in Shechem.
+
+[EN 9] badge=20-21
+When the 400 years were almost up, the time God promised to save our people, our population in Egypt was huge. Then a new king who didn’t know Joseph came to power. He was totally cruel to our people and made us leave our newborn babies outside to die. It was messed up.
+
+[EN 10] badge=22-24
+Right around then, Moses was born, and he was a super cute baby. His parents hid him for three months, but when they couldn’t hide him anymore, they put him outside. Pharaoh’s daughter found him and raised him like her own son. Moses went to the best schools in Egypt and became powerful in both words and actions.
+
+[EN 11] badge=23-25
+When Moses was 40, he wanted to see how his Hebrew bros were doing, so he went to check on them. He saw an Egyptian beating up one of his people, so he stepped in and knocked the Egyptian out. He thought his people would be stoked that he was on their side and that God was using him to save them. But they weren’t. The next day, two of them were fighting, and he tried to break it up, telling them to be cool with each other. He was like, ‘Guys, you’re brothers, why are you fighting?’
+
+[EN 12] badge=26-29
+But the guy who started the fight was like, ‘Who made you our boss? You gonna kill me like you killed that Egyptian yesterday?’ When Moses heard that, he knew he was in deep trouble, so he bounced to Midian and lived there as a foreigner. He had two sons while he was there.
+
+[EN 13] badge=30-31
+Forty years later, in the middle of nowhere at Mount Sinai, an angel appeared to him in a burning bush. Moses couldn’t believe his eyes, so he went to get a closer look. Then he heard God’s voice, ‘I’m the God of your ancestors, the God of Abraham, Isaac, and Jacob.’ Moses was so scared he couldn’t even look.
+
+[EN 14] badge=32-34
+God said, ‘Take off your shoes, you’re on holy ground. I’ve seen how much my people are suffering in Egypt. I’ve heard them crying, and I’m here to help. So get ready, I’m sending you back to Egypt.’
+
+[EN 15] badge=35-38
+This is the same Moses they had dissed earlier, saying, ‘Who made you our boss?’ But God sent him back as their leader and savior, with the help of the angel in the burning bush. He led them out of slavery and did all sorts of crazy miracles in Egypt, at the Red Sea, and in the desert for 40 years. This is the same Moses who told our people, ‘God will send you a prophet just like me from your own people.’ This is the Moses who was the middleman between the angel at Mount Sinai and our ancestors in the desert. He got the life-giving words from God and gave them to us, but our ancestors wanted nothing to do with them.
+
+[EN 16] badge=39-41
+They missed the old days in Egypt and whined to Aaron, ‘Make us some gods we can see and follow. We don’t know what happened to this Moses guy who brought us out here.’ That’s when they made a golden calf, worshiped it, and threw a party for themselves for their awesome new religion.
+
+[EN 17] badge=42-43
+God was not happy. He let them do their own thing and worship whatever they wanted, but they had to deal with the consequences. The prophet Amos wrote about it: ‘Did you really bring me sacrifices during those 40 years in the desert, Israel? Nah. You were too busy building shrines to your fake gods. That’s why I sent you into exile in Babylon.’
+
+[EN 18] badge=44-46
+And the whole time, our ancestors had a portable tent for worshiping the real God, made exactly how God told Moses to make it. They had it with them when they followed Joshua and took over the land from the pagans, and they had it all the way down to King David. David wanted to build a permanent house for God, but Solomon was the one who actually built it.
+
+[EN 19] badge=47-50
+But that doesn’t mean God lives in a house made by people. The prophet Isaiah said it best: ‘Heaven is my throne, and the earth is my footstool. So what kind of house are you gonna build for me? Where can I chill and relax? I already built everything.’
+
+[EN 20] badge=51-53
+And you guys are just as stubborn as your ancestors! You’re deaf and blind to the Holy Spirit. You’re just like them. Was there ever a prophet your ancestors didn’t persecute? They killed anyone who even talked about the coming of the Righteous One. And you’ve kept up the family tradition—you’re all traitors and murderers. You got God’s law delivered by angels, gift-wrapped, and you totally blew it!”
+
+[EN 21] badge=None
+§Stephen Is Killed
+
+[EN 22] badge=54-56
+When they heard that, they went totally ballistic. They were screaming and yelling and throwing a fit. But Stephen, full of the Holy Spirit, didn’t even notice. He was just looking at God in all his glory, with Jesus standing right next to him. He said, “Whoa! I see heaven wide open and the Son of Man standing next to God!”
+
+[EN 23] badge=57-58
+They all started yelling and covering their ears and rushed him. They dragged him out of the city and started throwing rocks at him. The guys who started it all took off their coats and had a young guy named Saul watch them.
+
+[EN 24] badge=59
+As they were stoning him, Stephen prayed, “Jesus, take my life.” Then he knelt down and yelled, “Master, don’t hold this against them.” And with that, he died.
+
+[EN 25] badge=60
+And Saul was right there, approving of the killing.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§스데반의 연설
+
+[KO 1] badge=1
+그러자 대제사장이 “그래서, 너 뭔데? 네 할 말 있으면 해봐.” 하고 말했어.
+
+[KO 2] badge=2-4
+스데반은 완전 침착하게 “자, 형제들, 아버지들, 내 말 좀 들어봐요. 영광의 하나님께서 우리 조상 아브라함한테 메소포타미아에 있을 때 나타나셨어요. 아직 하란으로 이사 가기도 전이었죠. 하나님이 아브라함한테 그러셨어요. ‘네 가족이랑 네 나라를 떠나. 내가 새로운 곳을 보여줄게.’
+
+[KO 3] badge=5-8
+그래서 아브라함은 갈대아 땅에서 떠나 하란으로 갔어요. 아버지가 돌아가신 후에, 아브라함은 우리가 지금 살고 있는 이 땅으로 이사 왔죠. 근데 하나님은 아브라함한테 이 땅을 한 뼘도 안 주셨어요. 하지만 나중에 아브라함이랑 그 자손들한테 이 모든 땅을 주겠다고 약속하셨죠. 그때는 아브라함한테 자식도 없었는데 말이에요. 하나님은 또 아브라함의 자손들이 다른 나라에서 외국인처럼 살게 될 거고, 400년 동안 노예가 되어서 엄청 힘들게 지낼 거라고 미리 알려주셨어요. 하지만 하나님은 ‘걱정 마, 내가 그 노예 주인들을 혼내주고 내 백성을 구해서 여기에서 나를 예배하게 할 거야.’라고 하셨어요.
+
+[KO 4] badge=8-9
+그리고 하나님은 아브라함이랑 친구처럼 약속을 맺고, 할례로 그걸 확정하셨어요. 아브라함이 아들 이삭을 낳았을 때도 똑같이 할례를 했죠. 이삭은 야곱을 낳았고, 야곱은 우리 지파의 12명의 원조 할아버지들을 낳았고, 그들은 다 이 전통을 이어갔어요.
+
+[KO 5] badge=9-10
+근데 그 ‘아버지들’이 자기 동생 요셉을 엄청 질투해서 이집트에 노예로 팔아버렸어요. 하지만 하나님은 요셉 편이셨어요. 하나님은 요셉을 모든 문제에서 구해 주셨고, 이집트 왕 바로랑도 친하게 만들어 주셨죠. 바로는 요셉한테 너무 감동해서 요셉을 이집트 전체랑 자기 집까지 다스리게 했어요.
+
+[KO 6] badge=11-14
+그러다가 이집트부터 가나안까지 온 지역에 엄청난 기근이 닥쳤고, 정말 힘들었어요. 우리 조상들은 굶주려서 먹을 것을 찾을 수가 없었죠. 야곱은 이집트에 먹을 게 있다는 소식을 듣고 우리 조상들을 보내서 확인하게 했어요. 그들은 확인하고 돌아와서 더 가져오려고 두 번째로 갔죠. 그때 요셉이 자기가 누군지 밝히고 자기 가족 전부를 바로한테 소개했어요. 그리고 요셉은 자기 아버지 야곱이랑 온 가족, 총 75명을 불러들였어요. 그렇게 해서 우리 모두는 이집트로 가게 된 거예요.
+
+[KO 7] badge=15-16
+야곱과 우리 조상들은 거기서 죽었고, 세겜에 있는 하몰의 아들들에게 아브라함이 샀던 무덤에 묻혔어요.
+
+[KO 8] badge=17-19
+400년이 거의 다 되었을 때, 하나님이 우리 백성을 구원하겠다고 약속하신 때가 되었을 때, 이집트에 있는 우리 인구는 엄청 많아졌어요. 그때 요셉을 모르는 새로운 왕이 권력을 잡았죠. 그는 우리 백성한테 완전 잔인하게 굴었고, 우리 갓난아기들을 밖에 버려서 죽게 만들었어요. 정말 끔찍한 일이었죠.
+
+[KO 9] badge=20-22
+그때쯤 모세가 태어났는데, 완전 귀여운 아기였어요. 부모님은 그를 석 달 동안 숨겼지만, 더 이상 숨길 수 없게 되자 밖에 내놓았죠. 바로의 딸이 그를 발견해서 자기 아들처럼 키웠어요. 모세는 이집트 최고의 학교에서 공부했고, 완전 똑똑하고 운동도 잘하는 만능 재주꾼이었어요.
+
+[KO 10] badge=23-25
+모세가 40살이 되었을 때, 자기 히브리 형제들이 어떻게 지내는지 보러 가고 싶어서 그들을 찾아갔어요. 그는 이집트 사람이 자기 백성 중 한 명을 때리는 걸 보고 끼어들어서 그 이집트 사람을 쓰러뜨렸죠. 그는 자기 백성들이 자기가 자기들 편이고 하나님이 자기를 통해 그들을 구원하고 있다고 생각해서 기뻐할 거라고 생각했어요. 하지만 그들은 아니었죠. 다음 날, 두 명이 싸우고 있었는데, 모세가 끼어들어서 서로 사이좋게 지내라고 말하며 말렸어요. 그는 ‘얘들아, 너희 형제잖아, 왜 싸우는 거야?’라고 했죠.
+
+[KO 11] badge=26-29
+근데 싸움을 시작한 녀석이 ‘누가 너를 우리 우두머리로 만들었어? 어제 그 이집트 사람 죽인 것처럼 나도 죽일 거야?’라고 했어요. 모세는 그 말을 듣고 자기가 큰 문제에 빠졌다는 걸 알고 미디안으로 도망쳐서 거기서 외국인으로 살았어요. 거기서 두 아들을 낳았죠.
+
+[KO 12] badge=30-31
+40년 후에, 시나이 산 한복판에서, 불타는 떨기나무 속에서 천사가 그에게 나타났어요. 모세는 자기 눈을 믿을 수 없어서 더 가까이 가서 보려고 했죠. 그때 그는 하나님의 음성을 들었어요. ‘나는 네 조상들의 하나님, 아브라함과 이삭과 야곱의 하나님이다.’ 모세는 너무 무서워서 쳐다볼 수도 없었어요.
+
+[KO 13] badge=32-34
+하나님이 말씀하셨어요. ‘신발을 벗어라, 네가 서 있는 곳은 거룩한 땅이다. 내가 내 백성이 이집트에서 얼마나 고통받는지 보았다. 그들이 울부짖는 소리를 들었고, 내가 도우러 왔다. 그러니 준비해라, 내가 너를 이집트로 다시 보낼 것이다.’
+
+[KO 14] badge=35-38
+이 사람이 바로 그들이 전에 ‘누가 너를 우리 우두머리로 만들었어?’라고 무시했던 모세예요. 하지만 하나님은 그를 그들의 지도자이자 구원자로 다시 보내셨고, 불타는 떨기나무 속의 천사의 도움을 받게 하셨죠. 그는 그들을 노예 생활에서 이끌어냈고, 이집트와 홍해, 그리고 광야에서 40년 동안 온갖 놀라운 기적들을 행했어요. 이 사람이 바로 우리 백성한테 ‘하나님이 너희 백성 중에서 나 같은 선지자를 보낼 것이다.’라고 말했던 모세예요. 이 사람이 바로 시나이 산에서 천사와 우리 조상들 사이의 중재자였어요. 그는 하나님에게서 생명을 주는 말씀을 받아서 우리에게 전해 주었지만, 우리 조상들은 그 말씀이랑 아무 상관도 없다고 생각했어요.
+
+[KO 15] badge=39-41
+그들은 이집트에서의 옛날을 그리워했고 아론한테 징징거렸어요. ‘우리가 보고 따를 수 있는 신들을 만들어 줘. 우리를 여기로 데리고 나온 이 모세라는 분에게 무슨 일이 생겼는지 모르겠어.’ 그때 그들은 금송아지를 만들고, 그걸 숭배하고, 자기들의 멋진 새 종교를 위해 파티를 벌였어요.
+
+[KO 16] badge=42-43
+하나님은 기뻐하지 않으셨어요. 하나님은 그들이 자기들 하고 싶은 대로 하고 뭘 숭배하든 내버려 두셨지만, 그들은 그 결과에 대해 책임져야 했죠. 선지자 아모스가 이렇게 썼어요. ‘너희가 광야에서 40년 동안 나에게 제물을 바쳤느냐, 이스라엘아? 아니. 너희는 가짜 신들을 위한 신전을 짓느라 너무 바빴지. 그래서 내가 너희를 바빌론으로 유배 보낸 것이다.’
+
+[KO 17] badge=44-46
+그리고 그 모든 시간 동안, 우리 조상들은 진짜 하나님을 예배하기 위한 이동식 장막을 가지고 있었는데, 하나님이 모세에게 만들라고 하신 대로 정확하게 만들어진 것이었죠. 여호수아를 따라 이교도들로부터 땅을 차지할 때도 가지고 있었고, 다윗 왕 때까지 쭉 가지고 있었어요. 다윗은 하나님을 위한 영구적인 집을 짓고 싶어 했지만, 실제로 지은 건 솔로몬이었어요.
+
+[KO 18] badge=47-50
+하지만 그렇다고 해서 하나님이 사람이 만든 집에 사신다는 뜻은 아니에요. 선지자 이사야가 가장 잘 말했죠. ‘하늘은 나의 보좌이고, 땅은 나의 발판이다. 그러니 너희가 나를 위해 어떤 집을 지을 거냐? 내가 어디에서 쉬고 편히 쉴 수 있겠느냐? 나는 이미 모든 것을 만들었다.’
+
+[KO 19] badge=51-53
+그리고 너희는 너희 조상들만큼이나 고집불통이야! 너희는 성령의 말에 귀 먹고 눈 멀었어. 너희는 그들과 똑같아. 너희 조상들이 박해하지 않은 선지자가 있었던 적이 있었어? 그들은 의로운 분이 오시는 것에 대해 말했던 사람들을 다 죽였어. 그리고 너희는 그 가족 전통을 이어받았어—너희는 모두 배신자이자 살인자야. 너희는 천사들을 통해 선물처럼 포장된 하나님의 율법을 받았지만, 그걸 완전히 망쳐버렸잖아!”
+
+[KO 20] badge=None
+§스데반의 순교
+
+[KO 21] badge=54-56
+그 말을 듣자, 그들은 완전 열받았어. 소리 지르고 고함치고 난리가 났지. 하지만 성령으로 충만한 스데반은 아랑곳하지 않았어. 그는 예수님이 바로 옆에 서 계신 영광스러운 하나님을 바라보고 있었어. 그는 “와! 하늘이 활짝 열리고 인자가 하나님 곁에 서 계신 게 보여요!”라고 말했어.
+
+[KO 22] badge=57-58
+그들은 모두 소리를 지르고 귀를 막고 스데반에게 달려들었어. 그들은 스데반을 도시 밖으로 끌어내서 돌을 던지기 시작했지. 이 모든 것을 주도한 사람들은 자기들 겉옷을 벗어서 사울이라는 젊은이에게 맡겼어.
+
+[KO 23] badge=59
+그들이 스데반에게 돌을 던지는 동안, 스데반은 “예수님, 제 목숨을 거두어 가세요.”라고 기도했어. 그리고 무릎을 꿇고 “주님, 이 죄를 저들에게 돌리지 마세요.”라고 소리쳤어. 그리고 그렇게 그는 죽었어.
+
+[KO 24] badge=60
+그리고 사울은 바로 거기서 그들이 스데반을 죽이는 것에 동의하고 있었어.
+

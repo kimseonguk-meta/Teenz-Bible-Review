@@ -1,0 +1,71 @@
+# EXODUS 18 — Moses' Father-in-Law Gives Him the Ultimate Life Hack
+TEEN paras: 9 | badges: ['1-4', '5-6', '7-9', '9-12', '12', '13-14', '15-16', '17-23', '24-27']
+KO paras: 9 | badges: ['1-4', '5-6', '7-9', '9-12', '12', '13-14', '15-16', '17-23', '24-27']
+MSG sections: 9 | ranges: ['1-4', '5-6', '7-8', '9-11', '12', '13-14', '15-16', '17-23', '24-27']
+
+--- MSG [1-4] ---
+Jethro, priest of Midian and father-in-law to Moses, heard the report of all that God had done for Moses and Israel his people, the news that God had delivered Israel from Egypt. Jethro, Moses’ father-in-law, had taken in Zipporah, Moses’ wife who had been sent back home, and her two sons. The name of the one was Gershom (Sojourner) for he had said, “I’m a sojourner in a foreign land”; the name of the other was Eliezer (God’s-Help) because “The God of my father is my help and saved me from death by Pharaoh.”
+
+>>> TEEN:
+  [p0 badge=1-4] So, Moses' father-in-law, Jethro, who was a priest over in Midian, heard all about the wild stuff God had been doing for Moses and his people, Israel. Like, he got the news that God had totally sprung Israel from Egypt. Jethro had been crashing with Zipporah, Moses' wife that he'd sent back home for a bit, and their two sons. The first son was named Gershom, which is like 'foreigner,' 'cause Moses was like, "I'm basically an alien in this country." The other son was named Eliezer, which means 'God's my helper,' because he was like, "My dad's God is my helper and literally saved me from Pharaoh's death sentence."
+  [KO p0] 모세 장인어른이 미디안 제사장 이드로인데, 하나님이 모세랑 이스라엘 백성한테 해준 일들을 다 전해들은 거임. 하나님이 이스라엘을 이집트에서 구출해줬다는 믿기 힘든 소식을 들은 거지. 그동안 모세 장인 이드로는 모세가 잠시 돌려보냈던 아내 십보라랑 아들 둘을 데리고 있었대. 첫째 아들 이름은 게르솜(나그네)인데, 왜냐면 모세가 "내가 낯선 땅에서 나그네로 살고 있구나"라고 했기 때문이래. 둘째 아들 이름은 엘리에셀(하나님의 도움)인데, "내 아버지의 하나님이 날 도와주시고 파라오의 칼에서 구해주셨다"는 뜻이었대.
+
+--- MSG [5-6] ---
+Jethro, Moses’ father-in-law, brought Moses his sons and his wife there in the wilderness where he was camped at the mountain of God. He had sent a message ahead to Moses: “I, your father-in-law, am coming to you with your wife and two sons.”
+
+>>> TEEN:
+  [p1 badge=5-6] Jethro, Moses' father-in-law, brought Moses his sons and wife out to the desert where he was camped by the mountain of God. He'd sent a heads-up to Moses, like, "Yo, it's your father-in-law. I'm coming to see you, and I'm bringing your wife and two sons with me."
+  [KO p1] 이드로가 광야에 있는 하나님의 산에 진을 치고 있던 모세한테 아들들이랑 아내를 데리고 왔어. 오기 전에 미리 사람을 보내서 "나 네 장인 이드로인데, 네 아내랑 두 아들 데리고 너한테 가는 중이다"라고 알려줬대.
+
+--- MSG [7-8] ---
+Moses went out to welcome his father-in-law. He bowed to him and kissed him. Each asked the other how things had been with him. Then they went into the tent. Moses told his father-in-law the story of all that God had done to Pharaoh and Egypt in helping Israel, all the trouble they had experienced on the journey, and how God had delivered them.
+
+>>> TEEN:
+  [p2 badge=7-9] Moses went out to greet his father-in-law, gave him a respectful bow and a kiss. They asked each other how life was treating them, and then they went inside the tent. Moses gave his father-in-law the full rundown of everything God did to Pharaoh and the Egyptians to help Israel out, all the drama they went through on the road, and how God came in clutch and saved them.
+  [KO p2] 모세가 장인어른을 맞으러 나가서 절하고 입을 맞췄어. 서로 안부를 묻고 텐트 안으로 들어갔지. 모세가 장인어른한테 하나님이 이스라엘을 도우려고 파라오랑 이집트에 어떻게 하셨는지, 오는 길에 무슨 고생을 했는지, 그리고 하나님이 어떻게 그들을 구해줬는지 싹 다 얘기해줬대.
+
+--- MSG [9-11] ---
+Jethro was delighted in all the good that God had done for Israel in delivering them from Egyptian oppression. Jethro said, “Blessed be God who has delivered you from the power of Egypt and Pharaoh, who has delivered his people from the oppression of Egypt. Now I know that God is greater than all gods because he’s done this to all those who treated Israel arrogantly.”
+
+>>> TEEN:
+  [p2 badge=7-9] Moses went out to greet his father-in-law, gave him a respectful bow and a kiss. They asked each other how life was treating them, and then they went inside the tent. Moses gave his father-in-law the full rundown of everything God did to Pharaoh and the Egyptians to help Israel out, all the drama they went through on the road, and how God came in clutch and saved them.
+  [KO p2] 모세가 장인어른을 맞으러 나가서 절하고 입을 맞췄어. 서로 안부를 묻고 텐트 안으로 들어갔지. 모세가 장인어른한테 하나님이 이스라엘을 도우려고 파라오랑 이집트에 어떻게 하셨는지, 오는 길에 무슨 고생을 했는지, 그리고 하나님이 어떻게 그들을 구해줬는지 싹 다 얘기해줬대.
+  [p3 badge=9-12] Jethro was seriously stoked about all the good things God did for Israel by saving them from the Egyptians who were treating them so badly. Jethro said, "Props to God who saved you from the power of Egypt and Pharaoh, who saved his people from how awful the Egyptians were. Now I know for sure that God is greater than all the other gods, because he did this to all those people who were so arrogant to Israel."
+  [KO p3] 이드로는 하나님이 이스라엘을 이집트의 압제에서 구해준 모든 선한 일에 대해 듣고 완전 기뻐했어. 이드로가 말했지. "너희를 이집트와 파라오의 손에서 건져주시고, 자기 백성을 이집트의 압제에서 구해내신 하나님을 찬양한다! 이제야 알겠다. 하나님이 모든 신보다 위대하시다는 걸. 이스라엘한테 함부로 굴던 사람들한테 이렇게 갚아주시니 말이야."
+
+--- MSG [12] ---
+Jethro, Moses’ father-in-law, brought a Whole-Burnt-Offering and sacrifices to God. And Aaron, along with all the elders of Israel, came and ate the meal with Moses’ father-in-law in the presence of God.
+
+>>> TEEN:
+  [p3 badge=9-12] Jethro was seriously stoked about all the good things God did for Israel by saving them from the Egyptians who were treating them so badly. Jethro said, "Props to God who saved you from the power of Egypt and Pharaoh, who saved his people from how awful the Egyptians were. Now I know for sure that God is greater than all the other gods, because he did this to all those people who were so arrogant to Israel."
+  [KO p3] 이드로는 하나님이 이스라엘을 이집트의 압제에서 구해준 모든 선한 일에 대해 듣고 완전 기뻐했어. 이드로가 말했지. "너희를 이집트와 파라오의 손에서 건져주시고, 자기 백성을 이집트의 압제에서 구해내신 하나님을 찬양한다! 이제야 알겠다. 하나님이 모든 신보다 위대하시다는 걸. 이스라엘한테 함부로 굴던 사람들한테 이렇게 갚아주시니 말이야."
+  [p4 badge=12] Jethro, Moses' father-in-law, brought a big offering and sacrifices to God. Then Aaron and all the elders of Israel came and had a meal with Moses' father-in-law with God there with them.
+  [KO p4] 모세의 장인 이드로가 번제물이랑 희생제물들을 하나님께 바쳤어. 아론이랑 이스라엘 장로들도 다 와서 하나님 앞에서 모세 장인어른이랑 같이 밥을 먹었대.
+
+--- MSG [13-14] ---
+The next day Moses took his place to judge the people. People were standing before him all day long, from morning to night. When Moses’ father-in-law saw all that he was doing for the people, he said, “What’s going on here? Why are you doing all this, and all by yourself, letting everybody line up before you from morning to night?”
+
+>>> TEEN:
+  [p5 badge=13-14] The next day, Moses set up shop to be the judge for the people. And legit, people were lined up in front of him all day, from morning 'til night. When Moses' father-in-law saw everything he was doing for the people, he was like, "What is even happening right now? Why are you doing all this by yourself, with everyone waiting on you from morning to night?"
+  [KO p5] 다음 날, 모세가 백성들을 재판하려고 자리에 앉았는데, 사람들이 아침부터 밤까지 하루 종일 그 앞에 서 있는 거임. 모세 장인어른이 모세가 백성들을 위해 하는 모든 일을 보고 말했어. "이게 무슨 일이냐? 왜 너 혼자 이 모든 일을 다 하고, 사람들은 아침부터 밤까지 네 앞에 줄 서 있게 하는 거냐?"
+
+--- MSG [15-16] ---
+Moses said to his father-in-law, “Because the people come to me with questions about God. When something comes up, they come to me. I judge between a man and his neighbor and teach them God’s laws and instructions.”
+
+>>> TEEN:
+  [p6 badge=15-16] Moses told his father-in-law, "Well, the people come to me with their questions about God. When a problem comes up, they come to me. I make the call between two people and teach them God's rules and how to live."
+  [KO p6] 모세가 장인어른한테 말했어. "백성들이 하나님에 대해 물어보려고 저한테 와요. 무슨 일이 생기면 저한테 와서 이웃 간의 일을 판단 받고, 하나님의 법과 지시를 배우는 거죠."
+
+--- MSG [17-23] ---
+Moses’ father-in-law said, “This is no way to go about it. You’ll burn out, and the people right along with you. This is way too much for you—you can’t do this alone. Now listen to me. Let me tell you how to do this so that God will be in this with you. Be there for the people before God, but let the matters of concern be presented to God. Your job is to teach them the rules and instructions, to show them how to live, what to do. And then you need to keep a sharp eye out for competent men—men who fear God, men of integrity, men who are incorruptible—and appoint them as leaders over groups organized by the thousand, by the hundred, by fifty, and by ten. They’ll be responsible for the everyday work of judging among the people. They’ll bring the hard cases to you, but in the routine cases they’ll be the judges. They will share your load and that will make it easier for you. If you handle the work this way, you’ll have the strength to carry out whatever God commands you, and the people in their settings will flourish also.”
+
+>>> TEEN:
+  [p7 badge=17-23] Moses' father-in-law said, "Bro, this is not the way. You're gonna burn out, and you're gonna take all these people down with you. This is way too much for one person—you can't do this alone. Now, listen up. Let me give you some advice so God can be in on this with you. You should still be the guy who represents the people to God, and bring the big issues to him. Your job is to teach them the rules and what to do, show them how to live right. But then, you need to find some solid guys—men who respect God, have integrity, and can't be bribed—and make them leaders over groups of a thousand, a hundred, fifty, and ten. They'll handle the day-to-day judging for the people. They'll bring the super
+  [KO p7] 모세 장인어른이 말했어. "이건 진짜 아니다. 너 그러다 번아웃 온다. 너뿐만 아니라 백성들도 마찬가지야. 이건 너한테 너무 과한 일이야. 너 혼자서는 절대 못 해. 이제 내 말 잘 들어봐. 하나님이 너와 함께 하실 수 있도록 내가 방법을 알려줄게. 넌 계속 하나님 앞에서 백성들을 대표하되, 중요한 문제들만 하나님께 가져가. 네 할 일은 그들에게 규칙과 지시를 가르치고, 어떻게 살아야 할지, 무엇을 해야 할지 보여주는 거야. 그리고 나서 유능한 사람들, 즉 하나님을 두려워하고, 진실하고, 뇌물 안 받는 사람들을 잘 살펴봐. 그들을 천 명, 백 명, 오십 명, 열 명 단위로 리더로 임명해. 그들이 백성들 사이의 일상적인 
+
+--- MSG [24-27] ---
+Moses listened to the counsel of his father-in-law and did everything he said. Moses picked competent men from all Israel and set them as leaders over the people who were organized by the thousand, by the hundred, by fifty, and by ten. They took over the everyday work of judging among the people. They brought the hard cases to Moses, but in the routine cases they were the judges. Then Moses said good-bye to his father-in-law who went home to his own country.
+
+>>> TEEN:
+  [p8 badge=24-27] Moses actually listened to his father-in-law's advice and did everything he said. Moses picked out some capable men from all of Israel and made them leaders over the people, who were split into groups of a thousand, a hundred, fifty, and ten. They took over the everyday judging for the people. They brought the tough cases to Moses, but they judged the easy ones themselves. Then Moses said bye to his father-in-law, who went back home to his own country.
+  [KO p8] 모세는 장인어른의 조언을 듣고 그가 말한 대로 다 했어. 모세는 모든 이스라엘 사람 중에서 유능한 사람들을 뽑아서 천 명, 백 명, 오십 명, 열 명 단위로 조직된 백성들의 지도자로 세웠어. 그들이 백성들 사이의 일상적인 재판 업무를 맡았지. 어려운 사건들은 모세에게 가져왔지만, 평범한 사건들은 그들이 직접 재판했어. 그러고 나서 모세는 장인어른과 작별 인사를 했고, 장인어른은 자기 나라로 돌아갔대.

@@ -1,0 +1,45 @@
+===== CHAPTER 47: Joseph's Family Moves to Egypt (25 EN, 25 KO, 18 MSG) =====
+[EN0 None] § Family Reunion in Egypt
+[EN1 1] Joseph went straight to Pharaoh and was like, “My dad and brothers are here from Canaan! They brought all their animals and everything they own. They’re hanging out in Goshen for now.”
+[EN2 2-3] He brought five of his brothers to meet Pharaoh. Pharaoh asked them, “So, what do you guys do?”
+[EN3 3-4] They replied, “We’re shepherds, just like our ancestors. We came here because the famine in Canaan is insane, and there’s no grass for our flocks. If it’s cool with you, we’d love to settle in Goshen.”
+[EN4 5-6] Pharaoh looked at Joseph and said, “Awesome, your family’s here! Egypt is totally open to them. Let them live in Goshen, the best land we have. And hey, if any of them are really good at their job, put them in charge of my own livestock.”
+[EN5 7-8] Then, Joseph brought his dad, Jacob, to meet Pharaoh. Jacob gave Pharaoh a blessing, and Pharaoh asked him, “Dang, how old are you?”
+[EN6 9-10] Jacob said, “I’ve been wandering for 130 years. It’s been a tough life, and way shorter than my ancestors’ lives.” Then he blessed Pharaoh again and left.
+[EN7 11-12] Joseph got his family all set up in Egypt. They got the best land in the region of Rameses, just like Pharaoh ordered. Joseph made sure everyone, from his dad to the youngest kid, had everything they needed.
+[EN8 None] § The Famine Gets Real
+[EN9 13-14] Eventually, the food ran out everywhere. The famine was no joke, and both Egypt and Canaan were struggling hard. Joseph collected all the money from people buying food and put it in Pharaoh’s treasury.
+[EN10 15] When everyone’s money was gone, the Egyptians came to Joseph, begging, “We need food! Are you just gonna let us die? We’re totally broke.”
+[EN11 16-17] Joseph was like, “Okay, if you’re out of cash, bring me your livestock. I’ll trade you food for them.” So, people brought their horses, sheep, cattle, and donkeys, and Joseph gave them food to get through the year.
+[EN12 None] § Land for Food
+[EN13 18-19] The next year, they were back. “Sir, you know we’re broke. Our money is gone, and you have our animals. The only things we have left are our bodies and our land. Seriously, are you gonna watch us starve? Let’s make a deal. Take us and our land in exchange for food. We’ll be Pharaoh’s slaves, but at least give us some seeds so we can grow crops and not die.”
+[EN14 20-21] So, Joseph bought all the land in Egypt for Pharaoh. Every single Egyptian sold their land because the famine was that bad. Pharaoh ended up owning all the land, and the people became his slaves.
+[EN15 22] But Joseph didn’t buy the priests’ land. They got a regular allowance from Pharaoh, so they didn’t need to sell.
+[EN16 23-24] Then Joseph told the people, “Alright, listen up. I’ve bought you and your land for Pharaoh. Now, I’m giving you seeds to plant. When you harvest the crops, one-fifth of it goes to Pharaoh. You can keep the other four-fifths for yourselves, for seeds and for feeding your families.”
+[EN17 25] They were all like, “You’re a lifesaver! We’re actually happy to be Pharaoh’s slaves.”
+[EN18 26] Joseph made it a law in Egypt that a fifth of all produce belongs to Pharaoh. This law is still around today. Only the priests’ land wasn’t owned by Pharaoh.
+[EN19 None] § Jacob's Final Request
+[EN20 27-28] So the Israelites settled in Goshen, got some property, and their population exploded. Jacob lived in Egypt for 17 years, making his grand total 147 years old.
+[EN21 29] When Jacob knew he was about to die, he called for Joseph. “Do me a solid. Swear to me you’ll be loyal and won’t bury me in Egypt. When I die, I want you to carry me out of Egypt and bury me with my ancestors.”
+[EN22 30] Joseph said, “I got you. I’ll do it.”
+[EN23 31] “Swear to me,” Jacob insisted. And Joseph swore.
+[EN24 31] Then, from his bed, Jacob bowed his head, grateful and at peace.
+----- MSG -----
+[MSG0 47] Joseph went to Pharaoh and told him, “My father and brothers with their flocks and herds and everything they own have come from Canaan. Right now they are in Goshen.”
+[MSG1 2-3] He had taken five of his brothers with him and introduced them to Pharaoh. Pharaoh asked them, “What kind of work do you do?”
+[MSG2 3-4] “Your servants are shepherds, the same as our fathers were. We have come to this country to find a new place to live. There is no pasture for our flocks in Canaan. The famine has been very bad there. Please, would you let your servants settle in the region of Goshen?”
+[MSG3 5-6] Pharaoh looked at Joseph. “So, your father and brothers have arrived—a reunion! Egypt welcomes them. Settle your father and brothers on the choicest land—yes, give them Goshen. And if you know any among them that are especially good at their work, put them in charge of my own livestock.”
+[MSG4 7-8] Next Joseph brought his father Jacob in and introduced him to Pharaoh. Jacob blessed Pharaoh. Pharaoh asked Jacob, “How old are you?”
+[MSG5 9-10] Jacob answered Pharaoh, “The years of my sojourning are 130—a short and hard life and not nearly as long as my ancestors were given.” Then Jacob blessed Pharaoh and left.
+[MSG6 11-12] Joseph settled his father and brothers in Egypt, made them proud owners of choice land—it was the region of Rameses (that is, Goshen)—just as Pharaoh had ordered. Joseph took good care of them—his father and brothers and all his father’s family, right down to the smallest baby. He made sure they had plenty of everything.
+[MSG7 13-15] The time eventually came when there was no food anywhere. The famine was very bad. Egypt and Canaan alike were devastated by the famine. Joseph collected all the money that was to be found in Egypt and Canaan to pay for the distribution of food. He banked the money in Pharaoh’s palace. When the money from Egypt and Canaan had run out, the Egyptians came to Joseph. “Food! Give us food! Are you going to watch us die right in front of you? The money is all gone.”
+[MSG8 16-17] Joseph said, “Bring your livestock. I’ll trade you food for livestock since your money’s run out.” So they brought Joseph their livestock. He traded them food for their horses, sheep, cattle, and donkeys. He got them through that year in exchange for all their livestock.
+[MSG9 18-19] When that year was over, the next year rolled around and they were back, saying, “Master, it’s no secret to you that we’re broke: our money’s gone and we’ve traded you all our livestock. We’ve nothing left to barter with but our bodies and our farms. What use are our bodies and our land if we stand here and starve to death right in front of you? Trade us food for our bodies and our land. We’ll be slaves to Pharaoh and give up our land—all we ask is seed for survival, just enough to live on and k
+[MSG10 20-21] So Joseph bought up all the farms in Egypt for Pharaoh. Every Egyptian sold his land—the famine was that bad. That’s how Pharaoh ended up owning all the land and the people ended up slaves; Joseph reduced the people to slavery from one end of Egypt to the other.
+[MSG11 22] Joseph made an exception for the priests. He didn’t buy their land because they received a fixed salary from Pharaoh and were able to live off of that salary. So they didn’t need to sell their land.
+[MSG12 23-24] Joseph then announced to the people: “Here’s how things stand: I’ve bought you and your land for Pharaoh. In exchange I’m giving you seed so you can plant the ground. When the crops are harvested, you must give a fifth to Pharaoh and keep four-fifths for yourselves, for seed for yourselves and your families—you’re going to be able to feed your children!”
+[MSG13 25] They said, “You’ve saved our lives! Master, we’re grateful and glad to be slaves to Pharaoh.”
+[MSG14 26] Joseph decreed a land law in Egypt that is still in effect, *A Fifth Goes to Pharaoh*. Only the priests’ lands were not owned by Pharaoh.
+[MSG15 27-28] And so Israel settled down in Egypt in the region of Goshen. They acquired property and flourished. They became a large company of people. Jacob lived in Egypt for seventeen years. In all, he lived 147 years.
+[MSG16 29-30] When the time came for Israel to die, he called his son Joseph and said, “Do me this favor. Put your hand under my thigh, a sign that you’re loyal and true to me to the end. Don’t bury me in Egypt. When I lie down with my fathers, carry me out of Egypt and bury me alongside them.” “I will,” he said. “I’ll do what you’ve asked.”
+[MSG17 31] Israel said, “Promise me.” Joseph promised. Israel bowed his head in submission and gratitude from his bed.

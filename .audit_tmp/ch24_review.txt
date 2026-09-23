@@ -1,0 +1,107 @@
+### TITLE EN: Paul vs. The Haters in Court
+### TITLE KO: 법정에서 바울 vs 반대자들
+
+[MSG 0] range=1-4 header='Paul States His Defense'
+Within five days, the Chief Priest Ananias arrived with a contingent of leaders, along with Tertullus, a trial lawyer. They presented the governor with their case against Paul. When Paul was called before the court, Tertullus spoke for the prosecution: "Most Honorable Felix, we are most grateful in all times and places for your wise and gentle rule. We are much aware that it is because of you and you alone that we enjoy all this peace and gain daily profit from your reforms. I'm not going to tire you out with a long speech. I beg your kind indulgence in listening to me. I'll be quite brief.
+
+[MSG 1] range=5-8 header=None
+"We've found this man time and again disturbing the peace, stirring up riots against Jews all over the world, the ringleader of a seditious sect called Nazarenes. He's a real bad apple, I must say. We caught him trying to defile our holy Temple and arrested him. You'll be able to verify all these accusations when you examine him yourself."
+
+[MSG 2] range=9 header=None
+The Jews joined in: "Hear, hear! That's right!"
+
+[MSG 3] range=10-13 header=None
+The governor motioned to Paul that it was now his turn. Paul said, "I count myself fortunate to be defending myself before you, Governor, knowing how fair-minded you've been in judging us all these years. I've been back in the country only twelve days—you can check out these dates easily enough. I came with the express purpose of worshiping in Jerusalem on Pentecost, and I've been minding my own business the whole time. Nobody can say they saw me arguing in the Temple or working up a crowd in the streets. Not one of their charges can be backed up with evidence or witnesses.
+
+[MSG 4] range=14-15 header=None
+"But I do freely admit this: In regard to the Way, which they malign as a dead-end street, I serve and worship the very same God served and worshiped by all our ancestors and embrace everything written in all our Scriptures. And I admit to living in hopeful anticipation that God will raise the dead, both the good and the bad. If that's my crime, my accusers are just as guilty as I am.
+
+[MSG 5] range=16-19 header=None
+"Believe me, I do my level best to keep a clear conscience before God and my neighbors in everything I do. I've been out of the country for a number of years and now I'm back. While I was away, I took up a collection for the poor and brought that with me, along with offerings for the Temple. It was while making those offerings that they found me quietly at my prayers in the Temple. There was no crowd, there was no disturbance. It was some Jews from around Ephesus who started all this trouble. And you'll notice they're not here today. They're cowards, too cowardly to accuse me in front of you.
+
+[MSG 6] range=20-21 header=None
+"So ask these others what crime they've caught me in. Don't let them hide behind this smooth-talking Tertullus. The only thing they have on me is that one sentence I shouted out in the council: 'It's because I believe in the resurrection that I've been hauled into this court!' Does that sound to you like grounds for a criminal case?"
+
+[MSG 7] range=22-23 header=None
+Felix waffled. He knew far more about the Way than he let on, and could have settled the case then and there. But uncertain of his best move politically, he played for time. "When Captain Lysias comes down, I'll decide your case." He gave orders to the centurion to keep Paul in custody, but to more or less give him the run of the place and not prevent his friends from helping him.
+
+[MSG 8] range=24-26 header=None
+A few days later Felix and his wife, Drusilla, who was Jewish, sent for Paul and listened to him talk about a life of believing in Jesus Christ. As Paul continued to insist on right relations with God and his people, about a life of moral discipline and the coming Judgment, Felix felt things getting a little too close for comfort and dismissed him. "That's enough for today. I'll call you back when it's convenient." At the same time he was secretly hoping that Paul would offer him a substantial bribe. These conversations were repeated frequently.
+
+[MSG 9] range=27 header=None
+After two years of this, Felix was replaced by Porcius Festus. Still playing up to the Jews and ignoring justice, Felix left Paul in prison.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Trial Before Felix
+
+[EN 1] badge=1-2
+Five days later, the head priest, Ananias, showed up with his crew and a slick lawyer named Tertullus. They went straight to Governor Felix to start throwing shade at Paul.
+
+[EN 2] badge=2-4
+When it was his turn, Tertullus started by totally buttering up Felix, saying, “Hey, Governor Felix, you’re the GOAT. Thanks to you, everything is chill and our lives are way better. For real. I’m not gonna waste your time, so I’ll keep it short.”
+
+[EN 3] badge=5-6
+Then he pointed at Paul. “This guy is a major problem. He’s been going all over the world stirring up trouble with the Jews. He’s the ringleader of this suspicious group called the Nazarenes. Total bad news. We caught him trying to mess up our holy Temple, so we arrested him. You can grill him yourself and see that we’re telling the truth.”
+
+[EN 4] badge=7-8
+"But then Commander Lysias showed up, grabbed Paul out of our hands, and ordered us to bring our charges to you. Question Paul yourself and you'll see that everything we're accusing him of is true."
+
+[EN 5] badge=9
+The other Jews with him were all like, “Yeah, he’s right! That’s what happened!”
+
+[EN 6] badge=10-13
+Then the governor gave Paul the nod to speak. Paul was like, “I’m actually stoked to be here, Governor, because I know you’re a fair guy. You can check the facts: I’ve only been in town for twelve days. I came to worship, not to start drama. Nobody saw me arguing in the Temple or starting riots in the streets. They have zero proof for any of their accusations. Seriously.
+
+[EN 7] badge=14-15
+“But I’ll admit this: I follow ‘the Way,’ which they call a cult. But I’m worshipping the same God our ancestors did, and I believe everything written in the Scriptures. And I’m holding out for the ultimate transformation when God brings everyone back from the dead, good and bad. If that’s a crime, then my accusers are just as guilty.
+
+[EN 8] badge=16-19
+“Look, I just try to keep a clear conscience with God and people. I was out of the country for a few years, and I came back to bring some money for the poor and make offerings at the Temple. That’s where they found me, just quietly doing my thing. No crowd, no noise. It was some guys from Ephesus who started all this, but they’re not even here to face me. They totally ghosted.
+
+[EN 9] badge=20-21
+“So ask these guys what they actually saw me do. The only thing they can pin on me is when I shouted in their council, ‘I’m on trial today because I believe in the resurrection!’ Is that really a crime?”
+
+[EN 10] badge=22-23
+Felix, who actually knew a lot about the Way, didn’t want to make a decision. He was playing politics. So he stalled and said, “I’ll figure this out when Captain Lysias gets here.” He told the guard to keep Paul in custody but give him some freedom and let his friends bring him stuff.
+
+[EN 11] badge=24-26
+A few days later, Felix and his wife Drusilla (who was Jewish) sent for Paul to hear him talk about believing in Jesus. But when Paul started going on about living right, self-control, and the coming judgment, Felix got super uncomfortable. He was like, “Okay, that’s enough for today. I’ll call you later.” He was also secretly hoping Paul would offer him a bribe to get out of jail. They had a bunch more of these chats.
+
+[EN 12] badge=27
+Two years went by, and then Porcius Festus took over as governor. Felix, still trying to be popular with the Jews, just left Paul sitting in prison. What a snake.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§벨릭스 앞에서의 재판
+
+[KO 1] badge=1-4
+닷새 후에, 대제사장 아나니아랑 지도자 대표단이 법정 변호사 더둘로를 데리고 왔음. 그들은 총독에게 바울을 고발하는 소송을 건 거야. 바울이 법정에 불려 나오니까, 더둘로가 고소장을 읽기 시작했어. "벨릭스 총독님, 총독님의 지혜롭고 너그러운 통치 덕분에 저희가 언제 어디서나 감사하고 있습니다. 저희가 이렇게 평화롭게 지내고, 매일 총독님의 개혁 덕을 보는 건 다 총독님 덕분인 거, 저희 완전 잘 알아요. 길게 말해서 총독님 피곤하게 안 할게요. 너그러운 마음으로 제 말 좀 들어주세요. 진짜 짧게 말할게요."
+
+[KO 2] badge=5-8
+"저희가 보니까 이 사람은 평화를 깨뜨리는 사람이고, 온 세상에 있는 유대인들한테 폭동을 일으키라고 부추기는 사람이에요. 나사렛파라고 하는 이상한 분파의 대장이거든요. 저희는 이 사람이 우리 성전을 더럽히려는 걸 보고 잡았습니다. 직접 물어보시면 저희가 고발한 내용이 다 사실이라는 걸 아실 수 있을 겁니다."
+
+[KO 3] badge=9
+유대인들도 옆에서 거들었어. "들어보세요! 다 맞는 말이에요!"
+
+[KO 4] badge=10-13
+총독이 바울한테 이제 네 차례라고 손짓했어. 바울이 말했지. "총독님, 지난 몇 년 동안 총독님이 얼마나 공정하게 재판하셨는지 저도 잘 압니다. 그래서 총독님 앞에서 제 자신을 변호하게 된 게 진짜 다행이라고 생각해요. 저는 본국에 돌아온 지 겨우 12일밖에 안 됐어요. 날짜는 금방 확인하실 수 있을 거예요. 저는 오순절에 예루살렘에서 예배드리려고 일부러 왔고, 온 뒤로는 계속 제 할 일만 했어요. 제가 성전에서 누구랑 싸우거나 길거리에서 사람들 선동하는 거 본 사람 아무도 없을걸요? 쟤네들이 저를 고발한 내용 중에는 증거도 없고, 증명할 수 있는 것도 하나도 없어요."
+
+[KO 5] badge=14-15
+"하지만 제가 이거 하나는 인정할게요. 그들이 이단이라고 하는 이 '도'를 따라서, 저는 우리 조상들이 섬겼던 바로 그 하나님을 섬기고 예배하고, 우리 성경에 쓰여 있는 모든 걸 다 믿어요. 그리고 저는 하나님께서 착한 사람이든 나쁜 사람이든 죽은 사람들을 다시 살리실 거라고 믿고, 그걸 소망하면서 살고 있다는 것도 인정해요. 만약 이게 죄라면, 저를 고발한 쟤네들도 저만큼 죄가 있는 거죠."
+
+[KO 6] badge=16-19
+"저는 모든 일에 하나님과 제 이웃들 앞에서 부끄럽지 않은 양심을 지키려고 완전 최선을 다해왔어요. 저는 몇 년 동안 고향을 떠나 있다가 이제 돌아왔습니다. 떠나 있는 동안에 저는 가난한 사람들을 위한 헌금을 모아서 성전 예물이랑 같이 가지고 왔어요. 바로 그 예물을 드리면서 성전에서 조용히 기도하고 있는 저를 쟤네들이 본 거예요. 모여든 사람도 없었고, 시끄럽지도 않았어요. 에베소 근처에서 온 몇몇 유대인들이 이 모든 소동을 일으킨 거예요. 근데 보시다시피 걔네들은 오늘 여기 없잖아요. 걔네들은 겁쟁이들이에요. 너무 무서워서 총독님 앞에서 저를 고발하지도 못하는 거죠."
+
+[KO 7] badge=20-21
+"그러니까 제가 무슨 죄를 짓다가 잡혔는지 여기 이 사람들한테 물어보세요. 말 잘하는 더둘로 뒤에 숨지 말라고 하세요. 그들이 저에 대해 내세울 수 있는 것은, 제가 의회에서 외친 '내가 이 법정에 끌려온 건 내가 부활을 믿기 때문입니다!'라는 이 한 문장뿐이에요. 총독님은 이 말이 범죄의 증거가 된다고 생각하세요?"
+
+[KO 8] badge=22-23
+벨릭스는 망설였어. 그는 생각보다 이 '도'에 대해 훨씬 많이 알고 있어서, 바로 그 자리에서 사건을 끝낼 수도 있었거든. 근데 정치적으로 뭐가 제일 좋은 방법인지 확신이 안 서서 시간을 끌었어. "지휘관 루시아가 오면 네 사건을 결정하겠다." 그는 백부장한테 바울을 감옥에 가두라고 명령하면서도, 한편으로는 바울에게 어느 정도 자유를 줘서 친구들이 그를 돌보는 걸 막지는 않았어.
+
+[KO 9] badge=24-26
+며칠 후에 벨릭스랑 그의 유대인 아내 드루실라가 바울을 불러서 예수 그리스도를 믿는 삶에 대해 이야기를 들었어. 바울이 하나님과 그분의 사람들과의 올바른 관계, 도덕적으로 훈련된 삶, 그리고 다가올 심판에 대해 계속 강조하니까, 벨릭스는 마음이 너무 불편하고 쫄려서 그를 내보냈어. "오늘은 됐다. 시간 날 때 다시 부를게." 그는 바울이 자기한테 뇌물을 많이 바치기를 은근히 바라고 있었던 거야. 그 후에도 이런 대화가 자주 반복됐어.
+
+[KO 10] badge=27
+그렇게 2년이 지난 후에 벨릭스 후임으로 보르기오 베스도가 그 자리에 왔어. 벨릭스는 유대인들한테 잘 보이려고 정의를 무시하고 바울을 감옥에 그냥 내버려 뒀어.
+

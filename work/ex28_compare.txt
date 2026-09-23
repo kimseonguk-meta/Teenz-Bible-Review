@@ -1,0 +1,82 @@
+# EXODUS 28 — God's Holy Drip: Priest Fit Check
+TEEN paras: 12 | badges: ['1-2', '3-5', '6-14', '15-16', '17-20', '20-21', '22-28', '29-30', '31-35', '36-38', '39-41', '42-43']
+KO paras: 12 | badges: ['1-2', '3-5', '6-14', '15-16', '17-20', '20-21', '22-28', '29-30', '31-35', '36-38', '39-41', '42-43']
+MSG sections: 10 | ranges: ['1-5', '6-14', '15-20', '20-21', '22-28', '29-30', '31-35', '36-38', '39-41', '42-43']
+
+--- MSG [1-5] ---
+“Get your brother Aaron and his sons from among the Israelites to serve me as priests: Aaron and his sons Nadab, Abihu, Eleazar, Ithamar. Make sacred vestments for your brother Aaron to symbolize glory and beauty. Consult with the skilled craftsmen, those whom I have gifted in this work, and arrange for them to make Aaron’s vestments, to set him apart as holy, to act as priest for me. These are the articles of clothing they are to make: Breastpiece, Ephod, robe, woven tunic, turban, sash. They are making holy vestments for your brother Aaron and his sons as they work as priests for me. They will need gold; blue, purple, and scarlet material; and fine linen.
+
+>>> TEEN:
+  [p0 badge=1-2] “Yo, from now on, your brother Aaron and his sons are officially my priests. That’s Aaron, Nadab, Abihu, Eleazar, and Ithamar. You need to make them some sacred outfits that are all about glory and beauty.
+  [KO p0] “이제 네 형 아론이랑 아들들을 이스라엘 백성 중에서 데려와서 나를 섬기는 제사장으로 삼으라고 하셨어. 아론이랑 그의 아들 나답, 아비후, 엘르아살, 이다말인 거임. 아론을 위해서 영광과 아름다움을 나타내는 거룩한 옷을 만들어야 한대.
+  [p1 badge=3-5] Get the best craftsmen on it, the ones I’ve given mad skills to. Have them make Aaron’s holy gear so he’s set apart to serve me as a priest. Here’s the list of what they need to make: a special breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. This is the holy drip for your brother Aaron and his sons to wear when they’re on duty as my priests. They’ll need gold, plus blue, purple, and scarlet fabric, and some fine linen.
+  [KO p1] 내가 특별한 재능을 준 기술자들 있잖아, 그 사람들이랑 상의해서 아론의 옷을 만들게 하래. 그를 거룩하게 구별해서 나를 위한 제사장으로 세우기 위해서지. 만들어야 할 옷은 가슴받이, 에봇, 겉옷, 반포 속옷, 관, 띠, 이렇게래. 네 형 아론과 그의 아들들이 제사장으로 일할 때 입을 거룩한 옷인 거지. 금실, 청색, 자색, 홍색 실, 그리고 고운 베실이 필요할 거래.
+
+--- MSG [6-14] ---
+“Have the Ephod made from gold; blue, purple, and scarlet material; and fine twisted linen by a skilled craftsman. Give it two shoulder pieces at two of the corners so it can be fastened. The decorated band on it is to be just like it and of one piece with it: made of gold; blue, purple, and scarlet material; and of fine twisted linen. Next take two onyx stones and engrave the names of the sons of Israel on them in the order of their birth, six names on one stone and the remaining six on the other. Engrave the names of the sons of Israel on the two stones the way a jeweler engraves a seal. Then mount the stones in settings of filigreed gold. Fasten the two stones on the shoulder pieces of the Ephod—they are memorial stones for the Israelites. Aaron will wear these names on his shoulders as a memorial before God. Make the settings of gold filigree. Make two chains of pure gold and braid them like cords, then attach the corded chains to the settings.
+
+>>> TEEN:
+  [p2 badge=6-14] “First up, the Ephod. It needs to be made by a master craftsman using gold, blue, purple, and scarlet material, and fine twisted linen. It should have two shoulder pieces so it can be fastened at the corners. The decorated band on it has to be the same style and all one piece with it, made of the same stuff: gold, blue, purple, and scarlet material, and fine twisted linen. Then, get two onyx stones and carve the names of Israel’s sons on them, in order of their birth—six names on one stone, and the other six on the second stone. An expert jeweler should engrave these names like a seal. Mount the stones in gold settings. Then attach these two stones to the shoulder pieces of the Ephod. They’r
+  [KO p2] “먼저 에봇은 금실, 청색, 자색, 홍색 실, 그리고 가늘게 꼰 베실로 정교하게 만들라고 하셨어. 양쪽 끝에 어깨받이 두 개를 달아서 여밀 수 있게 하고. 에봇 위에 장식 띠도 같은 모양으로, 같은 재료로 한 조각처럼 만들래. 금, 청색, 자색, 홍색 실, 그리고 가늘게 꼰 베실로 말이야. 그리고 나서 호마노 보석 두 개를 가져다가 이스라엘 아들들의 이름을 태어난 순서대로 새기래. 한 보석에 여섯 명, 다른 보석에 나머지 여섯 명. 보석 파는 사람이 도장 새기듯이 이스라엘 아들들의 이름을 두 보석에 새기는 거임. 그 다음에 그 보석들을 금테에 물리고, 에봇의 두 어깨받이에 달래. 이건 이스라엘 자손을 위한 기념 보석이래
+
+--- MSG [15-20] ---
+“Now make a Breastpiece of Judgment, using skilled craftsmen, the same as with the Ephod. Use gold; blue, purple, and scarlet material; and fine twisted linen. Make it nine inches square and folded double. Mount four rows of precious gemstones on it. First row: carnelian, topaz, emerald.       Second row: ruby, sapphire, crystal.       Third row: jacinth, agate, amethyst.       Fourth row: beryl, onyx, jasper.
+
+>>> TEEN:
+  [p3 badge=15-16] “Next, make a Breastpiece of Judgment. This also needs a skilled craftsman, just like the Ephod. Use gold, blue, purple, and scarlet material, and fine twisted linen. It should be nine inches square and folded in half. Mount four rows of precious gemstones on it.
+  [KO p3] “이제 판결 가슴받이를 만들어야 하는데, 이것도 에봇처럼 숙련된 기술자가 만들어야 한대. 금, 청색, 자색, 홍색 실, 그리고 가늘게 꼰 베실을 사용해서. 길이랑 너비가 한 뼘씩 되게 두 겹으로 네모 반듯하게 만들고, 거기에 보석을 네 줄로 물리래.
+  [p4 badge=17-20] First row: carnelian, topaz, and emerald. Second row: ruby, sapphire, and crystal. Third row: jacinth, agate, and amethyst. Fourth row: beryl, onyx, and jasper.
+  [KO p4] 첫째 줄은 홍보석, 황옥, 녹주옥. 둘째 줄은 석류석, 남보석, 수정. 셋째 줄은 풍신자석, 마노, 자수정. 넷째 줄은 녹보석, 호마노, 벽옥. 완전 대박이지.
+  [p5 badge=20-21] “Set them in gold filigree. These twelve stones represent the twelve sons of Israel, with each of their names engraved on one stone, like a seal for each of the twelve tribes.
+  [KO p5] “이 보석들을 금테에 물리래. 이 열두 보석은 이스라엘의 열두 아들들의 이름을 상징하는 거고, 각 보석에 이름 하나씩, 열두 지파를 위한 도장처럼 새기는 거야.
+
+--- MSG [20-21] ---
+“Set them in gold filigree. The twelve stones correspond to the names of the Israelites, with twelve names engraved, one on each, as on a seal for the twelve tribes.
+
+>>> TEEN:
+  [p4 badge=17-20] First row: carnelian, topaz, and emerald. Second row: ruby, sapphire, and crystal. Third row: jacinth, agate, and amethyst. Fourth row: beryl, onyx, and jasper.
+  [KO p4] 첫째 줄은 홍보석, 황옥, 녹주옥. 둘째 줄은 석류석, 남보석, 수정. 셋째 줄은 풍신자석, 마노, 자수정. 넷째 줄은 녹보석, 호마노, 벽옥. 완전 대박이지.
+  [p5 badge=20-21] “Set them in gold filigree. These twelve stones represent the twelve sons of Israel, with each of their names engraved on one stone, like a seal for each of the twelve tribes.
+  [KO p5] “이 보석들을 금테에 물리래. 이 열두 보석은 이스라엘의 열두 아들들의 이름을 상징하는 거고, 각 보석에 이름 하나씩, 열두 지파를 위한 도장처럼 새기는 거야.
+
+--- MSG [22-28] ---
+“Then make braided chains of pure gold for the Breastpiece, like cords. Make two rings of gold for the Breastpiece and fasten them to the two ends. Fasten the two golden cords to the rings at the ends of the Breastpiece. Then fasten the other ends of the two cords to the two settings of filigree, attaching them to the shoulder pieces of the Ephod in front. Then make two rings of gold and fasten them to the two ends of the Breastpiece on its inside edge facing the Ephod. Then make two more rings of gold and fasten them in the front of the Ephod to the lower part of the two shoulder pieces, near the seam above the decorated band. Fasten the Breastpiece in place by running a cord of blue through its rings to the rings of the Ephod so that it rests secure on the decorated band of the Ephod and won’t come loose.
+
+>>> TEEN:
+  [p6 badge=22-28] “Then, make braided chains of pure gold for the Breastpiece, like cords. Make two gold rings for the Breastpiece and attach them to the two ends. Fasten the two gold cords to the rings at the ends of the Breastpiece. Then, attach the other ends of the cords to the two filigree settings, connecting them to the front of the Ephod's shoulder pieces. Make two more gold rings and put them on the two ends of the Breastpiece, on the inside edge that faces the Ephod. Then, make two more gold rings and attach them to the front of the Ephod, on the lower part of the shoulder pieces, near the seam above the decorated band. Use a blue cord to tie the Breastpiece's rings to the Ephod's rings so it stays 
+  [KO p6] “그 다음엔 순금으로 꼰 사슬을 가슴받이에 달기 위해 만들래. 가슴받이 양쪽 끝에 금 고리 두 개를 만들어서 달고, 두 금 사슬을 그 고리에 연결해. 그리고 사슬 다른 쪽 끝은 에봇 앞쪽 어깨받이에 있는 금테에 연결하는 거지. 또 금 고리 두 개를 만들어서 가슴받이 양쪽 끝, 에봇 쪽 안쪽 가장자리에 달고. 또 다른 금 고리 두 개를 만들어서 에봇 앞 두 어깨받이 아래쪽, 장식 띠 바로 위쪽 솔기 가까이에 달래. 청색 끈으로 가슴받이 고리랑 에봇 고리를 묶어서 가슴받이가 에봇 장식 띠 위에 단단히 고정되고 흔들리지 않게 하래.
+
+--- MSG [29-30] ---
+“Aaron will regularly carry the names of the sons of Israel on the Breastpiece of Judgment over his heart as he enters the Sanctuary into the presence of God for remembrance. Place the Urim and Thummim in the Breastpiece of Judgment. They will be over Aaron’s heart when he enters the presence of God. In this way Aaron will regularly carry the Breastpiece of Judgment into the presence of God.
+
+>>> TEEN:
+  [p7 badge=29-30] “So, every time Aaron enters the Holy Place, he’ll be carrying the names of the sons of Israel over his heart on this Breastpiece of Judgment. It’s a constant reminder in God’s presence. Also, put the Urim and Thummim inside the Breastpiece. They’ll be over Aaron’s heart whenever he comes before God. This way, Aaron will always carry the means of judgment for Israel with him in God’s presence.
+  [KO p7] “아론은 성소에 들어갈 때마다 이 판결 가슴받이에 있는 이스라엘 아들들의 이름을 가슴에 달고 하나님 앞에 나아가야 한대. 기억하기 위해서. 그리고 판결 가슴받이 안에 우림과 둠밈을 넣으래. 아론이 하나님 앞에 들어갈 때마다 그의 가슴 위에 있게 될 거야. 이렇게 아론은 항상 이스라엘 자손의 판결 흉패를 하나님 앞에 가지고 다니게 되는 거임. 진짜 중요.
+
+--- MSG [31-35] ---
+“Make the robe for the Ephod entirely of blue, with an opening for the head at the center and a hem on the edge so that it won’t tear. For the edge of the skirts make pomegranates of blue, purple, and scarlet material all around and alternate them with bells of gold—gold bell and pomegranate, gold bell and pomegranate—all around the hem of the robe. Aaron has to wear it when he does his priestly work. The bells will be heard when he enters the Holy Place and comes into the presence of God, and again when he comes out so that he won’t die.
+
+>>> TEEN:
+  [p8 badge=31-35] “The robe for the Ephod should be made completely of blue. It needs an opening for the head in the middle with a reinforced hem so it doesn’t tear. Around the bottom hem, you need to make pomegranates out of blue, purple, and scarlet material, and put gold bells in between them. So it goes gold bell, pomegranate, gold bell, pomegranate, all the way around the hem of the robe. Aaron has to wear this whenever he’s doing his priest duties. The bells will jingle when he enters the Holy Place to come before God, and when he leaves, so that he won’t die. Lowkey a life-saving feature.
+  [KO p8] “에봇 받침 겉옷은 전부 청색으로 만들고, 머리 들어갈 구멍을 중앙에 내고 그 가장자리를 튼튼하게 해서 찢어지지 않게 하래. 옷단 가장자리에는 청색, 자색, 홍색 실로 석류를 쭉 돌아가면서 만들고, 그 사이사이에 금방울을 달래. 금방울 하나, 석류 하나, 이런 식으로 옷단 전체에. 아론이 제사장 일 할 때 이걸 입어야 한대. 그가 성소에 들어가서 하나님 앞에 나아갈 때랑 나올 때 방울 소리가 들릴 건데, 그래야 그가 죽지 않는대. 이거 완전 생명줄이네.
+
+--- MSG [36-38] ---
+“Make a plate of pure gold. Engrave on it as on a seal: ‘Holy to God.’ Tie it with a blue cord to the front of the turban. It is to rest there on Aaron’s forehead. He’ll take on any guilt involved in the sacred offerings that the Israelites dedicate, no matter what they bring. It will always be on Aaron’s forehead so that the offerings will be acceptable before God.
+
+>>> TEEN:
+  [p9 badge=36-38] “Now, make a plate of pure gold and engrave on it, just like a seal: ‘Holy to God.’ Tie it with a blue cord to the front of the turban. It has to sit right on Aaron’s forehead. He’ll be the one to take on any guilt from the sacred offerings the Israelites bring, no matter what they are. It will always be on his forehead so that their offerings are accepted by God.
+  [KO p9] “순금으로 패를 만들어서 그 위에 도장 새기듯이 ‘여호와께 성결’이라고 새기래. 청색 끈으로 그걸 관 앞쪽에 매달아서 아론의 이마 위에 있게 하래. 이스라엘 자손이 바치는 성물에 관련된 죄책을 그가 대신 짊어지게 될 거래. 그들이 뭘 가져오든 상관없이. 그 패가 항상 아론의 이마에 있어서 그들의 헌물이 하나님 앞에 받아들여지게 하는 거임.
+
+--- MSG [39-41] ---
+“Weave the tunic of fine linen. Make the turban of fine linen. The sash will be the work of an embroiderer. Make tunics, sashes, and hats for Aaron’s sons to express glory and beauty. Dress your brother Aaron and his sons in them. Anoint, ordain, and dedicate them to serve me as priests.
+
+>>> TEEN:
+  [p10 badge=39-41] “Weave the tunic from fine linen. Make the turban from fine linen. The sash should be embroidered. Also, make tunics, sashes, and hats for Aaron’s sons to show glory and beauty. Put these clothes on your brother Aaron and his sons. Anoint them, ordain them, and set them apart to serve me as priests.
+  [KO p10] “속옷은 가는 베실로 짜서 만들고, 관도 가는 베실로 만들래. 띠는 수를 놓아서 만들고. 아론의 아들들을 위해서도 속옷과 띠와 관을 만들어서 영광과 아름다움을 나타내게 하래. 네 형 아론과 그의 아들들에게 이 옷들을 입히고, 기름을 부어 위임하고 거룩하게 구별해서 나를 섬기는 제사장으로 삼으래.
+
+--- MSG [42-43] ---
+“Make linen underwear to cover their nakedness from waist to thigh. Aaron and his sons must wear it whenever they enter the Tent of Meeting or approach the Altar to minister in the Holy Place so that they won’t incur guilt and die. This is a permanent rule for Aaron and all his priest-descendants.”
+
+>>> TEEN:
+  [p11 badge=42-43] “Finally, make them linen underwear to cover them from their waist to their thighs. Aaron and his sons have to wear them whenever they go into the Tent of Meeting or get close to the Altar to serve in the Holy Place. This is so they don’t mess up and die. This is a permanent rule for Aaron and all his descendants who become priests.”
+  [KO p11] “그리고 그들을 위해 베로 속바지를 만들어서 허리부터 허벅지까지 맨살을 가리게 하래. 아론과 그의 아들들은 회막에 들어가거나 제단에 가까이 가서 거룩한 곳에서 섬길 때마다 이걸 입어야 한대. 그래야 죄를 짓고 죽지 않지. 이건 아론과 그의 모든 제사장 후손들이 영원히 지켜야 할 규칙이래.”

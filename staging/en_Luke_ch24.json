@@ -1,0 +1,92 @@
+{
+  "chapter": 24,
+  "title": "The Empty Tomb and The Epic Comeback",
+  "paragraphs": [
+    "§Looking for the Living One in a Cemetery",
+    "Very early on Sunday morning, the women took the spices they had prepared to the tomb. They found the massive stone rolled completely away from the entrance! They walked in, but the body of the Lord Jesus was gone.",
+    "While they were standing there totally confused, two men wearing clothes that literally flashed like lightning suddenly stood beside them. The women were terrified and dropped face-down to the dirt. The glowing men said to them: \"Why are you looking for the living among the dead? He isn't here; he has risen! Remember what he told you back in Galilee: The Son of Man had to be handed over to sinners, be crucified, and on the third day rise again.\" Then it clicked. They remembered his words.",
+    "They sprinted back from the tomb and told the eleven apostles and everyone else what happened. (It was Mary Magdalene, Joanna, Mary the mother of James, and a few others). But the guys thought the women were talking absolute nonsense and didn't believe a word of it.",
+    "Peter, however, jumped up and literally sprinted to the tomb. He bent over, looked in, and saw only the strips of linen lying there. He walked away completely mind-blown, wondering what in the world had happened.",
+    "§The Road to Emmaus",
+    "That exact same day, two of Jesus's followers were walking to a village called Emmaus, about seven miles outside Jerusalem. They were talking about the insane events of the weekend. While they were debating, Jesus himself walked up and started traveling with them, but God kept them from recognizing him.",
+    "Jesus asked, \"What are you guys arguing about?\" They stopped dead in their tracks, looking absolutely devastated. One guy, Cleopas, said, \"Are you the only visitor in Jerusalem who doesn't know what just happened?\"",
+    "\"What things?\" Jesus asked. \"About Jesus of Nazareth!\" they replied. \"He was a man of God, a prophet — insanely powerful in everything he said and did, and both God and the people loved him. We totally thought he was the one who was going to rescue Israel. But the chief priests handed him over, got him sentenced to death, and they crucified him. And get this — today is already the third day since it all went down. But now, some women from our group totally blew our minds. They went to the tomb this morning, couldn't find his body, and claimed they saw angels who said he was alive! Some of our guys went to check, and the tomb was empty just like the women said, but they didn't see him.\"",
+    "Jesus essentially said, \"You guys are so slow to catch on! Didn't the Messiah have to suffer all these things before entering his glory?\" Then, starting all the way back with Moses and the prophets, Jesus explained exactly how the entire Old Testament pointed straight to him.",
+    "When they got to Emmaus, Jesus acted like he was going to keep walking. But they begged him, \"Stay with us, it's getting dark!\" So he went in. When they sat down at the table, Jesus took the bread, gave thanks, broke it, and handed it to them. Instantly, their eyes were opened, and they realized it was him! And the second they recognized him, he literally vanished into thin air.",
+    "They looked at each other. \"Weren't our hearts burning inside us when he was explaining the Scriptures on the road?!\"",
+    "§A Ghost Doesn't Have Muscle and Bone",
+    "They didn't even care that it was dark; they got up immediately and ran all seven miles back to Jerusalem. They burst into the room where the Eleven and their friends were gathered and yelled, \"It's true! The Lord has risen — Simon saw him with his own eyes!\"",
+    "Then the two told them the whole story — everything that happened on the road, and how they recognized him when he broke the bread.",
+    "While they were still telling the story, Jesus himself suddenly materialized right in the middle of the room. \"Peace be with you,\" he said. They absolutely lost their minds with terror, thinking they were seeing a ghost. \"Why are you so freaked out? Why are you doubting? Look at my hands and my feet. It's really me! Touch me and see. Ghosts don't have flesh and bones like I do.\" He showed them his hands and his feet. They were so full of joy and shock they still couldn't process it — it seemed too good to be true.",
+    "So Jesus asked, \"Do you guys have anything to eat here?\" They handed him a piece of broiled fish, and he ate it right in front of them.",
+    "§You're the Witnesses",
+    "He looked at his team. \"This is exactly what I told you when I was still with you: Everything written about me in the Law, the Prophets, and the Psalms had to be fulfilled.\"",
+    "Then he opened their minds so they could finally fully understand the Bible. \"This is what is written: The Messiah will suffer and rise from the dead on the third day. Now, forgiveness of sins will be preached in his name to all nations, starting right here in Jerusalem. You are my official witnesses. I am going to send you what my Father promised; but stay in the city until you are completely clothed with power from heaven.\"",
+    "Jesus led them out to the vicinity of Bethany. He lifted his hands and blessed them. While he was blessing them, he physically left them and was taken straight up into heaven.",
+    "His disciples fell down and worshipped him, and then returned to Jerusalem with massive, unstoppable joy. They stayed continually at the Temple, praising God."
+  ],
+  "verseRanges": [
+    "1-3",
+    "1-3",
+    "4-8",
+    "9-11",
+    "12",
+    "13-16",
+    "13-16",
+    "17-18",
+    "19-24",
+    "25-27",
+    "28-31",
+    "32",
+    "33-34",
+    "33-34",
+    "35",
+    "36-41",
+    "41-43",
+    "44",
+    "44",
+    "45-49",
+    "50-51",
+    "52-53"
+  ],
+  "msg_ranges": [
+    "1-3",
+    "1-3",
+    "4-8",
+    "9-11",
+    "12",
+    "13-16",
+    "13-16",
+    "17-18",
+    "19-24",
+    "25-27",
+    "28-31",
+    "32",
+    "33-34",
+    "33-34",
+    "35",
+    "36-41",
+    "41-43",
+    "44",
+    "44",
+    "45-49",
+    "50-51",
+    "52-53"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "41",
+      "paras": [
+        16,
+        17
+      ],
+      "note": "MSG 원문이 41절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    }
+  ],
+  "changes": [
+    "Luke 24장: MSG 문단 구조 기준으로 EN 전면 재구성"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

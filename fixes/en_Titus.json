@@ -1,0 +1,118 @@
+[
+ {
+  "changes": [
+   "Ch1: § header text replaced — 'Qualifications for Leaders' was not the MSG header; MSG '### A Good Grip on the Message' now shared with following 5-9 paragraph (badge 5-9)",
+   "Ch1: reordered to MSG order (1-4 paragraph, then § header, then 5-9) — § header still shares badge with the following body paragraph",
+   "Ch1: restored 'reverent' in the leader qualifications (MSG 5-9 list) — missing in prior EN",
+   "Ch1: all null badges fixed per MSG ranges (1-4 / 5-9 / 10-16); msg_ranges union covers all of ch1"
+  ],
+  "chapter": 1,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-4",
+   "5-9",
+   "5-9",
+   "10-16"
+  ],
+  "paragraphs": [
+   "Hey, it's Paul here. I'm God's servant and Christ's agent, on assignment to build up the faith of God's chosen people and put out the straight word about God and how to respond to him the right way. My whole mission is to give people real hope by pointing the way to life that never ends — the life God promised ages ago, and God never breaks a promise. When the time was right, he went public with the truth, and I've been put in charge of announcing it, by direct order from our Savior, God himself. So to Titus, my true son in the faith: I hope you receive everything God our Father and Jesus our Savior have for you.",
+   "§A Good Grip on the Message",
+   "I left you in charge on Crete to finish the work I started. Appoint a leader in every town, and do it my way. When you pick them, check: Is he respected by people? Is he faithful to his wife? Are his kids believers who respect him and stay out of trouble? A church leader runs God's household business, so he has to be someone people look up to — not pushy, not quick-tempered, not a drunk, not a fighter, not money-hungry. He should be hospitable, helpful, wise, fair, reverent, in control of himself, and have a real grip on the Message. He needs to know the truth well enough to fire people up for more truth — or shut down people who fight against it.",
+   "Because, heads up: there are a ton of rebels out there talking loose, confusing, lying nonsense. The worst ones are the people raised religious who should know better. You've got to silence them. They're wrecking whole families with their teaching, all to make a quick buck. One of their own prophets called it: \"Cretans are liars from birth, savage dogs, lazy gluttons.\" And he was right. So get after them fast. Shut down that sick talk — Jewish myths and made-up rules — so they can get back to a strong, healthy faith. Everything is clean to clean-minded people, but nothing is clean to unbelievers with dirty minds. They leave their dirty fingerprints on every thought and action. They claim to know God, but their actions shout louder than their words. They're phonies — disobedient and useless for anything good."
+  ],
+  "splits": [],
+  "title": "Step Up and Lead Right",
+  "verseRanges": [
+   "1-4",
+   "5-9",
+   "5-9",
+   "10-16"
+  ]
+ },
+ {
+  "changes": [
+   "Ch2: § header text replaced — 'Teaching Sound Doctrine' was not the MSG header; MSG '### A God-Filled Life' now shares badge 1-6 with the following paragraph",
+   "Ch2: badges corrected to MSG ranges — prior badges were wrong (1-5→1-6, 6-8→7-8, 11-13→11-14, 14-15→15); § header badge was null → '1-6'",
+   "Ch2: content checked complete against MSG 1-6/7-8/9-10/11-14/15 — older men/women, younger women, young men, self-example, slaves, grace passage, v15 charge all present; teen-voice rewrite only, no intentional summary"
+  ],
+  "chapter": 2,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-6",
+   "1-6",
+   "7-8",
+   "9-10",
+   "11-14",
+   "15"
+  ],
+  "paragraphs": [
+   "§A God-Filled Life",
+   "Your job is to teach what lines up with solid truth. Guide the older men to live disciplined, dignified, and wise lives — healthy in faith, love, and endurance. Guide the older women to live reverent lives — not gossips, not drunks, but examples of goodness. Watching them, the younger women will learn to love their husbands and kids, be pure and virtuous, manage their homes well, and be good wives. We don't want anyone trash-talking God's message because of how we act. And guide the young men to live disciplined lives too.",
+   "Most of all, teach them by example — live it yourself. Be straight-up trustworthy in your teaching, solid and sensible in your words. Then anyone totally against us will find nothing weird or off to attack, and they might just change their mind.",
+   "Guide slaves to be loyal workers — a gift to their masters. No talking back, no sneaky stealing. When their good character shines through their actions, it makes the teaching of our Savior God look great.",
+   "God's grace — his readiness to give and forgive — is out in the open now. Salvation is available to everyone! He's showing us how to leave behind a godless, anything-goes life and take on a God-filled, God-honoring life. This new life has already started, and it's got us pumped for the glorious day when our great God and Savior, Jesus Christ, appears. He gave himself as a sacrifice to pull us out of a dark, rebellious life and into this good, pure life — making us a people he can be proud of, all in on doing good.",
+   "Teach them all of this. Build up their courage, and correct them when they step out of line. You're in charge here — don't let anyone look down on you."
+  ],
+  "splits": [],
+  "title": "How to Grow Into Real Faith",
+  "verseRanges": [
+   "1-6",
+   "1-6",
+   "7-8",
+   "9-10",
+   "11-14",
+   "15"
+  ]
+ },
+ {
+  "changes": [
+   "Ch3: § header text replaced — 'Doing Good' was not the MSG header; MSG '### He Put Our Lives Together' now shares badge 1-2 with the following paragraph",
+   "Ch3: badge 3-7→3-8 corrected to MSG range (prior cut off v8 'You can count on this')",
+   "Ch3: declared splits entry for the v8 overlap between MSG paragraphs 3-8 and 8-11 (MSG's own grouping, not a Teenz merge)",
+   "Ch3: content checked complete — 1-2 respect/government, 3-8 bath/new life, 8-11 warn-the-divisive, 12-13 Artemas/Tychicus/Nicopolis/Zenas/Apollos, 14 diligent work, 15 greetings all present"
+  ],
+  "chapter": 3,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-2",
+   "1-2",
+   "3-8",
+   "8-11",
+   "12-13",
+   "14",
+   "15"
+  ],
+  "paragraphs": [
+   "§He Put Our Lives Together",
+   "Remind everyone to respect the government and be law-abiding — always ready to lend a hand. No insults, no fights. God's people should be bighearted and kind to everyone.",
+   "Not that long ago, we were the clueless ones — stupid and stubborn, easy targets for sin, dragged around by every impulse, bitter and prickly, hating people and getting hated back. Then our kind and loving Savior, God, stepped in and saved us. It was 100% his doing — we had nothing to do with it. He gave us a good wash, and we came out new people, cleaned up inside and out by the Holy Spirit. Our Savior Jesus poured out new life like crazy. God's gift fixed our relationship with him and gave us our lives back. And there's more coming — life that never ends! Bank on it.",
+   "So stand your ground on this. Take a firm stand so that everyone who trusts God will focus on the stuff that actually matters — what's good for everyone. Stay out of dumb, pointless arguments about family trees and tiny details of the law. That stuff goes nowhere. Warn a quarrelsome person once or twice, then drop it. It's obvious that person is off-track and rebelling against God. By clinging to division, they're cutting themselves off.",
+   "As soon as I send Artemas or Tychicus your way, drop everything and meet me in Nicopolis — I'm spending the winter there. And give Zenas the lawyer and Apollos a solid send-off. Take good care of them.",
+   "Our people need to learn to work hard and be productive so that everyone's needs get met — especially the needy — and they don't end up with nothing to show for their lives.",
+   "Everyone here sends their greetings. Say hi to our friends in the faith. Grace to all of you."
+  ],
+  "splits": [
+   {
+    "msg_range": "8",
+    "note": "MSG itself groups v8 in both ranges 3:3-8 and 3:8-11 as printed; badges follow MSG as printed, no merging of the two MSG paragraphs",
+    "paras": [
+     2,
+     3
+    ]
+   }
+  ],
+  "title": "How to Be a Real G",
+  "verseRanges": [
+   "1-2",
+   "1-2",
+   "3-8",
+   "8-11",
+   "12-13",
+   "14",
+   "15"
+  ]
+ }
+]

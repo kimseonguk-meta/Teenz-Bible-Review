@@ -1,0 +1,86 @@
+{
+  "changes": [
+    "Ch16: § headers fixed to MSG's real headers (A Dream Gave Paul His Map; Beaten Up and Thrown in Jail) — removed fabricated 'Timothy Joins the Team', 'The Slave Girl', 'The Philippian Jailer'",
+    "Ch16: split merged 1-5 (→1-3, 4-5), 6-11 (→6-8, 9-10), 12-16 (→11-12, 13-14, 15), 20-24 (→19-22, 22-24), 25-28 (→25-26, 27-28), 29-33 (→29-31, 32-34), 34-40 (→35-36, 37, 38-40)",
+    "Ch16: declared split for MSG's own overlap (v22 in 19-22/22-24)",
+    "Ch16: restored Timothy's circumcision reason ('so he wouldn't offend the Jews'), jailer's 'badly shaken, collapsed', 'couldn't believe their ears', Lydia's full invitation; moderated slang (sus, ACCESS DENIED, ghosted, cash cow)",
+    "Ch16: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved"
+  ],
+  "chapter": 16,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-3",
+    "1-3",
+    "4-5",
+    "6-8",
+    "9-10",
+    "11-12",
+    "13-14",
+    "15",
+    "16-18",
+    "16-18",
+    "19-22",
+    "22-24",
+    "25-26",
+    "27-28",
+    "29-31",
+    "32-34",
+    "35-36",
+    "37",
+    "38-40"
+  ],
+  "paragraphs": [
+    "§A Dream Gave Paul His Map",
+    "Paul traveled first to Derbe, then on to Lystra. There he met a disciple named Timothy — his mother was a devout Jew, his father Greek. The believers in Lystra and Iconium all spoke highly of him. Paul wanted Timothy on the team — but first he took him aside and circumcised him, so the local Jews wouldn't be put off. Everyone knew his father was Greek.",
+    "As they went from town to town, they passed along the simple guidelines the apostles and leaders in Jerusalem had agreed on. It helped a ton. Day by day, the churches grew stronger in faith and bigger in number.",
+    "They traveled through Phrygia and the Galatia region. They'd planned to head west into the Asia province — but the Holy Spirit blocked that route. So they went on to Mysia and tried to head north into Bithynia, but the Spirit of Jesus wouldn't let them go there either. They pushed on through Mysia and came down to Troas, a seaport.",
+    "That night Paul had a dream: a Macedonian man stood on the far shore, calling across the sea, \"Come over to Macedonia and help us!\" That dream gave Paul his map. We got to work immediately, getting ready to cross over to Macedonia. Everything had fallen into place. We knew for sure now: God was calling us to preach the good news in Europe.",
+    "Sailing from Troas, we made a straight run to Samothrace. The next day we docked at Neapolis and walked from there to Philippi — the leading city of that part of Macedonia and, even more importantly, a Roman colony. We stayed there several days.",
+    "On the Sabbath, we went outside the city, down to the river, where we'd heard people gathered for prayer. We sat down with the women who'd assembled there and talked with them. One of them, Lydia, was from Thyatira — she sold expensive purple cloth, and she was known as a woman who honored God. As she listened intently to what was being said, the Master opened her heart to trust — and she believed!",
+    "After she was baptized, along with everyone in her household, she said with warm hospitality, \"If you're convinced I'm truly with you in believing in the Master, come stay at my house as my guests.\" We hesitated — but she wouldn't take no for an answer.",
+    "§Beaten Up and Thrown in Jail",
+    "One day, on our way to the prayer place, we ran into a slave girl. She was a fortune-teller, and her predictions made a lot of money for her owners. She started trailing Paul, shouting to get everyone's attention: \"These men work for the Most High God! They're showing you the way to be saved!\" She kept it up for days, until Paul — finally fed up — turned around and commanded the spirit inside her, \"Out! In the name of Jesus Christ, get out of her!\" And just like that, it was gone.",
+    "When her owners realized their money-making business had just gone bankrupt, they grabbed Paul and Silas — roughed them up and dragged them into the marketplace. The police arrested them and hauled them before the judges, accusing them: \"These men are troublemakers — dangerous Jewish agitators undermining our Roman way of life.\" By then the crowd had turned into an angry mob baying for blood.",
+    "The judges sided with the mob — had Paul and Silas stripped and ordered them beaten in public. After beating them black and blue, they threw them in prison, telling the jailer to keep them under maximum guard — no chance of escape. He did exactly that: locked them in the innermost cell and clamped their feet in stocks.",
+    "Around midnight, Paul and Silas were praying and singing bold hymns to God. The other prisoners couldn't believe their ears. Then, out of nowhere — a massive earthquake! The prison shook to its foundations, every door flew open, every chain came loose.",
+    "Jolted awake, the jailer saw every door hanging open. Figuring all the prisoners had escaped, he drew his sword and was about to kill himself — he was as good as dead anyway — when Paul shouted, \"Don't do it! We're all still here! Nobody ran away!\"",
+    "The jailer grabbed a torch and rushed in. Shaking all over, he fell down in front of Paul and Silas. Then he led them out and asked, \"Sirs, what do I have to do to be saved — to really live?\" They said, \"Put your whole trust in the Master Jesus. Then you'll live the way you were meant to live — and your whole household too!\"",
+    "They went on to explain the whole story of the Master in detail — the entire family listened in. Nobody slept that night. The jailer took them in, cleaned up their wounds, and then — he couldn't even wait till morning — he was baptized, he and his whole family. Back at his house, he set out a festive meal. It was an unforgettable night: he and his entire family had put their trust in God, and the whole house was celebrating.",
+    "At daybreak, the judges sent officers with the order: \"Release those men.\" The jailer passed the message to Paul: \"The judges say you're free to go. Congratulations — go in peace!\"",
+    "But Paul wouldn't move. He told the officers, \"They beat us in public and threw us in prison — and we're Roman citizens! Now they want to quietly sweep us out of here with nobody watching? No way. If they want us gone, they can come here themselves and walk us out in broad daylight.\"",
+    "When the officers reported this, the judges freaked out. They'd had no idea Paul and Silas were Roman citizens. They rushed over, apologized in person, escorted them out of the prison, and then asked them — please — to leave the city. Walking out of the prison, Paul and Silas went straight to Lydia's house, saw their friends, encouraged them, and only then moved on."
+  ],
+  "splits": [
+    {
+      "msg_range": "22",
+      "note": "MSG's own overlap: v22 closes MSG para 19-22 and opens MSG para 22-24; badges follow MSG paragraph boundaries",
+      "paras": [
+        10,
+        11
+      ]
+    }
+  ],
+  "title": "Singing in Chains: Earthquake at Midnight",
+  "verseRanges": [
+    "1-3",
+    "1-3",
+    "4-5",
+    "6-8",
+    "9-10",
+    "11-12",
+    "13-14",
+    "15",
+    "16-18",
+    "16-18",
+    "19-22",
+    "22-24",
+    "25-26",
+    "27-28",
+    "29-31",
+    "32-34",
+    "35-36",
+    "37",
+    "38-40"
+  ]
+}

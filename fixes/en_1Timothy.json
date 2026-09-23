@@ -1,0 +1,279 @@
+[
+ {
+  "chapter": 1,
+  "title": "Paul's Pep Talk to His Protégé",
+  "paragraphs": [
+   "Hey, what up! It's Paul, an apostle on a special mission for Jesus, the guy who gives us major hope. God our Savior gave me the orders, and I'm writing this to you, Timothy, my awesome apprentice in the faith. Hope you're getting all the positive energy from God and Jesus!",
+   "§Self-Appointed Experts on Life",
+   "So, remember when I was heading to Macedonia and I told you to hold down the fort in Ephesus? Well, stick with that plan. You gotta make sure everyone's teaching the real stuff and not getting sidetracked. Apparently, some people are telling crazy stories and making up weird family trees that just lead to pointless arguments. That's not what we're about. We're trying to build up people's faith and help them follow God.",
+   "The main thing we're pushing for is just **love**. Like, real love, not the fake kind that's all about you or what you can get. It's about having a heart that's wide open to God. But some people totally miss this and end up in the weeds, just gossiping and causing drama. They act like they're big-shot experts on God, but they have no clue what they're talking about, even though they sound super smart.",
+   "Look, rules are important, but it's all about who you're talking to and how you say it. The rules aren't really for people who are already doing the right thing. They're for the rebels, the ones who disrespect God, life, sex, and the truth. They're for the people who mock the awesome message that God put me in charge of.",
+   "Speaking of which, I'm so stoked that Christ Jesus trusted me with this gig. He totally went out on a limb for me. Before, I was a total wrecking ball, going after believers and being super arrogant. But God showed me mercy because I was clueless and didn't know who I was messing with. Then, BAM! Grace, faith, and love just flooded my life, all because of Jesus.",
+   "Here's something you can count on: Jesus Christ came to save sinners, and I'm exhibit A. I was the worst of the worst, and the only reason I'm even here is because of God's insane mercy. Now, he uses me as an example of his never-ending patience for anyone who's thinking about trusting him.",
+   "So, major props and glory to the King of everything, the one and only God who's immortal and invisible, forever and ever. Amen!",
+   "I'm passing the torch to you, my man Timothy. All the things that were prophesied about you were getting you ready for this. All those prayers are coming together now so you can crush this mission. Be a warrior, hold on tight to your faith, and be true to yourself. This is a battle, after all.",
+   "Some people have already bailed on their faith by being lazy and thinking they can do whatever they want. Hymenaeus and Alexander are a couple of them. I had to hand them over to Satan so they'd learn their lesson and stop disrespecting God."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3-4",
+   "3-4",
+   "5-7",
+   "8-11",
+   "12-14",
+   "15-19",
+   "15-19",
+   "15-19",
+   "19-20"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3-4",
+   "3-4",
+   "5-7",
+   "8-11",
+   "12-14",
+   "15-19",
+   "15-19",
+   "15-19",
+   "19-20"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "15-19",
+    "paras": [
+     6,
+     7,
+     8
+    ],
+    "note": "MSG 15-19 문단 블록(번호 없는 연속 문단 2개 포함)을 EN 가독성을 위해 3개 문단으로 유지 — 모두 배지 15-19"
+   }
+  ],
+  "changes": [
+   "EN 3번 문단 배지 '3-5'→'3-4' 정정 (MSG 문단 기준)",
+   "EN 4번 문단 배지 '5-7' 유지",
+   "EN 5번 문단 배지 '8-10'→'8-11' 정정",
+   "EN 6번 문단 배지 '11-13'→'12-14' 정정",
+   "EN 7~9번 문단 배지 '14-15'/'16-17'/'18-19'→모두 '15-19'로 정정 (splits 선언)",
+   "§ 헤더를 MSG 위치에 맞게 1-2 문단 뒤(3-4 문단 앞)로 이동, 배지 '3-4' 부여",
+   "[meaning-audit 2026-09-22] MSG 대조 전수 감사: EN 21건·KO 19건 수정. (1) 복합명 복원: 1:12-14 Christ Jesus, 1:15 Jesus Christ, 6:13-16 Jesus Christ (2) 누락 복원: 1:1-2 apostle, 1:15-19 'All those prayers', 1:19-20 'hand over to Satan', 1:8-11 'sex', 2:1-3 'Savior God', 2:4-7 'plain truth', 3:1-7 Devil's trap, 4:11-14 'laid hands on you', 5:11-15 'serving Christ', 5:19 'legit witnesses', 6:13-16 'Pontius Pilate' (3) 완화 복원: 6:1-2 slave/master (4) §헤더 MSG 원문으로 복원 5곳 (5) 4:11-14 'put you down'→'look down on you' 의미 정정 (6) ch4 stale split 선언 제거(11-14 단일 문단)"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 2,
+  "title": "Prayer 101 and How to Act in Church",
+  "paragraphs": [
+   "§Simple Faith and Plain Truth",
+   "Alright, so first things first, I need you to pray. Like, all the time. Hit up God for everyone you know. And make sure you're praying for the people in charge, like the prez and the government peeps. If they're doing a good job, we can all just chill and live our lives in peace, focusing on God. That's how our Savior God wants us to live, for real.",
+   "God wants to save, like, literally everyone. He wants everyone to get the real scoop: there's only one God, and only one guy who connects us to Him—Jesus. He was the one who put himself on the line, offering himself as a sacrifice to bust us out of the trap of sin. The news is getting out there, and that's my main gig: telling people who've never heard about God what's up, and how to get in on it through simple faith and plain truth.",
+   "Since we're talking about prayer, guys, when you pray, do it with positive energy. Don't be shaking your fists all angry at your enemies. Just raise your hands to God. And ladies, you're in on this too. Show up with humility, not all extra with your looks, chasing the latest trends. Do something beautiful for God — that's what makes you beautiful.",
+   "In the church gathering, women shouldn't be taking over and bossing the men around. Everyone should be learning quietly and respectfully together. Remember, Adam was created first, then Eve. And Eve was the first to be deceived — our pioneer in sin! — with Adam right on her heels. But look, the whole mom thing brought a huge win in the end, turning things around from Eve's mistake. This salvation, though, only comes to those who stick with trusting God, loving others, and keeping it real as they grow up. You can count on that."
+  ],
+  "verseRanges": [
+   "1-3",
+   "1-3",
+   "4-7",
+   "8-10",
+   "11-15"
+  ],
+  "msg_ranges": [
+   "1-3",
+   "1-3",
+   "4-7",
+   "8-10",
+   "11-15"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "EN 4번 문단(배지 '8-10'): MSG 'doing something beautiful for God and becoming beautiful doing it' 누락 취지 복원 — 'Do something beautiful for God — that\\'s what makes you beautiful.'",
+   "EN 5번 문단(배지 '11-15'): MSG에 없는 'the serpent' 해석 추가 제거",
+   "§ 헤더 배지 '1-3' 부여"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 3,
+  "title": "How to be a Church honored",
+  "paragraphs": [
+   "§Leaders in the Church",
+   "So, you wanna be a leader at church? That's legit. But hold up, it's not like they're just handing out special accesses. There are some ground rules. First, you gotta have a good rep. People need to know you're a solid guy. You gotta be a one-woman man, stay chill, and be the kind of guy people can actually talk to, who welcomes people into his home. And yeah, you need to know your stuff when it comes to God. Don't be a party animal, and definitely don't be a bully. Be cool, don't get triggered by everything, and don't be greedy. You've got to have your own life on lock, and your own kids have to actually look up to you. Seriously, if your own house is a mess, how are you gonna run God's house? Also, you can't be a rookie Christian; that's a surefire way to get a big ego and let the Devil trip you up. Even people who aren't into church should think you're a decent guy, or the Devil will find a way to trap you.",
+   "And the same goes for the church's support crew, the deacons. These guys need to be the real deal—no fakes, no drama. They can't be hitting the bottle too hard or just in it for the perks. They have to be all-in on the big mysteries of the faith and not just trying to climb the ladder. They gotta prove themselves first. If they've got the right stuff, then they're in. And this isn't a boys-only club; the ladies have to meet the same standards. They need to be serious, trustworthy, and not spreading gossip or drinking too much. The whole crew needs to be loyal to their families and have their lives in order. When you serve like that, you get major respect and make the whole Jesus-faith look good.",
+   "I'm hoping to swing by and see you soon, but I'm writing this down just in case I get held up. This is the playbook for how we do things in God's family, the church of the living God, which is like the ultimate fortress of truth. This whole Christian thing is a huge mystery, way bigger than we can get our heads around, but some parts are crystal clear. Like how Jesus showed up as a regular guy, the Holy Spirit proved he was the real deal, and angels saw the whole thing. His story was told to everyone, people all over the world started believing in him, and then he had the ultimate transformation and went back to heaven."
+  ],
+  "verseRanges": [
+   "1-7",
+   "1-7",
+   "8-13",
+   "14-16"
+  ],
+  "msg_ranges": [
+   "1-7",
+   "1-7",
+   "8-13",
+   "14-16"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "EN 2번 문단(배지 '1-7'): MSG 'hospitable' 누락 복원 — 'who welcomes people into his home' 추가",
+   "§ 헤더 배지 '1-7' 부여"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 4,
+  "title": "Don't Get Played by the Haters",
+  "paragraphs": [
+   "§Teach with Your Life",
+   "Alright, so the Holy Spirit is dropping some major truth bombs. He's saying that down the road, some people are gonna totally ghost the faith. They'll get catfished by demons and start believing a bunch of fake news from professional liars. These guys have been capping for so long, they don't even know what's real anymore. They'll try to tell you not to get married or that you can't eat certain foods. But that's nonsense! God made all that food to be enjoyed with a grateful heart, especially by those of us who are in the know. Everything God created is a banger, and we should be thankful for it. Nothing should be dissed or thrown out. God's Word and our prayers make everything legit.",
+   "If you pass this on to the squad, you'll be a real one for Jesus. You've been raised on the truth of the faith and solid teaching, so you know what's up. Don't get sidetracked by cringey stories that people try to pass off as religion. Instead, you gotta train every day to be spiritually swole. Hitting the gym is cool and all, but a disciplined life in God is a miraculous transformation that makes you fit for today and forever. That's a fact, so take it seriously. This is why we're going all in on this mission. We're betting everything on the living God, the GOAT who saves everyone, especially those who believe.",
+   "So, get the word out and teach everyone these things. And don't let anyone look down on you because you're young. You gotta lead the charge and show other believers how it's done. Be a role model with your words, your actions, your love, your faith, and your integrity. Keep reading the Scriptures, giving good advice, and teaching. And that special power you got when the church leaders laid hands on you and prayed for you? Keep that skill sharp and ready to use.",
+   "Go all in on these things. The more you practice, the more everyone will see you level up right in front of them. Keep a solid grip on who you are and what you teach. Don't get distracted. Just keep grinding. If you do that, both you and everyone who listens to you will get that ultimate W: salvation."
+  ],
+  "verseRanges": [
+   "1-5",
+   "1-5",
+   "6-10",
+   "11-14",
+   "15-16"
+  ],
+  "msg_ranges": [
+   "1-5",
+   "1-5",
+   "6-10",
+   "11-14",
+   "15-16"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "EN 4번 문단 배지 '11-13'→'11-14' 정정, EN 5번 문단 배지 '13-16'→'15-16' 정정 (splits 선언)",
+   "§ 헤더 배지 '1-5' 부여"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 5,
+  "title": "The Real honored ones and How to Treat 'Em",
+  "paragraphs": [
+   "§The Family of Faith",
+   "Alright, so here's the deal on how to treat people in the church. First off, don't go dissing the old guys. Talk to an older guy like he's your own dad, and the younger guys like they're your bros. Show some major respect to the older women like they're your mom, and the younger women like they're your sisters. Basically, treat everyone like family.",
+   "Now, about the widows. You gotta look out for the ones who are truly on their own. If a widow's got family, they need to step up and take care of her. That's like, Christianity 101—your faith starts at home. It's like paying back your parents for all the stuff they did for you, and God is super into that. You can spot a real-deal widow because she's all-in on God, always praying for everyone. But if a widow is just playing people for their money, she's a fake. Make sure everyone knows this so they do the right thing. If you don't take care of your own family, you're basically ghosting your faith, which is even worse than not believing in the first place.",
+   "For the older widows, you can sign them up for a special support squad. The church will have their back, but they gotta be over 60, only been married once, and have a rep for being a real MVP—helping with kids, welcoming strangers, and taking care of tired-out Christians and people who are hurting.",
+   "But don't put the young widows on this list. They'll join up and then immediately be like, 'I'd rather have a husband,' obsessed with finding a husband instead of serving Christ this way. They'll break their promise and just get into drama, wasting their time with gossip and nonsense. Seriously, it's better for the young widows to just get married, have kids, run their homes, and not give the haters anything to talk about. Some of them have already bailed and are following Satan.",
+   "And if a Christian woman has widows in her family, she's gotta take care of them. Don't just dump them on the church. The church has its hands full with the widows who have nobody.",
+   "Now, for the leaders who are crushing it, especially the ones who work hard at preaching and teaching, give them a bonus. The Bible says you shouldn't muzzle an ox when it's working, and a worker deserves to get paid.",
+   "Don't even listen to a complaint about a leader unless you've got two or three legit witnesses to back it up.",
+   "If someone does mess up, call them out. That'll send a message to anyone else who's thinking about doing the same thing.",
+   "I'm telling you this with God, Jesus, and all the angels as my witnesses: follow these instructions and don't play favorites. Don't be in a rush to make someone a leader. If you do, you might end up being part of their mess. Keep yourself clean. And hey, don't let the critics get to you. A little wine is fine; it's good for your stomach and can help you feel better.",
+   "Some people's sins are super obvious, like they're marching straight to judgment. Other people's sins are more low-key and don't show up until later. It's the same with good deeds. Some are easy to see, but none of them can be hidden forever. The truth always comes out in the end."
+  ],
+  "verseRanges": [
+   "1-2",
+   "1-2",
+   "3-8",
+   "9-10",
+   "11-15",
+   "16",
+   "17-18",
+   "19",
+   "20",
+   "21-23",
+   "24-25"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "1-2",
+   "3-8",
+   "9-10",
+   "11-15",
+   "16",
+   "17-18",
+   "19",
+   "20",
+   "21-23",
+   "24-25"
+  ],
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "EN 기존 [19-20] 합병 문단을 MSG 문단 구조에 맞춰 19절/20절 두 문단으로 분리",
+   "EN 5번 문단 배지 '11-13'→'11-15' 정정",
+   "EN 10번 문단 배지 '21-22'→'21-23' 정정",
+   "EN 9번 문단(배지 '20'): MSG에 없는 'in front of everyone' 해석 추가 제거",
+   "§ 헤더 배지 '1-2' 부여"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ },
+ {
+  "chapter": 6,
+  "title": "Don't Get Played by Money",
+  "paragraphs": [
+   "Alright, so if you're a slave, make the best of it and show your master respect. Don't be a slacker and make God and what we're teaching look bad. And if your master is a Christian? Respect them even more — they're not just your master, they're your brother in the faith.",
+   "§The Lust for Money",
+   "These are the things I want you to teach and preach. Now, if you see so-called leaders teaching weird stuff and ignoring the solid truth from Jesus, you gotta call them out. They're just posers — ignorant windbags pumping the air full of envy, controversy, trash-talk, and suspicious rumors. It's like a virus of backstabbing, and nobody even knows what's real anymore. They're just in it to get rich quick, thinking faith is their personal ATM.",
+   "Living God's way does make you rich — but it's the rich simplicity of just being yourself before God. We came into the world with nothing, and we'll leave with nothing. So if we've got food and clothes, we're good. That's enough.",
+   "But those leaders who are just chasing money? They're headed for a total wipeout. The obsession with getting rich is a trap that leads to all kinds of trouble. Some people have totally lost their faith chasing money and now they're living with major regrets. It's a total disaster.",
+   "§Running Hard",
+   "But you, Timothy, you're a man of God. You need to run from all that nonsense. Go hard after a righteous life — a life of wonder, faith, love, steadiness, and courtesy. Stay in the game, run your race, and grab that eternal life you were called to, the one you told everyone you were all-in for.",
+   "I'm giving you a serious mission, in front of God who gives life and Jesus who stood his ground and didn't back down from Pontius Pilate: Stick to the plan. Don't slack off. Our main man, Jesus Christ, is coming back right on schedule. His return is guaranteed by the Blessed and Undisputed Ruler, the King of all kings and Lord of all lords. He's the only one who can't be defeated by death, shining so bright you can't even look at him. No one has ever seen him, 'cause he's on another level. All honor and power to him forever! You know it.",
+   "And tell the rich people in this world to chill out. They need to stop flexing and being obsessed with their money, 'cause it can all disappear tomorrow. Tell them to chase after God, who gives us way more than we could ever handle. They should use their wealth to do good, be super generous, and help others out. That's how they build up real treasure that lasts forever and get a life that's actually worth living.",
+   "And yo, Timothy, my man. Guard the treasure you've been given — guard it with your life! Don't get sucked into all the pointless arguments and fake knowledge from the so-called 'experts.' People who get caught up in all that talk can totally miss the point of faith. Overwhelming grace keep you!"
+  ],
+  "verseRanges": [
+   "1-2",
+   "2-5",
+   "2-5",
+   "6-8",
+   "9-10",
+   "11-12",
+   "11-12",
+   "13-16",
+   "17-19",
+   "20-21"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "2-5",
+   "2-5",
+   "6-8",
+   "9-10",
+   "11-12",
+   "11-12",
+   "13-16",
+   "17-19",
+   "20-21"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "2",
+    "paras": [
+     0,
+     2
+    ],
+    "note": "MSG 원문 자체의 문단 번호 겹침(ch6 문단 1-2와 2-5가 2절 공유) — 합병/분할이 아닌 MSG 번호 체계 그대로 반영"
+   }
+  ],
+  "changes": [
+   "EN 2번 문단 배지 '3-5'→'2-5' 정정 (MSG 문단 기준)",
+   "§Money and Contentment를 MSG 위치에 맞게 1-2 문단 뒤(2-5 문단 앞)로 이동, 배지 '2-5' 부여",
+   "§Running Hard 추가 (MSG 섹션 헤더 'Running Hard' 누락 — 배지 '11-12')",
+   "EN 1번 문단(배지 '1-2'): MSG '기독교인 상사는 형제이므로 더욱 존중' 취지 복원",
+   "EN 3번 문단(배지 '2-5'): MSG 'These are the things I want you to teach and preach.' 문장 복원 (기존 1-2 문단에 오배치되어 있던 문장 제자리로), MSG 'envy, controversy, bad-mouthing, suspicious rumors' 나열 복원",
+   "EN 4번 문단(배지 '6-8'): MSG 'A devout life does bring wealth, but it\\'s the rich simplicity of being yourself before God' 취지 복원",
+   "EN 7번 문단(배지 '11-12'): MSG 'wonder, faith, love, steadiness, courtesy' 나열 복원",
+   "EN 10번 문단(배지 '20-21'): MSG에 없는 'Stay blessed!' 제거, MSG 축도 'Overwhelming grace keep you!' 복원; 'Guard the truth'→'Guard the treasure' (MSG 'guard the treasure you were given')"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+ }
+]

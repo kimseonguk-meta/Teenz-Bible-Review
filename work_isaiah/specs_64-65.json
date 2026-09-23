@@ -1,0 +1,121 @@
+[
+ {
+  "badges": [
+   "1-7",
+   "8-12"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L2195-2207)으로 기존 2개 배지가 MSG와 1:1 일치 확인. forest fire, pot to boil, no ear heard no eye seen, grease-stained rags, autumn leaves, clay/potter, ghost towns, Temple burned까지 모두 완전. KO도 배지 일치·깨진 문자 없음. 변경 없음"
+  ],
+  "chapter": 64,
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   }
+  ],
+  "ko_changes": [
+   "변경 없음"
+  ],
+  "ko_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   }
+  ],
+  "ko_title": "하늘을 찢어주세요",
+  "title": "God, Are You Gonna Leave Us on Read?"
+ },
+ {
+  "badges": [
+   "1-7",
+   "8-10",
+   "11-12",
+   "13-16",
+   "17-25"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L2211-2255)으로 5개 섹션 확정. MSG '8-10'은 인트로('God's Message:')+인용 단일 섹션이므로 기존 '8'/'8-12' 병합. 기존 '13-15' 배지→'11-12' (Lady Luck/Sir Fate 대목은 MSG v11-12). MSG '13-16'은 인트로('Therefore, this is the Message')+인용 단일 섹션이므로 기존 '16'/'16-19' 병합. 기존 '20-25' 배지→'17-25' (new heavens 대목은 MSG v17부터). merges[]+confirmations_needed[] 기록. KO 깨진 문자 없음"
+  ],
+  "chapter": 65,
+  "confirmations_needed": [
+   "ch65: 기존 '8'/'8-12' → MSG '8-10' 병합 (MSG 문단 합병)",
+   "ch65: 기존 '16'/'16-19' → MSG '13-16' 병합 (MSG 문단 합병)"
+  ],
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "join": [
+     1,
+     2
+    ]
+   },
+   {
+    "badge": "11-12",
+    "keep": 3
+   },
+   {
+    "join": [
+     4,
+     5
+    ]
+   },
+   {
+    "badge": "17-25",
+    "keep": 6
+   }
+  ],
+  "ko_changes": [
+   "EN과 동일한 5문단·배지. KO 깨진 문자 없음"
+  ],
+  "ko_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "join": [
+     1,
+     2
+    ]
+   },
+   {
+    "badge": "11-12",
+    "keep": 3
+   },
+   {
+    "join": [
+     4,
+     5
+    ]
+   },
+   {
+    "badge": "17-25",
+    "keep": 6
+   }
+  ],
+  "ko_title": "새 하늘 새 땅",
+  "merges": [
+   {
+    "reason": "MSG ch65 '8-10'은 단일 섹션 ('God's Message:' 인트로+인용). 기존 '8'/'8-12' 분리는 MSG 1:1에 어긋나므로 병합.",
+    "scope": "Isaiah 65:8-10",
+    "msg_ranges": [
+     "8-10"
+    ]
+   },
+   {
+    "reason": "MSG ch65 '13-16'은 단일 섹션 ('Therefore, this is the Message' 인트로+인용). 기존 '16'/'16-19' 분리는 MSG 1:1에 어긋나므로 병합.",
+    "scope": "Isaiah 65:13-16",
+    "msg_ranges": [
+     "13-16"
+    ]
+   }
+  ],
+  "title": "God's Epic Refresh: New Heaven, New Earth, No More Cringe"
+ }
+]

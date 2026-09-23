@@ -1,0 +1,158 @@
+### TITLE EN: The Ultimate Smackdown: Rules vs. Grace
+### TITLE KO: 궁극의 대결: 규칙 vs 은혜
+
+[MSG 0] range=1-2 header='To Let Outsiders Inside'
+It wasn't long before some Jews showed up from Judea insisting that everyone be circumcised: "If you're not circumcised in the Mosaic fashion, you can't be saved." Paul and Barnabas were up on their feet at once in fierce protest. The church decided to resolve the matter by sending Paul, Barnabas, and a few others to put it before the apostles and leaders in Jerusalem.
+
+[MSG 1] range=3 header=None
+After they were sent off and on their way, they told everyone they met as they traveled through Phoenicia and Samaria about the breakthrough to the non-Jewish outsiders. Everyone who heard the news cheered—it was terrific news!
+
+[MSG 2] range=4-5 header=None
+When they got to Jerusalem, Paul and Barnabas were graciously received by the whole church, including the apostles and leaders. They reported on their recent journey and how God had used them to open things up to the outsiders. Some Pharisees stood up to say their piece. They had become believers, but continued to hold to the hard party line of the Pharisees. "You have to circumcise the pagan converts," they said. "You must make them keep the Law of Moses."
+
+[MSG 3] range=6-9 header=None
+The apostles and leaders called a special meeting to consider the matter. The arguments went on and on, back and forth, getting more and more heated. Then Peter took the floor: "Friends, you well know that from early on God made it quite plain that he wanted the pagans to hear the Message of this good news and embrace it—and not in any secondhand or roundabout way, but firsthand, straight from my mouth. And God, who can't be fooled by any pretense on our part but always knows a person's thoughts, gave them the Holy Spirit exactly as he gave him to us. He treated the outsiders exactly as he treated us, beginning at the very center of who they were and working from that center outward, cleaning up their lives as they trusted and believed him.
+
+[MSG 4] range=10-11 header=None
+"So why are you now trying to out-god God, loading these new believers down with rules that crushed our ancestors and crushed us, too? Don't we believe that we are saved because the Master Jesus amazingly and out of sheer generosity moved to save us just as he did those from beyond our nation? So what are we arguing about?"
+
+[MSG 5] range=12-13 header=None
+There was dead silence. No one said a word. With the room quiet, Barnabas and Paul reported matter-of-factly on the miracles and wonders God had done among the other nations through their ministry. The silence deepened; you could hear a pin drop.
+
+[MSG 6] range=13-18 header=None
+James broke the silence. "Friends, listen. Simeon has told us the story of how God at the very outset made sure that racial outsiders were included. This is in perfect agreement with the words of the prophets: After this, I'm coming back;      I'll rebuild David's ruined house;  I'll put all the pieces together again;      I'll make it look like new  So outsiders who seek will find,      so they'll have a place to come to,  All the pagan peoples      included in what I'm doing. "God said it and now he's doing it. It's no afterthought; he's always known he would do this.
+
+[MSG 7] range=19-21 header=None
+"So here is my decision: We're not going to unnecessarily burden non-Jewish people who turn to the Master. We'll write them a letter and tell them, 'Be careful to not get involved in activities connected with idols, to guard the morality of sex and marriage, to not serve food offensive to Jewish Christians—blood, for instance.' This is basic wisdom from Moses, preached and honored for centuries now in city after city as we have met and kept the Sabbath."
+
+[MSG 8] range=22-23 header=None
+Everyone agreed: apostles, leaders, all the people. They picked Judas (nicknamed Barsabbas) and Silas—they both carried considerable weight in the church—and sent them to Antioch with Paul and Barnabas with this letter: From the apostles and leaders, your friends, to our friends in Antioch, Syria, and Cilicia: Hello!
+
+[MSG 9] range=24-27 header=None
+We heard that some men from our church went to you and said things that confused and upset you. Mind you, they had no authority from us; we didn't send them. We have agreed unanimously to pick representatives and send them to you with our good friends Barnabas and Paul. We picked men we knew you could trust, Judas and Silas—they've looked death in the face time and again for the sake of our Master Jesus Christ. We've sent them to confirm in a face-to-face meeting with you what we've written.
+
+[MSG 10] range=28-29 header=None
+It seemed to the Holy Spirit and to us that you should not be saddled with any crushing burden, but be responsible only for these bare necessities: Be careful not to get involved in activities connected with idols; avoid serving food offensive to Jewish Christians (blood, for instance); and guard the morality of sex and marriage. These guidelines are sufficient to keep relations congenial between us. And God be with you!
+
+[MSG 11] range=30-33 header='Barnabas and Paul Go Their Separate Ways'
+And so off they went to Antioch. On arrival, they gathered the church and read the letter. The people were greatly relieved and pleased. Judas and Silas, good preachers both of them, strengthened their new friends with many words of courage and hope. Then it was time to go home. They were sent off by their new friends with laughter and embraces all around to report back to those who had sent them.
+
+[MSG 12] range=35 header=None
+Paul and Barnabas stayed on in Antioch, teaching and preaching the Word of God. But they weren't alone. There were a number of teachers and preachers at that time in Antioch.
+
+[MSG 13] range=36 header=None
+After a few days of this, Paul said to Barnabas, "Let's go back and visit all our friends in each of the towns where we preached the Word of God. Let's see how they're doing."
+
+[MSG 14] range=37-41 header=None
+Barnabas wanted to take John along, the John nicknamed Mark. But Paul wouldn't have him; he wasn't about to take along a quitter who, as soon as the going got tough, had jumped ship on them in Pamphylia. Tempers flared, and they ended up going their separate ways: Barnabas took Mark and sailed for Cyprus; Paul chose Silas and, offered up by their friends to the grace of the Master, went to Syria and Cilicia to put grit in those congregations.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§The Big Debate
+
+[EN 1] badge=1-2
+So, not long after Paul and Barnabas got back, some guys from Judea showed up and started telling all the new non-Jewish believers that they had to get circumcised, like, for real. They were all like, "If you don't do this old-school ritual, you can't be saved." Total buzzkill.
+
+[EN 2] badge=3-5
+Paul and Barnabas were not having it. They totally called them out, and things got heated. So, the church decided to send Paul, Barnabas, and a few other guys to Jerusalem to talk to the head honchos—the apostles and leaders—and get this whole thing sorted out. It was like a holy delegation on a mission for truth.
+
+[EN 3] badge=6-9
+When they got to Jerusalem, the whole church, including the apostles and leaders, gave them a warm welcome. Paul and Barnabas told them all about their epic journey and how God was opening doors for people who weren't Jewish. But then, some of the believers who used to be Pharisees, the super-strict rule-followers, stood up and said, "Hold up! These new guys have to be circumcised and follow all of Moses' laws!" They were trying to put everyone in a spiritual straitjacket.
+
+[EN 4] badge=None
+§The Decision
+
+[EN 5] badge=7-11
+The apostles and leaders called a big meeting to figure this out. The debate went on forever, with everyone getting more and more worked up. Finally, Peter, the OG of the group, stood up and said, "Hey, listen up! You all know that way back, God chose me to be the one to bring the good news to the non-Jews. And God, who knows what's in everyone's hearts, gave them the Holy Spirit, just like he did for us. He didn't treat them any different. He cleaned up their lives from the inside out when they put their trust in him.
+
+[EN 6] badge=11
+"So why are you trying to be more extra than God? Why are you trying to load up these new believers with a bunch of rules that even our own ancestors couldn't handle? We believe we're saved by the awesome generosity of Jesus, and so are they. So what's the big deal?"
+
+[EN 7] badge=12
+Everyone went dead silent. You could hear a pin drop. Then, Barnabas and Paul shared all the insane miracles and wonders God had done through them among the non-Jews. The room got even quieter.
+
+[EN 8] badge=13-14
+Then James, another one of the top leaders, spoke up. "Brothers, listen to me. Peter just told us how God made sure from the very beginning that the non-Jews were included. This lines up perfectly with what the old prophets said: 'After all this, I'll come back and rebuild everything that's been wrecked. I'll put it all back together, good as new. Then, anyone who's looking for God can find him, including all the people from every nation.' God knew this was the plan all along.
+
+[EN 9] badge=19-21
+"So here's my call: we shouldn't make it super hard for the non-Jews who are turning to God. Let's just send them a letter and tell them to stay away from a few things: don't get mixed up in idol worship, keep it clean when it comes to sex and marriage, and don't eat food that would gross out our Jewish friends, like stuff with blood in it. This is just basic stuff that's been taught for ages."
+
+[EN 10] badge=22
+Everyone agreed. They picked two solid guys, Judas (not the one who betrayed Jesus, a different one) and Silas, who were both big deals in the church, and sent them to Antioch with Paul and Barnabas. They carried a letter that said:
+
+[EN 11] badge=23-24
+"From your friends, the apostles and leaders, to all our friends in Antioch, Syria, and Cilicia: What's up!
+
+[EN 12] badge=28-30
+We heard some guys from our group came and confused you with a bunch of stuff we didn't tell them to say. They were totally out of line. So, we all agreed to send some of our best guys to you, along with our good friends Barnabas and Paul, who have risked their lives for Jesus. We're sending Judas and Silas to tell you this in person.
+
+[EN 13] badge=30-32
+It seemed like a good idea to the Holy Spirit and to us not to weigh you down with a bunch of rules. Just stick to the basics: stay away from idol stuff, don't eat bloody food, and keep your relationships pure. If you do that, you'll be golden. Peace out!"
+
+[EN 14] badge=33-34
+So, the crew went to Antioch, gathered everyone together, and read the letter. The people were so relieved and happy. Judas and Silas, who were both awesome speakers, pumped everyone up with a ton of encouragement.
+
+[EN 15] badge=35-36
+After a while, it was time for them to head home. They got a big, warm send-off from their new friends. But Paul and Barnabas decided to stick around in Antioch and keep teaching and preaching.
+
+[EN 16] badge=36-39
+After a few days, Paul said to Barnabas, "Hey, let's go back and check on all our friends in the towns where we preached. Let's see how they're doing." Barnabas was down, and he wanted to bring his cousin, John Mark, along. But Paul was not having it. He was like, "No way! That guy ghosted us in the middle of our last trip when things got tough. He's a quitter."
+
+[EN 17] badge=40-41
+Things got super tense, and they had a major blowout. They ended up splitting up. Barnabas took Mark and sailed to Cyprus. Paul chose Silas, and after their friends prayed for them, they headed out to Syria and Cilicia to help the churches there get even stronger. It was a total bro-vorce, but God still used them both to do amazing things.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§큰 논쟁
+
+[KO 1] badge=1-2
+얼마 뒤에 유대에서 온 어떤 사람들이 "모세가 시킨 대로 할례 안 받으면 구원 못 받음!"이라면서 할례 받아야 한다고 완전 열심히 주장하고 다닌 거임. 바울이랑 바나바가 그 말 듣고 바로 일어나서 정말 열심히 반박함. 그래서 교회에서는 이 문제를 해결하려고 바울, 바나바랑 다른 몇 명을 예루살렘으로 보내서 사도랑 리더들한테 직접 물어보기로 결정했음.
+
+[KO 2] badge=3
+그렇게 파견돼서 가는 길에 페니키아랑 사마리아를 지나면서 만나는 사람들한테마다 이방인들한테도 복음의 문이 활짝 열렸다는 믿기 힘든 소식을 전했음. 그 얘기 들은 사람들은 다들 "와, 진짜 대단한!"라면서 완전 좋아함
+
+[KO 3] badge=4-5
+바울이랑 바나바가 예루살렘에 도착하니까, 사도랑 리더들을 포함해서 교회 전체가 완전 따뜻하게 환영해 줌. 둘은 최근 여행하면서 하나님이 자기들을 어떻게 써서 이방인들에게 복음의 문을 열어주셨는지 썰을 풀었음. 근데 믿는 사람들 중에서도 완전 힘든 바리새파 출신 몇 명이 일어나서 자기들 의견을 말함. "이방인 신자들도 할례받고 모세 율법 다 지키게 해야 합니다!"라고 주장한 거임.
+
+[KO 4] badge=None
+§결정
+
+[KO 5] badge=6-9
+그래서 사도랑 리더들이 이 문제로 토론하려고 특별 회의를 열었음. 완전 열띤 토론이 계속 오갔음. 그때 베드로가 일어나서 말함. "형제들, 다들 알다시피 하나님이 예전부터 이방인들도 이 복음 메시지를 듣고 믿게 하고 싶어 하셨잖아요. 그것도 남한테 전해 듣는 게 아니라, 바로 내 입에서 직접 듣고 믿게 하셨음. 그리고 사람 겉모습에 안 속고 중심을 보시는 하나님이, 우리한테 주셨던 거랑 똑같은 성령을 그 사람들한테도 주셨어요. 우리랑 이방인들을 똑같이 대하신 거임. 하나님은 자기를 믿는 이방인들 마음속에서부터 역사하셔서, 그들의 삶을 완전 깨끗하게 만들어 주셨다고요."
+
+[KO 6] badge=10-11
+"근데 왜 지금 와서 하나님보다 더 하려고 해요? 우리 조상들도 힘들었고 우리도 힘든 그 힘든 규정들을 왜 새로 믿게 된 이 사람들한테 억지로 지우려는 거임? 우리 주 예수님이 완전 대단한 은혜로 우리를 구원해 주신 것처럼, 이방인들도 똑같이 구원해 주셨다는 걸 우리가 믿는 거 아님? 근데 지금 우리 뭐 땜에 싸우는 거임? 진짜 이해 안 되네."
+
+[KO 7] badge=12-13
+완전 조용해짐. 아무도 입을 못 열었음. 그 정적 속에서 바나바랑 바울이, 하나님이 자기들을 통해 다른 민족들 사이에서 행하신 기적들이랑 놀라운 일들에 대한 썰을 풀었음. 침묵은 더 깊어져서 사람들 숨소리까지 다 들릴 정도였음.
+
+[KO 8] badge=13-18
+그때 야고보가 침묵을 깨고 말함. "형제들, 들어보셈. 시므온(베드로)이 말한 것처럼, 하나님은 처음부터 이방 민족들도 품으실 거라고 분명히 말씀하셨음. 이건 옛날 예언자들이 한 말이랑 완전 똑같음. ‘내가 돌아와서 무너진 다윗의 집을 다시 지을 거다. 모든 조각을 다시 맞춰서 새것처럼 만들 거다. 그러면 이방인들도 나를 찾는 사람은 찾게 될 거고, 갈 곳을 얻게 될 거다. 모든 이방 민족도 내가 하는 일을 알게 될 거다.’ 하나님이 이렇게 말씀하셨고, 지금 그대로 하고 계신 거임. 이거 갑자기 일어난 일 아님. 하나님은 처음부터 다 계획하고 계셨음."
+
+[KO 9] badge=19-21
+"그러니까 내 결론은 이거임. 주님께 돌아오는 이방인들한테 쓸데없는 짐을 지우지 맙시다. 대신 편지를 써서 이렇게 전하는 게 좋겠음: ‘우상 관련된 거에 엮이지 말고, 성생활이랑 결혼은 거룩하게 지키고, 유대인 형제들이 불편해할 만한 음식, 예를 들면 피 같은 건 먹지 마셈.’ 이게 모세가 가르쳐준 기본 지혜임. 우리가 안식일마다 모여서 수백 년 동안 배우고 지켜온 거잖슴."
+
+[KO 10] badge=22-23
+사도랑 리더랑 모든 사람들이 다 인정함. 그래서 교회에서 꽤 비중 있는 사람들이었던 바사바라고 불리는 유다랑 실라를 뽑아서, 바울이랑 바나바랑 같이 안디옥에 편지를 보내기로 함. 편지 내용은 이랬음.
+
+[KO 11] badge=24-27
+"안디옥, 시리아, 길리기아에 있는 우리 형제들에게, 너희의 형제인 사도와 리더들이 편지한다. 잘 지내냐? 우리 교회 몇몇 사람들이 너희한테 가서 이상한 소리로 혼란스럽게 했다는 소식을 들었음. 근데 확실히 알아두셈. 우리는 그 사람들한테 아무 권한도 준 적 없음. 걔네 우리가 보낸 거 아님. 그래서 우리가 만장일치로 우리 대표를 뽑아서, 우리의 소중한 형제인 바나바와 바울이랑 같이 너희한테 보내기로 결정했음. 너희가 믿을 만한 사람, 바로 유다와 실라를 뽑았음. 이 사람들은 우리 주 예수 그리스도를 위해서 목숨도 아끼지 않았던 진짜 대단한 사람들임. 이 사람들이 직접 가서 우리가 쓴 게 다 팩트라는 걸 확인해 줄 거임."
+
+[KO 12] badge=28-29
+"성령이랑 우리는 꼭 필요한 최소한의 책임 말고는 너희한테 어떤 무거운 짐도 지우면 안 된다고 생각함. 그러니까 우상 관련된 거에 엮이지 말고, 유대인 형제들이 불편해할 만한 음식(피 같은 거)은 먹지 말고, 성생활이랑 결혼은 거룩하게 지키셈. 이 정도만 지키면 우리 사이에 아무 문제없이 완전 친하게 지낼 수 있을 거임. 하나님이 너희랑 함께하시길!"
+
+[KO 13] badge=None
+바나바와 바울이 갈라서다
+
+[KO 14] badge=30-33
+그들은 바로 안디옥으로 떠났음. 도착해서 교회 사람들 다 모아놓고 편지를 읽어줌. 사람들은 그 편지 내용 듣고 완전 안심하고 기뻐함. 설교 짱 잘하는 유다랑 실라는 새로운 동료들한테 격려랑 희망의 말을 많이 해주면서 힘을 팍팍 실어줌. 시간이 흘러서 돌아갈 때가 됨. 새로운 동료들이 다 같이 웃으면서 포옹해주면서 그들을 보내줬고, 유다와 실라는 자기들을 보낸 사람들한테 보고하러 길을 떠남.
+
+[KO 15] badge=35
+바울이랑 바나바는 안디옥에 남아서 하나님 말씀을 가르치고 전했음. 근데 혼자 한 건 아님. 그때 안디옥에는 가르치고 전하는 사람들이 많이 있었거든.
+
+[KO 16] badge=36
+며칠 뒤에 바울이 바나바한테 말함. "전에 우리가 하나님 말씀 전했던 도시들 다시 찾아가서 거기 동료들 잘 지내는지 한번 보자."
+
+[KO 17] badge=37-41
+바나바는 마가라고 하는 요한도 데려가고 싶어 했음. 근데 바울은 완전 싫어함. 예전에 상황 좀 힘들어졌을 때 밤빌리아에서 자기들 버리고 중간에 떠나버렸던 요한을 또 데려갈 마음이 1도 없었던 거임. 둘이 언성 높이면서 싸우다가 결국 갈라섬. 바나바는 마가를 데리고 배 타고 키프로스로 갔고, 바울은 실라를 택해서 동료들의 응원을 받으면서 시리아랑 길리기아로 떠남. 거기서 교회 사람들한테 힘이랑 용기를 북돋아 줬음.
+

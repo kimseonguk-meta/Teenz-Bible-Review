@@ -1,0 +1,91 @@
+{
+  "chapter": 20,
+  "title": "The Empty Tomb and Doubting Thomas",
+  "paragraphs": [
+    "§Resurrection!",
+    "Early on the first day of the week, while it was still dark, Mary Magdalene came to the tomb and saw the stone moved away from the entrance. She ran at once to Simon Peter and the other disciple, the one Jesus loved, gasping for breath. \"They took the Master from the tomb. We don't know where they've put him.\"",
+    "Peter and the other disciple left immediately for the tomb. They ran neck and neck. The other disciple got to the tomb first, outrunning Peter. Stooping to look in, he saw the linen cloths lying there, but he didn't go in. Simon Peter arrived after him, entered the tomb, and observed the linen cloths lying there—and the cloth that had covered his head, not lying with the linen cloths but separate, neatly folded by itself. Then the other disciple, the one who'd gotten there first, went into the tomb, took one look at the evidence, and believed. No one yet knew from the Scripture that he had to rise from the dead. Then the disciples went back home.",
+    "But Mary stood outside the tomb, weeping. As she wept, she knelt to look into the tomb and saw two angels sitting there, dressed in white—one at the head, the other at the foot of where Jesus' body had been laid. They said to her, \"Woman, why are you weeping?\"",
+    "\"They took my Master,\" she said, \"and I don't know where they put him.\" After she said this, she turned around and saw Jesus standing there. But she didn't recognize him.",
+    "Jesus spoke to her: \"Woman, why are you weeping? Who are you looking for?\" Thinking he was the gardener, she said, \"Sir, if you took him away, tell me where you put him so I can take care of him.\"",
+    "Jesus said, \"Mary.\" Turning to face him, she said in Hebrew, \"Rabboni!\"—meaning \"Teacher!\"",
+    "Jesus said, \"Don't cling to me, for I haven't yet ascended to the Father. Go to my brothers and tell them, 'I ascend to my Father and your Father, my God and your God.'\"",
+    "Mary Magdalene went, telling the news to the disciples: \"I've seen the Master!\" And she told them everything he'd said to her.",
+    "§To Believe",
+    "Later that day, the disciples had gathered together but, fearful of the Jews, had locked all the doors in the house. Jesus came in, stood among them, and said, \"Peace to you.\" Then he showed them his hands and his side.",
+    "The disciples, seeing the Master with their own eyes, were awestruck. Jesus repeated his greeting: \"Peace to you. Just as the Father sent me, I send you.\"",
+    "Then he took a deep breath and breathed into them. \"Receive the Holy Spirit,\" he said. \"If you forgive someone's sins, they're gone for good. If you don't forgive sins, what are you going to do with them?\"",
+    "But Thomas, sometimes called the Twin, one of the Twelve, wasn't with them when Jesus came. The other disciples told him, \"We saw the Master.\" But he said, \"Unless I see the nail holes in his hands, put my finger in the nail holes, and stick my hand in his side, I won't believe it.\"",
+    "Eight days later, his disciples were in the room again. This time Thomas was with them. Jesus came through the locked doors, stood among them, and said, \"Peace to you.\"",
+    "Then he focused on Thomas. \"Take your finger and examine my hands. Take your hand and stick it in my side. Don't be unbelieving. Believe.\"",
+    "Thomas said, \"My Master! My God!\"",
+    "Jesus said, \"So you believe because you've seen with your own eyes. Even better blessings are in store for those who believe without seeing.\"",
+    "Jesus did far more God-revealing signs than are written down in this book. These are written down so you'll believe that Jesus is the Messiah, the Son of God—and by believing, have real, eternal life in the way he personally revealed it."
+  ],
+  "verseRanges": [
+    "1-2",
+    "1-2",
+    "3-10",
+    "11-13",
+    "13-14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19-20",
+    "19-20",
+    "20-21",
+    "22-23",
+    "24-25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30-31"
+  ],
+  "msg_ranges": [
+    "1-2",
+    "1-2",
+    "3-10",
+    "11-13",
+    "13-14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19-20",
+    "19-20",
+    "20-21",
+    "22-23",
+    "24-25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30-31"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "13",
+      "paras": [
+        4,
+        5
+      ],
+      "note": "MSG 원문이 13절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "20",
+      "paras": [
+        11,
+        12
+      ],
+      "note": "MSG 원문이 20절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    }
+  ],
+  "changes": [
+    "John 20장: MSG 문단 구조 기준으로 EN 전면 재구성"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

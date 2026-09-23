@@ -1,0 +1,56 @@
+{
+  "changes": [
+    "Ch3: removed fabricated § headers ('Healing at the Temple Gate', 'Peter Explains'); added MSG's real header §Turn to Face God",
+    "Ch3: split merged 17-18/19-23 into separate paras",
+    "Ch3: badges corrected to MSG ranges; declared split for MSG's own v8 overlap (6-8/8-10)",
+    "Ch3: moderated slang (prayer sesh, chilling, spare some change, ghosted, dissed, receipts, bros, epic fail)",
+    "Ch3: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved"
+  ],
+  "chapter": 3,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-5",
+    "6-8",
+    "8-10",
+    "11",
+    "12-16",
+    "12-16",
+    "17-18",
+    "19-23",
+    "24-26"
+  ],
+  "paragraphs": [
+    "One afternoon around three, Peter and John were on their way into the Temple for prayer time. At the same moment, some people were carrying in a man who had never been able to walk — not once in his whole life. Every single day they set him down by the Temple gate called Beautiful so he could beg for coins from everyone heading inside. When he spotted Peter and John about to go in, he asked them for money. Peter — with John right beside him — locked eyes with the man and said, \"Hey. Look at us.\" The man looked up, sure he was about to get something.",
+    "Peter said, \"I don't have a single coin on me. But I'll give you what I've got: in the name of Jesus Christ of Nazareth — walk!\" Then he took the man's right hand and pulled him up. Instantly the man's feet and ankles went solid and strong. He jumped up and started walking.",
+    "The man went into the Temple with them, walking around, jumping for joy, and praising God out loud. Everyone there watched him walking and praising God, and then it clicked — this was the guy who used to sit and beg at the Beautiful Gate. They couldn't believe their eyes.",
+    "The man was over the moon and wouldn't let go of Peter and John. Meanwhile, a crowd came running to Solomon's Porch to see what was going on.",
+    "§Turn to Face God",
+    "Peter saw the crowd gathering and spoke up: \"Listen, Israel — why are you so shocked by this? And why are you staring at us like we pulled this off with our own power or goodness? It was the God of Abraham, Isaac, and Jacob — the God of our ancestors — who brought honor to his Son Jesus. This is the same Jesus Pilate said was innocent, and you said no to him anyway. You said no to the Holy One, the Righteous One, and picked a murderer to go free instead. You killed the very Source of Life — and then God raised him back from the dead. We saw it with our own eyes. It was faith in Jesus' name that got this man — the one whose condition you all know so well — back on his feet. Yes — faith, and nothing but faith, made this man completely whole, right in front of you.\"",
+    "\"And listen, friends — I know you had no clue what you were really doing when Jesus was killed. Your leaders didn't either. But God had been saying through every prophet all along that his Messiah would suffer and die, and he took what you did and used it to make his plan happen.\"",
+    "\"So now it's time to turn your life around! Face God so he can wipe your sins clean, pour out blessing after blessing to refresh you, and send you the Messiah he picked out for you — Jesus himself. Right now Jesus has to stay in heaven, out of sight, until the time comes for everything to be set right — exactly like God said through his holy prophets way back. Moses, for example, said: 'Your God will raise up a prophet just like me from among your own people. Listen to everything he tells you. Anyone who refuses to listen to that prophet will be cut off from the people.'\"",
+    "\"Every prophet from Samuel on said the same thing — they all pointed to these very days. These prophets, and the covenant God made with your ancestors, are your family story. Remember God's promise to Abraham: 'Through your offspring, every family on earth will be blessed.' And you're first in line for that blessing: God raised up his Son and sent him to bless you — as each one of you turns away from your wrongdoing.\""
+  ],
+  "splits": [
+    {
+      "msg_range": "8",
+      "note": "MSG's own overlap: v8 closes MSG para 6-8 and opens MSG para 8-10; badges follow MSG paragraph boundaries",
+      "paras": [
+        1,
+        2
+      ]
+    }
+  ],
+  "title": "A Healing That Stopped Everyone Cold",
+  "verseRanges": [
+    "1-5",
+    "6-8",
+    "8-10",
+    "11",
+    "12-16",
+    "12-16",
+    "17-18",
+    "19-23",
+    "24-26"
+  ]
+}

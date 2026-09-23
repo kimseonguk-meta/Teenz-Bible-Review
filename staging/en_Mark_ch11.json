@@ -1,0 +1,309 @@
+{
+  "chapter": 11,
+  "title": "The Parade and the Temple Takedown",
+  "paragraphs": [
+    "§Entering Jerusalem on a Colt",
+    "Getting close to Jerusalem, near Bethphage and Bethany on the Mount of Olives, Jesus sent two of his disciples ahead with a mission.",
+    "He told them, \"Head over to the village you see straight across from you. The second you get there, you'll spot a young colt tied up, one that's never been ridden before. Go untie it and bring it here.\"",
+    "\"And if anyone asks, 'Hey, what do you think you're doing?' just tell them, 'The Master needs it, and he'll send it right back after he's used it.'\"",
+    "So, the disciples went off and, sure enough, found the colt tied right by a door on the street corner. They started untying it.",
+    "Then, some people who were just chilling there were like, \"Whoa, what are you guys doing untying that colt?\"",
+    "The disciples answered them exactly the way Jesus had told them to, and the people backed off, leaving them alone. They brought the colt to Jesus, threw their jackets over its back, and Jesus hopped on.",
+    "The crowd totally went wild, giving him an amazing welcome! Some people were throwing their coats on the street, while others were spreading out rushes they'd cut from the fields.",
+    "People were running ahead and following behind, shouting at the top of their lungs:",
+    "\"Hosanna! Blessed is the one who comes in God's name! Blessed is the coming kingdom of our ancestor David! Hosanna in the highest heaven!\"",
+    "Jesus entered Jerusalem, then went straight into the Temple. He took a good look around, checking everything out. But by then it was getting late, so he went back to Bethany with the twelve disciples.",
+    "§The Cursed Fig Tree",
+    "The next day, as they were leaving Bethany, Jesus felt super hungry. He spotted a fig tree in the distance, covered in leaves.",
+    "He walked up to it, hoping to find some figs for breakfast, but all he found were leaves. (It wasn't even the season for figs yet.) He spoke directly to the tree:",
+    "\"No one is ever going to eat fruit from you again—ever!\" And his disciples definitely heard him say it.",
+    "They arrived in Jerusalem. As soon as Jesus walked into the Temple, he immediately started kicking out everyone who had set up shop there, buying and selling stuff. He flipped over the tables of the money changers (bankers) and knocked over the stalls of the guys selling pigeons.",
+    "He wouldn't even let anyone carry a basket through the Temple area. Then he started teaching them, quoting from the Scriptures:",
+    "\"My house was meant to be a house of prayer for all nations; but you guys have turned it into a hangout for thieves!\"",
+    "The high priests and the religious scholars heard all this going down and immediately started plotting how they could get rid of him. They were freaking out, because the whole crowd was totally captivated by his teaching.",
+    "That evening, Jesus and his disciples left the city.",
+    "The next morning, as they were walking along the road, they saw the fig tree. It was completely shriveled up, like a dry stick.",
+    "Peter, remembering what Jesus had said the day before, pointed it out to him: \"Rabbi, look! That fig tree you cursed is all shriveled up!\"",
+    "Jesus responded in a really straightforward way: \"Really embrace this God-life. Seriously, embrace it, and nothing will be too much for you. Take this mountain, for example: Just say, 'Go jump in the lake'—no hesitating or humming and hawing—and it's as good as done.",
+    "\"That's why I'm telling you to pray for absolutely everything, from the smallest thing to the biggest. Include everything as you embrace this God-life, and you'll get God's everything.\"",
+    "\"And when you get into the posture of prayer, remember that it's not just about asking. If you have anything against someone, forgive them—only then will your heavenly Father be willing to wipe your slate clean of your own sins too.\"",
+    "§His Credentials",
+    "Later, when they were back in Jerusalem again, walking through the Temple, the high priests, religious scholars, and leaders came up to him and demanded, \"Show us your credentials. Who gave you the authority to speak and act like this?\"",
+    "Jesus shot back, \"First, let me ask you a question. Answer my question, and then I'll show you my credentials. About John's baptism—who authorized it: heaven or humans? Tell me.\"",
+    "They were totally put on the spot and knew it. They huddled together and whispered, \"If we say 'heaven,' he'll ask us why we didn't believe John. But if we say 'humans,' we'll have a huge problem with the people because they all see John as a prophet.\"",
+    "So they decided to just give up that round to Jesus. \"We don't know,\" they said.",
+    "Jesus replied, \"Then I won't answer your question either.\""
+  ],
+  "verseRanges": [
+    "1-3",
+    "1-3",
+    "1-3",
+    "1-3",
+    "4-7",
+    "4-7",
+    "4-7",
+    "8-10",
+    "8-10",
+    "8-10",
+    "11",
+    "12-14",
+    "12-14",
+    "12-14",
+    "12-14",
+    "15-17",
+    "15-17",
+    "15-17",
+    "18",
+    "19",
+    "20-21",
+    "20-21",
+    "22-23",
+    "24",
+    "25",
+    "27-28",
+    "27-28",
+    "29-30",
+    "31-33",
+    "31-33",
+    "31-33"
+  ],
+  "msg_ranges": [
+    "1-3",
+    "1-3",
+    "1-3",
+    "1-3",
+    "4-7",
+    "4-7",
+    "4-7",
+    "8-10",
+    "8-10",
+    "8-10",
+    "11",
+    "12-14",
+    "12-14",
+    "12-14",
+    "12-14",
+    "15-17",
+    "15-17",
+    "15-17",
+    "18",
+    "19",
+    "20-21",
+    "20-21",
+    "22-23",
+    "24",
+    "25",
+    "27-28",
+    "27-28",
+    "29-30",
+    "31-33",
+    "31-33",
+    "31-33"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "22-25",
+      "paras": [
+        23,
+        24,
+        25
+      ],
+      "note": "MSG 단일 문단(22-25)을 EN 가독성을 위해 3개 문단으로 분리"
+    },
+    {
+      "msg_range": "1",
+      "paras": [
+        2,
+        3,
+        4
+      ],
+      "note": "MSG 원문이 1절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "2",
+      "paras": [
+        2,
+        3,
+        4
+      ],
+      "note": "MSG 원문이 2절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "3",
+      "paras": [
+        2,
+        3,
+        4
+      ],
+      "note": "MSG 원문이 3절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "4",
+      "paras": [
+        5,
+        6,
+        7
+      ],
+      "note": "MSG 원문이 4절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "5",
+      "paras": [
+        5,
+        6,
+        7
+      ],
+      "note": "MSG 원문이 5절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "6",
+      "paras": [
+        5,
+        6,
+        7
+      ],
+      "note": "MSG 원문이 6절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "7",
+      "paras": [
+        5,
+        6,
+        7
+      ],
+      "note": "MSG 원문이 7절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "8",
+      "paras": [
+        8,
+        9,
+        10
+      ],
+      "note": "MSG 원문이 8절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "9",
+      "paras": [
+        8,
+        9,
+        10
+      ],
+      "note": "MSG 원문이 9절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "10",
+      "paras": [
+        8,
+        9,
+        10
+      ],
+      "note": "MSG 원문이 10절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "12",
+      "paras": [
+        13,
+        14,
+        15
+      ],
+      "note": "MSG 원문이 12절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "13",
+      "paras": [
+        13,
+        14,
+        15
+      ],
+      "note": "MSG 원문이 13절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "14",
+      "paras": [
+        13,
+        14,
+        15
+      ],
+      "note": "MSG 원문이 14절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "15",
+      "paras": [
+        16,
+        17,
+        18
+      ],
+      "note": "MSG 원문이 15절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "16",
+      "paras": [
+        16,
+        17,
+        18
+      ],
+      "note": "MSG 원문이 16절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "17",
+      "paras": [
+        16,
+        17,
+        18
+      ],
+      "note": "MSG 원문이 17절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "20",
+      "paras": [
+        21,
+        22
+      ],
+      "note": "MSG 원문이 20절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "21",
+      "paras": [
+        21,
+        22
+      ],
+      "note": "MSG 원문이 21절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "31",
+      "paras": [
+        29,
+        30,
+        31
+      ],
+      "note": "MSG 원문이 31절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "32",
+      "paras": [
+        29,
+        30,
+        31
+      ],
+      "note": "MSG 원문이 32절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "33",
+      "paras": [
+        29,
+        30,
+        31
+      ],
+      "note": "MSG 원문이 33절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    }
+  ],
+  "changes": [
+    "Mark 11장: MSG 문단 구조 기준으로 배지 재구성 및 § 헤더 추가",
+    "EN 8번 문단(배지 '8-10'): MSG 원문('rushes')으로 복원('palm branches' 해석 삭제)",
+    "EN 10번 문단: MSG에 없는 Hosanna 해석 삽입 삭제"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

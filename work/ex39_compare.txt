@@ -1,0 +1,110 @@
+# EXODUS 39 — God's Holy Drip: Assembling the Priest's Outfit
+TEEN paras: 17 | badges: ['1', '2-5', '6-7', '8-9', '10', '11', '12', '13', '14-15', '15-21', '22-26', '27-29', '30-31', '32', '33', '34-41', '42-43']
+KO paras: 17 | badges: ['1', '2-5', '6-7', '8-9', '10', '11', '12', '13', '14-15', '16-21', '22-26', '27-29', '30-31', '32-33', '33', '34-41', '42-43']
+MSG sections: 14 | ranges: ['1', '2-5', '6-7', '8-10', '11', '12', '13-14', '15-21', '22-26', '27-29', '30-31', '32', '33-41', '42-43']
+
+--- MSG [1] ---
+Vestments. Using the blue, purple, and scarlet fabrics, they made the woven vestments for ministering in the Sanctuary. Also they made the sacred vestments for Aaron, as God had commanded Moses.
+
+>>> TEEN:
+  [p0 badge=1] Alright, so check it. They used these sick blue, purple, and scarlet fabrics to make the special outfits for serving in the Holy Place. They also hooked Aaron up with his own set of holy robes, exactly like God told Moses to do.
+  [KO p0] 자, 이제 옷을 만들 차례임. 청색, 자색, 홍색 실로 성소에서 입을 전용 옷을 만들었대. 그리고 아론을 위한 거룩한 옷도 만들었는데, 전부 하나님이 모세한테 명령한 그대로였지.
+
+--- MSG [2-5] ---
+Ephod. They made the Ephod using gold and blue, purple, and scarlet fabrics and finely twisted linen. They hammered out gold leaf and sliced it into threads that were then worked into designs in the blue, purple, and scarlet fabric and fine linen. They made shoulder pieces fastened at the two ends. The decorated band was made of the same material—gold, blue, purple, and scarlet material, and of fine twisted linen—and of one piece with it, just as God had commanded Moses.
+
+>>> TEEN:
+  [p1 badge=2-5] Next up, the Ephod. This thing was legit. They made it with gold, plus that same blue, purple, and scarlet fabric and some super fine linen. They literally hammered out gold into thin sheets, cut it into threads, and wove it right into the fabric. It had these shoulder straps that attached at the ends, and the fancy waistband was all one piece with the rest of it, made from the same awesome materials. All of it, just how God laid it out for Moses.
+  [KO p1] 에봇. 다음은 에봇을 만들었는데, 금실이랑 청색, 자색, 홍색 실, 그리고 가늘게 꼰 베실을 썼대. 금을 얇게 펴서 실처럼 잘라가지고 청색, 자색, 홍색 실이랑 고운 베실에 섞어서 디자인을 넣은 거임. 양쪽 끝에 다는 어깨받이도 만들었고, 허리띠도 같은 재료로, 즉 금실, 청색, 자색, 홍색 실, 그리고 가늘게 꼰 베실로 에봇에 딱 붙여서 하나처럼 만들었어. 이것도 하나님이 모세한테 시킨 그대로.
+
+--- MSG [6-7] ---
+They mounted the onyx stones in a setting of filigreed gold and engraved the names of the sons of Israel on them, then fastened them on the shoulder pieces of the Ephod as memorial stones for the Israelites, just as God had commanded Moses.
+
+>>> TEEN:
+  [p2 badge=6-7] They set these onyx stones in a sick gold filigree setting and carved the names of Israel's sons on them. Then they attached them to the Ephod's shoulder pieces as a way to remember the Israelites, just like God told Moses.
+  [KO p2] 금으로 장식한 틀에 호마노 보석 두 개를 박고, 거기다 이스라엘 아들들 이름을 새겼대. 그리고 그걸 에봇 어깨받이에 달아서 이스라엘 자손을 기억하는 기념 보석으로 삼았지. 이것도 하나님이 모세한테 명령한 그대로였어.
+
+--- MSG [8-10] ---
+Breastpiece. They made a Breastpiece designed like the Ephod from gold, blue, purple, and scarlet material, and fine twisted linen. Doubled, the Breastpiece was nine inches square. They mounted four rows of precious gemstones on it. First row: carnelian, topaz, emerald.
+
+>>> TEEN:
+  [p3 badge=8-9] Then came the Breastpiece. It was designed to match the Ephod, with gold, blue, purple, and scarlet fabric, and that high-quality linen. They folded it in half to make a nine-inch square and loaded it up with four rows of insane gemstones on it.
+  [KO p3] 흉패. 에봇 만들 때처럼 금실, 청색, 자색, 홍색 실, 그리고 가늘게 꼰 베실로 흉패를 디자인했대. 이걸 두 겹으로 해서 가로 세로 한 뼘 정도 되는 정사각형 모양으로 만들고, 거기다 보석을 네 줄로 박았어.
+  [p4 badge=10] The first row had carnelian, topaz, and emerald.
+  [KO p4] 첫째 줄은 홍보석, 황옥, 녹주옥.
+
+--- MSG [11] ---
+Second row: ruby, sapphire, crystal.
+
+>>> TEEN:
+  [p5 badge=11] The second row had ruby, sapphire, and crystal.
+  [KO p5] 둘째 줄은 석류석, 남보석, 수정.
+
+--- MSG [12] ---
+Third row: jacinth, agate, amethyst.
+
+>>> TEEN:
+  [p6 badge=12] The third row had jacinth, agate, and amethyst.
+  [KO p6] 셋째 줄은 풍신자석, 마노, 자수정.
+
+--- MSG [13-14] ---
+Fourth row: beryl, onyx, jasper. The stones were mounted in a gold filigree. The twelve stones corresponded to the names of the sons of Israel, twelve names engraved as on a seal, one for each of the twelve tribes.
+
+>>> TEEN:
+  [p7 badge=13] The fourth row had beryl, onyx, and jasper.
+  [KO p7] 넷째 줄은 녹보석, 호마노, 벽옥.
+  [p8 badge=14-15] The stones were all set in a gold filigree. There were twelve stones, one for each of the sons of Israel, with their names engraved on them like a seal, representing the twelve tribes.
+  [KO p8] 이 보석들을 금으로 만든 틀에 박았대. 보석은 총 열두 개였는데, 이스라엘 아들들의 이름에 맞춰서 각 지파별로 하나씩, 도장 새기듯이 이름을 새겼어.
+
+--- MSG [15-21] ---
+They made braided chains of pure gold for the Breastpiece, like cords. They made two settings of gold filigree and two rings of gold, put the two rings at the two ends of the Breastpiece, and fastened the two ends of the cords to the two rings at the end of the Breastpiece. Then they fastened the cords to the settings of filigree, attaching them to the shoulder pieces of the Ephod in front. Then they made two rings of gold and fastened them to the two ends of the Breastpiece on its inside edge facing the Ephod. They made two more rings of gold and fastened them in the front of the Ephod to the lower part of the two shoulder pieces, near the seam above the decorated band of the Ephod. The Breastpiece was fastened by running a cord of blue through its rings to the rings of the Ephod so that it rested secure on the decorated band of the Ephod and wouldn’t come loose, just as God had commanded Moses.
+
+>>> TEEN:
+  [p8 badge=14-15] The stones were all set in a gold filigree. There were twelve stones, one for each of the sons of Israel, with their names engraved on them like a seal, representing the twelve tribes.
+  [KO p8] 이 보석들을 금으로 만든 틀에 박았대. 보석은 총 열두 개였는데, 이스라엘 아들들의 이름에 맞춰서 각 지파별로 하나씩, 도장 새기듯이 이름을 새겼어.
+  [p9 badge=15-21] They made these braided chains out of pure gold for the Breastpiece, kinda like cords. They made two gold filigree settings and two gold rings, put the rings on the ends of the Breastpiece, and hooked the gold chains to them. Then they attached the other ends of the chains to the filigree settings on the front of the Ephod's shoulder pieces. They also made two more gold rings and put them on the inside edge of the Breastpiece, the part that faces the Ephod. Then they made two *more* gold rings and attached them to the front of the Ephod, down low on the shoulder pieces, right by the seam above the decorated waistband. They used a blue cord to tie the Breastpiece's rings to the Ephod's rings 
+  [KO p9] 그리고 순금으로 끈처럼 땋은 사슬을 흉패에 달려고 만들었지. 금으로 장식한 틀 두 개랑 금 고리 두 개를 만들어서 흉패 양쪽 끝에 달고, 그 두 고리에 금 사슬을 연결했대. 그리고 사슬 다른 쪽 끝은 에봇 앞쪽 어깨받이에 달린 금 틀에 연결했어. 또 금 고리 두 개를 만들어서 흉패 안쪽, 에봇이랑 마주보는 쪽 끝에 달았고, 다른 금 고리 두 개는 에봇 앞쪽 어깨받이 아래, 허리띠 바로 위쪽 솔기 근처에 달았지. 그리고 청색 끈으로 흉패 고리랑 에봇 고리를 묶어서 흉패가 허리띠 위에 딱 고정돼서 흔들리지 않게 했어. 진짜 하나님이 모세한테 명령한 그대로 한 거임.
+
+--- MSG [22-26] ---
+Robe. They made the robe for the Ephod entirely of blue. The opening of the robe at the center was like a collar, the edge hemmed so that it wouldn’t tear. On the hem of the robe they made pomegranates of blue, purple, and scarlet material and fine twisted linen. They also made bells of pure gold and alternated the bells and pomegranates—a bell and a pomegranate, a bell and a pomegranate—all around the hem of the robe that was worn for ministering, just as God had commanded Moses.
+
+>>> TEEN:
+  [p10 badge=22-26] The Robe. They made the robe for the Ephod completely out of blue fabric. The opening for the head was reinforced like a collar so it wouldn't rip. Around the bottom hem, they made these pomegranates out of blue, purple, and scarlet fabric and fine linen. They also made bells out of pure gold and put them in between the pomegranates—a bell, a pomegranate, a bell, a pomegranate—all the way around the hem of the robe they wore for their duties. You guessed it, just as God had commanded Moses.
+  [KO p10] 에봇 받침 겉옷. 에봇 안에 입는 겉옷은 전체를 청색으로 만들었대. 옷 한가운데 머리 들어갈 구멍은 찢어지지 않게 깃처럼 단단하게 마감했어. 옷단 가장자리에는 청색, 자색, 홍색 실이랑 가늘게 꼰 베실로 석류 모양을 수놓았지. 그리고 순금으로 방울을 만들어서 석류 사이사이에 달았는데, 방울 하나, 석류 하나, 이런 식으로 빙 둘러서 달았대. 제사 지낼 때 입는 옷인데, 이것도 하나님이 모세한테 시킨 그대로였어.
+
+--- MSG [27-29] ---
+They also made the tunics of fine linen, the work of a weaver, for Aaron and his sons, the turban of fine linen, the linen hats, the linen underwear made of fine twisted linen, and sashes of fine twisted linen, blue, purple, and scarlet material and embroidered, just as God had commanded Moses.
+
+>>> TEEN:
+  [p11 badge=27-29] They also made the tunics for Aaron and his sons out of fine linen, woven by a pro. The turban was fine linen, the hats were linen, the underwear was fine twisted linen, and the sashes were made of fine twisted linen embroidered with blue, purple, and scarlet, just as God had commanded Moses.
+  [KO p11] 그리고 아론과 그의 아들들을 위해서 고운 베실로 속옷을 짰는데, 이건 장인이 짠 거래. 고운 베로 만든 관이랑 모자, 그리고 가늘게 꼰 베실로 만든 속바지도 만들었고, 가늘게 꼰 베실에 청색, 자색, 홍색 실로 수를 놓은 띠도 만들었지. 이것도 하나님이 모세한테 명령한 그대로.
+
+--- MSG [30-31] ---
+They made the plate, the sacred crown, of pure gold and engraved on it as on a seal: “Holy to God.” They attached a blue cord to it and fastened it to the turban, just as God had commanded Moses.
+
+>>> TEEN:
+  [p12 badge=30-31] They made the plate, which was the sacred crown, out of pure gold and engraved it like a seal with the words: "Holy to God." They used a blue cord to tie it to the front of the turban, just as God had commanded Moses.
+  [KO p12] 성스러운 관인 금패도 순금으로 만들어서, 그 위에 도장 새기듯이 '여호와께 성결'이라고 새겼대. 그리고 청색 끈을 달아서 관 앞쪽에 매달았는데, 이것도 하나님이 모세한테 명령한 그대로였어.
+
+--- MSG [32] ---
+That completed the work of The Dwelling, the Tent of Meeting. The People of Israel did what God had commanded Moses. They did it all.
+
+>>> TEEN:
+  [p13 badge=32] And just like that, all the work on the Dwelling, also known as the Tent of Meeting, was done. The people of Israel did everything God had commanded Moses. They absolutely nailed it.
+  [KO p13] 이렇게 성막, 즉 회막의 모든 작업이 끝난 거임. 이스라엘 백성들은 하나님이 모세에게 명령하신 모든 걸 그대로 다 해냈어. 진짜 하나도 빠짐없이.
+
+--- MSG [33-41] ---
+They presented The Dwelling to Moses, the Tent and all its furnishings: fastening hooks frames crossbars posts bases tenting of tanned ram skins tenting of dolphin skins veil of the screen Chest of The Testimony with its poles and Atonement-Cover Table with its utensils and the Bread of the Presence Lampstand of pure gold and its lamps all fitted out and all its utensils and the oil for the light Gold Altar anointing oil fragrant incense screen for the entrance to the Tent Bronze Altar with its bronze grate its poles and all its utensils Washbasin and its base hangings for the Courtyard its posts and bases screen for the gate of the Courtyard its cords and its pegs utensils for ministry in The Dwelling, the Tent of Meeting woven vestments for ministering in the Sanctuary sacred vestments for Aaron the priest, and his sons when serving as priests
+
+>>> TEEN:
+  [p14 badge=33] Then they presented the whole Dwelling to Moses, the Tent and all its gear:
+  [KO p14] 그리고 나서 그들은 성막 전체를 모세에게 가져왔어. 성막과 그 모든 기구들 말이야.
+  [p15 badge=34-41] all the hooks, frames, crossbars, posts, and bases; the tent covering made of tanned ram skins and the other one made of dolphin skins; the special curtain; the Ark of the Covenant with its poles and the Atonement-Cover; the table with all its utensils and the Bread of the Presence; the pure gold lampstand with all its lamps set up, all its utensils, and the oil for the light; the Gold Altar, the anointing oil, the fragrant incense, and the screen for the entrance; the Bronze Altar with its bronze grate, its poles, and all its utensils; the washbasin and its base; the curtains for the courtyard with their posts and bases; the screen for the courtyard gate with its cords and pegs; all the equ
+  [KO p15] 고리, 널판, 가로대, 기둥, 받침, 붉게 물들인 숫양 가죽 덮개, 돌고래 가죽 덮개, 가림막 휘장, 증거궤와 그 채, 속죄소, 상과 그 모든 기구와 진설병, 순금 등잔대와 그 등잔들, 모든 기구와 등유, 금 제단, 관유, 향기로운 향, 성막 입구의 휘장, 놋 제단과 그 놋 그물, 그 채와 모든 기구, 물두멍과 그 받침, 뜰의 포장과 그 기둥과 받침, 뜰 문의 휘장과 그 줄과 말뚝, 성막 곧 회막에서 쓸 모든 기구, 성소에서 봉사할 때 입는 정교하게 짠 옷, 제사장 아론과 그의 아들들이 입을 거룩한 옷까지 전부 다.
+
+--- MSG [42-43] ---
+The Israelites completed all the work, just as God had commanded. Moses saw that they had done all the work and done it exactly as God had commanded. Moses blessed them.
+
+>>> TEEN:
+  [p16 badge=42-43] The Israelites finished the whole project, doing it exactly as God had commanded. Moses looked over all the work and saw that they had followed God's instructions to the letter. So Moses blessed them.
+  [KO p16] 이스라엘 자손은 모든 일을 하나님이 명령하신 그대로 마쳤어. 모세가 그 모든 작업을 보니, 진짜 하나님이 명령하신 그대로 다 한 거야. 그래서 모세가 그들을 축복해 줬대.

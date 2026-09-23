@@ -1,0 +1,49 @@
+[
+ {
+  "changes": [
+   "Ch1: full audit vs MSG — paragraphs now match MSG's paragraph breaks exactly (1-2, 3, 4-6, 7, 8-9, 10-11, 12-13).",
+   "Ch1 para 0: removed invented § header 'Truth and Love' (MSG has no such section header; nothing from MSG was lost — v1-2 and v3 content stays in their own paragraphs).",
+   "Ch1 para 3: inserted MSG's actual section header as '§Don't Walk Out on God', sharing badge '7' with the following body paragraph (원칙 2).",
+   "Ch1 para 0 (1-2): 'they're all on the same page' -> 'loves you too' to restore MSG's 'loves you' (원칙 3).",
+   "Ch1 para 1 (3): restored MSG's 'in truth and love' (was missing); removed invented closing sentence \"That's how much He loves you.\"",
+   "Ch1 para 4: badge fixed '7-8' -> '7' (MSG 7 is its own paragraph; the old badge duplicated v8 which belongs to the next paragraph).",
+   "Ch1 para 5 (8-9): removed invented closing sentence \"It's an amazing change.\"",
+   "Ch1 para 4 (badge 7): restored compound name — MSG \"Jesus Christ was truly human\" was \"Jesus\" in EN; KO already had \"예수 그리스도\" (확정 이름 규칙)."
+  ],
+  "chapter": 1,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-2",
+   "3",
+   "4-6",
+   "7",
+   "7",
+   "8-9",
+   "10-11",
+   "12-13"
+  ],
+  "paragraphs": [
+   "What's up, my crew? It's your pastor, and for real, I've got major love for you guys. And it's not just me — everyone who knows the Truth, the Truth that's moved in and made itself at home inside us, loves you too.",
+   "May grace, mercy, and peace be with us — in truth and love — from God the Father and from Jesus Christ, the Son of the Father!",
+   "Man, I was so stoked to hear that a bunch of you are actually living out the Truth, just like the Father told us to. Quick reminder, though, and this isn't some new rule, it's the OG one: we gotta have each other's backs. Love is the main quest. And love just means following the rules. The biggest rule? Live a life of love. You've known this from the jump, nothing's new here.",
+   "§Don't Walk Out on God",
+   "Now for the serious talk. There are a ton of scammers out there, real smooth-talkers, who are trying to sell you the lie that Jesus Christ wasn't a real guy, like, a legit human being. Let's call them what they are: Fakers and Anti-Christs. Total posers.",
+   "So, you gotta be super careful around them. Don't let them scam you out of the awesome stuff we've all been working for. I want you to get the full reward, every bit of it. Anyone who gets too \"woke\" and ditches what Christ taught is basically ghosting God. But if you stick with the program, you're tight with both the Father and the Son.",
+   "If one of these fakers shows up, don't even let them in your house. Don't give them a place to crash. If you do, you're basically helping them spread their lies, and you become a partner in their evil work.",
+   "I've got way more to say, but I'm not gonna write it all. I'm hoping to roll through soon and we can have a real heart-to-heart. That'll be way better for both of us. Everyone from your sister church says hi."
+  ],
+  "splits": [],
+  "title": "Watch Out for the Fakers",
+  "verseRanges": [
+   "1-2",
+   "3",
+   "4-6",
+   "7",
+   "7",
+   "8-9",
+   "10-11",
+   "12-13"
+  ]
+ }
+]

@@ -1,0 +1,85 @@
+{
+  "changes": [
+    "Ch22: § header fixed to MSG's real header (A Roman Citizen) — removed fabricated \"Paul's Defense Speech\", 'Blinded by the Light'",
+    "Ch22: split merged 9/10/11/12-13 (→8-9, 10-11, 12-13), 13-14/14-16 (→14-16), 22/23/24/25/26/27/28 (→22-25, 26, 27, 28)",
+    "Ch22: badges corrected to MSG ranges (1-2, 8-9, 10-11, 14-16, 17-18, 22-25, 26, 27, 28)",
+    "Ch22: declared split for MSG's own overlap (v2 in 1-2/2-3)",
+    "Ch22: restored 'Kill him! He's an insect! Stomp on him!', 'spread-eagled him with strips of leather', 'It cost me nothing. I was free from the day of my birth'; moderated slang (cancel me, legit, hardcore, insane light, your boy Stephen, he was like, Big yikes, ready for round two)",
+    "Ch22: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved",
+    "EN: high-similarity short paragraphs re-paraphrased for MSG independence"
+  ],
+  "chapter": 22,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-2",
+    "2-3",
+    "4-5",
+    "6-7",
+    "8-9",
+    "10-11",
+    "12-13",
+    "14-16",
+    "17-18",
+    "19-20",
+    "21",
+    "22-25",
+    "22-25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+  ],
+  "paragraphs": [
+    "\"My dear brothers and fathers, listen carefully to what I have to say before you make up your minds about me.\" When they heard him speaking in Hebrew, they grew even quieter. Nobody wanted to miss a single word.",
+    "He continued, \"I'm a true Jew — born in Tarsus in Cilicia, but educated right here in Jerusalem under the strict eye of Rabbi Gamaliel, trained thoroughly in our religious traditions. And I've always been passionately on God's side, just like you are right now.\"",
+    "\"I hunted down everyone connected with this 'Way' with everything I had, ready to kill for God. I rounded up men and women left and right and threw them in prison. You can ask the high priest or anyone on the council — they all knew me well. Then I headed off to our brothers in Damascus, carrying official letters authorizing me to track down the followers of Jesus there, arrest them, and bring them back to Jerusalem for sentencing.\"",
+    "\"As I neared Damascus around noon, a blinding light blazed out of the sky and I hit the ground, dazed. I heard a voice: 'Saul, Saul, why are you trying to destroy me?'\"",
+    "\"'Who are you, Lord?' I asked. He answered, 'I am Jesus of Nazareth — the very One you're persecuting.' My companions saw the light, but they couldn't hear him speaking to me.\"",
+    "\"Then I said, 'What do I do now, Master?' He said, 'Get up and go into Damascus. There you'll be told everything you've been assigned to do.' And so we went into Damascus — but nothing like the entrance I'd planned. I was blind as a bat, and my companions had to lead me in by the hand.\"",
+    "\"That's when I met Ananias, a man with a spotless reputation for keeping our laws — the whole Jewish community in Damascus agrees on that. He came and put his arm around my shoulder. 'Look up,' he said. I looked up — and found myself staring right into his eyes. I could see again!\"",
+    "\"Then he said, 'The God of our ancestors has handpicked you to learn his plan. You've actually seen the Righteous One and heard him speak. You're going to be a key witness to everyone you meet about what you've seen and heard. So what are you waiting for? Get up, get baptized, wash your sins away, and get to know God personally.'\"",
+    "\"It happened just as Ananias said. After I was back in Jerusalem, praying one day in the Temple, deep in God's presence, I saw him — God's Righteous One — and heard him say to me, 'Hurry! Get out of here as fast as you can. None of the Jews here in Jerusalem are going to accept what you say about me.'\"",
+    "\"At first I argued back: 'Who has better credentials than me? They all know how obsessed I was with hunting down your believers — beating them in the synagogues and throwing them in jail. And when your witness Stephen was killed, I was right there, holding the murderers' coats and cheering them on. Now they see me completely changed. What better proof could there be?'\"",
+    "\"But he said, 'Stop arguing. Go. I'm sending you far away to the non-Jewish outsiders.'\"",
+    "§A Roman Citizen",
+    "The crowd had listened carefully up to this point, but now they exploded, shouting, \"Kill him! He's scum! Get rid of him!\" They shook their fists. They filled the air with curses. That's when the commander stepped in and ordered Paul taken into the barracks. By now the commander was completely fed up. He decided to interrogate Paul under torture to get to the bottom of this — to find out what he'd done to trigger such furious violence. As they stretched him out with leather straps, getting him ready for the whip, Paul said to the centurion standing there, \"Is this legal — torturing a Roman citizen without a trial?\"",
+    "When the centurion heard that, he went straight to the commander. \"Do you know what you've done? This man is a Roman citizen!\"",
+    "The commander came back and took charge. \"Is what I hear true? You're a Roman citizen?\" Paul said, \"I certainly am.\"",
+    "The commander was impressed. \"I paid a fortune for my citizenship. How much did yours cost?\" \"Nothing,\" said Paul. \"It didn't cost me a thing. I was born free.\"",
+    "That ended the interrogation on the spot. And it scared the commander half to death — he'd put a Roman citizen in chains and nearly had him tortured!",
+    "The next day, determined to get to the root of the trouble and find out exactly what was behind the Jewish accusations, the commander released Paul and ordered a meeting of the chief priests and the whole council to see what they could make of it. Paul was brought in and took his place before them."
+  ],
+  "splits": [
+    {
+      "msg_range": "2",
+      "note": "MSG's own overlap: v2 closes MSG para 1-2 and opens MSG para 2-3; badges follow MSG paragraph boundaries",
+      "paras": [
+        0,
+        1
+      ]
+    }
+  ],
+  "title": "Paul Tells His Story to the Angry Crowd",
+  "verseRanges": [
+    "1-2",
+    "2-3",
+    "4-5",
+    "6-7",
+    "8-9",
+    "10-11",
+    "12-13",
+    "14-16",
+    "17-18",
+    "19-20",
+    "21",
+    "22-25",
+    "22-25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30"
+  ]
+}

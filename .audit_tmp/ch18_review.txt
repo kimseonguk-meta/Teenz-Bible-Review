@@ -1,0 +1,131 @@
+### TITLE EN: Paul’s New Crew and a Surprise Pep Talk
+### TITLE KO: 바울의 새 크루와 깜짝 격려
+
+[MSG 0] range=1-4 header='Corinth'
+After Athens, Paul went to Corinth. That is where he discovered Aquila, a Jew born in Pontus, and his wife, Priscilla. They had just arrived from Italy, part of the general expulsion of Jews from Rome ordered by Claudius. Paul moved in with them, and they worked together at their common trade of tentmaking. But every Sabbath he was at the meeting place, doing his best to convince both Jews and Greeks about Jesus.
+
+[MSG 1] range=5-6 header=None
+When Silas and Timothy arrived from Macedonia, Paul was able to give all his time to preaching and teaching, doing everything he could to persuade the Jews that Jesus was in fact God's Messiah. But no such luck. All they did was argue contentiously and contradict him at every turn. Totally exasperated, Paul had finally had it with them and gave it up as a bad job. "Have it your way, then," he said. "You've made your bed; now lie in it. From now on I'm spending my time with the other nations."
+
+[MSG 2] range=7-8 header=None
+He walked out and went to the home of Titius Justus, a God-fearing man who lived right next to the Jews' meeting place. But Paul's efforts with the Jews weren't a total loss, for Crispus, the meeting-place president, put his trust in the Master. His entire family believed with him.
+
+[MSG 3] range=8-11 header=None
+In the course of listening to Paul, a great many Corinthians believed and were baptized. One night the Master spoke to Paul in a dream: "Keep it up, and don't let anyone intimidate or silence you. No matter what happens, I'm with you and no one is going to be able to hurt you. You have no idea how many people I have on my side in this city." That was all he needed to stick it out. He stayed another year and a half, faithfully teaching the Word of God to the Corinthians.
+
+[MSG 4] range=12-13 header=None
+But when Gallio was governor of Achaia province, the Jews got up a campaign against Paul, hauled him into court, and filed charges: "This man is seducing 12-13 But when Gallio was governor of Achaia province, the Jews got up a campaign against Paul, hauled him into court, and filed charges: "This man is seducing people into acts of worship that are illegal."
+
+[MSG 5] range=14-16 header=None
+Just as Paul was about to defend himself, Gallio interrupted and said to the Jews, "If this was a matter of criminal conduct, I would gladly hear you out. But it sounds to me like one more Jewish squabble, another of your endless hairsplitting quarrels over religion. Take care of it on your own time. I can't be bothered with this nonsense," and he cleared them out of the courtroom.
+
+[MSG 6] range=17 header=None
+Now the street rabble turned on Sosthenes, the new meeting-place president, and beat him up in plain sight of the court. Gallio didn't raise a finger. He could not have cared less.
+
+[MSG 7] range=18 header='Ephesus'
+Paul stayed a while longer in Corinth, but then it was time to take leave of his friends. Saying his good-byes, he sailed for Syria, Priscilla and Aquila with him. Before boarding the ship in the harbor town of Cenchrea, he had his head shaved as part of a vow he had taken.
+
+[MSG 8] range=19-21 header=None
+They landed in Ephesus, where Priscilla and Aquila got off and stayed. Paul left the ship briefly to go to the meeting place and preach to the Jews. They wanted him to stay longer, but he said he couldn't. But after saying good-bye, he promised, "I'll be back, God willing."
+
+[MSG 9] range=21-22 header=None
+From Ephesus he sailed to Caesarea. He greeted the church there, and then went on to Antioch, completing the journey.
+
+[MSG 10] range=23 header=None
+After spending a considerable time with the Antioch Christians, Paul set off again for Galatia and Phrygia, retracing his old tracks, one town after another, putting fresh heart into the disciples.
+
+[MSG 11] range=24-26 header=None
+A man named Apollos came to Ephesus. He was a Jew, born in Alexandria, Egypt, and a terrific speaker, eloquent and powerful in his preaching of the Scriptures. He was well-educated in the way of the Master and fiery in his enthusiasm. Apollos was accurate in everything he taught about Jesus up to a point, but he only went as far as the baptism of John. He preached with power in the meeting place. When Priscilla and Aquila heard him, they took him aside and told him the rest of the story.
+
+[MSG 12] range=27-28 header=None
+When Apollos decided to go on to Achaia province, his Ephesian friends gave their blessing and wrote a letter of recommendation for him, urging the disciples there to welcome him with open arms. The welcome paid off: Apollos turned out to be a great help to those who had become believers through God's immense generosity. He was particularly effective in public debate with the Jews as he brought out proof after convincing proof from the Scriptures that Jesus was in fact God's Messiah.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Paul in Corinth
+
+[EN 1] badge=1-4
+So after his trip to Athens, Paul bounced over to Corinth. There, he met this awesome couple, Aquila and Priscilla. They’d just been kicked out of Italy because the emperor, Claudius, was being a total hater to all the Jews in Rome. Paul crashed with them, and since they were all tentmakers, they started a little business together. Every weekend, Paul would hit up the local synagogue and try to get everyone, Jews and Greeks, hyped about Jesus.
+
+[EN 2] badge=5-6
+When his buddies Silas and Timothy showed up from Macedonia, Paul went full-time into preaching mode. He was all in, trying to show the Jews that Jesus was the real deal, the Messiah they'd been waiting for. But they were not having it. They just argued and dissed everything he said. Paul got so fed up he was like, “Alright, I’m out. You guys do you. I’m gonna go talk to people who actually want to listen.”
+
+[EN 3] badge=7-11
+He bounced and went to hang out at the house of Titius Justus, a man who was super into God and lived right next door to the synagogue. But it wasn’t a total wash with the Jews, ‘cause the head of the synagogue, Crispus, and his whole family started believing in Jesus. And a ton of other people in Corinth who heard Paul’s message believed and got baptized. One night, Jesus came to Paul in a dream and was like, “Don’t stop. Don’t let anyone shut you up. I’ve got your back, and no one’s gonna mess with you. I’ve got a huge squad in this city.” That was all Paul needed to hear. He stuck around for another year and a half, teaching everyone about God.
+
+[EN 4] badge=None
+§Paul Before Gallio
+
+[EN 5] badge=12-14
+But then, when a new governor named Gallio was in charge, some of the Jews ganged up on Paul and dragged him to court. They were like, “This guy is trying to get people to worship God in a way that’s against the rules!”
+
+[EN 6] badge=15-17
+Just as Paul was about to say something, Gallio cut in and told the Jews, “Look, if he’d committed a crime, I’d listen. But this is just you guys arguing about your religion. Deal with it yourselves. I’m not wasting my time with this.” And he kicked them out of the courtroom. Then, the crowd grabbed the new synagogue leader, Sosthenes, and beat him up right there in front of everyone. Gallio just shrugged, like he couldn’t care less.
+
+[EN 7] badge=18-19
+Paul hung out in Corinth for a while longer, then it was time to go. He said bye to his friends and sailed to Syria with Priscilla and Aquila. Before they left, he shaved his head to show he was keeping a promise he’d made to God.
+
+[EN 8] badge=19-21
+They landed in Ephesus, and Priscilla and Aquila stayed there. Paul popped into the synagogue to talk to the Jews for a bit. They wanted him to stay longer, but he was like, “Nah, I gotta go. But I’ll come back if God’s cool with it.”
+
+[EN 9] badge=None
+§Back to Antioch
+
+[EN 10] badge=22-23
+From there, he sailed to Caesarea, said hi to the church, and then went on to Antioch. After chilling with the Christians in Antioch for a while, Paul hit the road again, visiting all the towns in Galatia and Phrygia and getting all the believers fired up.
+
+[EN 11] badge=24-28
+Meanwhile, this guy named Apollos showed up in Ephesus. He was from Alexandria in Egypt and was a super-talented speaker who knew the Scriptures inside and out. He was all about Jesus and taught everything he knew, but he only knew up to what John the Baptist had taught. When Priscilla and Aquila heard him, they pulled him aside and gave him the full scoop. When Apollos decided to go to Achaia, his new friends in Ephesus wrote him a letter of recommendation, telling the believers there to welcome him. And it was a good thing they did, because he was a huge help to them. He would publicly refute his opponents, using the Scriptures to prove that Jesus was the Messiah.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§고린도에서의 바울
+
+[KO 1] badge=None
+고린도에서 생긴 일
+
+[KO 2] badge=1-4
+아테네에서 일이 끝나고 바울은 고린도로 갔음. 거기서 아굴라라는 유대인이랑 아내 브리스길라를 만났는데, 이 사람들은 본도 출신이었음. 글라우디오 황제가 유대인들은 로마에서 다 나가라고 해서 이탈리아에서 막 넘어온 참이었대. 바울은 그 집에 살면서 천막 만드는 일을 같이 했음. 안식일마다 회당에 가서 유대인이든 그리스인이든 예수님 얘기를 완전 열심히 전했지.
+
+[KO 3] badge=5-6
+실라랑 디모데가 마케도니아에서 와준 덕분에 바울은 이제 말씀 전하는 거에만 집중할 수 있게 됐음. 유대인들한테 예수님이 바로 하나님의 메시아라고 열심히 설명했거든. 근데 이게 잘 안 먹혔음. 유대인들은 맨날 따지고 시비 걸고 딴지나 거는 거임. 완전 화난 바울은 결국 걔네한테 완전 실망해서 포기함. "그래, 너네 맘대로 해라. 너네가 한 대로 돌려받겠지. 이제부터 난 다른 민족들한테 갈 거임." 하고 말했음.
+
+[KO 4] badge=7-8
+바울은 거길 떠나서 회당 바로 옆집 사는 디도 유스도네 집으로 갔음. 이 사람은 하나님을 완전 잘 믿는 사람이었거든. 그래도 바울이 유대인들한테 한 노력이 완전 헛수고는 아니었음. 회당장이었던 그리스보가 주님을 믿게 된 거임. 걔네 가족들도 다 같이 믿었대.
+
+[KO 5] badge=8-11
+바울 얘기를 듣고 고린도 사람들이 엄청 많이 믿고 세례를 받았음. 어느 날 밤에 주님이 바울 꿈에 나타나서 말했음. "무서워하지 말고 계속 말해. 가만히 있지 마. 내가 너와 함께 있으니까 아무도 너를 해치지 못할 거야. 이 도시에는 내 백성이 정말 많단다." 이 말 한마디에 바울은 끝까지 버틸 수 있었음. 그래서 거기서 1년 반이나 더 있으면서 고린도 사람들한테 하나님 말씀을 열심히 가르쳤음.
+
+[KO 6] badge=12-13
+근데 갈리오가 아가야 총독으로 있을 때, 유대인들이 작당하고 바울을 법정으로 끌고 가서 고발함. "이 사람이 법 어기고 이상한 예배를 하라고 사람들 꼬드기고 있어요!"
+
+[KO 7] badge=14-16
+바울이 막 뭐라고 하려는데 갈리오가 끼어들어서 유대인들한테 말함. "이게 무슨 범죄 같은 거면 내가 들어주겠는데, 들어보니까 그냥 너네 유대인들끼리 종교 문제로 싸우는 거잖아. 너네끼리 알아서 해결해. 이런 시시한 문제로 신경 쓰고 싶지 않거든?" 그러고는 걔네를 법정에서 쫓아내버림.
+
+[KO 8] badge=17
+그러자 길에 있던 사람들이 새로 회당장이 된 소스데네한테 달려들어서 법정에서도 다 보이게 막 마구 때려 팼음. 근데 갈리오는 신경도 안 씀. 완전 무시.
+
+[KO 9] badge=None
+에베소
+
+[KO 10] badge=18
+바울은 고린도에 좀 더 있다가 동료들이랑 헤어져야 할 때가 됐음. 작별인사하고 배 타고 시리아로 갔는데, 브리스길라랑 아굴라도 같이 갔음. 겐그레아라는 항구 도시에서 바울은 배 타기 전에, 자기가 한 서원대로 머리를 깎았음.
+
+[KO 11] badge=19-21
+일행이 에베소에 도착했는데, 브리스길라랑 아굴라는 거기 남았음. 바울도 잠깐 배에서 내려서 회당에 가서 유대인들한테 말씀을 전했음. 사람들이 더 있어달라고 했는데, 바울은 가야 했음. 작별인사하면서 "하나님이 허락하시면 다시 올게요" 하고 약속했음.
+
+[KO 12] badge=None
+§안디옥으로 돌아가다
+
+[KO 13] badge=21-22
+바울은 에베소를 떠나 가이사랴로 갔음. 거기 있는 크리스천들이랑 인사하고 안디옥까지 가서 긴 여행을 마쳤음.
+
+[KO 14] badge=23
+안디옥 크리스천들이랑 한참 같이 지내다가 바울은 다시 갈라디아랑 부르기아로 떠났음. 전에 왔던 길을 거꾸로 가면서 도시마다 들러서 제자들한테 힘을 팍팍 실어줬음.
+
+[KO 15] badge=24-26
+아볼로라는 사람이 에베소에 왔는데, 이집트 알렉산드리아 출신 유대인이었음. 말을 완전 잘해서 성경 얘기를 막힘없이 전하는 대단한 연설가였던 거임. 주님의 도에 대해서도 잘 배웠고, 정말 열정이 넘쳤음. 예수님에 대해 가르치는 것도 거의 다 정확했는데, 딱 요한의 세례까지만 알고 있었음. 아볼로가 회당에서 막힘없이 말씀 전하는 걸 들은 브리스길라랑 아굴라가 걔를 따로 불러서 그 뒷이야기를 싹 다 알려줬음.
+
+[KO 16] badge=27-28
+아볼로가 아가야로 가기로 하니까 에베소 동료들이 축복해 줌. 그리고 거기 제자들한테 이 사람 완전 잘 챙겨주라고 추천서까지 써줬음. 진짜로 그를 반갑게 맞아준 보람이 있었음. 하나님의 은혜로 믿게 된 사람들한테 아볼로가 완전 큰 도움이 됐거든. 특히 유대인들이랑 공개토론할 때 완전 잘해서, 성경을 근거로 예수님이 진짜 메시아라는 걸 논리적으로 딱딱 증명해줬음.
+

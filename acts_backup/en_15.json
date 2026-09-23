@@ -1,0 +1,83 @@
+{
+  "changes": [
+    "Ch15: § headers fixed to MSG's real headers (To Let Outsiders Inside; Barnabas and Paul Go Their Separate Ways) — removed fabricated 'The Big Debate', 'The Decision'",
+    "Ch15: split merged 3-5 (→3, 4-5), 24-27 letter parts, 35-36 (→35, 36), 36-39 (→36, 37-41)",
+    "Ch15: badges corrected to MSG ranges (3, 4-5, 10-11, 12-13, 13-18, 22-23, 24-27, 28-29, 30-33, 35, 36, 37-41)",
+    "Ch15: declared split for MSG's own overlap (v13 in 12-13/13-18)",
+    "Ch15: restored James's Amos quote to MSG wording; restored 'offered up by friends to the grace of the Master'; removed invented 'cousin', 'bro-vorce', 'OG', 'Peace out'; moderated slang",
+    "Ch15: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved",
+    "EN: high-similarity short paragraphs re-paraphrased for MSG independence",
+    "Title revised: The Ultimate Showdown: Rules vs. Grace / 궁극의 대결: 규칙 대 은혜"
+  ],
+  "chapter": 15,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-2",
+    "1-2",
+    "3",
+    "4-5",
+    "6-9",
+    "10-11",
+    "12-13",
+    "13-18",
+    "19-21",
+    "22-23",
+    "24-27",
+    "28-29",
+    "30-33",
+    "30-33",
+    "35",
+    "36",
+    "37-41"
+  ],
+  "paragraphs": [
+    "§To Let Outsiders Inside",
+    "It wasn't long before some believers showed up from Judea insisting everyone had to be circumcised: \"If you're not circumcised the way Moses taught, you can't be saved.\" Paul and Barnabas were on their feet in an instant, pushing back hard. The church decided to settle it by sending Paul, Barnabas, and a few others to take the question to the apostles and leaders in Jerusalem.",
+    "Once they were sent off and on the road, they told everyone they met along the way through Phoenicia and Samaria about the breakthrough to the non-Jewish outsiders. Everyone who heard it cheered — it was amazing news!",
+    "When they arrived in Jerusalem, the whole church — apostles and leaders included — welcomed Paul and Barnabas warmly. They reported on their recent trip and how God had used them to open the door for outsiders. Then some believers from the Pharisee group stood up to have their say. \"The non-Jewish converts have to be circumcised,\" they said. \"They must be told to keep the Law of Moses.\"",
+    "The apostles and leaders called a special meeting to talk it through. The debate went back and forth, getting hotter and hotter. Then Peter stood up: \"Friends, you know perfectly well that early on, God made it clear he wanted the non-Jews to hear this good news straight from me — firsthand, not secondhand. And God, who sees right through any pretending and always knows what's in a person's heart, gave them the Holy Spirit exactly like he gave him to us. He treated the outsiders just like he treated us — starting at the very core of who they are and working outward, cleaning up their lives as they trusted him.\"",
+    "\"So why are you trying to outdo God now, piling rules on these new believers — rules that crushed our ancestors and crushed us too? Don't we believe we're saved because the Master Jesus — incredibly, out of pure generosity — stepped in to save us, just like he did for people outside our nation? So what are we even arguing about?\"",
+    "Dead silence. Nobody said a word. In the quiet, Barnabas and Paul calmly reported the miracles and wonders God had done among the other nations through them. The silence got even deeper — you could hear a pin drop.",
+    "James broke the silence. \"Friends, listen. Simeon just told us how God, right from the start, made sure the outsiders were included. That lines up perfectly with what the prophets said: 'After this, I'm coming back; I'll rebuild David's fallen house; I'll put the pieces back together; I'll make it like new. Then the outsiders who are seeking will find — they'll have a place to belong — all the nations included in what I'm doing.' God said it, and now he's doing it. This was never a last-minute idea; he's always known he'd do this.\"",
+    "\"So here's my decision: we're not going to weigh down non-Jewish people who turn to the Master with unnecessary rules. We'll write them a letter saying: 'Stay away from anything connected with idols, keep sex and marriage pure, and don't eat food that would offend Jewish Christians — blood, for example.' This is basic wisdom from Moses, taught and honored for centuries in city after city, every Sabbath.\"",
+    "Everyone agreed — apostles, leaders, the whole church. They chose Judas (nicknamed Barsabbas) and Silas — both highly respected in the church — and sent them to Antioch with Paul and Barnabas, carrying this letter: \"From the apostles and leaders, your friends, to our friends in Antioch, Syria, and Cilicia: Hello!\"",
+    "\"We heard that some people from our church came to you and said things that confused and upset you. Just so you know, they had zero authority from us — we never sent them. We've all agreed to choose representatives and send them to you along with our dear friends Barnabas and Paul. We picked men you can trust — Judas and Silas. They've stared death in the face again and again for our Master Jesus Christ. We're sending them to confirm face-to-face everything we've written here.\"",
+    "\"It seemed good to the Holy Spirit and to us not to saddle you with any heavy burden — just these essentials: stay away from anything connected with idols; don't eat food that offends Jewish Christians (blood, for example); and keep sex and marriage pure. These guidelines are enough to keep things good between us. And may God be with you!\"",
+    "§Barnabas and Paul Go Their Separate Ways",
+    "So off they went to Antioch. When they arrived, they gathered the church and read the letter out loud. The people were hugely relieved and encouraged. Judas and Silas — both gifted preachers — strengthened their new friends with lots of words about courage and hope. Then it was time to head home. Their new friends sent them off with laughter and hugs all around, to report back to the ones who'd sent them.",
+    "Paul and Barnabas stayed on in Antioch, teaching and preaching God's Word. And they weren't the only ones — there were quite a few teachers and preachers in Antioch at the time.",
+    "A few days later Paul said to Barnabas, \"Let's retrace our steps and visit our friends in every town where we preached God's Word, and see how they're getting along.\"",
+    "Barnabas wanted to bring John along — the John nicknamed Mark. But Paul refused; he wasn't about to take a quitter who'd bailed on them in Pamphylia the moment things got tough. They argued heatedly and ended up splitting up: Barnabas took Mark and sailed for Cyprus; Paul chose Silas and, prayed over by their friends and entrusted to the Master's grace, headed for Syria and Cilicia to strengthen those churches."
+  ],
+  "splits": [
+    {
+      "msg_range": "13",
+      "note": "MSG's own overlap: v13 closes MSG para 12-13 and opens MSG para 13-18; badges follow MSG paragraph boundaries",
+      "paras": [
+        6,
+        7
+      ]
+    }
+  ],
+  "title": "The Ultimate Showdown: Rules vs. Grace",
+  "verseRanges": [
+    "1-2",
+    "1-2",
+    "3",
+    "4-5",
+    "6-9",
+    "10-11",
+    "12-13",
+    "13-18",
+    "19-21",
+    "22-23",
+    "24-27",
+    "28-29",
+    "30-33",
+    "30-33",
+    "35",
+    "36",
+    "37-41"
+  ]
+}

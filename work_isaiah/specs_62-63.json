@@ -1,0 +1,149 @@
+[
+ {
+  "badges": [
+   "1-5",
+   "6-7",
+   "8-9",
+   "10-12"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L2140-2156)으로 기존 4개 배지가 MSG와 1:1 일치 확인. blazes like the sun, Hephzibah/Beulah, watchmen no peace, solemn oath courtyards, 'Look! Your Savior comes', City-Not-Forsaken까지 모두 완전. KO도 배지 일치·깨진 문자 없음. 변경 없음"
+  ],
+  "chapter": 62,
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   }
+  ],
+  "ko_changes": [
+   "변경 없음"
+  ],
+  "ko_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   }
+  ],
+  "ko_title": "시온을 위한 열정",
+  "title": "Jerusalem's Epic Glow Up"
+ },
+ {
+  "badges": [
+   "1",
+   "2",
+   "3-6",
+   "7-9",
+   "10",
+   "11-14",
+   "14-19"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L2160-2191)으로 7개 섹션 확정. MSG '1'은 파수꾼 질문+'It is I: I speak what is right, I, mighty to save!' 답변 단일 섹션이므로 기존 '1'/'2' 병합. 기존 '3' 배지→'2' (왜 옷이 빨간가), 기존 '4-6'→'3-6' (포도주 틀). 기존 '7-10'→'7-9' (v10 'grieved his Holy Spirit'은 MSG '10'), 기존 '11'→'10', 기존 '12-14'→'11-14', 기존 '15-19'→'14-19'. v14('11-14'/'14-19') 겹침은 MSG 섹션 분할이므로 verse-split으로 선언. merges[]+confirmations_needed[] 기록"
+  ],
+  "chapter": 63,
+  "confirmations_needed": [
+   "ch63: 기존 '1'/'2' → MSG '1' 병합 (MSG 문단 합병 — 질문+답변 단일 섹션)"
+  ],
+  "en_ops": [
+   {
+    "join": [
+     0,
+     1
+    ]
+   },
+   {
+    "badge": "2",
+    "keep": 2
+   },
+   {
+    "badge": "3-6",
+    "keep": 3
+   },
+   {
+    "badge": "7-9",
+    "keep": 4
+   },
+   {
+    "badge": "10",
+    "keep": 5
+   },
+   {
+    "badge": "11-14",
+    "keep": 6
+   },
+   {
+    "badge": "14-19",
+    "keep": 7
+   }
+  ],
+  "ko_changes": [
+   "EN과 동일한 7문단·배지. KO 깨진 문자 없음"
+  ],
+  "ko_ops": [
+   {
+    "join": [
+     0,
+     1
+    ]
+   },
+   {
+    "badge": "2",
+    "keep": 2
+   },
+   {
+    "badge": "3-6",
+    "keep": 3
+   },
+   {
+    "badge": "7-9",
+    "keep": 4
+   },
+   {
+    "badge": "10",
+    "keep": 5
+   },
+   {
+    "badge": "11-14",
+    "keep": 6
+   },
+   {
+    "badge": "14-19",
+    "keep": 7
+   }
+  ],
+  "ko_title": "붉은 옷의 전사",
+  "merges": [
+   {
+    "reason": "MSG ch63 '1'은 단일 섹션 (파수꾼 질문 + 'It is I: I speak what is right, I, mighty to save!' 답변). 기존 '1'/'2' 분리는 MSG 1:1에 어긋나므로 병합.",
+    "scope": "Isaiah 63:1",
+    "msg_ranges": [
+     "1"
+    ]
+   }
+  ],
+  "splits": [
+   {
+    "msg_range": "14",
+    "note": "MSG 원문 라벨"
+   }
+  ],
+  "title": "God's EPIC Comeback & The People Who Forgot"
+ }
+]

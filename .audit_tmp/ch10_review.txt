@@ -1,0 +1,185 @@
+### TITLE EN: God's Got No Faves
+### TITLE KO: 하나님께는 편애가 없음
+
+[MSG 0] range=1-3 header="Peter's Vision"
+There was a man named Cornelius who lived in Caesarea, captain of the Italian Guard stationed there. He was a thoroughly good man. He had led everyone in his house to live worshipfully before God, was always helping people in need, and had the habit of prayer. One day about three o'clock in the afternoon he had a vision. An angel of God, as real as his next-door neighbor, came in and said, "Cornelius."
+
+[MSG 1] range=4-6 header=None
+Cornelius stared hard, wondering if he was seeing things. Then he said, "What do you want, sir?" The angel said, "Your prayers and neighborly acts have brought you to God's attention. Here's what you are to do. Send men to Joppa to get Simon, the one everyone calls Peter. He is staying with Simon the Tanner, whose house is down by the sea."
+
+[MSG 2] range=7-8 header=None
+As soon as the angel was gone, Cornelius called two servants and one particularly devout soldier from the guard. He went over with them in great detail everything that had just happened, and then sent them off to Joppa.
+
+[MSG 3] range=9-13 header=None
+The next day as the three travelers were approaching the town, Peter went out on the balcony to pray. It was about noon. Peter got hungry and started thinking about lunch. While lunch was being prepared, he fell into a trance. He saw the skies open up. Something that looked like a huge blanket lowered by ropes at its four corners settled on the ground. Every kind of animal and reptile and bird you could think of was on it. Then a voice came: "Go to it, Peter—kill and eat."
+
+[MSG 4] range=14 header=None
+Peter said, "Oh, no, Lord. I've never so much as tasted food that was not kosher."
+
+[MSG 5] range=15 header=None
+The voice came a second time: "If God says it's okay, it's okay."
+
+[MSG 6] range=16 header=None
+This happened three times, and then the blanket was pulled back up into the skies.
+
+[MSG 7] range=17-20 header=None
+As Peter, puzzled, sat there trying to figure out what it all meant, the men sent by Cornelius showed up at Simon's front door. They called in, asking if there was a Simon, also called Peter, staying there. Peter, lost in thought, didn't hear them, so the Spirit whispered to him, "Three men are knocking at the door looking for you. Get down there and go with them. Don't ask any questions. I sent them to get you."
+
+[MSG 8] range=21 header=None
+Peter went down and said to the men, "I think I'm the man you're looking for. What's up?"
+
+[MSG 9] range=22-23 header=None
+They said, "Captain Cornelius, a God-fearing man well-known for his fair play—ask any Jew in this part of the country—was commanded by a holy angel to get you and bring you to his house so he could hear what you had to say." Peter invited them in and made them feel at home.
+
+[MSG 10] range=23-26 header='God Plays No Favorites'
+The next morning he got up and went with them. Some of his friends from Joppa went along. A day later they entered Caesarea. Cornelius was expecting them and had his relatives and close friends waiting with him. The minute Peter came through the door, Cornelius was up on his feet greeting him—and then down on his face worshiping him! Peter pulled him up and said, "None of that—I'm a man and only a man, no different from you."
+
+[MSG 11] range=27-29 header=None
+Talking things over, they went on into the house, where Cornelius introduced Peter to everyone who had come. Peter addressed them, "You know, I'm sure that this is highly irregular. Jews just don't do this—visit and relax with people of another race. But God has just shown me that no race is better than any other. So the minute I was sent for, I came, no questions asked. But now I'd like to know why you sent for me."
+
+[MSG 12] range=30-32 header=None
+Cornelius said, "Four days ago at about this time, midafternoon, I was home praying. Suddenly there was a man right in front of me, flooding the room with light. He said, 'Cornelius, your daily prayers and neighborly acts have brought you to God's attention. I want you to send to Joppa to get Simon, the one they call Peter. He's staying with Simon the Tanner down by the sea.'
+
+[MSG 13] range=33 header=None
+"So I did it—I sent for you. And you've been good enough to come. And now we're all here in God's presence, ready to listen to whatever the Master put in your heart to tell us."
+
+[MSG 14] range=34-36 header=None
+Peter fairly exploded with his good news: "It's God's own truth, nothing could be plainer: God plays no favorites! It makes no difference who you are or where you're from—if you want God and are ready to do as he says, the door is open. The Message he sent to the children of Israel—that through Jesus Christ everything is being put together again—well, he's doing it everywhere, among everyone.
+
+[MSG 15] range=37-38 header=None
+"You know the story of what happened in Judea. It began in Galilee after John preached a total life-change. Then Jesus arrived from Nazareth, anointed by God with the Holy Spirit, ready for action. He went through the country helping people and healing everyone who was beaten down by the Devil. He was able to do all this because God was with him.
+
+[MSG 16] range=39-43 header=None
+"And we saw it, saw it all, everything he did in the land of the Jews and in Jerusalem where they killed him, hung him from a cross. But in three days God had him up, alive, and out where he could be seen. Not everyone saw him—he wasn't put on public display. Witnesses had been carefully handpicked by God beforehand—us! We were the ones, there to eat and drink with him after he came back from the dead. He commissioned us to announce this in public, to bear solemn witness that he is in fact the One whom God destined as Judge of the living and dead. But we're not alone in this. Our witness that he is the means to forgiveness of sins is backed up by the witness of all the prophets."
+
+[MSG 17] range=44-46 header=None
+No sooner were these words out of Peter's mouth than the Holy Spirit came on the listeners. The believing Jews who had come with Peter couldn't believe it, couldn't believe that the gift of the Holy Spirit was poured out on "outsider" non-Jews, but there it was—they heard them speaking in tongues, heard them praising God.
+
+[MSG 18] range=46-48 header=None
+Then Peter said, "Do I hear any objections to baptizing these friends with water? They've received the Holy Spirit exactly as we did." Hearing no objections, he ordered that they be baptized in the name of Jesus Christ. Then they asked Peter to stay on for a few days.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Peter's Vision
+
+[EN 1] badge=1-2
+So there's this guy, Cornelius. He's a captain in the Roman army, stationed in a town called Caesarea. Not just any captain, but the head of the Italian Guard. Basically, a pretty important guy. But he's not a bully about it. He's a good guy, and he and his whole family are all about God. He's always giving to the poor and praying.
+
+[EN 2] badge=3-4
+One afternoon, around 3 PM, he's just chilling and praying when, bam, an angel shows up. Like, a legit angel, right there in his room. The angel says, "Cornelius."
+
+[EN 3] badge=4
+Cornelius is totally bugging out. He's staring at the angel and is like, "Uh, what's up, sir?"
+
+[EN 4] badge=4-5
+The angel tells him, "God's heard your prayers and seen you helping people. He's totally noticed you. So here's the deal: send some guys to Joppa to find a man named Simon, who everyone calls Peter. He's staying with another Simon, a tanner, who lives by the sea."
+
+[EN 5] badge=7
+As soon as the angel ghosts him, Cornelius calls two of his servants and a soldier he trusts, a real devout guy. He tells them everything that just went down and sends them off to Joppa.
+
+[EN 6] badge=9-12
+The next day, while the three guys are getting close to Joppa, Peter goes up to the roof to pray. It's about noon, and he's getting hungry. While he's waiting for lunch, he goes into a trance. He sees the sky open up and this giant blanket thing being lowered by its four corners. On the blanket are all kinds of animals—like, every animal you can think of, even the ones that are totally not kosher. Then a voice says, "Go for it, Peter. Kill it and eat it."
+
+[EN 7] badge=13-14
+Peter's like, "No way, Lord! I've never eaten anything that's not kosher in my life."
+
+[EN 8] badge=15-16
+The voice comes back a second time, "If God says it's cool, it's cool." This happens three times, and then the blanket is yanked back up into the sky.
+
+[EN 9] badge=17-20
+Peter is super confused. He's trying to figure out what the heck that was all about when Cornelius's guys show up at the front door. They ask if a Simon, also known as Peter, is staying there. Peter's so deep in thought he doesn't even hear them. So the Holy Spirit whispers to him, "Hey, three guys are at the door looking for you. Go down and go with them. Don't even ask why. I sent them."
+
+[EN 10] badge=21
+So Peter goes downstairs and says, "I'm your guy. What's up?"
+
+[EN 11] badge=22
+They tell him, "Our boss, Captain Cornelius, is a super respected guy who loves God. An angel told him to invite you to his house so he could hear what you have to say." Peter invites them in for the night.
+
+[EN 12] badge=23-24
+The next morning, Peter and some of his friends from Joppa head out with Cornelius's men. When they get to Caesarea, Cornelius is waiting with all his relatives and close friends. As soon as Peter walks in, Cornelius falls at his feet to worship him. But Peter pulls him up and says, "Whoa, guy, get up. I'm just a man, like you."
+
+[EN 13] badge=25-28
+They go inside, and Peter sees the whole crew. He says, "You guys know this is weird, right? Jews don't hang out with non-Jews. But God just showed me that he doesn't play favorites. No one is 'unclean.' So when you sent for me, I came right away. So, for real, why'd you send for me?"
+
+[EN 14] badge=30-32
+Cornelius explains the whole angel story. "Four days ago, I was praying, and this crazy bright guy showed up and told me to send for you. So I did. And you came. That's awesome. Now we're all here, ready to hear whatever God wants you to tell us."
+
+[EN 15] badge=34-35
+Peter is so stoked. He's like, "Whoa, this is for real! God doesn't have a favorites list. It doesn't matter who you are or where you're from. If you're into God and do what's right, you're in. He sent a message to the people of Israel, and that message is that through Jesus, everything is getting put back together. And he's not just doing it for the Jews; he's doing it for everyone."
+
+[EN 16] badge=36-38
+"You know the story. It started in Galilee after John the Baptist was telling everyone to change their lives. Then Jesus from Nazareth showed up, and God flexed his power and gave him the Holy Spirit. Jesus went all over the place, helping people and healing everyone who was getting took down by the devil. He could do all this because God was with him."
+
+[EN 17] badge=39-43
+"And we saw it all. Everything he did. And then they killed him, hung him on a cross. But three days later, God brought him back to life. Not everyone saw him, just the witnesses God hand-picked, which was us! We ate and drank with him after he came back from the dead. He told us to tell everyone that he's the one God chose to be the judge of everyone, living and dead. And it's not just us saying it. All the prophets said that anyone who believes in him will have their sins forgiven."
+
+[EN 18] badge=44-46
+While Peter is still talking, the Holy Spirit comes down on everyone listening. The Jewish believers who came with Peter are totally shocked. They can't believe the Holy Spirit is being given to non-Jews. But then they hear them speaking in other languages and praising God.
+
+[EN 19] badge=47-48
+Peter's like, "Well, I guess that settles it. Anyone got a problem with baptizing these guys? They got the Holy Spirit, just like we did." No one said a word. So he ordered them to be baptized in the name of Jesus Christ. Then they asked Peter to hang out for a few more days.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§베드로의 환상
+
+[KO 1] badge=1-2
+그래서 고넬료라는 사람이 있었어. 그는 가이사랴라는 동네에 주둔한 로마 군대의 백부장이었어. 그냥 백부장이 아니고, 이탈리아 부대의 대장이었지. 기본적으로 엄청 높은 사람이었다는 거야. 근데 막 권위 부리고 그런 사람은 아니었어. 착한 사람이었고, 자기랑 가족들 모두 하나님을 엄청 잘 믿었어. 항상 가난한 사람들한테 베풀고 기도하는 사람이었지.
+
+[KO 2] badge=3-4
+어느 날 오후 3시쯤, 고넬료가 한가하게 기도하고 있는데, 뿅 하고 천사가 나타난 거야. 진짜 천사가 바로 자기 방에 나타난 거지. 천사가 "고넬료!" 하고 불렀어.
+
+[KO 3] badge=4
+고넬료는 완전 깜짝 놀라서 천사를 쳐다보면서 "저기, 무슨 일이세요?" 하고 물었어.
+
+[KO 4] badge=None
+§고넬료의 집에 간 베드로
+
+[KO 5] badge=5-6
+천사가 그에게 말했어. "하나님이 네 기도를 들으셨고, 네가 사람들을 돕는 걸 보셨어. 하나님이 너를 완전 알아주신 거지. 자, 그러니까 이렇게 해: 욥바에 사람들을 보내서 시몬이라는 사람을 찾아. 다들 그를 베드로라고 부르는데, 그는 가죽을 다루는 다른 시몬네 집에 머물고 있어. 그 집은 바닷가에 있어."
+
+[KO 6] badge=7
+천사가 사라지자마자, 고넬료는 자기 하인 두 명이랑 자기가 믿을 수 있는 병사 한 명, 완전 신실한 사람을 불렀어. 그리고 방금 일어난 모든 일을 그들에게 말해주고 욥바로 보냈어.
+
+[KO 7] badge=9-12
+다음 날, 그 세 명이 욥바 근처에 도착할 때쯤, 베드로는 기도하려고 지붕 위로 올라갔어. 정오쯤 됐는데, 배가 슬슬 고파왔지. 점심 기다리다가, 베드로가 황홀경에 빠졌어. 하늘이 열리고 엄청 큰 보자기 같은 게 네 모서리가 잡혀서 내려오는 걸 봤어. 보자기 안에는 온갖 종류의 동물들이 있었어. 생각할 수 있는 모든 동물, 심지어 유대인이 먹으면 안 되는 부정한 동물들까지 있었어. 그때 한 목소리가 들렸어. "베드로야, 잡아먹어."
+
+[KO 8] badge=13-14
+베드로는 "안 돼요, 주님! 저는 평생 부정한 건 먹어본 적 없어요!" 하고 말했어.
+
+[KO 9] badge=15-16
+목소리가 두 번째로 다시 들렸어. "하나님이 괜찮다고 하시면 괜찮은 거야." 이 일이 세 번 반복되고, 그 보자기는 다시 하늘로 올라갔어.
+
+[KO 10] badge=17-20
+베드로는 완전 헷갈렸어. 도대체 이게 뭔 일인가 생각하고 있는데, 고넬료가 보낸 사람들이 현관 앞에 나타난 거야. 그들은 시몬이라는 사람, 즉 베드로가 여기에 머물고 있는지 물었어. 베드로는 생각에 너무 잠겨서 그들의 말을 듣지도 못했어. 그래서 성령님이 베드로에게 속삭였어. "야, 세 명이 문 앞에 너를 찾고 있어. 내려가서 그들이랑 같이 가. 왜 그런지 묻지도 마. 내가 보낸 거야."
+
+[KO 11] badge=21
+그래서 베드로가 아래층으로 내려가서 말했어. "제가 찾으시는 사람이에요. 무슨 일이세요?"
+
+[KO 12] badge=22
+그들이 베드로에게 말했어. "저희 상관이신 고넬료 백부장님은 하나님을 사랑하고 모두에게 존경받는 분이세요. 천사님이 백부장님께 당신을 집으로 초대해서 당신이 하시는 말씀을 들으라고 하셨어요." 베드로는 그들을 집으로 초대해서 밤을 보냈어.
+
+[KO 13] badge=23-26
+다음 날 아침, 베드로와 욥바에서 온 그의 친구 몇 명이 고넬료의 사람들과 함께 길을 떠났어. 가이사랴에 도착하자, 고넬료는 모든 친척과 친한 친구들과 함께 기다리고 있었어. 베드로가 들어서자마자, 고넬료는 그의 발 앞에 엎드려 경배하려고 했어. 하지만 베드로는 그를 일으켜 세우며 말했어. "워워, 일어나세요. 저도 당신과 똑같은 사람일 뿐이에요."
+
+[KO 14] badge=27-29
+그들은 안으로 들어갔고, 베드로는 모든 사람들을 봤어. 그가 말했어. "여러분도 아시다시피, 유대인들이 이방인들과 어울리는 건 좀 이상한 일이죠? 하지만 하나님이 저에게 보여주셨어요. 하나님은 편애하지 않으세요. 누구도 '부정하다'고 할 수 없어요. 그래서 여러분이 저를 부르셨을 때, 저는 바로 왔어요. 자, 그럼 솔직히 말해서, 왜 저를 부르셨어요?"
+
+[KO 15] badge=30-32
+고넬료가 천사에 대한 모든 이야기를 설명했어. "나흘 전에 제가 기도하고 있었는데, 엄청나게 빛나는 분이 나타나서 저에게 당신을 부르라고 했어요. 그래서 제가 그렇게 했죠. 그리고 당신이 오셨어요. 정말 멋진 일이에요. 이제 저희 모두 여기 모여서, 하나님이 당신을 통해 저희에게 말씀하시려는 모든 것을 들을 준비가 되어 있어요."
+
+[KO 16] badge=34-35
+베드로는 완전 신났어. 그는 "와, 이거 진짜 대박이다! 하나님은 특별 대우하는 리스트 같은 게 없으셔. 네가 누구든, 어디 출신이든 상관없어. 네가 하나님을 믿고 옳은 일을 하면, 너도 그 안에 포함되는 거야. 하나님은 이스라엘 백성에게 메시지를 보내셨는데, 그 메시지는 예수님을 통해서 모든 것이 다시 제자리를 찾게 될 거라는 거야. 그리고 하나님은 유대인들만을 위해서 그렇게 하시는 게 아니라, 모든 사람을 위해서 그렇게 하시는 거야."라고 말했어.
+
+[KO 17] badge=36-38
+"여러분은 그 이야기를 알 거예요. 세례 요한이 모든 사람에게 삶을 바꾸라고 말한 후에 갈릴리에서 시작되었죠. 그러고 나서 나사렛 예수님이 나타나셨고, 하나님이 능력을 보여주시며 그에게 성령을 주셨어요. 예수님은 여기저기 다니시면서 사람들을 돕고, 마귀에게 시달리는 모든 사람을 고쳐주셨어요. 그분은 하나님이 함께하셨기 때문에 이 모든 것을 하실 수 있었죠."
+
+[KO 18] badge=39-43
+"그리고 우리는 그 모든 것을 봤어요. 그분이 하신 모든 일을요. 그러고 나서 그들은 그분을 죽였고, 십자가에 매달았어요. 하지만 사흘 후에, 하나님이 그분을 다시 살리셨어요. 모든 사람이 그분을 본 건 아니었어요. 하나님이 직접 뽑으신 증인들, 바로 우리였죠! 우리는 그분이 죽음에서 돌아오신 후에 그분과 함께 먹고 마셨어요. 그분은 우리에게, 자신이야말로 산 자와 죽은 자 모두를 심판할 분으로 하나님이 선택하셨다는 것을 모든 사람에게 말하라고 하셨어요. 그리고 우리만 그렇게 말하는 게 아니에요. 모든 예언자들이 그분을 믿는 사람은 누구든지 죄를 용서받을 것이라고 말했어요."
+
+[KO 19] badge=44-46
+베드로가 아직 말하고 있는 동안, 성령님이 듣고 있는 모든 사람들에게 임했어. 베드로와 함께 온 유대인 신자들은 완전 깜짝 놀랐어. 성령님이 이방인들에게도 주어지는 것을 믿을 수 없었지. 하지만 그때 그들이 다른 언어로 말하고 하나님을 찬양하는 것을 들었어.
+
+[KO 20] badge=47-48
+베드로는 "음, 그럼 이제 해결된 것 같네요. 이 사람들에게 세례를 주는 것에 대해 문제 있는 사람 있어요? 우리처럼 이들도 성령을 받았잖아요." 하고 말했어. 아무도 아무 말도 하지 않았어. 그래서 베드로는 그들에게 예수 그리스도의 이름으로 세례를 주라고 명령했어. 그러고 나서 그들은 베드로에게 며칠 더 머물러 달라고 부탁했어.
+

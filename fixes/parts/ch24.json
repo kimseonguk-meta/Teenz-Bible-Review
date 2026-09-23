@@ -1,0 +1,128 @@
+{
+  "chapter": 24,
+  "title": "The Real Tea on the End Times",
+  "paragraphs": [
+    "§ Routine History",
+    "As Jesus and his crew were leaving the Temple, his disciples were totally geeking out over the amazing architecture. 'Hey, Jesus, check out these buildings! So epic!' Jesus just shook his head. 'You're not impressed by all this sheer *size*, are you? The truth of the matter is that there's not a stone in that building that is not going to end up in a pile of rubble.' Later, they were chilling on the Mount of Olives, and the disciples cornered him. 'Okay, spill. When is all this going down? What's going to be the sign of your coming — that the time's up?'",
+    "Jesus got real serious. 'Watch out for doomsday deceivers. A bunch of fakes are going to show up with forged identities, claiming 'I am Christ, the Messiah' — and they're going to deceive a lot of people. You'll hear about wars, and rumors of more wars, but keep your head and don't panic. This is routine history; this is no sign of the end. Nation will fight nation and ruler fight ruler, over and over. Famines and earthquakes will hit various places. This is nothing compared to what's coming.'",
+    "'Then things get personal. They're going to throw you to the wolves and kill you — everyone will hate you because you carry my name. And then, going from bad to worse, it will be dog-eat-dog, everyone at each other's throat, everyone hating each other. In the confusion, lying preachers will come forward and deceive a lot of people. For many others, the overwhelming spread of evil will do them in — nothing left of their love but a mound of ashes. But staying with it — that's what God requires. Stay with it to the end. You won't be sorry, and you'll be saved. All during this time, the good news — the Message of the kingdom — will be preached all over the world, a witness staked out in every country. And then the end will come.'",
+    "§ The Monster of Desecration",
+    "'But be ready to run for it when you see the monster of desecration set up in the Temple sanctuary. The prophet Daniel described this. If you've read Daniel, you'll know what I'm talking about. If you're living in Judea at the time, run for the hills. If you're working in the yard, don't return to the house to get anything. If you're out in the field, don't go back and get your coat. Pregnant and nursing mothers will have it especially hard. Hope and pray this won't happen during the winter or on a Sabbath. This is going to be trouble on a scale beyond what the world has ever seen, or will see again. If these days of trouble were left to run their course, nobody would make it. But on account of God's chosen people, the trouble will be cut short.'",
+    "§ The Arrival of the Son of Man",
+    "'If anyone tries to flag you down, calling out, 'Here's the Messiah!' or points, 'There he is!' — don't fall for it. Fake Messiahs and lying preachers are going to pop up everywhere. Their impressive credentials and bewitching performances will pull the wool over the eyes of even those who ought to know better. But I've given you fair warning. So if they say, 'Run to the country and see him arrive!' or, 'Quick, get downtown, see him come!' — don't give them the time of day. The Arrival of the Son of Man isn't something you go to see. He comes like swift lightning — to you! Whenever you see crowds gathering, think of carrion vultures circling, moving in, hovering over a rotting carcass. You can be quite sure that it's not the living Son of Man pulling in those crowds.'",
+    "'Following those hard times, Sun will fade out, moon cloud over, Stars fall out of the sky, cosmic powers tremble. Then, the Arrival of the Son of Man! It will fill the skies — no one will miss it. Unready people all over the world, outsiders to the splendor and power, will raise a huge lament as they watch the Son of Man blazing out of heaven. At that same moment, he'll dispatch his angels with a trumpet-blast summons, pulling in God's chosen from the four winds, from pole to pole.'",
+    "'Take a lesson from the fig tree. From the moment you notice its buds form, the merest hint of green, you know summer's just around the corner. So it is with you: When you see all these things, you'll know he's at the door. Don't take this lightly. I'm not just saying this for some future generation, but for all of you. This age continues until all these things take place. Sky and earth will wear out; my words won't wear out.'",
+    "'But the exact day and hour? No one knows that, not even heaven's angels, not even the Son. Only the Father knows. The Arrival of the Son of Man will take place in times like Noah's. Before the great flood everyone was carrying on as usual, having a good time right up to the day Noah boarded the ark. They knew nothing — until the flood hit and swept everything away. The Son of Man's Arrival will be like that: Two men will be working in the field — one will be taken, one left behind; two women will be grinding at the mill — one will be taken, one left behind. So stay awake, alert. You have no idea what day your Master will show up. But you do know this: You know that if the homeowner had known what time of night the burglar would arrive, he would have been there with his dogs to prevent the break-in. Be vigilant just like that. You have no idea when the Son of Man is going to show up.'",
+    "'Who here qualifies for the job of overseeing the kitchen? A person the Master can depend on to feed the workers on time each day. Someone the Master can drop in on unannounced and always find him doing his job. A God-blessed man or woman, I tell you. It won't be long before the Master will put this person in charge of the whole operation. But if that person only looks out for himself, and the minute the Master is away does what he pleases — abusing the help and throwing drunken parties for his friends — the Master is going to show up when he least expects it, and it won't be pretty. He'll end up in the dump with the hypocrites, out in the cold shivering, teeth chattering.'"
+  ],
+  "verseRanges": [
+    "1-3",
+    "1-3",
+    "4-8",
+    "9-14",
+    "15-22",
+    "15-22",
+    "23-28",
+    "23-28",
+    "29-31",
+    "32-35",
+    "36-44",
+    "45-51"
+  ],
+  "msg_ranges": [
+    "1-2",
+    "3",
+    "4-8",
+    "9-10",
+    "11-12",
+    "13-14",
+    "15-20",
+    "21-22",
+    "23-25",
+    "26-28",
+    "29",
+    "30-31",
+    "32-35",
+    "36",
+    "37-39",
+    "39-44",
+    "45-47",
+    "48-51"
+  ],
+  "merges": [
+    {
+      "para": 1,
+      "msg_ranges": [
+        "1-2",
+        "3"
+      ],
+      "note": "성전 파괴 예언(1-2)과 감람산 질문(3)을 하나의 서사 흐름으로 합침"
+    },
+    {
+      "para": 3,
+      "msg_ranges": [
+        "9-10",
+        "11-12",
+        "13-14"
+      ],
+      "note": "박해(9-10) + 거짓 선지자/사랑 식음(11-12) + 끝까지 견디기/복음 전파(13-14)를 하나의 EN 문단으로 묶음"
+    },
+    {
+      "para": 5,
+      "msg_ranges": [
+        "15-20",
+        "21-22"
+      ],
+      "note": "피하 지시(15-20)와 고난 설명(21-22)을 하나의 EN 문단으로 합침"
+    },
+    {
+      "para": 7,
+      "msg_ranges": [
+        "23-25",
+        "26-28"
+      ],
+      "note": "거짓 메시아 경고(23-25)와 번개 비유(26-28)를 하나의 EN 문단으로 합침"
+    },
+    {
+      "para": 8,
+      "msg_ranges": [
+        "29",
+        "30-31"
+      ],
+      "note": "우주적 징조(29)와 인자의 오심(30-31)을 하나의 EN 문단으로 합침"
+    },
+    {
+      "para": 10,
+      "msg_ranges": [
+        "36",
+        "37-39",
+        "39-44"
+      ],
+      "note": "날짜 모름(36) + 노아 시대(37-39) + 데려감/남겨둠/도둑 비유(39-44)를 하나의 EN 문단으로 합침"
+    },
+    {
+      "para": 11,
+      "msg_ranges": [
+        "45-47",
+        "48-51"
+      ],
+      "note": "충실한 종(45-47)과 불량한 종(48-51)을 하나의 EN 문단으로 합침"
+    }
+  ],
+  "splits": [],
+  "changes": [
+    "1-3절: 'sheer size에 감탄하냐' 뉘앙스·'돌 하나도 무너지지 않고 남지 않는다'를 MSG에 맞춤, 감람산 질문 'that the time's up' 복원",
+    "4-8절: 'doomsday deceivers 경계', 'ruler fight ruler', 'This is routine history; this is no sign of the end' 뉘앙스를 MSG에 맞춤",
+    "9-14절: 'throw you to the wolves', 'everyone at each other's throat, everyone hating each other', 'nothing left of their love but a mound of ashes', 'Staying with it — that's what God requires', 'a witness staked out in every country' 복원",
+    "15-22절: '마당에서 일하면 집에 들어가지 마라' 지시 복원 + '임산부와 젖먹이는 어머니는 특히 힘들 것이다' + '겨울이나 안식일에 일어나지 않기를 바라고 기도하라' — 두 대목이 통째로 누락되어 있었음, 복원",
+    "23-28절: '썩은 시체 위를 맴도는 독수리(carrion vultures) 비유' — 통째로 누락되어 있었음, 복원 + 'I've given you fair warning' 복원",
+    "29-31절: 'outsiders to the splendor and power, will raise a huge lament', 'from the four winds, from pole to pole' 복원",
+    "32-35절: 'Don't take this lightly. I'm not just saying this for some future generation, but for all of you.', 'Sky and earth will wear out; my words won't wear out' 복원",
+    "36-44절: '밭에서 일하는 두 남자 — 하나는 데려가고 하나는 남겨진다 / 맷돌질하는 두 여자 — 하나는 데려가고 하나는 남겨진다' + '집주인이 도둑이 오는 시간을 알았더라면 개들과 함께 막았을 것' 비유 — 통째로 누락되어 있었음, 복원",
+    "45-51절: 'It won't be long before the Master will put this person in charge of the whole operation', 'He'll end up in the dump with the hypocrites, out in the cold shivering, teeth chattering' 복원",
+    "MSG 섹션 헤더 3개(§ Routine History, § The Monster of Desecration, § The Arrival of the Son of Man)를 별도 문단으로 추가, 뒤따르는 본문 문단과 동일 배지"
+  ],
+  "confirmations_needed": [
+    "EN para1(MSG 1-2+3), para3(MSG 9-10+11-12+13-14), para5(MSG 15-20+21-22), para7(MSG 23-25+26-28), para8(MSG 29+30-31), para10(MSG 36+37-39+39-44), para11(MSG 45-47+48-51)의 merge 승인 요청 — 인접 MSG 문단들을 주제별로 묶음"
+  ]
+}

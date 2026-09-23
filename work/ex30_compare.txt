@@ -1,0 +1,60 @@
+# EXODUS 30 — God's Secret DIY Recipes
+TEEN paras: 8 | badges: ['1-5', '6-10', '11-16', '17-21', '22-25', '26-29', '30-33', '34-38']
+KO paras: 8 | badges: ['1-5', '6-10', '11-16', '17-21', '22-25', '26-29', '30-33', '34-38']
+MSG sections: 8 | ranges: ['1-5', '6-10', '11-16', '17-21', '22-25', '26-29', '30-33', '34-38']
+
+--- MSG [1-5] ---
+“Make an Altar for burning incense. Construct it from acacia wood, one and one-half feet square and three feet high with its horns of one piece with it. Cover it with a veneer of pure gold, its top, sides, and horns, and make a gold molding around it with two rings of gold beneath the molding. Place the rings on the two opposing sides to serve as holders for poles by which it will be carried. Make the poles of acacia wood and cover them with a veneer of gold.
+
+>>> TEEN:
+  [p0 badge=1-5] “Alright, first up, make an Altar for burning incense. Build it from acacia wood, about one and a half feet square and three feet high, with its horns all one piece with it. Cover the whole thing in a layer of pure gold—its top, sides, and horns—and put a gold molding around it with two gold rings under the molding. Put the rings on opposite sides to hold the poles for carrying it. Make the poles from acacia wood and cover them in gold too.
+  [KO p0] “자, 먼저 향을 피울 제단을 만들라고 하셨대. 아카시아 나무로 만들고, 가로세로 한 45센치에 높이는 90센치 정도? 모서리에 있는 뿔들은 한 조각으로 만들어야 된대. 그리고 꼭대기랑 옆면이랑 뿔까지 싹 다 순금으로 덮는 거임. 금 테두리도 두르고, 그 아래에 금 고리 두 개를 다는 거야. 양쪽에 하나씩. 이건 운반할 때 쓰는 막대기를 끼우는 용도래. 그 막대기도 아카시아 나무로 만들어서 금으로 덮으라고 하셨어.
+
+--- MSG [6-10] ---
+“Place the Altar in front of the curtain that hides the Chest of The Testimony, in front of the Atonement-Cover that is over The Testimony where I will meet you. Aaron will burn fragrant incense on it every morning when he polishes the lamps, and again in the evening as he prepares the lamps for lighting, so that there will always be incense burning before God, generation after generation. But don’t burn on this Altar any unholy incense or Whole-Burnt-Offering or Grain-Offering. And don’t pour out Drink-Offerings on it. Once a year Aaron is to purify the Altar horns. Using the blood of the Absolution-Offering of atonement, he is to make this atonement every year down through the generations. It is most holy to God.”
+
+>>> TEEN:
+  [p1 badge=6-10] “Place this Altar right in front of the curtain that hides the Chest of the Testimony, in front of the Atonement-Cover over the Testimony, which is where I'll meet you. Aaron has to burn some good-smelling incense on it every morning when he cleans the lamps, and he has to do it again in the evening when he lights them up. This is so there’s always incense burning before God, for all time. But listen, don’t burn any random, unholy incense on this Altar, and no other kinds of offerings either. And don’t pour any drink offerings on it. Once a year, Aaron needs to purify the Altar's horns using blood from a special offering. He has to do this every single year. This thing is super holy to God.”
+  [KO p1] “이 제단은 증거궤를 가리는 휘장 바로 앞에, 그러니까 내가 너를 만날 그 속죄소 앞에 두는 거래. 아론은 아침마다 등불을 손질할 때 향기로운 향을 피워야 하고, 저녁에 등불 켤 때도 또 피워야 한대. 그래서 하나님 앞에 향이 끊이지 않게 하는 게 중요한 거임. 대대로 그렇게 해야 된대. 근데 진짜 중요한 건, 이 제단 위에는 아무거나 막 태우면 안 된다는 거. 부정한 향이나 번제물, 곡식제물 절대 안 되고, 술 같은 것도 부으면 안 된대. 1년에 한 번, 아론이 속죄제물의 피로 제단 뿔을 정화해야 해. 대대로 매년 이 속죄 의식을 해야 하는 거임. 이건 하나님께 가장 거룩한 물건이래.”
+
+--- MSG [11-16] ---
+God spoke to Moses: “When you take a head count of the Israelites to keep track of them, all must pay an atonement-tax to God for their life at the time of being registered so that nothing bad will happen because of the registration. Everyone who gets counted is to give a half-shekel (using the standard Sanctuary shekel of a fifth of an ounce to the shekel)—a half-shekel offering to God. Everyone counted, age twenty and up, is to make the offering to God. The rich are not to pay more nor the poor less than the half-shekel offering to God, the atonement-tax for your lives. Take the atonement-tax money from the Israelites and put it to the maintenance of the Tent of Meeting. It will be a memorial fund for the Israelites in honor of God, making atonement for your lives.”
+
+>>> TEEN:
+  [p2 badge=11-16] God told Moses: “When you do a headcount of the Israelites, everyone counted has to pay a tax to God for their life. It’s like an atonement fee, so nothing bad happens to them for being registered. Everyone who gets counted has to give half a shekel—that’s the standard weight they use in the Sanctuary. It’s a half-shekel offering to God. Everyone twenty years old and up has to give this offering. The rich don’t pay more, and the poor don’t pay less than the half-shekel. This money is the atonement tax for your lives. Take this tax money from the Israelites and use it for the upkeep of the Tent of Meeting. It’ll be a reminder for the Israelites before God, making things right for your lives.”
+  [KO p2] 하나님이 모세한테 말씀하셨어. “이스라엘 백성들 인구조사 할 때, 등록되는 사람들은 모두 자기 생명을 위한 속죄세금을 하나님께 내야 한대. 그래야 인구조사 때문에 나쁜 일이 안 생긴다는 거임. 계수되는 사람은 모두 성소의 기준에 따라 반 세겔을 내야 해. 이건 하나님께 드리는 헌물이래. 스무 살 이상으로 계수된 사람은 모두 하나님께 이 헌물을 드려야 하는 거야. 부자라고 더 내고 가난하다고 덜 내는 거 없음. 딱 반 세겔임. 이건 너희 생명을 위한 속죄세금인 거지. 이스라엘 백성들에게서 이 속죄세금을 받아서 회막을 유지하는 데 쓰라고 하셨어. 이게 하나님 앞에서 이스라엘 백성을 위한 기념물이 되고, 너희 생명을 속죄해 
+
+--- MSG [17-21] ---
+God spoke to Moses: “Make a bronze Washbasin; make it with a bronze base. Place it between the Tent of Meeting and the Altar. Put water in it. Aaron and his sons will wash their hands and feet in it. When they enter the Tent of Meeting or approach the Altar to serve there or offer gift offerings to God, they are to wash so they will not die. They are to wash their hands and their feet so they will not die. This is the rule forever, for Aaron and his sons down through the generations.”
+
+>>> TEEN:
+  [p3 badge=17-21] God told Moses: “Make a bronze Washbasin with a bronze base. Put it between the Tent of Meeting and the Altar, and fill it with water. Aaron and his sons will wash their hands and feet in it. Whenever they go into the Tent of Meeting or get close to the Altar to serve or give offerings to God, they have to wash up so they don’t die. They must wash their hands and feet so they won’t die. This is a forever rule for Aaron and his sons, for all their generations to come.”
+  [KO p3] 하나님이 모세한테 말씀하셨어. “놋으로 된 물두멍이랑 그 받침을 만들어. 그걸 회막이랑 제단 사이에 두고 물을 채워. 아론이랑 그의 아들들은 거기서 손발을 씻을 거래. 회막에 들어가거나 제단에 가까이 가서 섬기거나 하나님께 예물을 바칠 때, 반드시 씻어야 된대. 안 그러면 죽는다는 거임. 손발을 꼭 씻어야 죽지 않는다고. 이건 아론과 그의 자손들이 대대로 영원히 지켜야 할 규칙이래.”
+
+--- MSG [22-25] ---
+God spoke to Moses: “Take the best spices: twelve and a half pounds of liquid myrrh; half that much, six and a quarter pounds, of fragrant cinnamon; six and a quarter pounds of fragrant cane; twelve and a half pounds of cassia—using the standard Sanctuary weight for all of them—and a gallon of olive oil. Make these into a holy anointing oil, a perfumer’s skillful blend.
+
+>>> TEEN:
+  [p4 badge=22-25] God told Moses: “Get the best spices: about twelve and a half pounds of liquid myrrh, half of that (so, six and a quarter pounds) of fragrant cinnamon, six and a quarter pounds of fragrant cane, and twelve and a half pounds of cassia. Use the official Sanctuary weight for all of them. And get a gallon of olive oil. Mix all this into a holy anointing oil, like a professional perfumer would.
+  [KO p4] 하나님이 모세한테 말씀하셨어. “최고급 향료를 가져오래. 액체 몰약 12.5파운드, 그 절반인 6.25파운드의 향기로운 계피, 향기로운 창포 6.25파운드, 계피 12.5파운드. 전부 성소에서 쓰는 무게 기준으로. 그리고 올리브 기름 한 갤런. 이걸로 거룩한 기름을 만드는 건데, 향수 전문가처럼 잘 섞어서 만들라고 하셨어.
+
+--- MSG [26-29] ---
+“Use it to anoint the Tent of Meeting, the Chest of The Testimony, the Table and all its utensils, the Lampstand and its utensils, the Altar of Incense, the Altar of Whole-Burnt-Offerings and all its utensils, and the Washbasin and its base. Dedicate them so they’ll be soaked in holiness, so that anyone who so much as touches them will become holy.
+
+>>> TEEN:
+  [p5 badge=26-29] “Use this oil to anoint the Tent of Meeting, the Chest of The Testimony, the Table and all its stuff, the Lampstand and its gear, the Altar of Incense, the Altar of Whole-Burnt-Offerings and all its tools, and the Washbasin and its base. Dedicate them so they become soaked in holiness. That way, anyone who even touches them will become holy.
+  [KO p5] “이 기름으로 회막, 증거궤, 상이랑 그 모든 기구들, 등잔대랑 그 기구들, 분향단, 번제단이랑 그 모든 기구들, 물두멍이랑 그 받침에 다 발라. 그것들을 거룩하게 구별해서, 누구든지 거기에 닿기만 해도 거룩해지게 하라는 거임.
+
+--- MSG [30-33] ---
+“Then anoint Aaron and his sons. Consecrate them as priests to me. Tell the Israelites, ‘This will be my holy anointing oil throughout your generations.’ Don’t pour it on ordinary men. Don’t copy this mixture to use for yourselves. It’s holy; keep it holy. Whoever mixes up anything like it, or puts it on an ordinary person, will be exiled.”
+
+>>> TEEN:
+  [p6 badge=30-33] “Then, anoint Aaron and his sons. Set them apart as my priests. Tell the Israelites, ‘This is my holy anointing oil forever.’ Don’t just pour it on any regular person. And don’t try to copy this recipe for yourselves. It’s holy, so treat it as holy. Anyone who mixes up something like it, or puts it on a regular person, will be kicked out of the community.”
+  [KO p6] “그런 다음에 아론이랑 그의 아들들한테도 기름을 발라. 그들을 나를 섬기는 제사장으로 거룩하게 구별하는 거야. 이스라엘 백성들한테는 ‘이건 대대로 나의 거룩한 기름이다’라고 말해줘. 이거 아무한테나 막 부으면 안 돼. 똑같이 만들어서 너네 맘대로 써도 안 되고. 이건 거룩한 거니까 거룩하게 다뤄야 해. 누구든지 이거랑 비슷하게 만들거나, 일반인한테 바르는 사람은 추방될 거래.”
+
+--- MSG [34-38] ---
+God spoke to Moses: “Take fragrant spices—gum resin, onycha, galbanum—and add pure frankincense. Mix the spices in equal proportions to make an aromatic incense, the art of a perfumer, salted and pure—holy. Now crush some of it into powder and place some of it before The Testimony in the Tent of Meeting where I will meet with you; it will be for you the holiest of holy places. When you make this incense, you are not to copy the mixture for your own use. It’s holy to God; keep it that way. Whoever copies it for personal use will be excommunicated.”
+
+>>> TEEN:
+  [p7 badge=34-38] God told Moses: “Take some fragrant spices—gum resin, onycha, galbanum—and add pure frankincense. Mix them in equal amounts to make a special incense, like a perfumer would make it, salted and pure—totally holy. Now, crush some of it into a fine powder and put it before The Testimony in the Tent of Meeting where I will meet you. For you, it will be the most holy of holy things. When you make this incense, you can't copy the recipe for your own use. It’s holy to God, so keep it that way. Whoever copies it for their own personal use will be excommunicated.”
+  [KO p7] 하나님이 모세한테 말씀하셨어. “향기로운 향료들, 그러니까 소합향, 나감향, 풍자향을 가져오고, 순수한 유향도 더해. 향료들을 똑같은 비율로 섞어서 향기로운 향을 만드는 거야. 향수 전문가의 솜씨로, 소금을 쳐서 순수하고 거룩하게. 이제 그걸 좀 빻아서 가루로 만들고, 내가 너랑 만날 회막 안 증거궤 앞에 둬. 그건 너희에게 가장 거룩한 것이 될 거래. 이 향을 만들 때, 너네 맘대로 쓰려고 똑같이 만들면 안 돼. 이건 하나님께 거룩한 거니까, 그렇게 지켜야 해. 누구든지 개인적으로 쓰려고 이걸 따라 만드는 사람은 공동체에서 쫓겨날 거래.”

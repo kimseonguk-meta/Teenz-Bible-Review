@@ -1,0 +1,128 @@
+### TITLE EN: The Great Escape and a King's Epic Fail
+### TITLE KO: 대탈출과 왕의 대실패
+
+[MSG 0] range=1-4 header='Peter Under Heavy Guard'
+That's when King Herod got it into his head to go after some of the church members. He murdered James, John's brother. When he saw how much it raised his popularity ratings with the Jews, he arrested Peter—all this during Passover Week, mind you—and had him thrown in jail, putting four squads of four soldiers each to guard him. He was planning a public lynching after Passover.
+
+[MSG 1] range=5 header=None
+All the time that Peter was under heavy guard in the jailhouse, the church prayed for him most strenuously.
+
+[MSG 2] range=6 header=None
+Then the time came for Herod to bring him out for the kill. That night, even though shackled to two soldiers, one on either side, Peter slept like a baby. And there were guards at the door keeping their eyes on the place. Herod was taking no chances!
+
+[MSG 3] range=7-9 header=None
+Suddenly there was an angel at his side and light flooding the room. The angel shook Peter and got him up: "Hurry!" The handcuffs fell off his wrists. The angel said, "Get dressed. Put on your shoes." Peter did it. Then, "Grab your coat and let's get out of here." Peter followed him, but didn't believe it was really an angel—he thought he was dreaming.
+
+[MSG 4] range=10-11 header=None
+Past the first guard and then the second, they came to the iron gate that led into the city. It swung open before them on its own, and they were out on the street, free as the breeze. At the first intersection the angel left him, going his own way. That's when Peter realized it was no dream. "I can't believe it—this really happened! The Master sent his angel and rescued me from Herod's vicious little production and the spectacle the Jewish mob was looking forward to."
+
+[MSG 5] range=12-14 header=None
+Still shaking his head, amazed, he went to Mary's house, the Mary who was John Mark's mother. The house was packed with praying friends. When he knocked on the door to the courtyard, a young woman named Rhoda came to see who it was. But when she recognized his voice—Peter's voice!—she was so excited and eager to tell everyone Peter was there that she forgot to open the door and left him standing in the street.
+
+[MSG 6] range=15-16 header=None
+But they wouldn't believe her, dismissing her, dismissing her report. "You're crazy," they said. She stuck by her story, insisting. They still wouldn't believe her and said, "It must be his angel." All this time poor Peter was standing out in the street, knocking away.
+
+[MSG 7] range=16-17 header=None
+Finally they opened up and saw him—and went wild! Peter put his hands up and calmed them down. He described how the Master had gotten him out of jail, then said, "Tell James and the brothers what's happened." He left them and went off to another place.
+
+[MSG 8] range=18-19 header=None
+At daybreak the jail was in an uproar. "Where is Peter? What's happened to Peter?" When Herod sent for him and they could neither produce him nor explain why not, he ordered their execution: "Off with their heads!" Fed up with Judea and Jews, he went for a vacation to Caesarea.
+
+[MSG 9] range=20-22 header='The Death of Herod'
+But things went from bad to worse for Herod. Now people from Tyre and Sidon put him on the warpath. But they got Blastus, King Herod's right-hand man, to put in a good word for them and got a delegation together to iron things out. Because they were dependent on Judea for food supplies, they couldn't afford to let this go on too long. On the day set for their meeting, Herod, robed in pomposity, took his place on the throne and regaled them with a lot of hot air. The people played their part to the hilt and shouted flatteries: "The voice of God! The voice of God!"
+
+[MSG 10] range=23 header=None
+That was the last straw. God had had enough of Herod's arrogance and sent an angel to strike him down. Herod had given God no credit for anything. Down he went. Rotten to the core, a maggoty old man if there ever was one, he died.
+
+[MSG 11] range=24 header=None
+Meanwhile, the ministry of God's Word grew by leaps and bounds.
+
+[MSG 12] range=25 header=None
+Barnabas and Saul, once they had delivered the relief offering to the church in Jerusalem, went back to Antioch. This time they took John with them, the one they called Mark.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§James Killed, Peter Arrested
+
+[EN 1] badge=1-4
+So, this King Herod guy got it in his head to start messing with the church crew to score some popularity points. He went full-on villain and had James, John's brother, executed. When he saw that this made him look cool to some people, he decided to go after the main man, Peter. He had Peter arrested right in the middle of the Passover festival and thrown in a maximum-security prison. We're talking a whole squad of sixteen soldiers guarding him. Herod was planning a big public showdown after the festival.
+
+[EN 2] badge=None
+§Peter's Miraculous Escape
+
+[EN 3] badge=5-8
+But the whole time Peter was on lockdown, his friends in the church were praying like crazy for him. The night before Herod's big event, Peter was just chilling, fast asleep between two guards he was chained to. Suddenly, an angel appears and the whole cell gets a miraculous transformation. The angel nudges Peter awake and is like, "Hurry up!" and boom, the chains just fall off. The angel tells him, "Get dressed, put on your shoes, grab your coat, and let's bounce."
+
+[EN 4] badge=9-11
+Peter followed, thinking he was having some kind of crazy dream. They walked right past the first and second guards, no problem. Then they get to the main iron gate of the city, and it just swings open for them automatically. They're out on the street, and then the angel just ghosts him. It's then that Peter realizes it's all real. He's like, "Whoa, God totally sent his angel to save me from Herod's evil plan!"
+
+[EN 5] badge=None
+§Peter Knocks at Mary's Door
+
+[EN 6] badge=12-13
+Still trying to process everything, Peter heads over to Mary's house, where a bunch of his friends were having a prayer meeting for him. He knocks on the door, and a girl named Rhoda comes to answer. She hears Peter's voice and gets so excited that she runs back to tell everyone without even opening the door, leaving Peter just standing there. The others are like, "Rhoda, you're tripping," but she keeps insisting. They're all arguing, saying, "It must be his ghost or something."
+
+[EN 7] badge=13-17
+Meanwhile, Peter's still outside knocking. They finally open the door, see him, and everyone just loses it. Peter has to calm them down and explains how God broke him out of jail. He tells them to pass the message on to James (a different James) and the rest of the crew, and then he dips to another spot.
+
+[EN 8] badge=18-19
+The next morning, the prison is in total chaos. "Where's Peter?!" Herod is furious when he finds out Peter is gone and, in a classic villain move, he orders all the guards who were on duty to be executed. After that, he peaces out of Judea and goes to chill in Caesarea for a bit.
+
+[EN 9] badge=20-23
+Later, Herod is having a big public meeting with delegates from Tyre and Sidon, all dressed up in his royal robes, giving some big-shot speech. The crowd, trying to butter up to him, starts shouting, "It's the voice of a god, not a man!" Right then, because Herod was taking all the credit and not giving any props to God, an angel of the Lord strikes him down. He was eaten up by worms and died—rotten to the core. It was a total epic fail for him.
+
+[EN 10] badge=23-25
+But even with all that drama, the message of God just kept spreading and getting more and more popular. Barnabas and Saul, after dropping off some help for the church in Jerusalem, headed back to Antioch, and this time they brought a guy named John Mark with them.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§야고보의 순교, 베드로의 체포
+
+[KO 1] badge=None
+감옥에 갇힌 베드로, 탈출 대작전
+
+[KO 2] badge=1-4
+바로 그때쯤, 헤롯왕이 교회 멤버 몇 명을 손봐줄 생각을 한 거야. 그래서 요한의 형 야고보를 죽여버렸음. 근데 이 일로 유대인들한테 인기가 올라간 걸 안 헤롯은 신나서 이번엔 베드로까지 잡아 감옥에 가둬버림. 그것도 4인 1조 군인 네 팀으로 열심히 감시하게 시켰대. 이 모든 게 유월절 기간에 일어난 일임. 헤롯은 유월절 끝나면 베드로를 공개처형할 생각이었던 거지.
+
+[KO 3] badge=5
+베드로가 감옥에서 힘든 감시를 받는 동안, 교회 사람들은 그를 위해 진짜 열심히 기도했음.
+
+[KO 4] badge=6
+드디어 헤롯이 베드로를 끌어내 처형할 날이 다가왔음. 그날 밤 베드로는 양옆에 군인 한 명씩 끼고 쇠사슬에 묶여 있었는데도 깊이 잠들어 있었던 거임. 문에는 경비병들이 지키고 서 있었고. 헤롯이 진짜 빈틈을 안 보여준 거지!
+
+[KO 5] badge=None
+§베드로의 기적적인 탈출
+
+[KO 6] badge=7-9
+근데 갑자기 천사 한 명이 베드로 옆에 나타나더니 감옥이 빛으로 가득 찬 거야. 천사가 베드로를 흔들어 깨우면서 말했음. "빨리 일어나!" 그러자 팔목에 있던 쇠사슬이 툭 하고 풀리는 거임. 천사가 말했어. "옷 입고 신발 신어." 베드로는 시키는 대로 했지. 그러자 천사가 또 말했음. "겉옷 챙겨서 나가자." 베드로는 따라가면서도 '이거 진짜 천사 맞나?' 싶었던 거야. 그냥 꿈꾸는 거라고 생각했대.
+
+[KO 7] badge=10-11
+그렇게 첫 번째, 두 번째 경비병을 지나서 시내로 가는 철문까지 갔는데, 문이 갑자기 자동으로 스르륵 열리는 거임. 어느새 그들은 바람처럼 자유롭게 거리에 나와 있었음. 첫 번째 사거리에서 천사는 베드로를 놔두고 자기 갈 길을 갔어. 그때서야 베드로는 이게 꿈이 아니란 걸 깨달았지. "와, 대박. 이게 진짜라고? 주님이 천사를 보내서 헤롯의 그 비열한 계략이랑, 구경거리나 기대하던 유대인들한테서 날 구해주셨구나."
+
+[KO 8] badge=12-14
+완전 놀라서 그는 요한 마가의 엄마, 마리아의 집으로 갔어. 그 집은 기도하는 친구들로 꽉 차 있었거든. 그가 마당 문을 두드리니까 로데라는 젊은 여자가 누구인지 보러 나왔어. 로데는 목소리만 듣고도 바로 베드로인 줄 안 거야! 그녀는 너무 흥분해서 베드로를 길에 세워두고 문 열어주는 것도 까먹고, 사람들한테 가서 베드로가 왔다고 소리쳤음.
+
+[KO 9] badge=15-16
+근데 사람들은 로데 말을 안 믿는 거야. 그냥 무시해버렸어. "너 미쳤냐?" 라고까지 했대. 로데는 계속 진짜라고 우겼지만, 사람들은 여전히 안 믿고 "베드로의 천사겠지"라고 말했음. 그동안 베드로는 계속 밖에서 문 두드리고 있었는데 말이야.
+
+[KO 10] badge=16-17
+드디어 사람들이 문을 열고 베드로를 봤어. 다들 완전 흥분했지! 베드로가 손을 들어서 진정시켰어. 그는 주님이 자기를 어떻게 감옥에서 꺼내줬는지 설명해주고, "야고보랑 다른 형제들한테 이 소식 좀 전해주세요"라고 말했음. 그러고는 그들을 떠나 다른 곳으로 갔대.
+
+[KO 11] badge=18-19
+날이 밝자마자 감옥은 난리가 났음. "베드로 어디 갔어? 어떻게 된 거야?" 헤롯이 베드로를 데려오라고 사람을 보냈는데, 간수들이 데려오지도 못하고 설명도 못 하니까 헤롯이 화가 나서 그들을 사형시키라고 명령했어. "저놈들 목을 쳐라!" 유대랑 유대인들한테 완전 질려버린 헤롯은 좀 쉬려고 가이사랴로 갔음.
+
+[KO 12] badge=None
+헤롯의 죽음
+
+[KO 13] badge=20-22
+하지만 헤롯의 상황은 점점 더 안 좋아졌어. 두로와 시돈 사람들이 헤롯한테 단단히 찍혔거든. 그들은 왕의 최측근인 블라스도한테 자기들 편 좀 들어달라고 부탁하면서, 동시에 문제를 해결하려고 대표단까지 보냈어. 그들은 유대에서 식량을 공급받고 있어서 계속 버틸 수가 없었거든. 대표단을 만나기로 한 날, 헤롯은 완전 쫙 빼입고 왕좌에 앉아서 허세를 있는 대로 부렸음. 백성들도 장단 맞춰줬지. "이건 신의 목소리다! 신의 목소리!" 하면서 엄청 아부했대.
+
+[KO 14] badge=23
+그게 바로 불행의 시작이었음. 헤롯의 교만함을 더는 못 봐주겠던 하나님이 천사를 보내 그를 쳐버렸어. 헤롯은 한 번도 하나님께 영광을 돌린 적이 없었거든. 헤롯은 그렇게 쓰러져 죽었음.
+
+[KO 15] badge=24
+한편, 하나님의 말씀은 날마다 엄청나게 퍼져나갔어.
+
+[KO 16] badge=25
+바나바와 사울은 예루살렘 교회에 구제 헌금을 전달하고 나서 안디옥으로 돌아왔어. 이번에는 마가라고 하는 요한도 데리고 왔대.
+

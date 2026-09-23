@@ -1,0 +1,341 @@
+### TITLE EN: The Ultimate Transformation
+### TITLE KO: 궁극의 변화
+
+[MSG 0] range=1-2 header='The Blinding of Saul'
+All this time Saul was breathing down the necks of the Master's disciples, out for the kill. He went to the Chief Priest and got arrest warrants to take to the meeting places in Damascus so that if he found anyone there belonging to the Way, whether men or women, he could arrest them and bring them to Jerusalem.
+
+[MSG 1] range=3-4 header=None
+He set off. When he got to the outskirts of Damascus, he was suddenly dazed by a blinding flash of light. As he fell to the ground, he heard a voice: "Saul, Saul, why are you out to get me?"
+
+[MSG 2] range=5-6 header=None
+He said, "Who are you, Master?" "I am Jesus, the One you're hunting down. I want you to get up and enter the city. In the city you'll be told what to do next."
+
+[MSG 3] range=7-9 header=None
+His companions stood there dumbstruck—they could hear the sound, but couldn't see anyone—while Saul, picking himself up off the ground, found himself stone-blind. They had to take him by the hand and lead him into Damascus. He continued blind for three days. He ate nothing, drank nothing.
+
+[MSG 4] range=10 header=None
+There was a disciple in Damascus by the name of Ananias. The Master spoke to him in a vision: "Ananias." "Yes, Master?" he answered.
+
+[MSG 5] range=11-12 header=None
+"Get up and go over to Straight Avenue. Ask at the house of Judas for a man from Tarsus. His name is Saul. He's there praying. He has just had a dream in which he saw a man named Ananias enter the house and lay hands on him so he could see again."
+
+[MSG 6] range=13-14 header=None
+Ananias protested, "Master, you can't be serious. Everybody's talking about this man and the terrible things he's been doing, his reign of terror against your people in Jerusalem! And now he's shown up here with papers from the Chief Priest that give him license to do the same to us."
+
+[MSG 7] range=15-16 header=None
+But the Master said, "Don't argue. Go! I have picked him as my personal representative to non-Jews and kings and Jews. And now I'm about to show him what he's in for—the hard suffering that goes with this job."
+
+[MSG 8] range=17-19 header=None
+So Ananias went and found the house, placed his hands on blind Saul, and said, "Brother Saul, the Master sent me, the same Jesus you saw on your way here. He sent me so you could see again and be filled with the Holy Spirit." No sooner were the words out of his mouth than something like scales fell from Saul's eyes—he could see again! He got to his feet, was baptized, and sat down with them to a hearty meal.
+
+[MSG 9] range=19-21 header='Plots Against Saul'
+Saul spent a few days getting acquainted with the Damascus disciples, but then went right to work, wasting no time, preaching in the meeting places that this Jesus was the Son of God. They were caught off guard by this and, not at all sure they could trust him, they kept saying, "Isn't this the man who wreaked havoc in Jerusalem among the believers? And didn't he come here to do the same thing—arrest us and drag us off to jail in Jerusalem for sentencing by the high priests?"
+
+[MSG 10] range=22 header=None
+But their suspicions didn't slow Saul down for even a minute. His momentum was up now and he plowed straight into the opposition, disarming the Damascus Jews and trying to show them that this Jesus was the Messiah.
+
+[MSG 11] range=23-25 header=None
+After this had gone on quite a long time, some Jews conspired to kill him, but Saul got wind of it. They were watching the city gates around the clock so they could kill him. Then one night the disciples engineered his escape by lowering him over the wall in a basket.
+
+[MSG 12] range=26-27 header=None
+Back in Jerusalem he tried to join the disciples, but they were all afraid of him. They didn't trust him one bit. Then Barnabas took him under his wing. He introduced him to the apostles and stood up for him, told them how Saul had seen and spoken to the Master on the Damascus Road and how in Damascus itself he had laid his life on the line with his bold preaching in Jesus' name.
+
+[MSG 13] range=28-30 header=None
+After that he was accepted as one of them, going in and out of Jerusalem with no questions asked, uninhibited as he preached in the Master's name. But then he ran afoul of a group called Hellenists—he had been engaged in a running argument with them—who plotted his murder. When his friends learned of the plot, they got him out of town, took him to Caesarea, and then shipped him off to Tarsus.
+
+[MSG 14] range=31 header=None
+Things calmed down after that and the church had smooth sailing for a while. All over the country—Judea, Samaria, Galilee—the church grew. They were permeated with a deep sense of reverence for God. The Holy Spirit was with them, strengthening them. They prospered wonderfully.
+
+[MSG 15] range=32-35 header='Tabitha'
+Peter went off on a mission to visit all the churches. In the course of his travels he arrived in Lydda and met with the believers there. He came across a man—his name was Aeneas—who had been in bed eight years paralyzed. Peter said, "Aeneas, Jesus Christ heals you. Get up and make your bed!" And he did it—jumped right out of bed. Everybody who lived in Lydda and Sharon saw him walking around and woke up to the fact that God was alive and active among them.
+
+[MSG 16] range=36-37 header=None
+Down the road a way in Joppa there was a disciple named Tabitha, "Gazelle" in our language. She was well-known for doing good and helping out. During the time Peter was in the area she became sick and died. Her friends prepared her body for burial and put her in a cool room.
+
+[MSG 17] range=38-40 header=None
+Some of the disciples had heard that Peter was visiting in nearby Lydda and sent two men to ask if he would be so kind as to come over. Peter got right up and went with them. They took him into the room where Tabitha's body was laid out. Her old friends, most of them widows, were in the room mourning. They showed Peter pieces of clothing the Gazelle had made while she was with them. Peter put the widows all out of the room. He knelt and prayed. Then he spoke directly to the body: "Tabitha, get up."
+
+[MSG 18] range=40-41 header=None
+She opened her eyes. When she saw Peter, she sat up. He took her hand and helped her up. Then he called in the believers and widows, and presented her to them alive.
+
+[MSG 19] range=42-43 header=None
+When this became known all over Joppa, many put their trust in the Master. Peter stayed on a long time in Joppa as a guest of Simon the Tanner.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Saul Meets Jesus
+
+[EN 1] badge=1-2
+Meanwhile, this guy Saul was still on a rampage, basically a one-man wrecking crew against anyone who followed Jesus. He went to the head priest and got a warrant to go to Damascus. His plan? Find any of Jesus' followers, guys or girls, and drag them back to Jerusalem.
+
+[EN 2] badge=3-4
+So he's on the road, almost at Damascus, when BAM! A super bright light from the sky flashes all around him. He falls to the ground and hears a voice, "Saul, Saul, why are you trying to take me down?"
+
+[EN 3] badge=5
+Saul, completely stunned, asks, "Who are you, sir?"
+
+[EN 4] badge=6
+The voice answers, "I'm Jesus. The one you're hunting. Now get up, go into the city, and you'll be told what to do next."
+
+[EN 5] badge=7-8
+Saul's buddies just stood there, speechless. They heard the voice but didn't see anyone. When Saul got up, he was completely blind. They had to lead him by the hand into Damascus. For three days, he couldn't see a thing and didn't eat or drink anything.
+
+[EN 6] badge=10
+Now, in Damascus, there was a follower of Jesus named Ananias. Jesus spoke to him in a vision, "Ananias."
+
+[EN 7] badge=11
+"Yeah, Lord?" he answered.
+
+[EN 8] badge=11-12
+"Get up and go to the street called Straight. At Judas's house, ask for a guy from Tarsus named Saul. He's praying right now. He just had a vision that a man named Ananias would come and lay hands on him so he could see again."
+
+[EN 9] badge=13-14
+Ananias was like, "Uh, Lord, are you serious? I've heard all about this guy and the terrible things he's done to your people in Jerusalem. He's here with a warrant from the head priests to arrest all of us!"
+
+[EN 10] badge=15-16
+But Jesus told him, "Don't worry. Go. I've chosen him to be my chosen instrument, to represent me to everyone—people who aren't Jews, kings, and even the Jews themselves. And I'm going to show him how much he's going to have to go through for me."
+
+[EN 11] badge=17-19
+So Ananias went, found the house, and laid his hands on Saul. "Brother Saul," he said, "the Lord Jesus, the one you saw on the road, sent me so you can see again and be filled with the Holy Spirit." Instantly, something like scales fell from Saul's eyes, and he could see! He got up, was baptized, and then they all had a big meal together.
+
+[EN 12] badge=None
+§Saul Starts Preaching
+
+[EN 13] badge=19-22
+Saul hung out with the disciples in Damascus for a few days, and then he got right to it. He went to the synagogues and started telling everyone that Jesus is the Son of God. People were shocked. "Isn't this the guy who was trying to destroy the believers in Jerusalem?" they said. "Didn't he come here to arrest them and take them to the head priests?"
+
+[EN 14] badge=23-25
+But Saul just got more and more powerful. He completely out-argued the Jews in Damascus, proving to them that Jesus is the Messiah. After a while, some of them got so mad they plotted to kill him. But Saul found out about their plan. They were watching the city gates 24/7 to catch him. So one night, his new friends helped him escape by lowering him in a basket over the city wall.
+
+[EN 15] badge=26-28
+When Saul got back to Jerusalem, he tried to join the disciples, but they were all scared of him. They didn't believe he was really a follower now. But then a guy named Barnabas took him under his wing and introduced him to the apostles. He told them how Saul had seen Jesus on the road and how he had boldly preached in Jesus' name in Damascus.
+
+[EN 16] badge=29-31
+After that, they finally accepted him. He went all over Jerusalem with them, preaching fearlessly in the name of the Lord. He even got into some heated debates with some Greek-speaking Jews, who then started plotting to kill him. When the believers found out, they snuck him out of the city to Caesarea and then sent him off to his hometown of Tarsus.
+
+[EN 17] badge=31-34
+With Saul gone, things finally chilled out for the church. All over Judea, Galilee, and Samaria, the church grew and got stronger. They had a deep respect for God, and the Holy Spirit was with them, making them prosper.
+
+[EN 18] badge=34-35
+In the meantime, Peter was traveling around, visiting all the believers. In Lydda, he met a man named Aeneas who had been paralyzed and stuck in bed for eight years. Peter said to him, "Aeneas, Jesus Christ heals you. Get up and make your bed." And just like that, he jumped up.
+
+[EN 19] badge=36
+Everyone in Lydda and Sharon saw him walking around and realized that God was for real.
+
+[EN 20] badge=36-38
+In the nearby town of Joppa, there was a disciple named Tabitha, which means "Gazelle." She was famous for all the good things she did and for helping the poor. While Peter was in the area, she got sick and died. Her friends washed her body and laid her in an upstairs room.
+
+[EN 21] badge=39-41
+When the disciples in Joppa heard that Peter was in Lydda, they sent two men to beg him to come right away. Peter went with them, and when he got there, they took him to the room where Tabitha's body was. All her friends, mostly widows, were crying and showing Peter the clothes she had made for them.
+
+[EN 22] badge=40
+Peter made everyone leave the room. He knelt down and prayed. Then he turned to the body and said, "Tabitha, get up." She opened her eyes, and when she saw Peter, she sat up. He took her hand and helped her to her feet. Then he called everyone back in and showed them that she was alive.
+
+[EN 23] badge=42-43
+The news spread like wildfire all over Joppa, and many people started believing in the Lord. Peter stayed in Joppa for a while, crashing at the house of a guy named Simon, who was a tanner.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§사울이 예수님을 만나다
+
+[KO 1] badge=1
+그동안 사울이가 완전 열심히 주님의 제자들을 쫓아다니면서 죽이려고 했음.
+
+[KO 2] badge=2
+그는 대제사장한테 가서 다마스쿠스에 있는 여러 회당에 갖고 갈 체포 영장을 딱 받았댔음.
+
+[KO 3] badge=2
+거기서 이 “도(道)”를 따르는 애들, 남자든 여자든 불문하고 잡아서 예루살렘으로 데려오려는 계획이었음.
+
+[KO 4] badge=3
+사울이가 길 떠나 다마스쿠스 근처까지 왔는데, 갑자기 완전 번쩍번쩍 눈부신 빛 때문에 앞이 하나도 안 보였대.
+
+[KO 5] badge=4
+그가 땅바닥에 훅 쓰러졌는데, 갑자기 한 목소리가 들려왔음.
+
+[KO 6] badge=4
+“사울아, 사울아, 왜 나를 해치려고 하는 거냐?”
+
+[KO 7] badge=5
+사울이 깜짝 놀라서 물었음. "누구십니까?"
+
+[KO 8] badge=5-6
+목소리가 대답했음. "나는 네가 박해하는 예수야. 자, 일어나서 성 안으로 들어가. 거기서 네가 뭘 해야 할지 알려줄 사람이 있을 거야."
+
+[KO 9] badge=7
+사울이랑 같이 온 사람들은 완전 멘붕 중... 말도 못 하고 서 있었음.
+
+[KO 10] badge=7
+소리는 들었는데 아무도 그 빛 속 인물은 못 봤대.
+
+[KO 11] badge=8
+사울이는 힘겹게 몸 일으켰는데, 자기 눈이 완전 아무것도 안 보인다는 걸 깨달았던 거임.
+
+[KO 12] badge=8
+사람들이 그의 손 잡고 다마스쿠스로 데려갔음.
+
+[KO 13] badge=9
+그는 딱 3일 동안 눈이 멀어서 아무것도 못 보고, 먹지도 마시지도 못했음.
+
+[KO 14] badge=10
+그 다마스쿠스에 아나니아라는 제자가 있었음.
+
+[KO 15] badge=10
+주님이 그에게 환상으로 이렇게 말씀하셨대.
+
+[KO 16] badge=11
+“일어나서 ‘곧은 길’이란 곳으로 가.
+
+[KO 17] badge=11
+유다의 집에 있는 다소 출신 사울을 찾아.
+
+[KO 18] badge=12
+방금 꿈에서 누가 와서 자기에게 안수해 주면 다시 보게 된다고 했어.”
+
+[KO 19] badge=13-14
+근데 아나니아가 “주님, 진짜요? 이 사람 완전 문제 아님?
+
+[KO 20] badge=13-14
+다들 이 사울이가 얼마나 무시무시한 짓들을 했는지 다 얘기하고 있는데요!
+
+[KO 21] badge=13-14
+예루살렘에서도 주님의 백성들을 얼마나 괴롭혔는지 모릅니다!
+
+[KO 22] badge=13-14
+게다가 대제사장한테서 우리 잡으라는 공식 문서까지 받아서 여기 나타난 거예요!”라며 걱정했음.
+
+[KO 23] badge=15
+난 이 사울을 이방인들과 왕, 유대인들 앞에서 내 대리인으로 세울 거야.
+
+[KO 24] badge=16
+그리고 앞으로 그가 겪을 엄청난 고난도 보여줄 거고.”
+
+[KO 25] badge=17
+눈이 먼 사울이에게 손을 얹고 말했지.
+
+[KO 26] badge=17
+“사울 형제님, 당신 길 가다가 뵈었던 주님, 예수님께서 당신이 눈을 다시 뜨고 성령 충만해지게 저를 보내셨어요.”
+
+[KO 27] badge=18
+말이 채 끝나기도 전에 사울 눈에서 비늘 같은 게 벗겨지면서, 와! 다시 보게 된 거임!
+
+[KO 28] badge=18-19
+그는 벌떡 일어나 세례도 받고, 같이 앉아서 밥도 먹고 힘내기 시작했음.
+
+[KO 29] badge=19
+사울은 다마스쿠스에 있는 형제들이랑 며칠 친해지며 지냈음.
+
+[KO 30] badge=None
+§사울이 설교를 시작하다
+
+[KO 31] badge=20
+그리고는 바로 주저앉지 않고 일을 시작했는데, 바로 여러 회당에서 예수가 하나님의 아들이라고 열심히 전했음!
+
+[KO 32] badge=21
+“어? 저 사람 예루살렘에서 우리 믿는 사람들 죽이던 거 아니냐?
+
+[KO 33] badge=21
+여기 온 게 또 그런 짓 하러 온 거 아냐?
+
+[KO 34] badge=21
+우릴 잡아서 감옥에 보내려고 하는 거 맞지?”라며 의심 가득했음.
+
+[KO 35] badge=22
+그냥 넘기지 않고 사울은 한 치도 물러서지 않았음.
+
+[KO 36] badge=22
+다마스쿠스 유대인들한테 예수가 바로 메시아라는 거 직접 증명하고 다녔거든.
+
+[KO 37] badge=23-25
+시간 좀 지나니까 몇몇 유대인이 그를 죽이려고 계획을 꾸몄는데, 다행히 사울 귀에 그 소문 들어갔음.
+
+[KO 38] badge=23-25
+그래서 그들이 밤낮으로 성문 감시하며 암살하려 했는데,
+
+[KO 39] badge=23-25
+제자들이 광주리에 사울 넣어서 벽으로 슬쩍 내려 보내 탈출시켰음!
+
+[KO 40] badge=26-28
+사울은 예루살렘으로 돌아와 제자들 무리에 들어가려 했는데, 다들 그를 완전 무서워했음.
+
+[KO 41] badge=26-28
+근데 그때 바나바가 나서서 사울을 막 감싸줬음.
+
+[KO 42] badge=26-28
+바나바가 사도들한테 사울을 소개하며 옹호했고,
+
+[KO 43] badge=26-28
+사울이 다마스쿠스에서 주님 만난 이야기와, 어떻게 죽음도 두려워하지 않고 예수 이름을 전했는지 자세히 설명해 줬음.
+
+[KO 44] badge=26-28
+결국 사울은 무리 속에서 완전 믿음 받는 멤버가 돼서 의심 없이 예루살렘 여기저기 다니면서 주님의 이름을 전했음.
+
+[KO 45] badge=29
+근데 막 그리스 말 하는 유대인들과 자주 싸움 붙었음.
+
+[KO 46] badge=29
+그들은 또 사울 죽이려던 모의 했는데,
+
+[KO 47] badge=30
+동료들이 그걸 알고 사울을 성 밖으로 빼돌려 가이사랴로 보내고, 거기서 배 태워 다소로 보냈음.
+
+[KO 48] badge=31
+그 뒤로 상황이 좀 진정되고 교회가 한동안 쭉 잘 갔음.
+
+[KO 49] badge=31
+유대, 사마리아, 갈릴리까지 다 교회가 쑥쑥 자라났고,
+
+[KO 50] badge=31
+다들 하나님 무지하게 존중하고 경외하는 마음도 가득했음.
+
+[KO 51] badge=31
+성령님이 함께 계시면서 힘부터 능력까지 다 주셨다니까!
+
+[KO 52] badge=32
+베드로가 모든 교회 방문하는 미션 갖고 길 떠났는데, 룻다에 도착했음.
+
+[KO 53] badge=33
+거기서 믿는 사람들 만났는데, 애니아라는 친구가 있었는데 팔이랑 다리가 마비돼서 8년째 누워만 있었대.
+
+[KO 54] badge=34
+베드로가 “애니아! 예수 그리스도께서 너를 낫게 하신다! 일어나서 자리를 정리해!” 하니까, 걔가 진짜로 벌떡 일어났음!
+
+[KO 55] badge=35
+룻다랑 샤론에 사는 사람들, 모두 그걸 보고 하나님이 진짜 우리 가운데 역사하고 계시구나 하고 대박 감탄했음.
+
+[KO 56] badge=36
+조금 떨어진 욥바에는 다비다라는 제자가 있었는데, 이름 뜻은 ‘도르가’ 즉 산양임.
+
+[KO 57] badge=36
+그녀는 착한일 하고 어려운 사람들 돕는 걸로 완전 유명했음.
+
+[KO 58] badge=37
+근데 어느 날 병에 걸려 죽었고, 친구들이 장례 준비해서 시신을 윗방에 뒀음.
+
+[KO 59] badge=38
+마침 베드로가 근처 룻다에 있다는 소식 듣고 몇 명의 제자가 베드로한테 와서 다비다 있던 곳으로 좀 와 달라고 부탁했음.
+
+[KO 60] badge=39
+베드로가 바로 일어나 같이 갔는데, 방 안엔 다비다 친구들이 주루룩 울고 있었음.
+
+[KO 61] badge=39
+그들이 다비다가 살아 있을 때 만든 옷가지 보여주면서 엄청 슬퍼했음.
+
+[KO 62] badge=40
+베드로는 과부들을 다 방에서 내보내고, 무릎 꿇고 진심으로 기도 시작함.
+
+[KO 63] badge=40
+그랬더니 다비다가 눈을 뜨고 베드로 봤고, 일어나 앉음!
+
+[KO 64] badge=41
+베드로가 그녀 손 잡고 일으켜 세웠음.
+
+[KO 65] badge=42
+그리고 믿는 사람들과 과부들을 초대해 살아난 다비다를 보여줬음.
+
+[KO 66] badge=42
+이 일이 욥바 전체에 알려지자 많은 사람이 주님 믿게 됨!
+
+[KO 67] badge=43
+베드로는 가죽 가공업 하는 시몬 집에 손님으로 오랫동안 머물렀다 함.
+

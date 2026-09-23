@@ -1,0 +1,149 @@
+### TITLE EN: The Jailbreak Anthem
+### TITLE KO: 탈옥 앤섬
+
+[MSG 0] range=1-3 header='A Dream Gave Paul His Map'
+Paul came first to Derbe, then Lystra. He found a disciple there by the name of Timothy, son of a devout Jewish mother and Greek father. Friends in Lystra and Iconium all said what a fine young man he was. Paul wanted to recruit him for their mission, but first took him aside and circumcised him so he wouldn't offend the Jews who lived in those parts. They all knew that his father was Greek.
+
+[MSG 1] range=4-5 header=None
+As they traveled from town to town, they presented the simple guidelines the Jerusalem apostles and leaders had come up with. That turned out to be most helpful. Day after day the congregations became stronger in faith and larger in size.
+
+[MSG 2] range=6-8 header=None
+They went to Phrygia, and then on through the region of Galatia. Their plan was to turn west into Asia province, but the Holy Spirit blocked that route. So they went to Mysia and tried to go north to Bithynia, but the Spirit of Jesus wouldn't let them go there either. Proceeding on through Mysia, they went down to the seaport Troas.
+
+[MSG 3] range=9-10 header=None
+That night Paul had a dream: A Macedonian stood on the far shore and called across the sea, "Come over to Macedonia and help us!" The dream gave Paul his map. We went to work at once getting things ready to cross over to Macedonia. All the pieces had come together. We knew now for sure that God had called us to preach the good news to the Europeans.
+
+[MSG 4] range=11-12 header=None
+Putting out from the harbor at Troas, we made a straight run for Samothrace. The next day we tied up at New City and walked from there to Philippi, the main city in that part of Macedonia and, even more importantly, a Roman colony. We lingered there several days.
+
+[MSG 5] range=13-14 header=None
+On the Sabbath, we left the city and went down along the river where we had heard there was to be a prayer meeting. We took our place with the women who had gathered there and talked with them. One woman, Lydia, was from Thyatira and a dealer in expensive textiles, known to be a God-fearing woman. As she listened with intensity to what was being said, the Master gave her a trusting heart—and she believed!
+
+[MSG 6] range=15 header=None
+After she was baptized, along with everyone in her household, she said in a surge of hospitality, "If you're confident that I'm in this with you and believe in the Master truly, come home with me and be my guests." We hesitated, but she wouldn't take no for an answer.
+
+[MSG 7] range=16-18 header='Beaten Up and Thrown in Jail'
+One day, on our way to the place of prayer, a slave girl ran into us. She was a psychic and, with her fortunetelling, made a lot of money for the people who owned her. She started following Paul around, calling everyone's attention to us by yelling out, "These men are working for the Most High God. They're laying out the road of salvation for you!" She did this for a number of days until Paul, finally fed up with her, turned and commanded the spirit that possessed her, "Out! In the name of Jesus Christ, get out of her!" And it was gone, just like that.
+
+[MSG 8] range=19-22 header=None
+When her owners saw that their lucrative little business was suddenly bankrupt, they went after Paul and Silas, roughed them up and dragged them into the market square. Then the police arrested them and pulled them into a court with the accusation, "These men are disturbing the peace—dangerous Jewish agitators subverting our Roman law and order." By this time the crowd had turned into a restless mob out for blood.
+
+[MSG 9] range=22-24 header=None
+The judges went along with the mob, had Paul and Silas's clothes ripped off and ordered a public beating. After beating them black-and-blue, they threw them into jail, telling the jailkeeper to put them under heavy guard so there would be no chance of escape. He did just that—threw them into the maximum security cell in the jail and clamped leg irons on them.
+
+[MSG 10] range=25-26 header=None
+Along about midnight, Paul and Silas were at prayer and singing a robust hymn to God. The other prisoners couldn't believe their ears. Then, without warning, a huge earthquake! The jailhouse tottered, every door flew open, all the prisoners were loose.
+
+[MSG 11] range=27-28 header=None
+Startled from sleep, the jailer saw all the doors swinging loose on their hinges. Assuming that all the prisoners had escaped, he pulled out his sword and was about to do himself in, figuring he was as good as dead anyway, when Paul stopped him: "Don't do that! We're all still here! Nobody's run away!"
+
+[MSG 12] range=29-31 header=None
+The jailer got a torch and ran inside. Badly shaken, he collapsed in front of Paul and Silas. He led them out of the jail and asked, "Sirs, what do I have to do to be saved, to really live?" They said, "Put your entire trust in the Master Jesus. Then you'll live as you were meant to live—and everyone in your house included!"
+
+[MSG 13] range=32-34 header=None
+They went on to spell out in detail the story of the Master—the entire family got in on this part. They never did get to bed that night. The jailer made them feel at home, dressed their wounds, and then—he couldn't wait till morning!—was baptized, he and everyone in his family. There in his home, he had food set out for a festive meal. It was a night to remember: He and his entire family had put their trust in God; everyone in the house was in on the celebration.
+
+[MSG 14] range=35-36 header=None
+At daybreak, the court judges sent officers with the instructions, "Release these men." The jailer gave Paul the message, "The judges sent word that you're free to go on your way. Congratulations! Go in peace!"
+
+[MSG 15] range=37 header=None
+But Paul wouldn't budge. He told the officers, "They beat us up in public and threw us in jail, Roman citizens in good standing! And now they want to get us out of the way on the sly without anyone knowing? Nothing doing! If they want us out of here, let them come themselves and lead us out in broad daylight."
+
+[MSG 16] range=38-40 header=None
+When the officers reported this, the judges panicked. They had no idea that Paul and Silas were Roman citizens. They hurried over and apologized, personally escorted them from the jail, and then asked them if they wouldn't please leave the city. Walking out of the jail, Paul and Silas went straight to Lydia's house, saw their friends again, encouraged them in the faith, and only then went on their way.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Timothy Joins the Team
+
+[EN 1] badge=1-5
+Paul rolled into the next town and met this kid, Timothy. Timothy’s mom was a believer, but his dad was a Greek, so the Jewish crew was a bit sus of him. Everyone said Timothy was a solid guy, so Paul was like, “You’re on my team now.” But first, to keep the peace, he had Timothy get circumcised so nobody could start any drama. After that, they bounced from town to town, sharing the new rules from the head honchos in Jerusalem. The local churches totally leveled up, getting bigger and stronger in their faith every day.
+
+[EN 2] badge=6-11
+Paul and his crew tried to take their tour to Asia, but the Holy Spirit basically put up a big “ACCESS DENIED” sign. So they tried another route, but the Spirit of Jesus ghosted them again. They ended up at the coast, and that night, Paul had this wild dream where a guy from Macedonia was begging him, “Look, come over here and help us!” Paul woke up and knew it was a sign. It was like a divine GPS telling them, “Rerouting… to Europe.” They packed their bags immediately.
+
+[EN 3] badge=12-16
+They sailed to Philippi, a major Roman city. On the Sabbath, they found a group of women praying by a river and joined them. One of them was Lydia, a total boss who sold expensive purple cloth. She was super into what Paul was saying, and God opened her heart. She and her entire household got baptized right away. Then she insisted they stay at her house, giving them the full special treatment. She wouldn’t take no for an answer.
+
+[EN 4] badge=None
+§The Slave Girl
+
+[EN 5] badge=16-19
+One day, this slave girl who could supposedly tell the future started following them around, yelling, “These guys work for the Most High God! They’re showing you the way to be saved!” She was making her owners a ton of money with her psychic act. After a few days of this, Paul got fed up. He turned around and said to the spirit inside her, “In the name of Jesus Christ, get out!” And just like that, it was gone.
+
+[EN 6] badge=20-24
+Well, her owners were furious. Their cash cow was gone. They grabbed Paul and Silas, roughed them up, and dragged them to the town square, accusing them of being troublemakers. The crowd turned into a mob, and the judges, caving to the pressure, had Paul and Silas stripped, beaten black-and-blue, and thrown into the maximum-security part of the jail. The jailer even clamped their feet in stocks.
+
+[EN 7] badge=None
+§The Philippian Jailer
+
+[EN 8] badge=25-28
+Around midnight, Paul and Silas were praying and singing hymns so loud the other prisoners were probably thinking they were crazy. Suddenly, a massive earthquake stunned the whole prison. The doors flew open, and everyone’s chains fell off! The jailer woke up, saw the open doors, and freaked out, thinking everyone had escaped. He was about to kill himself when Paul yelled, “Chill! We’re all still here!”
+
+[EN 9] badge=29-33
+The terrified jailer ran in, fell at their feet, and asked, “Sirs, what do I have to do to be saved?” They told him, “Put your trust in the Master Jesus, and you and your whole family will be saved.” They explained the whole story of Jesus to him and his family. The jailer cleaned their wounds, and then he and his entire family were baptized that very night. He threw a huge party for them; it was an all-night celebration because they had all put their trust in God.
+
+[EN 10] badge=34-40
+The next morning, the city officials sent a message: “Let those guys go.” But Paul wasn’t having it. He told the officers, “They beat us in public without a trial and threw us in jail, even though we’re Roman citizens! And now they want to sneak us out? No way. Let them come and escort us out themselves.” When the officials heard they were Roman citizens, they panicked. They rushed over, apologized like crazy, and personally walked them out of the jail, begging them to leave the city. Paul and Silas went to Lydia’s house, encouraged their friends, and then finally hit the road.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§디모데가 합류하다
+
+[KO 1] badge=1-3
+바울은 먼저 더베에 갔다가 루스드라로 갔음. 거기서 디모데라는 제자를 만났는데, 그는 경건한 유대인 어머니랑 그리스인 아버지 사이에서 태어난 사람이었음. 루스드라랑 이고니온에 있는 형제들이 디모데가 완전 괜찮은 청년이라고 칭찬이 자자했대. 바울은 그를 선교 팀에 영입하고 싶었음. 그래서 그 지역 유대인들한테 거슬리지 않으려고 디모데한테 먼저 할례를 줬음. 아버지가 그리스인인 걸 다들 알고 있었거든.
+
+[KO 2] badge=4-5
+바울 일행은 도시들을 돌아다니면서 예루살렘의 사도들과 리더들이 정한 간단한 지침을 알려줬음. 그 지침이 큰 도움이 됐음. 날마다 교회는 믿음이 더 강해지고 사람들도 더 많아졌음.
+
+[KO 3] badge=6-8
+그들은 브루기아를 거쳐 갈라디아로 갔음. 원래 계획은 서쪽 아시아로 가는 거였는데 성령님이 막으셨대. 그래서 무시아로 갔다가 북쪽 비두니아로 가려고 했는데, 예수님의 영이 그것도 막으셨음. 그래서 다시 무시아를 지나 드로아 항구로 내려갔음.
+
+[KO 4] badge=None
+§바울의 갈 길을 정해 준 꿈
+
+[KO 5] badge=9-10
+그날 밤 바울이 꿈을 꿨는데, 마케도니아 사람 하나가 바다 건너편에 서서 "마케도니아로 와서 우리 좀 도와주세요!" 하고 외치는 거임. 그 꿈 때문에 바울의 갈 길이 정해졌음. 우리는 바로 마케도니아로 갈 준비를 시작했음. 모든 게 딱딱 들어맞는 느낌! 이제 하나님이 유럽 사람들에게 복음을 전하라고 우리를 부르셨다는 확신이 들었음.
+
+[KO 6] badge=11-12
+드로아 항구를 떠나 사모드라게로 바로 갔음. 다음 날 ‘네압볼리’(신도시)에 도착해서 거기서부터는 걸어서 빌립보로 갔음. 빌립보는 마케도니아의 중심 도시였고, 로마 식민지라서 더 중요했음. 우리는 거기서 며칠 지냈음.
+
+[KO 7] badge=13-14
+안식일에 우리는 기도 모임이 있다는 곳으로 강을 따라 내려갔음. 거기 모여 있는 여자들 옆에 앉아서 얘기를 나눴는데, 그중에 루디아라는 비싼 옷감 파는 여자가 있었음. 두아디라 출신 상인인데, 하나님을 진짜 잘 믿는 사람이었대. 우리 말을 열심히 듣다가 주님이 루디아의 마음을 열어주셔서, 그녀는 바로 믿게 됐음! 엄청났음!
+
+[KO 8] badge=15
+루디아는 온 가족이랑 같이 세례를 받고 나서 우리를 자기 집에 초대하고 싶어서 이렇게 말했음. "제가 진짜 주님을 믿는다고 생각하시면, 우리 집에 와서 지내세요." 우리가 좀 망설였는데, 완전 단호하게 거절을 못하게 하셨음.
+
+[KO 9] badge=16-18
+하루는 기도하러 가다가 점치는 여종을 만났음. 그 여자는 점으로 주인들한테 돈을 엄청 벌어주는 사람이었음. 그 여자가 바울을 따라다니면서 "이 사람들은 지극히 높으신 하나님의 종들이다! 여러분에게 구원의 길을 알려주고 있다!"고 소리치면서 어그로를 끌었음. 며칠 동안 계속 그러니까 바울이 너무 짜증이 난 거임. 그래서 돌아서서 그 여자 안에 있는 귀신한테 명령했음. "예수 그리스도의 이름으로 명한다! 그 여자에게서 나와라!" 그러자 귀신이 바로 나가버렸음.
+
+[KO 10] badge=19-22
+여자의 주인들은 돈벌이가 하루아침에 망한 걸 알고 바울과 실라를 붙잡아서 광장으로 끌고 갔음. 경비대가 그들을 체포해서 법정에 넘겼고, 주인들은 "이 사람들이 우리 도시를 시끄럽게 만들고 있어요! 로마법을 어기는 위험한 유대인 선동가들입니다!"라고 고발했음. 순식간에 사람들이 흥분해서 폭도로 변했음.
+
+[KO 11] badge=22-24
+판사들은 폭도들 편을 들어서 바울과 실라의 옷을 찢고 공개적으로 때리라고 명령했음. 그들은 두 사람을 시퍼렇게 멍들도록 때린 다음에 감옥에 가두고, 절대 탈출 못하게 잘 감시하라고 간수한테 시켰음. 간수는 명령대로 제일 힘든 감옥에 그들을 가두고 발에 족쇄를 채웠음.
+
+[KO 12] badge=None
+§빌립보 간수
+
+[KO 13] badge=25-26
+한밤중에 바울과 실라가 기도하면서 하나님을 찬양하는 노래를 불렀음. 다른 죄수들은 ‘이 사람들 뭐지?’ 하면서 자기 귀를 의심했음. 그때 갑자기 땅이 막 흔들리는 거임! 지진이었음! 감옥이 흔들리고 문이 다 열리고, 죄수들을 묶었던 쇠사슬도 다 풀려버렸음.
+
+[KO 14] badge=27-28
+자다가 깬 간수는 감옥 문이 다 열린 걸 보고 죄수들이 다 탈옥한 줄 알았음. ‘아, 난 이제 죽었다’ 생각하고 칼을 뽑아서 자살하려고 했음. 그때 바울이 소리쳤음. "잠깐만요! 우리 다 여기 있어요! 아무도 안 도망갔어요!"
+
+[KO 15] badge=29-31
+간수는 횃불을 들고 급하게 안으로 들어갔음. 벌벌 떨면서 바울과 실라 앞에 엎드렸음. 그는 그들을 밖으로 데리고 나와서 물었음. "선생님들, 제가 어떻게 해야 구원받고 진짜 인생을 살 수 있나요?" 그들이 대답했음. "주 예수를 믿으세요. 그러면 당신과 당신의 가족 모두가 진짜 삶을 살게 될 겁니다!"
+
+[KO 16] badge=32-34
+그들은 주님에 대해 자세히 설명해 줬음. 간수의 가족들도 다 같이 그 얘기를 들었음. 그날 밤 모두가 밤을 새웠음. 간수는 그들을 편하게 쉬게 해주고 상처도 치료해 줬음. 그리고 나서 그와 온 가족이 세례를 받았음. 아침까지 기다릴 수가 없었던 거임! 너무 기뻐서 자기 집에서 음식을 차려 잔치를 벌였음. 진짜 잊지 못할 밤이었음. 온 가족이 하나님을 믿게 되어서 다들 완전 신나서 파티를 벌였음.
+
+[KO 17] badge=35-36
+날이 밝자 판사들이 관리들을 보내서 "그 사람들 풀어줘라"고 지시했음. 간수가 바울에게 그 말을 전했음. "판사님들이 선생님들을 풀어주라고 하셨어요. 이제 자유입니다! 축하해요! 잘 가세요!"
+
+[KO 18] badge=37
+근데 바울은 꼼짝도 안 했음. 그는 관리들한테 말했음. "우리가 로마 시민인데, 재판도 없이 공개적으로 때리고 감옥에 가뒀으면서, 이제 와서 몰래 내보내겠다고? 절대 안 되지! 우리를 내보내려면 판사들이 직접 와서 대낮에 우리를 데리고 나가야 할 거임."
+
+[KO 19] badge=38-40
+관리들이 이 말을 전하자 판사들은 완전 당황했음. 바울과 실라가 로마 시민인 줄은 꿈에도 몰랐던 거임. 그들은 급하게 와서 사과했음. 그리고 두 사람을 감옥에서 직접 데리고 나오면서 제발 이 도시를 떠나달라고 부탁했음. 감옥에서 나온 바울과 실라는 바로 루디아의 집으로 가서 동료들을 다시 만났음. 그들을 격려하고 나서 길을 떠났음.
+

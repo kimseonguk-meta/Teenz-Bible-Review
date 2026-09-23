@@ -1,0 +1,137 @@
+{
+  "chapter": 8,
+  "title": "Blind Eyes and a Hard Reality Check",
+  "paragraphs": [
+    "§A Meal for Four Thousand",
+    "Around this time, Jesus found himself with another huge, hungry crowd on his hands. He called his disciples over and said, \"This crowd is really getting to me. They've been hanging out with me for three days straight, and now they don't have anything left to eat. If I send them home hungry, they'll totally pass out on the way home—some of them have come a really long distance.\"",
+    "His disciples were like, \"Uh, what do you want us to do about it? Where are we gonna buy food out here in the middle of nowhere?\"",
+    "Jesus asked, \"How much bread do you have?\" They told him, \"Seven loaves.\"",
+    "So Jesus told everyone to chill out and sit down on the ground. After a quick prayer of thanks, he took the seven loaves of bread, broke them up, and gave them to his disciples so they could distribute them to the crowd. They also had a few small fish. He blessed the fish too and told his disciples to hand those out as well.",
+    "The crowd ate until they were stuffed. They even collected seven baskets of leftovers! Over four thousand people had eaten that day. Then he sent them all home. Jesus himself immediately got into the boat with his disciples and headed off for Dalmanoutha.",
+    "When they arrived, the Pharisees showed up and immediately started grilling him, demanding he prove himself, really putting him on the spot. Jesus, clearly annoyed, said, \"Why does this generation keep begging for some kind of miraculous proof? Seriously, if I have anything to say about it, you won't get even the slightest hint of a guarantee.\"",
+    "§Contaminating Yeast",
+    "He then left them, got back in the boat, and headed for the other side of the lake. But the disciples totally spaced on packing lunch. Except for one lonely loaf of bread, there wasn't a single crumb in the whole boat. Jesus warned them, \"Listen up! Be super careful. Keep a sharp eye out for the contaminating yeast of the Pharisees and Herod's followers.\"",
+    "Meanwhile, the disciples were low-key arguing with each other because they'd forgotten to bring bread. Jesus overheard and said, \"Why are you guys fussing just because you forgot bread? Don't you see the point of all this? Are you seriously not getting it yet? Remember the five loaves I broke for the five thousand people? How many baskets of leftovers did you pick up that time?\"",
+    "They said, \"Twelve.\"",
+    "\"And the seven loaves for the four thousand—how many bags full of leftovers did you get then?\" Jesus asked.",
+    "\"Seven,\" they replied.",
+    "He said, \"So, do you still not get it?\"",
+    "They arrived at Bethsaida. Some people brought a man who couldn't see and begged Jesus to give him a healing touch. Taking the man by the hand, Jesus led him outside the village. He put some spit in the man's eyes, laid his hands on him, and asked, \"Do you see anything?\"",
+    "The man looked up. \"I see men. They look like walking trees,\" he said. So Jesus laid his hands on the man's eyes again. The man looked hard and suddenly realized he had perfect sight; he could see everything super clearly, in bright, twenty-twenty focus. Jesus sent him straight home, telling him, \"Don't even go back into the village.\"",
+    "§The Messiah",
+    "Jesus and his disciples headed out for the villages around Caesarea Philippi. As they walked, he asked them, \"Who do people say I am?\"",
+    "They said, \"Some say 'John the Baptizer.' Others say 'Elijah.' Still others say 'one of the prophets.'\"",
+    "He then asked, \"And you guys—what are *you* saying about me? Who am I, really?\"",
+    "Peter immediately answered, \"You are the Christ, the Messiah.\"",
+    "Jesus warned them to keep it on the down-low, not to breathe a word of it to anyone. He then started explaining things to them: \"It's necessary that the Son of Man go through a really tough time of suffering, be tried and found guilty by the elders, high priests, and religion scholars. He'll be killed, and then after three days, he'll rise up alive.\" He said this simply and clearly so they couldn't miss it.",
+    "But Peter grabbed him in protest. Turning and seeing his disciples wavering, wondering what to believe, Jesus confronted Peter. \"Peter, get out of my way! Satan, get lost! You have no idea how God works.\"",
+    "Calling the crowd to join his disciples, he said, \"Anyone who wants to come with me has to let me lead. You're not in the driver's seat; I am. Don't run from suffering; embrace it. Follow me and I'll show you how. Trying to help yourself is no help at all. Self-sacrifice is the way, my way, to truly saving yourself, your real self. What good would it do to get absolutely everything you want but lose you, the real you? What could you ever trade your soul for?\"",
+    "\"If any of you are embarrassed over me and the way I'm leading you when you're around your wishy-washy and distracted friends, know that you'll be an even greater embarrassment to the Son of Man when he arrives in all the awesome splendor of God, his Father, with an army of the holy angels.\""
+  ],
+  "verseRanges": [
+    "1-3",
+    "1-3",
+    "4",
+    "5",
+    "6",
+    "7-10",
+    "11-12",
+    "13-15",
+    "13-15",
+    "16-18",
+    "19",
+    "20",
+    "20",
+    "21",
+    "22-23",
+    "24-26",
+    "27",
+    "27",
+    "28",
+    "29",
+    "29",
+    "30-32",
+    "32-33",
+    "34-37",
+    "38"
+  ],
+  "msg_ranges": [
+    "1-3",
+    "1-3",
+    "4",
+    "5",
+    "6",
+    "7-10",
+    "11-12",
+    "13-15",
+    "13-15",
+    "16-18",
+    "19",
+    "20",
+    "20",
+    "21",
+    "22-23",
+    "24-26",
+    "27",
+    "27",
+    "28",
+    "29",
+    "29",
+    "30-32",
+    "32-33",
+    "34-37",
+    "38"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "6-10",
+      "paras": [
+        5,
+        6
+      ],
+      "note": "MSG 단일 문단(6-10)을 EN 가독성을 위해 2개 문단으로 분리"
+    },
+    {
+      "msg_range": "16-19",
+      "paras": [
+        10,
+        11
+      ],
+      "note": "MSG 단일 문단(16-19)을 EN 가독성을 위해 2개 문단으로 분리"
+    },
+    {
+      "msg_range": "20",
+      "paras": [
+        12,
+        13
+      ],
+      "note": "MSG 원문이 20절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "29",
+      "paras": [
+        20,
+        21
+      ],
+      "note": "MSG 원문이 29절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "32",
+      "paras": [
+        22,
+        23
+      ],
+      "note": "MSG 원문이 32절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    }
+  ],
+  "changes": [
+    "Mark 8장: MSG 문단 구조 기준으로 배지 재구성 및 § 헤더 추가",
+    "EN 6번 문단(배지 '7-10'): MSG에 없는 강조 'huge' 삭제('seven huge baskets'→'seven baskets')",
+    "EN 21번 문단(배지 '29'): MSG에 없는 해석 삽입 '(the Anointed One, the promised Deliverer)' 삭제",
+    "EN 22번 문단(배지 '30-32'): MSG에 없는 해석 삽입 '(a title Jesus used for himself)' 삭제. MSG [30-32] 끝 문장('He said this simply and clearly...')을 EN 23번에서 EN 22번 끝으로 이동",
+    "EN 23번 문단(배지 '32-33'): MSG [32-33] 내용에 맞춰 정리"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

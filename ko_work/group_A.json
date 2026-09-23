@@ -1,0 +1,455 @@
+[
+ {
+  "chapter": 1,
+  "en_title": "The Main Event—Jesus is Born",
+  "en_paragraphs": [
+   "Think of this as Jesus’s ancestry report. It proves he has the royal bloodline of King David and traces his roots all the way back to Abraham, the father of the Jewish faith.",
+   "§Era 1: The Founding Fathers",
+   "Abraham had Isaac, Isaac had Jacob, Jacob had Judah and his brothers, Judah had Perez and Zerah (the mother was Tamar), Perez had Hezron, Hezron had Aram, Aram had Amminadab, Amminadab had Nahshon, Nahshon had Salmon, Salmon had Boaz (his mother was Rahab), Boaz had Obed (Ruth was the mother), Obed had Jesse, Jesse had David — and David became king.",
+   "§Era 2: The Kings and the Collapse",
+   "David had Solomon (Uriah’s wife was the mother), Solomon had Rehoboam, Rehoboam had Abijah, Abijah had Asa, Asa had Jehoshaphat, Jehoshaphat had Joram, Joram had Uzziah, Uzziah had Jotham, Jotham had Ahaz, Ahaz had Hezekiah, Hezekiah had Manasseh, Manasseh had Amon, Amon had Josiah, Josiah had Jehoiachin and his brothers — and then the people were taken into the Babylonian exile.",
+   "§Era 3: The Waiting Game",
+   "When the Babylonian exile ended, Jeconiah had Shealtiel, Shealtiel had Zerubbabel, Zerubbabel had Abiud, Abiud had Eliakim, Eliakim had Azor, Azor had Zadok, Zadok had Achim, Achim had Eliud, Eliud had Eleazar, Eleazar had Matthan, Matthan had Jacob, Jacob had Joseph, Mary’s husband, the Mary who gave birth to Jesus, the Jesus who was called Christ.",
+   "There were fourteen generations from Abraham to David, another fourteen from David to the Babylonian exile, and yet another fourteen from the Babylonian exile to Christ.",
+   "Here is how the birth of Jesus Christ actually went down.",
+   "His mom, Mary, was engaged to be married to Joseph. Before they enjoyed their wedding night, Joseph discovered she was pregnant. (It was by the Holy Spirit — but he didn’t know that.)",
+   "Joseph was chagrined but noble. He obviously knew the baby wasn’t his, but he didn’t want to ruin Mary’s life or embarrass her in front of the whole town. So he determined to take care of things quietly so Mary would not be disgraced, planning to quietly break off the engagement.",
+   "But while he was stressing out and trying to figure this all out, he fell asleep. An angel of God showed up in his dream and said:",
+   "“Joseph, son of David, do not be afraid to go ahead and marry Mary. The baby she is carrying is from the Holy Spirit. She is going to have a son, and you are going to name him Jesus (which means ‘God saves’), because he is going to save his people from their sins.”",
+   "This whole crazy situation was actually bringing the prophet's embryonic revelation to full term — backing up a promise God had made through him hundreds of years earlier. The prophet had said:",
+   "“Watch this: a virgin will get pregnant and have a baby boy. They will call him Immanuel” (which translates to “God is right here with us”).",
+   "When Joseph woke up from the dream, he didn’t hesitate. He stepped up and did exactly what the angel told him to do. He went through with the wedding and brought Mary home as his wife. However, he did not consummate the marriage until she had the baby.",
+   "When the baby was born, Joseph named him Jesus."
+  ],
+  "verseRanges": [
+   "1",
+   "2-6",
+   "2-6",
+   "6-11",
+   "6-11",
+   "12-16",
+   "12-16",
+   "17",
+   "18-19",
+   "18-19",
+   "18-19",
+   "20-23",
+   "20-23",
+   "20-23",
+   "20-23",
+   "24-25",
+   "24-25"
+  ],
+  "msg_ranges": [
+   "1",
+   "2-6",
+   "2-6",
+   "6-11",
+   "6-11",
+   "12-16",
+   "12-16",
+   "17",
+   "18-19",
+   "18-19",
+   "18-19",
+   "20-23",
+   "20-23",
+   "20-23",
+   "20-23",
+   "24-25",
+   "24-25"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-6",
+    "paras": [
+     0,
+     1,
+     2
+    ],
+    "note": "para 0 covers the v1 intro (badged '1'); para 1 is the §Era 1 header + para 2 the genealogy, both badged '2-6'"
+   },
+   {
+    "msg_range": "18-19",
+    "paras": [
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "msg_range": "20-23",
+    "paras": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "msg_range": "24-25",
+    "paras": [
+     15,
+     16
+    ]
+   }
+  ],
+  "confirmations_needed": [],
+  "en_changes": [
+   "Ch1: restored full genealogy 1:2-16 as three teen-voice paragraphs (all MSG name spellings) — replaced the three intentional-summary era blurbs",
+   "Ch1: kept intro para (badge 1) + the three existing §Era headers, each sharing the badge of its following genealogy paragraph",
+   "Ch1: fixed 18-19 — now 3 paragraphs all badged 18-19; restored '(It was by the Holy Spirit — but he didn't know that)' and 'chagrined but noble'",
+   "Ch1: fixed 20-23 — 4 paragraphs all badged 20-23 (was 20/20-21/22/23); kept angel quote incl. 'God's Holy Spirit has made her pregnant', the prophet-fulfillment line, and the Immanuel quote",
+   "Ch1: fixed 24-25 — 2 paragraphs both badged 24-25 (was 24/25); kept no-consummation line",
+   "Ch1: kept MSG's own fourteen-generations summary as one paragraph badged 17 (was three paragraphs all badged 17)"
+  ],
+  "old_ko_paragraphs": [
+   "아브라함의 자손, 그리고 다윗의 자손인 예수 그리스도의 족보임.",
+   "아브라함이 이삭을 낳고, 이삭이 야곱을 낳고, 야곱이 유다랑 그 형제들을 낳았음. 유다는 (엄마가 다말이었는데) 베레스랑 세라를 낳았고, 베레스는 헤스론을, 헤스론은 람을, 람은 아미나답을, 아미나답은 나손을, 나손은 살몬을 낳았대. 살몬은 (엄마가 라합) 보아스를 낳았고, 보아스는 (엄마가 룻) 오벳을 낳았고, 오벳은 이새를 낳았고, 이새가 바로 다윗 왕을 낳은 거임.",
+   "§1시대: 믿음의 조상들",
+   "다윗은 (원래 우리야의 아내였던 여자한테서) 솔로몬을 낳았고, 솔로몬은 르호보암을, 르호보암은 아비야를, 아비야는 아사를, 아사는 여호사밧을, 여호사밧은 요람을, 요람은 웃시야를, 웃시야는 요담을, 요담은 아하스를, 아하스는 히스기야를, 히스기야는 므낫세를, 므낫세는 아몬을, 아몬은 요시야를 낳았어. 요시야는 여호야긴이랑 그 형제들을 낳았는데, 바로 이 시점에 백성들이 바빌론에 포로로 끌려갔던 거지.",
+   "바빌론으로 끌려간 후에는, 여고냐가 스알디엘을 낳고, 스알디엘은 스룹바벨을, 스룹바벨은 아비훗을, 아비훗은 엘리아김을, 엘리아김은 아소르를, 아소르는 사독을, 사독은 아킴을, 아킴은 엘리웃을, 엘리웃은 엘르아살을, 엘르아살은 맛단을, 맛단은 야곱을 낳았어. 그리고 야곱이 마리아의 남편 요셉을 낳았고, 그 마리아한테서 그리스도라고 불리는 예수가 태어난 거야.",
+   "§2시대: 왕들과 멸망",
+   "정리하자면, 아브라함부터 다윗까지 14대, 다윗부터 바빌론 포로 시절까지 14대, 그리고 바빌론 포로 시절부터 그리스도까지 또 14대. 딱딱 맞지?",
+   "예수의 탄생",
+   "§3시대: 기다림의 시간",
+   "예수가 어떻게 태어났냐면 말이야. 엄마인 마리아가 요셉이랑 약혼한 사이였거든요. 근데 둘이 결혼도 하기 전에, 마리아가 임신한 걸 요셉이 알게 된 거예요. (사실 이건 성령으로 된 건데, 요셉은 당연히 몰랐죠.) 요셉은 진짜 충격 먹었지만, 그래도 좋은 사람이라 마리아가 망신당하게 하고 싶지는 않았어요. 그래서 그냥 조용히 약혼을 없던 일로 하려고 했죠.",
+   "어떻게 해야 하나 고민하면서 잠들었는데, 꿈에 하나님의 천사가 나타나서 말했어요. \"다윗의 자손 요셉아, 쫄지 마시고 마리아랑 결혼하세요. 마리아가 임신한 건 성령으로 된 거예요. 하나님의 성령이 아기를 갖게 하신 거라고요. 마리아가 아들을 낳을 건데, 이름은 예수(하나님이 구원하신다는 뜻)라고 지으세요. 그 애가 자기 백성을 구원할 거거든요.\" 이걸로 예언자가 말했던 게 진짜로 이루어진 셈이죠. \"잘 보세요, 처녀가 임신해서 아들을 낳을 거고, 그 이름을 임마누엘이라고 할 것입니다!\" (참고로 임마누엘은\n히브리말로 '하나님이 우리와 함께하신다'는 뜻이에요.)",
+   "요셉은 잠에서 딱 깼어요. 그리고 꿈에서 천사가 시킨 대로 바로 마리아랑 결혼했죠. 근데 애기 낳을 때까지는 일부러 잠자리를 같이 안 했어요. 그리고 아기 이름은 예수라고 지었죠."
+  ],
+  "old_ko_ranges": [
+   "1",
+   "2-6",
+   "6-11",
+   "12-16",
+   "17",
+   "16",
+   "18-19",
+   "20-23",
+   "25"
+  ]
+ },
+ {
+  "chapter": 2,
+  "en_title": "The Stargazers, the Psycho King, and the Escape",
+  "en_paragraphs": [
+   "Jesus was born in the town of Bethlehem during the rule of King Herod. Not long after, a group of scholars (basically ancient astronomers) arrived in Jerusalem from the East. They started asking around, “Where is the newborn King of the Jews? We saw his star rising and came to pay our respects.”",
+   "When word of their inquiry got to Herod, he was terrified — and not Herod alone, but most of Jerusalem as well. Herod lost no time. He gathered all the high priests and religion scholars in the city together and demanded, “Where is the Messiah supposed to be born?”",
+   "They told him, “Bethlehem, Judah territory. The prophet Micah wrote it plainly: It’s you, Bethlehem, in Judah’s land, no longer bringing up the rear. From you will come the leader who will shepherd-rule my people, my Israel.”",
+   "Herod then arranged a secret meeting with the scholars from the East. Pretending to be as devout as they were, he got them to tell him exactly when the birth-announcement star appeared. Then he told them the prophecy about Bethlehem, and said, “Go find this child. Leave no stone unturned. As soon as you find him, send word and I’ll join you at once in your worship.”",
+   "Instructed by the king, they set off. Then the star appeared again — the same star they had seen in the eastern skies. It led them on until it hovered over the place of the child. They could hardly contain themselves: They were in the right place! They had arrived at the right time!",
+   "They entered the house and saw the child in the arms of Mary, his mother. Overcome, they kneeled and worshiped him. Then they opened their luggage and presented gifts: gold, frankincense, myrrh.",
+   "In a dream, they were warned not to report back to Herod. So they worked out another route, left the territory without being seen, and returned to their own country.",
+   "§The Midnight Road Trip",
+   "After the scholars left, an angel woke Joseph up in the middle of the night: “Get up! Take the baby and his mom and run to Egypt. Herod is hunting for this child to kill him. Stay there until I give you the all-clear.”",
+   "Joseph didn’t ask questions; he packed up and they fled under the cover of darkness.",
+   "They stayed in Egypt until Herod died — and that made the prophet’s words come true: “Out of Egypt I called my son.”",
+   "When Herod realized the scholars had tricked him, he flew into a rage. He commanded the murder of every little boy two years old and under who lived in Bethlehem and its surrounding hills. (He determined that age from information he’d gotten from the scholars.)",
+   "This was exactly what the prophet Jeremiah had said would happen: “A sound was heard in Ramah — crying and deep sadness. Rachel weeping for her children, refusing to be comforted, because her children are gone.”",
+   "Later, when Herod died, God’s angel appeared in a dream to Joseph in Egypt: “Up, take the child and his mother and return to Israel. All those out to murder the child are dead.” Joseph obeyed. He got up, took the child and his mother, and reentered Israel. When he heard, though, that Archelaus had succeeded his father, Herod, as king in Judea, he was afraid to go there. But then Joseph was directed in a dream to go to the hills of Galilee. On arrival, he settled in the village of Nazareth. This move was a fulfillment of the prophetic words, “He shall be called a Nazarene.”"
+  ],
+  "verseRanges": [
+   "1-2",
+   "3-4",
+   "5-6",
+   "7-8",
+   "9-10",
+   "11",
+   "12",
+   "13",
+   "13",
+   "14-15",
+   "14-15",
+   "16",
+   "17-18",
+   "19-23"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3-4",
+   "5-6",
+   "7-8",
+   "9-10",
+   "11",
+   "12",
+   "13",
+   "13",
+   "14-15",
+   "14-15",
+   "16",
+   "17-18",
+   "19-23"
+  ],
+  "merges": [
+   {
+    "para": 13,
+    "msg_ranges": [
+     "19-20",
+     "21-23"
+    ],
+    "note": "MSG's two paragraphs kept as one EN paragraph (the existing EN already merged them); restores 'directed in a dream to go to the hills of Galilee' and 'He shall be called a Nazarene'"
+   }
+  ],
+  "splits": [
+   {
+    "msg_range": "14-15",
+    "paras": [
+     9,
+     10
+    ]
+   },
+   {
+    "msg_range": "16-18",
+    "paras": [
+     11,
+     12
+    ],
+    "note": "MSG's single paragraph split in narrative order: para 11 is Herod's rage + the murder order (badged '16'); para 12 is the Jeremiah fulfillment (badged '17-18')"
+   }
+  ],
+  "confirmations_needed": [
+   "Ch2 para 13 merges MSG 19-20 + 21-23 — confirm one paragraph is OK"
+  ],
+  "en_changes": [
+   "Ch2: restored 3-4 — Herod terrified AND most of Jerusalem as well; gathered ALL high priests and religion scholars",
+   "Ch2: restored 5-6 — full Micah prophecy quote: 'It's you, Bethlehem, in Judah's land, no longer bringing up the rear. From you will come the leader who will shepherd-rule my people, my Israel.'",
+   "Ch2: restored 7-8 — Herod got scholars to tell him EXACTLY WHEN the star appeared; 'Leave no stone unturned. As soon as you find him, send word...'",
+   "Ch2: restored 9-10 — joy: 'They could hardly contain themselves: They were in the right place! They had arrived at the right time!'",
+   "Ch2: restored 11 — 'the child in the arms of Mary, his mother' + 'Overcome'",
+   "Ch2: restored 12 as its own paragraph (dream warning, another route home)",
+   "Ch2: FIXED ORDER BUG — massacre (16) now told BEFORE the Jeremiah quote (17-18)",
+   "Ch2: restored 19-23 — angel's 'All those out to murder the child are dead', directed in a dream to the hills of Galilee, settled in Nazareth, 'He shall be called a Nazarene'",
+   "Ch2: kept §The Midnight Road Trip header, badge shared with following paragraph (13)"
+  ],
+  "old_ko_paragraphs": [
+   "동방에서 온 박사들",
+   "예수님이 유대 땅 베들레헴에서 태어났을 때, 그때 왕이 헤롯이었거든요. 동쪽에서 박사들이 예루살렘에 찾아왔어요. 그분들이 물어보는 거예요. \"새로 태어난 유대인의 왕께 절하려면 어디로 가야 하나요? 동쪽 하늘에서 그분 태어나시는 것을 알리는 별을 봤거든요. 그래서 절하려고 일부러 여기까지 왔습니다.\" 이러는 거죠.",
+   "그 질문 듣고 헤롯 왕이 완전 쫄았어요. 헤롯만 그런 게 아니라 예루살렘 전체가 난리가 난 거예요. 헤롯이 바로 대제사장님과 종교학자들을 다 불러 모아서 물었죠. \"메시아가 어디서 태어난다고 합니까?\"",
+   "그분들이 \"유대 땅 베들레헴입니다. 미가 예언자께서 딱 써 놓으셨어요. '유대 땅 베들레헴, 여러분은 이제 작은 마을이 아닙니다. 여러분에게서 리더가 나와서 제 백성 이스라엘을 이끄는 목자가 될 것입니다'라고 하셨습니다.\"",
+   "§한밤중의 여행",
+   "그 말 듣고 헤롯이 동방 박사들을 몰래 불렀어요. 자기도 완전 팬인 척하면서, 별이 언제 떴는지 완전 디테일하게 캐물었죠. 그러고는 베들레헴 얘기를 해주면서 말했어요. \"가서 어떻게든 그 아기를 찾아보세요. 찾으면 바로 저에게 알려주시고요. 저도 바로 가서 절하겠습니다.\" 완전 거짓말이죠.",
+   "박사들은 왕 말 듣고 길을 떠났어요. 근데 그때 별이 다시 나타난 거예요! 동쪽에서 봤던 바로 그 별. 별이 막 앞장서서 가다가 아기가 있는 곳 위에 딱 멈췄어요. 박사들은 완전 좋아서 난리 났죠. 완전 제시간에 제대로 도착한 거예요!",
+   "그분들은 집에 들어가서, 엄마 마리아 품에 안긴 아기를 봤어요. 그러고는 완전 감동해서 무릎 꿇고 아기께 절하고, 바로 선물 보따리를 풀어서 황금이랑 유향이랑 몰약을 선물로 드렸대요.",
+   "꿈에서 그분들께 헤롯에게 돌아가지 말라는 지시가 내려왔어요. 그래서 다른 길로 몰래 빠져나가서 자기 나라로 돌아갔죠.",
+   "박사들이 떠나고 나서, 하나님의 천사가 또 요셉 꿈에 나타나서 말했어요. \"일어나세요. 아기랑 엄마를 데리고 이집트로 피하세요. 제가 다시 말해줄 때까지 거기 계세요. 헤롯이 아기를 찾아서 죽이려고 하니까요.\"",
+   "요셉은 바로 말 들었어요. 일어나서 밤에 아기랑 엄마를 데리고 떠났죠. 동틀 때쯤엔 마을에서 완전 멀리 가 있었어요. 그분들은 헤롯이 죽을 때까지 이집트에서 살았대요. 이렇게 이집트에서 외국인으로 산 게, 호세아 예언자가 \"제가 제 아들을 이집트에서 불러냈다\"고 한 말을 이루게 된 거래요.",
+   "헤롯은 박사들이 자기를 쌩깐 걸 알고 완전 엄청 화났어요. 그래서 베들레헴이랑 그 근처에 사는 두 살 아래 남자애들은 싹 다 죽이라고 명령했죠. (그 나이는 동방 박사들한테 들은 정보로 계산한 거.) 그래서 예레미야 예언자가 한 말이 진짜가 됐어요. \"라마에서 소리가 들리는데, 완전 슬픈 울음소리예요. 라헬이 자기 자식들 때문에 우는데, 아무도 위로 못 해요. 죽어서 묻힌 자식들, 이제는 없으니까요.\"",
+   "나중에 헤롯이 죽고, 하나님의 천사가 이집트에 있는 요셉 꿈에 나타났어요. \"일어나서 아기랑 엄마를 데리고 이스라엘로 돌아가세요. 아기를 죽이려던 사람들은 다 죽었습니다.\"",
+   "요셉은 또 바로 말 들었죠. 일어나서 아기랑 엄마를 데리고 이스라엘로 다시 들어갔어요. 근데 아켈라오가 자기 아빠 헤롯 다음으로 유대 왕이 됐다는 소리를 듣고, 거기로 가기가 좀 쫄렸어요. 마침 요셉이 꿈에서 갈릴리로 가라는 지시를 받았죠. 거기 도착해서 나사렛이라는 마을에 자리를 잡았어요. 그래서 \"그는 나사렛 사람이라고 불릴 것입니다\"라고 한 예언의 말씀이 이루어진 거래요."
+  ],
+  "old_ko_ranges": [
+   "1",
+   "1-2",
+   "3-4",
+   "5-6",
+   "7-8",
+   "9-10",
+   "11",
+   "12",
+   "13-14",
+   "14-15",
+   "16-18",
+   "19-21",
+   "22-23"
+  ]
+ },
+ {
+  "chapter": 3,
+  "en_title": "Enter John the Baptist",
+  "en_paragraphs": [
+   "While Jesus was living in the Galilean hills, John — called “the Baptizer” — was out in the desert country of Judea preaching. His message was simple and austere, like his desert surroundings: “Change your life. God’s kingdom is here.”",
+   "John and his message were authorized by Isaiah’s prophecy: Thunder in the desert! Prepare for God’s arrival! Make the road smooth and straight!",
+   "John was a wild guy. He wore a camel-hair habit tied at the waist by a leather strap, and he lived on a diet of locusts and wild field honey. People poured out of Jerusalem, Judea, and the Jordanian countryside to hear and see him in action. There at the Jordan River, everyone who came to confess their sins was baptized into a changed life.",
+   "But when John realized that a lot of Pharisees and Sadducees were showing up for a baptismal experience because it was becoming the popular thing to do, he exploded: “Brood of snakes! What do you think you’re doing slithering down here to the river? Do you think a little water on your snakeskins is going to make any difference? It’s your life that must change, not your skin! And don’t think you can pull rank by claiming Abraham as father. Being a descendant of Abraham is neither here nor there. Descendants of Abraham are a dime a dozen. What counts is your life. Is it green and flourishing? Because if it’s deadwood, it goes on the fire.”",
+   "“I’m baptizing you here in the river, turning your old life in for a kingdom life. The real action comes next: The main character in this drama — compared to him I’m a mere stagehand — will ignite the kingdom life within you, a fire within you, the Holy Spirit within you, changing you from the inside out. He’s going to clean house — make a clean sweep of your lives. He’ll place everything true in its proper place before God; everything false he’ll put out with the trash to be burned.”",
+   "Then Jesus appeared, arriving at the Jordan River from Galilee. He wanted John to baptize him. John objected, “I’m the one who needs to be baptized, not you!”",
+   "But Jesus insisted. “Do it. God’s work, putting things right all these centuries, is coming together right now in this baptism.” So John did it.",
+   "The moment Jesus came up out of the water, the sky split open. The Spirit of God came down like a dove and landed on him, and a booming voice from heaven said: “This is my Son. I love him, and I am incredibly proud of him.”"
+  ],
+  "verseRanges": [
+   "1-2",
+   "3",
+   "4-6",
+   "7-10",
+   "11-12",
+   "13-14",
+   "15",
+   "16-17"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3",
+   "4-6",
+   "7-10",
+   "11-12",
+   "13-14",
+   "15",
+   "16-17"
+  ],
+  "merges": [],
+  "splits": [],
+  "confirmations_needed": [],
+  "en_changes": [
+   "Ch3: restored v3 (was missing entirely) — 'Thunder in the desert! Prepare for God's arrival! Make the road smooth and straight!'",
+   "Ch3: restored 11-12 (was missing entirely) — 'will ignite the kingdom life within you, a fire within you, the Holy Spirit within you... make a clean sweep of your lives'",
+   "Ch3: restored 7-10 — 'Do you think a little water on your snakeskins is going to make any difference?', Abraham pull-rank argument, 'Is it green and flourishing? Because if it's deadwood, it goes on the fire.'",
+   "Ch3: fixed overlapping badges ('7' + '7-9') — now '7-10', no overlaps anywhere",
+   "Ch3: restored 'arriving at the Jordan River from Galilee' (13-14) and 'So John did it' + full 'God's work, putting things right all these centuries...' line (15)",
+   "Ch3: restored 4-6 details — camel-hair habit tied at waist by leather strap, 'hear and see him in action', 'at the Jordan River those who came to confess their sins were baptized into a changed life'"
+  ],
+  "old_ko_paragraphs": [
+   "광야에서 들리는 외침",
+   "예수님이 갈릴리에 살고 계실 때, ‘세례자 요한’이라는 형이 유대 광야에서 말씀을 전하고 있었어. 그 형의 메시지는 주변 광야처럼 완전 심플하고 군더더기 없었지. “야, 너네 삶 좀 바꿔 봐라. 하나님 나라가 바로 코앞에 왔다고.”",
+   "요한이랑 그의 메시지는 옛날에 이사야라는 선지자가 예언했던 거라서 완전 권위가 있었대.",
+   "광야에서 어떤 사람이 막 외치는 거야!\n“하나님 오시니까 준비 좀 해놔!”\n“길 좀 반듯하게 쫙 펴놓으라고!”",
+   "요한은 옷차림도 좀 특이했는데, 낙타털 옷에 허리에는 가죽띠를 딱 둘렀어. 그리고 밥으로는 메뚜기랑 자연산 꿀을 먹고 살았대. 이 형이 하는 일이랑 보려고 예루살렘, 유대, 요단강 근처에서 사람들이 구름떼처럼 몰려들었어. 자기 죄를 고백하러 온 사람들은 거기 요단강에서 세례를 받으면서 ‘아, 이제 진짜 제대로 살아봐야겠다’고 다짐했지.",
+   "세례가 점점 인싸들 사이에서 핫해지니까, 바리새인들이랑 사두개인들처럼 좀 잘난 척하는 사람들도 ‘나도 한번 받아볼까?’ 하고 나타난 거야. 이걸 본 요한이 완전 화가 나서 소리쳤어. “이 독사의 자식들아! 여기 강가에 슬쩍 와서 뭐 하는 건데? 니들 껍데기에 물 좀 묻힌다고 뭐가 달라질 것 같아? 바꿔야 할 건 겉모습이 아니라 니들 인생이라고! ‘우리 조상이 아브라함인데 뭐 어쩔?’ 이런 마인드 버려. 아브라함 자손인 거랑 이거랑 뭔 상관인데. 널린 게 아브라함 자손이야. 중요한 건 니들 삶이라고. 니들 삶이 지금 제대로 열매 맺고 있냐고? 바싹 마른 가지는 그냥 땔감밖에 더 되겠냐?”",
+   "“내가 이 강에서 세례 주는 건, 너네 옛날 삶을 정리하고 천국 라이프로 갈아탈 준비를 시키려는 거야. 근데 진짜는 지금부터야. 이 스토리의 주인공은 너네 안에 천국의 삶, 불, 성령을 확 지펴서 너네를 완전 새사람으로 만드실 분이라고. 그분에 비하면 난 그냥 쫄따구, 심부름꾼에 불과해. 그분은 집을 싹 다 청소하실 거야. 너네 삶을 완전 대청소하신다고. 진짜배기는 전부 하나님 앞에 제자리에 갖다 놓고, 가짜들은 싹 다 끌어내서 폐기물이랑 같이 태워버릴 거임.”",
+   "바로 그때, 예수님이 갈릴리에서 요단강으로 오셨어. 예수님이 요한한테 세례를 받으려고 하니까 요한이 펄쩍 뛰면서 말렸지. “아니, 형님! 세례는 제가 형님한테 받아야죠! 어떻게 형님이 저한테 받으세요?”",
+   "근데 예수님이 단호하게 말씀하셨어요. “아니에요, 그냥 제가 말하는 대로 하세요. 오랫동안 이어져 온 하나님의 정의로운 계획이 바로 지금, 이 세례를 통해 하나로 합쳐지는 순간입니다.” 그래서 요한은 예수님 말씀대로 했어요.",
+   "예수님이 세례를 받고 물에서 딱 올라오시는 순간, 하늘이 쫙 열리더니 하나님의 영이 비둘기 모양으로 내려와서 예수님 위에 머무는 게 보였어. 그리고 성령이랑 같이 하늘에서 목소리가 들려왔지. “이는 내가 사랑으로 고르고 특별히 뽑은 내 아들, 내 인생의 기쁨이다.”"
+  ],
+  "old_ko_ranges": [
+   "1",
+   "1-3",
+   "3",
+   "3",
+   "4-6",
+   "7-10",
+   "11-12",
+   "13-14",
+   "15",
+   "16-17"
+  ]
+ },
+ {
+  "chapter": 4,
+  "en_title": "The Desert Showdown and the First Crew",
+  "en_paragraphs": [
+   "Immediately after his baptism, the Spirit led Jesus deep into the wilderness to be tested by the devil. The devil was ready for it. Jesus went without food for forty days and forty nights. He was starving. Then the devil moved in: “Since you're really God's Son, say the word and turn these stones into loaves of bread.”",
+   "§Strike 1",
+   "Jesus shut him down with a quote from Deuteronomy: “People need more than bread to survive; they need the words of God.”",
+   "§Strike 2",
+   "For the second test the devil took him to the Holy City — the highest point of the Temple. “Since you're God's Son, jump,” the devil said, and he goaded Jesus by quoting Psalm 91: “He has placed you in the care of angels. They will catch you so that you won't so much as stub your toe on a stone.”",
+   "Jesus countered with another quote from Deuteronomy: “Don't you dare test the Lord your God.”",
+   "§Strike 3",
+   "For the third test, the devil took him to the peak of a huge mountain. He gestured expansively, pointing out all the earth's kingdoms and how glorious they all were. “They're yours — lock, stock, and barrel,” the devil said. “Just go down on your knees and worship me, and they're yours.”",
+   "Jesus' refusal was short and sharp: “Beat it, Satan!” Then he backed his rebuke with a third quote from Deuteronomy: “Worship the Lord your God, and only him. Serve him with absolute single-heartedness.”",
+   "The devil lost, packed up, and left. Angels came and took care of Jesus.",
+   "When Jesus heard that John had been arrested, he headed back to Galilee. He moved from his hometown Nazareth to the lakeside village of Capernaum, nestled at the base of the Zebulun and Naphtali hills. This move brought Isaiah's prophecy to life: “Land of Zebulun, land of Naphtali, road to the sea, over Jordan, Galilee, crossroads for the nations. People sitting out their lives in the dark saw a huge light; sitting in that dark, dark country of death, they watched the sun come up.” This Isaiah-prophesied revelation came to life in Galilee the moment Jesus started preaching. He picked up right where John left off: “Change your life. God's kingdom is here.”",
+   "§Building the Team",
+   "Walking along the beach of Lake Galilee, Jesus saw two brothers — Simon (later called Peter) and Andrew — fishing, throwing their nets into the lake. It was their regular work. Jesus said to them, “Come with me. I'll make a new kind of fisherman out of you. I'll show you how to catch men and women instead of perch and bass.” They didn't ask questions, but simply dropped their nets and followed.",
+   "A short distance down the beach, they came upon another pair of brothers — James and John, Zebedee's sons. These two were sitting in a boat with their father Zebedee, mending their fishnets. Jesus made them the same offer, and they were just as quick to follow, abandoning the boat and their father.",
+   "From there he went all over Galilee. He used synagogues as meeting places and taught people the truth of God. God's kingdom was his theme — that starting right now, they were under God's government, a good government! He also healed people of their diseases and the bad effects of their bad lives. Word got around the entire Roman province of Syria. People brought anyone with a sickness — whether mental, emotional, or physical. Jesus healed them, one and all. More and more people came, the momentum building. Besides people from Galilee, crowds came from the “Ten Towns” across the lake, others up from Jerusalem and Judea, still others from across the Jordan."
+  ],
+  "verseRanges": [
+   "1-3",
+   "4",
+   "4",
+   "5-6",
+   "5-6",
+   "7",
+   "8-9",
+   "8-9",
+   "10",
+   "11",
+   "12-17",
+   "18-20",
+   "18-20",
+   "21-22",
+   "23-25"
+  ],
+  "msg_ranges": [
+   "1-3",
+   "4",
+   "4",
+   "5-6",
+   "5-6",
+   "7",
+   "8-9",
+   "8-9",
+   "10",
+   "11",
+   "12-17",
+   "18-20",
+   "18-20",
+   "21-22",
+   "23-25"
+  ],
+  "merges": [],
+  "splits": [],
+  "confirmations_needed": [],
+  "en_changes": [
+   "Ch4: rebuilt vv1-3 with the devil's full first-test quote ('Since you're really God's Son, say the word and turn these stones into loaves of bread') — previously only quoted in the Strike 1 body",
+   "Ch4: restored vv5-6 — the devil GOADED Jesus by quoting Psalm 91; full quote now included",
+   "Ch4: restored v10's second half — 'Serve him with absolute single-heartedness.'",
+   "Ch4: restored vv12-17 fully (was a thin stub) — John's arrest, return to Galilee, Nazareth->Capernaum move, Zebulun and Naphtali hills, full Isaiah quote, 'This Isaiah-prophesied revelation came to life in Galilee the moment Jesus started preaching', preaching line 'Change your life. God's kingdom is here.'",
+   "Ch4: restored vv18-20 details — 'It was their regular work', 'I'll make a new kind of fisherman out of you', 'catch men and women instead of perch and bass', 'They didn't ask questions, but simply dropped their nets and followed.'",
+   "Ch4: restored vv23-25 details — synagogues as meeting places, 'taught people the truth of God', kingdom theme ('under God's government, a good government!'), healing 'the bad effects of their bad lives', 'the entire Roman province of Syria', sickness 'whether mental, emotional, or physical', 'Jesus healed them, one and all', crowd origins (Ten Towns across the lake, Jerusalem, Judea, across the Jordan)",
+   "Ch4: re-badged everything to MSG ranges — fixed '13-16'->'12-17', removed all null badges; '§Strike 1/2/3' headers now share following body badges '4'/'5-6'/'8-9'",
+   "Ch4: moved inline 'Building the Team' text into its own § header paragraph sharing the following body badge '18-20'",
+   "Ch4: removed the invented bridge sentence ('The devil stepped in and tried to get in his head') — folded into the vv1-3 narrative with actual MSG content ('The devil was ready for it')",
+   "Ch4: kept vv18-20 and vv21-22 as two separate paragraphs"
+  ],
+  "old_ko_paragraphs": [
+   "시험을 받으심",
+   "1~3절",
+   "§첫 번째 시험",
+   "그 뒤에 예수님이 성령에 이끌려서 광야로 가셨는데, 거기서 시험을 받으셨대. 마귀가 이미 스탠바이하고 있었던 거임. 예수님은 밤낮으로 40일 동안 굶으면서 시험 열심히 준비하고 계셨어. 그러다 보니 배고픔이 거의 만렙을 찍었고, 마귀가 바로 그 타이밍에 첫 번째 시험을 건 거지. “너 하나님의 아들이라며? 그럼 이 돌들한테 말해서 빵으로 만들어봐.”",
+   "4절",
+   "예수님이 신명기 구절을 인용해서 딱 받아치셨어. “사람이 빵으로만 사는 게 아니거든요. 하나님의 입에서 계속 나오는 말씀을 먹고 살아야 하는 거예요.”",
+   "5~6절",
+   "§두 번째 시험",
+   "두 번째 시험으로, 마귀는 예수님을 거룩한 도시로 데려가서 성전 꼭대기에 앉혀놓고 말했어. “네가 진짜 하나님의 아들이면, 여기서 뛰어내려봐.” 마귀는 시편 91편을 인용하면서 예수님을 압박했지. “하나님이 천사들 시켜서 너를 지켜주신다며. 천사들이 너를 받아서 발가락 하나 돌에 안 부딪히게 해줄걸.”",
+   "7절",
+   "예수님이 신명기의 다른 구절로 또 받아치셨어. “주 너의 하나님을 시험하는 것이 아닙니다.”",
+   "8~9절",
+   "§세 번째 시험",
+   "세 번째 시험으로, 마귀는 예수님을 엄청 높은 산 정상으로 데려갔어. 그러고는 마치 자기가 뭐라도 되는 것처럼, 세상 모든 나라랑 그 대단한 영광을 쫙 보여주면서 말했지. “이거 전부 네 거 될 수 있어. 그냥 나한테 무릎 꿇고 절 한 번만 하면 다 네 거임.”",
+   "10절",
+   "예수님이 완전 단호하게 거절하셨어. “사탄, 물러가세요!” 그리고 세 번째로 신명기 구절을 인용해서 게임을 끝내버리셨지. “주 너의 하나님, 오직 그분께만 경배해야 합니다. 한마음으로 그분만 섬기는 거예요.”",
+   "11절",
+   "이걸로 시험은 끝났고 마귀는 떠났어. 대신 천사들이 와서 예수님을 챙겨드렸대.",
+   "사람들을 가르치고 고치시다",
+   "12~17절",
+   "예수님은 요한이 감옥에 갇혔다는 소식을 듣고 갈릴리로 돌아가셨어. 그리고 고향인 나사렛을 떠나서, 스불론과 납달리 지역에 있는 호숫가 마을 가버나움으로 가셨지. 이걸로 예언자 이사야가 했던 말이 그대로 이루어진 거야.",
+   "스불론과 납달리 땅,",
+   "요단강 건너편 바다로 가는 길, 외국인들 많은 갈릴리, 평생을 어둠 속에서 살던 백성들이 엄청 큰 빛을 봤고, 완전 깜깜한 죽음의 땅에 살던 그들이 해 뜨는 걸 봤다.",
+   "이사야의 이 예언이, 예수님이 갈릴리에서 말씀을 전하기 시작한 순간에 딱 이루어진 거지. 예수님은 요한이 마지막으로 했던 말을 이어서 하셨어. “이제 삶의 방식을 바꾸세요. 하나님 나라가 바로 여기에 와 있습니다.”",
+   "18~20절",
+   "예수님이 갈릴리 호숫가를 걷고 계시다가 형제 두 명을 보셨어. 한 명은 시몬(나중에 베드로가 된 사람)이고 다른 한 명은 안드레였지. 그들은 호수에 그물을 던져서 물고기를 잡고 있었는데, 그게 원래 직업이었거든. 예수님이 그들한테 말했어. “저와 같이 가세요. 제가 여러분을 새로운 종류의 어부로 만들어 줄게요. 맨날 물고기만 낚지 마시고, 이제 사람을 낚는 법을 알려 드릴게요.” 그들은 아무것도 안 물어보고, 바로 그물을 버려두고 예수님을 따라갔어.",
+   "21~22절",
+   "호숫가를 좀 더 가다가 다른 형제 두 명을 또 만났어. 세베대의 아들들인 야고보와 요한이었지. 그 형제들은 아버지 세베대랑 같이 배에 앉아서 그물을 손질하고 있었어. 예수님은 그들한테도 똑같이 제안했고, 그들도 바로 배랑 아버지를 남겨두고 예수님을 따라갔지.",
+   "23~25절",
+   "예수님은 거기서부터 온 갈릴리를 돌아다니셨어. 회당을 모임 장소로 쓰면서 사람들에게 하나님의 진리를 가르치셨지. 하나님 나라가 그분의 핵심 주제였어. 지금 바로 여기, 우리가 하나님의 선한 다스림 아래 있다는 거! 또 예수님은 아픈 사람들이나 삶이 꼬여서 고통받는 사람들을 고쳐주셨어. 이 소문이 로마가 다스리던 시리아 전 지역에 쫙 퍼졌지. 사람들은 정신적으로든, 감정적으로든, 몸이 아프든, 아픈 사람이면 그냥 다 데리고 왔어. 예수님은 그들 한 명 한 명 다 고쳐주셨대. 사람들은 점점 더 많이 모여들었고, 그 줄은 끝이 보이지 않았어. 갈릴리에서 온 사람들 말고도, 호수 건너편 ‘데가볼리’(열 개의 도시)에서도 사람들이 막 몰려왔어. 예루살렘이랑 유대에서 온 사람들도 있었고, 요단강 건너편에서 온 사람들도 있었지."
+  ],
+  "old_ko_ranges": [
+   "1-3",
+   "1-3",
+   "4",
+   "4",
+   "5-6",
+   "5-6",
+   "7",
+   "7",
+   "8-9",
+   "8-9",
+   "10",
+   "10",
+   "11",
+   "11",
+   "12-17",
+   "12-17",
+   "12-17",
+   "12-17",
+   "12-17",
+   "18-20",
+   "18-20",
+   "21-22",
+   "21-22",
+   "23-25",
+   "23-25"
+  ]
+ }
+]

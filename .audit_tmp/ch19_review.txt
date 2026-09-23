@@ -1,0 +1,167 @@
+### TITLE EN: God's Power Flex & A Massive Riot
+### TITLE KO: 하나님의 파워와 대규모 폭동
+
+[MSG 0] range=1-2 header=None
+Now, it happened that while Apollos was away in Corinth, Paul made his way down through the mountains, came to Ephesus, and happened on some disciples there. The first thing he said was, "Did you receive the Holy Spirit when you believed? Did you take God into your mind only, or did you also embrace him with your heart? Did he get inside you?" "We've never even heard of that—a Holy Spirit? God within us?"
+
+[MSG 1] range=3 header=None
+"How were you baptized, then?" asked Paul. "In John's baptism."
+
+[MSG 2] range=4 header=None
+"That explains it," said Paul. "John preached a baptism of radical life-change so that people would be ready to receive the One coming after him, who turned out to be Jesus. If you've been baptized in John's baptism, you're ready now for the real thing, for Jesus."
+
+[MSG 3] range=5-7 header=None
+And they were. As soon as they heard of it, they were baptized in the name of the Master Jesus. Paul put his hands on their heads and the Holy Spirit entered them. From that moment on, they were praising God in tongues and talking about God's actions. Altogether there were about twelve people there that day.
+
+[MSG 4] range=8-10 header=None
+Paul then went straight to the meeting place. He had the run of the place for three months, doing his best to make the things of the kingdom of God real and convincing to them. But then resistance began to form as some of them began spreading evil rumors through the congregation about the Christian way of life. So Paul left, taking the disciples with him, and set up shop in the school of Tyrannus, holding class there daily. He did this for two years, giving everyone in the province of Asia, Jews as well as Greeks, ample opportunity to hear the Message of the Master.
+
+[MSG 5] range=11-12 header='Witches Came out of the Woodwork'
+God did powerful things through Paul, things quite out of the ordinary. The word got around and people started taking pieces of clothing—handkerchiefs and scarves and the like—that had touched Paul's skin and then touching the sick with them. The touch did it—they were healed and whole.
+
+[MSG 6] range=13-16 header=None
+Some itinerant Jewish exorcists who happened to be in town at the time tried their hand at what they assumed to be Paul's "game." They pronounced the name of the Master Jesus over victims of evil spirits, saying, "I command you by the Jesus preached by Paul!" The seven sons of a certain Sceva, a Jewish high priest, were trying to do this on a man when the evil spirit talked back: "I know Jesus and I've heard of Paul, but who are you?" Then the possessed man went berserk—jumped the exorcists, beat them up, and tore off their clothes. Naked and bloody, they got away as best they could.
+
+[MSG 7] range=17-20 header=None
+It was soon news all over Ephesus among both Jews and Greeks. The realization spread that God was in and behind this. Curiosity about Paul developed into reverence for the Master Jesus. Many of those who thus believed stepped out into the light and made a clean break with their secret sorceries. All kinds of witches and warlocks came out of the woodwork with their books of spells and incantations and made a huge bonfire of them. Someone estimated their worth at fifty thousand silver coins. In such ways it became evident that the Word of the Master was now sovereign and prevailed in Ephesus.
+
+[MSG 8] range=21-22 header='The Goddess Artemis'
+After all this had reached its peak, Paul decided it was time to move on to Macedonia and Achaia provinces, and from there to Jerusalem. "Then," he said, "I'm off to Rome. I've got to see Rome!" He sent two of his assistants, Timothy and Erastus, on to Macedonia and then stayed for a while and wrapped things up in Asia.
+
+[MSG 9] range=23-26 header=None
+But before he got away, a huge ruckus occurred over what was now being referred to as "the Way." A certain silversmith, Demetrius, conducted a brisk trade in the manufacture of shrines to the goddess Artemis, employing a number of artisans in his business. He rounded up his workers and others similarly employed and said, "Men, you well know that we have a good thing going here—and you've seen how Paul has barged in and discredited what we're doing by telling people that there's no such thing as a god made with hands. A lot of people are going along with him, not only here in Ephesus but all through Asia province.
+
+[MSG 10] range=27 header=None
+"Not only is our little business in danger of falling apart, but the temple of our famous goddess Artemis will certainly end up a pile of rubble as her glorious reputation fades to nothing. And this is no mere local matter—the whole world worships our Artemis!"
+
+[MSG 11] range=28-31 header=None
+That set them off in a frenzy. They ran into the street yelling, "Great Artemis of the Ephesians! Great Artemis of the Ephesians!" They put the whole city in an uproar, stampeding into the stadium, and grabbing two of Paul's associates on the way, the Macedonians Gaius and Aristarchus. Paul wanted to go in, too, but the disciples wouldn't let him. Prominent religious leaders in the city who had become friendly to Paul concurred: "By no means go near that mob!"
+
+[MSG 12] range=32-34 header=None
+Some were yelling one thing, some another. Most of them had no idea what was going on or why they were there. As the Jews pushed Alexander to the front to try to gain control, different factions clamored to get him on their side. But he brushed them off and quieted the mob with an impressive sweep of his arms. But the moment he opened his mouth and they knew he was a Jew, they shouted him down: "Great Artemis of the Ephesians! Great Artemis of the Ephesians!"—on and on and on, for over two hours.
+
+[MSG 13] range=35-37 header=None
+Finally, the town clerk got the mob quieted down and said, "Fellow citizens, is there anyone anywhere who doesn't know that our dear city Ephesus is protector of glorious Artemis and her sacred stone image that fell straight out of heaven? Since this is beyond contradiction, you had better get hold of yourselves. This is conduct unworthy of Artemis. These men you've dragged in here have done nothing to harm either our temple or our goddess.
+
+[MSG 14] range=38-41 header=None
+"So if Demetrius and his guild of artisans have a complaint, they can take it to court and make all the accusations they want. If anything else is bothering you, bring it to the regularly scheduled town meeting and let it be settled there. There is no excuse for what's happened today. We're putting our city in serious danger. Rome, remember, does not look kindly on rioters." With that, he sent them home.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Paul in Ephesus
+
+[EN 1] badge=1-2
+So, while this guy Apollos was in Corinth, Paul was trekking through the mountains and ended up in Ephesus. He found some believers there and right away asked them, "Hey, did you get the Holy Spirit when you started believing? Like, is God really with you, or just an idea in your head?"
+
+[EN 2] badge=3
+They said, "Look, we've never even heard of a 'Holy Spirit.' God *in* us? What's that?"
+
+[EN 3] badge=4
+Paul was like, "Huh? Then what kind of baptism did you have?"
+
+[EN 4] badge=None
+§Baptized in Jesus' Name
+
+[EN 5] badge=5
+"John's baptism," they said.
+
+[EN 6] badge=6-7
+"Okay, that makes sense," Paul explained. "John's baptism was all about a major life-change to get everyone hyped for the guy coming after him, who turned out to be Jesus. If you got John's baptism, you're totally ready for the real deal, for Jesus."
+
+[EN 7] badge=6-7
+And they were! The moment they heard this, they got baptized in the name of Jesus. Then Paul put his hands on them, and BAM! The Holy Spirit came on them. They started speaking in different languages and talking about all the awesome stuff God was doing. There were about twelve of them there.
+
+[EN 8] badge=8-10
+Paul then rolled into the local synagogue and for three months, he was basically the main event. He was trying his best to show them that God's kingdom was for real. But some people started getting salty and spreading vicious rumors about this new "Way" of life. So, Paul bounced, took his crew with him, and started holding daily classes at a school owned by some guy named Tyrannus. He did this for two whole years, so pretty much everyone in that part of Asia, whether they were Jewish or Greek, got to hear about Jesus.
+
+[EN 9] badge=11-12
+God was doing some seriously next-level stuff through Paul. It got so crazy that people would take handkerchiefs and aprons that Paul had touched and use them on sick people. And it worked! They were instantly healed.
+
+[EN 10] badge=13-16
+Then, some wannabe Jewish exorcists who were just passing through town tried to get in on the action. They started using Jesus' name to cast out evil spirits, saying stuff like, "I command you by the Jesus that Paul preaches about!" Seven sons of a high priest named Sceva tried this on a guy, but the evil spirit clapped back, "I know Jesus, and I've heard of Paul, but who the heck are you guys?" Then the man with the evil spirit went totally nuts, jumped on all seven of them, and beat them so bad they ran out of the house naked and bleeding. It was a total beatdown.
+
+[EN 11] badge=17-20
+Word about this got out all over Ephesus, and everyone, Jews and Greeks, were stunned. They realized God's power was the real deal, and they started showing major respect for Jesus. A bunch of people who had been into black magic and sorcery came forward and confessed everything. They brought all their spell books and had a massive bonfire. Someone did the math, and all those books were worth a fortune—like fifty thousand silver coins! This just showed that Jesus' message was taking over and winning big time in Ephesus.
+
+[EN 12] badge=21-22
+After all this craziness, Paul decided it was time to head to Macedonia and Achaia, and then to Jerusalem. "And after that," he said, "I've gotta see Rome!" He sent two of his buddies, Timothy and Erastus, ahead to Macedonia while he wrapped things up in Asia.
+
+[EN 13] badge=None
+§The Riot
+
+[EN 14] badge=23-24
+But before he could leave, a massive riot broke out because of "the Way." A silversmith named Demetrius, who made a ton of money selling little silver shrines of the goddess Artemis, got all his workers and other craftsmen together. He said, "Guys, you know we make a killing from this business. But this Paul guy has come in and is totally dissing our work, telling people that gods made by humans are fake. And tons of people are believing him, not just here but all over the province!
+
+[EN 15] badge=25-27
+"This is bad for business, and even worse, the temple of our awesome goddess Artemis is going to become worthless! Her rep is going to be toast, and she's worshipped by the whole world!"
+
+[EN 16] badge=28-29
+That was it. The crowd went wild. They started screaming, "Great is Artemis of the Ephesians!" They caused a huge uproar, dragged two of Paul's friends, Gaius and Aristarchus, into the city's stadium. Paul wanted to go in and face the mob, but his friends and even some of the city officials who liked him begged him not to.
+
+[EN 17] badge=32-34
+The whole stadium was a chaotic mess. Most people didn't even know why they were there. Some people pushed a guy named Alexander to the front to try and calm everyone down, but as soon as he opened his mouth and they realized he was a Jew, they just shouted him down, yelling "Great is Artemis of the Ephesians!" for two straight hours.
+
+[EN 18] badge=35-37
+Finally, the city clerk managed to quiet the crowd. "People of Ephesus!" he shouted. "Who doesn't know that our city is the protector of the great goddess Artemis and her sacred stone that fell from heaven? This is a fact, so you all need to chill out. You're acting a fool. These guys you dragged in here haven't robbed our temple or said anything bad about our goddess.
+
+[EN 19] badge=38-41
+"If Demetrius and his crew have a problem, they can take it to court. If you have other issues, bring them up at the next official city meeting. What you did today was not cool. We're in big trouble with Rome because of this riot." And with that, he told everyone to go home.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§에베소에서의 바울
+
+[KO 1] badge=1-2
+아볼로가 고린도에 있을 때, 바울은 좀 더 높은 동네를 거쳐 에베소에 도착했어. 거기서 제자 몇 명을 만나자마자 바울이 물었지. “너희들 믿을 때 성령님 받았냐? 그분이 너희 안에 진짜 계시냐고?” “성령님이요? 하나님이 우리 안에 계시다니, 그런 말은 완전 처음 듣는데요.”
+
+[KO 2] badge=3
+“그럼 세례는 어떻게 받았는데?” 바울이 다시 물었어. “요한의 세례를 받았어요.”
+
+[KO 3] badge=4
+“아, 그거.” 바울이 말했어. “요한은 자기 뒤에 오실 분을 맞이하도록 사람들 준비시키려고 세례를 준 거야. 그 세례는 ‘이제부터 완전 다르게 살겠다’는 다짐 같은 거였지. 그 뒤에 오실 분이 바로 예수님이었고. 너희가 요한의 세례를 받았다면, 이제 진짜 세례인 예수님을 만날 준비가 된 거임.”
+
+[KO 4] badge=5-7
+그들은 진짜로 준비가 되어 있었어. 그 말을 듣자마자 바로 주 예수님의 이름으로 세례를 받았지. 바울이 그들 머리에 손을 얹으니까 성령님이 그들 안으로 훅 들어오셨대. 그때부터 그들은 막 방언으로 하나님을 찬양하고, 하나님이 하신 일들을 막 얘기하고 다녔어. 그날 거기 있던 사람은 대략 열두 명 정도였음.
+
+[KO 5] badge=None
+§예수의 이름으로 세례받다
+
+[KO 6] badge=8-10
+그 후에 바울은 바로 회당으로 갔어. 석 달 동안 완전 자유롭게 드나들면서, 하나님 나라에 대한 걸 진짜 실감 나고 설득력 있게 설명해줬지. 근데 그때 몇몇 사람들이 기독교인들의 라이프스타일에 대해 이상한 소문을 퍼뜨려서 사람들 사이에서 반감이 생기기 시작했어. 그래서 바울은 제자들을 데리고 나와서 ‘두란노 스쿨’을 열고 매일 거기서 가르쳤지. 2년 동안 그 일을 하면서 아시아에 사는 모든 사람, 유대인이든 그리스인이든 모두가 주님의 메시지를 들을 기회를 만들어줬어.
+
+[KO 7] badge=None
+난데없이 나타난 마술사들
+
+[KO 8] badge=11-12
+하나님이 바울을 통해서 진짜 강력하고 신기한 일들을 행하셨어. 소문이 쫙 퍼지니까, 사람들이 바울 몸에 닿았던 손수건이나 목도리 같은 걸 가져다가 아픈 사람들한테 대기 시작했대. 근데 그걸 대기만 해도 병이 싹 낫는 거야. 엄청난 거지?
+
+[KO 9] badge=13-16
+귀신 쫓아낸다고 돌아다니는 유대인 몇 명이 마침 그 동네에 와 있었어. 그들은 바울이 하는 것을 보고 자기들도 한번 따라 해 본 거야. 악한 귀신 들린 사람들한테 가서 예수님 이름을 대면서 이렇게 말했지. “내가 바울이 전하는 그 예수의 이름으로 너한테 명령한다!” 유대인 대제사장 스게와의 일곱 아들들도 어떤 사람한테 그렇게 하려다가, 악한 귀신한테 역으로 당했어. 귀신이 “내가 예수도 알고 바울도 들어봤는데, 너희는 뭐냐?”라고 한 거야.
+
+[KO 10] badge=17-20
+그때 귀신 들린 사람이 갑자기 폭력적으로 변해서 그들에게 달려들어서 막 때리고 옷을 찢어버렸어. 그들은 옷도 다 빼앗기고 피 흘리면서 겨우 도망쳤대. 이 소문이 에베소 전체에 있는 유대인이랑 그리스 사람들한테 쫙 퍼졌어. 사람들은 이 모든 일의 배후에 하나님이 계시다는 걸 깨닫게 됐지. 바울에 대한 호기심은 점점 주 예수님을 높이는 마음으로 바뀌어 갔어. 그렇게 믿게 된 많은 사람들이 자기가 예전에 몰래 하던 마술 같은 거에서 완전히 손을 뗐다고 고백했어. 온갖 마술사, 점쟁이들이 자기들 마술책이랑 주문책을 가져와서 전부 불태워버렸지. 어떤 사람이 그 책들 값을 계산해보니 은화 5만 개나 됐대. 이제 에베소에서는 주님의 말씀이 완전 대세가 된 게 분명해졌어.
+
+[KO 11] badge=None
+아데미 여신
+
+[KO 12] badge=21-22
+이 모든 일이 있고 나서, 바울은 마케도니아랑 아가야로 갈 준비를 했어. 그러면서 예루살렘으로 가야 할 때가 됐다고 생각했지. “이제 로마로 간다. 내가 로마를 꼭 봐야겠어!”라고 말했어. 그는 자기 조수 디모데랑 에라스도 두 사람을 먼저 마케도니아로 보내고, 자기는 아시아에 좀 더 머물면서 남은 일들을 정리했어.
+
+[KO 13] badge=23-26
+근데 바울이 떠나기 전에 ‘이 길(the Way)’ 때문에 큰 싸움이 벌어졌어. 데메드리오라는 은세공인이 있었는데, 아데미 여신 신상을 만들어서 돈을 꽤 잘 벌었거든. 그래서 밑에 직원도 많았지. 그가 자기 직원들이랑 비슷한 일 하는 사람들을 다 모아놓고 말했어. “여러분, 알다시피 우리는 이 사업으로 먹고 삽니다. 근데 바울이라는 놈이 나타나서 ‘손으로 만든 신은 신도 아니다’라고 떠들고 다녀서 우리 사업을 망치고 있어요. 여기 에베소뿐만 아니라 아시아 전역에서 수많은 사람들이 그놈 말을 따르고 있습니다.
+
+[KO 14] badge=27
+우리 사업만 망하게 생긴 게 아닙니다. 위대한 아데미 여신의 명성도 다 무너지게 생겼어요. 그렇게 되면 저 유명한 아데미 신전도 그냥 폐허가 될 겁니다. 온 세상이 우리 아데미 여신을 섬기는데, 이건 그냥 한 동네의 문제가 아니라고요!”
+
+[KO 15] badge=28-31
+그 말을 듣고 사람들이 완전 엄청 화났어. 거리로 뛰쳐나가서 “에베소의 위대한 아데미여! 에베소의 위대한 아데미여!”라고 소리치고 다녔지. 온 도시에 난리가 났고, 사람들은 경기장으로 막 몰려갔어. 가는 길에 바울의 동료인 가이오랑 아리스다고도 붙잡아갔지. 바울도 경기장으로 들어가려고 했는데, 제자들이 뜯어말렸어. 바울이랑 친했던 그 도시의 유력한 종교 지도자들도 “절대 저 사람들 근처에 가지 마세요!”라고 말렸지.
+
+[KO 16] badge=32-34
+사람들은 저마다 막 소리를 질러댔어. 대부분은 지금 뭔 일이 일어나는 건지, 자기가 왜 거기 있는지도 모르고 있었음. 유대인들이 상황을 좀 정리해보려고 알렉산더라는 사람을 앞으로 내세웠는데, 여러 그룹들이 서로 자기편으로 끌어들이려고 난리였어. 근데 그는 걔네들 다 무시하고 손짓으로 조용히 시켰지. 하지만 그가 입을 열자마자 유대인인 게 들통나서, 사람들이 소리를 질러서 그의 말을 막아버렸어. “에베소의 위대한 아데미여! 에베소의 위대한 아데미여!” 그들은 두 시간이 넘게 계속 소리만 질러댔어.
+
+[KO 17] badge=35-37
+마침내 시청 서기가 사람들을 진정시키고 말했어. “시민 여러분, 우리 도시 에베소가 위대한 아데미 여신과 하늘에서 떨어진 신성한 돌을 지키는 도시라는 걸 모르는 사람이 어딨습니까? 이건 팩트니까 다들 진정하세요. 이런 행동은 아데미 여신한테도 안 좋은 겁니다. 여러분이 끌고 온 이 사람들은 우리 신전이나 여신한테 아무런 해도 끼치지 않았어요.
+
+[KO 18] badge=38-41
+그러니까 데메드리오랑 그 조합 사람들은 불만 있으면 법정 가서 정식으로 고소하세요. 다른 문제가 있으면 정기 시민 회의에 안건으로 올려서 해결하시고요. 오늘 일어난 일은 진짜 변명의 여지가 없습니다. 여러분은 지금 우리 도시를 심각한 위험에 빠뜨리고 있는 거라고요. 로마가 이런 폭동을 그냥 넘어가지 않는다는 걸 잊지 마세요.” 그렇게 말하고 그는 사람들을 다 집으로 돌려보냈어.
+

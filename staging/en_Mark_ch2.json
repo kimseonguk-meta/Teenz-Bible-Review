@@ -1,0 +1,100 @@
+{
+  "chapter": 2,
+  "title": "Ripping Off the Roof and Breaking the Rules",
+  "paragraphs": [
+    "§A Paraplegic",
+    "A few days later, Jesus was back in Capernaum. Word got out, and the house he was in got packed so tight nobody could even get through the front door.",
+    "Four guys brought their paralyzed friend on a stretcher, but they couldn't get past the crowd. So, they climbed up onto the roof, literally ripped a hole in it, and lowered their paralyzed buddy down on ropes right in front of Jesus.",
+    "When Jesus saw how massive their faith was, he looked at the paralyzed guy and said, \"Son, your sins are forgiven.\"",
+    "Some stuck-up religious experts sitting right there started thinking, \"This is blasphemy! Who does this guy think he is? Only God can forgive sins.\"",
+    "Jesus knew exactly what they were thinking. He said, \"Why are you getting triggered? What's easier to say: 'Your sins are forgiven' or 'Get up and walk'? Just to prove the Son of Man has the authority to forgive sins here on earth...\" He turned to the paralyzed guy: \"Get up, grab your mat, and go home.\"",
+    "The guy stood right up, grabbed his mat, and walked out while everyone stared in total shock, praising God. They said, \"We've never seen anything like this!\"",
+    "§The Tax Collector",
+    "Jesus went back out to the lakeshore. A huge crowd gathered around him, and he taught them.",
+    "Later, Jesus saw Levi, the son of Alphaeus, sitting at his tax booth. Jesus said, \"Follow me,\" and Levi got up and followed him.",
+    "Levi threw a massive dinner party at his house with Jesus, his disciples, and a ton of other shady tax collectors and \"sinners.\" The religious leaders saw this and asked his disciples, \"Why does he eat with outcasts?\"",
+    "Jesus overheard them and dropped this logic: \"Healthy people don't need a doctor—sick people do. I didn't come to invite the rule-followers; I came to invite the misfits.\"",
+    "§Feasting or Fasting?",
+    "John's disciples and the Pharisees fasted on the regular. So some people came to Jesus and demanded, \"John's disciples and the Pharisees do fasting training—why don't your disciples?\"",
+    "Jesus said, \"At a wedding party, don't people eat, drink, and have a blast? How can they fast while the groom is right there with them? Sure, a day might come when they'll have to tighten their belts, but not now. While the groom is here, it's party time. Who'd pour cold water on this vibe? This is exactly what God's kingdom arriving looks like!\"",
+    "He kept going: \"Nobody rips a piece of new cloth to patch old clothes—the patch just tears the hole even bigger. And nobody pours new wine into old wineskins—they'd burst and you'd lose both the wine and the skins. New wine goes into new wineskins.\"",
+    "One weekend, Jesus and his guys were walking through a wheat field. The disciples were hungry and pulled off some heads of grain to snack on. The religious police threw a fit: \"Look! They are breaking the Sabbath rules by working!\"",
+    "Jesus shut them down: \"Did you ever read what King David did when his guys were starving? He walked right into the sanctuary and ate the holy bread off the altar—with Chief Priest Abiathar standing right there watching! That bread was only for priests, but David shared it with his companions too. Listen to me: The Sabbath was made to help people; people weren't made to be slaves to the Sabbath. The Son of Man doesn't take orders from the Sabbath—he's in charge of it!\""
+  ],
+  "verseRanges": [
+    "1-2",
+    "1-2",
+    "3-4",
+    "5",
+    "6-7",
+    "8-9",
+    "10-12",
+    "13",
+    "13",
+    "14",
+    "15-16",
+    "17",
+    "18",
+    "18",
+    "19-20",
+    "21-22",
+    "23-24",
+    "25-28"
+  ],
+  "msg_ranges": [
+    "1-2",
+    "1-2",
+    "3-4",
+    "5",
+    "6-7",
+    "8-9",
+    "10-12",
+    "13",
+    "13",
+    "14",
+    "15-16",
+    "17",
+    "18",
+    "18",
+    "19-20",
+    "21-22",
+    "23-24",
+    "25-28"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "1-5",
+      "paras": [
+        2,
+        3,
+        4
+      ],
+      "note": "MSG 단일 문단(1-5)을 EN 가독성을 위해 3개 문단으로 분리"
+    },
+    {
+      "msg_range": "8-12",
+      "paras": [
+        6,
+        7
+      ],
+      "note": "MSG 단일 문단(8-12)을 EN 가독성을 위해 2개 문단으로 분리"
+    },
+    {
+      "msg_range": "13-14",
+      "paras": [
+        9,
+        10
+      ],
+      "note": "MSG 단일 문단(13-14)을 EN 가독성을 위해 2개 문단으로 분리"
+    }
+  ],
+  "changes": [
+    "Mark 2장: MSG 문단 구조 기준으로 배지 재구성 및 § 헤더 추가",
+    "EN 6번 문단(배지 '10-12'): MSG 12절 군중 반응 직접 인용(\"We've never seen anything like this!\") 복원",
+    "EN 9번 문단(배지 '14'): MSG에 없는 '(마태)' 표기 삭제, MSG의 '알패오의 아들 레위'로 정정",
+    "EN 17번 문단(배지 '25-28'): MSG의 '아비아달 대제사장' 언급과 '동료들에게 나눠줌' 복원. 'I'm the boss of the Sabbath'를 MSG 뉘앙스('안식일의 종이 아니라 주인')에 맞춰 보강"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

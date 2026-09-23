@@ -1,0 +1,95 @@
+# EXODUS 33 — God's Presence is Everything
+TEEN paras: 13 | badges: ['1-3', '4', '5-6', '7-10', '11', '12-13', '14', '15-16', '17', '18', '19', '20', '21-23']
+KO paras: 13 | badges: ['1-3', '4', '5-6', '7-10', '11', '12-13', '14', '15-16', '17', '18', '19', '20', '21-23']
+MSG sections: 13 | ranges: ['1-3', '4', '5-6', '7-10', '11', '12-13', '14', '15-16', '17', '18', '19', '20', '21-23']
+
+--- MSG [1-3] ---
+God said to Moses: “Now go. Get on your way from here, you and the people you brought up from the land of Egypt. Head for the land which I promised to Abraham, Isaac, and Jacob, saying ‘I will give it to your descendants.’ I will send an angel ahead of you and I’ll drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites, and Jebusites. It’s a land flowing with milk and honey. But I won’t be with you in person—you’re such a stubborn, hard-headed people!—lest I destroy you on the journey.”
+
+>>> TEEN:
+  [p0 badge=1-3] God told Moses, "Alright, time to get going. You and the people you brought out of Egypt, head to the land I promised Abraham, Isaac, and Jacob. I'm giving it to their descendants, just like I said. I'll send an angel ahead of you to clear out the Canaanites, Amorites, Hittites, Perizzites, Hivites, and Jebusites. It's a super lush place, but I'm not going with you personally. You guys are so stubborn, I'd probably lose my temper and wipe you out on the way."
+  [KO p0] 하나님이 모세한테 말했대. "이제 갈 시간임. 너랑 니가 이집트에서 데리고 나온 백성들 다 데리고 내가 아브라함, 이삭, 야곱한테 주기로 약속했던 땅으로 출발해. 내가 그 땅을 걔네 자손들한테 줄 거거든. 내가 천사를 먼저 보내서 가나안, 아모리, 헷, 브리스, 히위, 여부스 족속들을 다 쫓아내 줄게. 그 땅 완전 꿀땅인데, 나는 너네랑 같이 안 갈 거임. 너네 완전 고집불통이라 내가 같이 가다가는 화가 나서 다 없애버릴지도 몰라."
+
+--- MSG [4] ---
+When the people heard this harsh verdict, they were plunged into gloom and wore long faces. No one put on jewelry.
+
+>>> TEEN:
+  [p1 badge=4] When the people heard this, they were totally bummed out. No one felt like dressing up or putting on their jewelry.
+  [KO p1] 이 말을 들은 백성들은 완전 우울해졌대. 아무도 꾸미거나 보석을 차지 않았지.
+
+--- MSG [5-6] ---
+God said to Moses, “Tell the Israelites, ‘You’re one hard-headed people. I couldn’t stand being with you for even a moment—I’d destroy you. So take off all your jewelry until I figure out what to do with you.’” So the Israelites stripped themselves of their jewelry from Mount Horeb on.
+
+>>> TEEN:
+  [p2 badge=5-6] God said to Moses, "Tell the Israelites, 'You're a seriously stubborn bunch. If I were to hang out with you for even a second, I'd probably destroy you. So take off all your fancy jewelry for now while I figure out what to do with you.'" So the Israelites took off all their bling from Mount Horeb onwards.
+  [KO p2] 하나님이 모세한테 말했어. "이스라엘 백성들한테 전해. '너네 진짜 말 안 듣는 애들이구나. 내가 잠깐이라도 같이 있으면 화가 나서 너네 다 없애버릴 것 같아. 그러니까 내가 너네를 어떻게 할지 결정할 때까지 장신구 다 빼.'" 그래서 이스라엘 백성들은 호렙산에서부터 장신구를 다 뺐대.
+
+--- MSG [7-10] ---
+Moses used to take the Tent and set it up outside the camp, some distance away. He called it the Tent of Meeting. Anyone who sought God would go to the Tent of Meeting outside the camp. It went like this: When Moses would go to the Tent, all the people would stand at attention; each man would take his position at the entrance to his tent with his eyes on Moses until he entered the Tent; whenever Moses entered the Tent, the Pillar of Cloud descended to the entrance to the Tent and God spoke with Moses. All the people would see the Pillar of Cloud at the entrance to the Tent, stand at attention, and then bow down in worship, each man at the entrance to his tent.
+
+>>> TEEN:
+  [p3 badge=7-10] Moses had this tent he'd set up outside the main camp, a little ways off. He called it the "Tent of Meeting." Anyone who needed to connect with God would go there. Whenever Moses went to the Tent, everyone would stand up at their own tent's entrance and watch him until he went inside. As soon as he entered, a huge pillar of cloud would come down and hang out at the entrance, and God would talk with Moses. When the people saw the cloud, they'd all stand up and bow down in worship, right at their tent doors.
+  [KO p3] 모세는 텐트를 가지고 캠프 밖 좀 떨어진 곳에 치곤 했어. 그걸 '만남의 텐트'라고 불렀지. 하나님을 찾고 싶은 사람은 누구든지 캠프 밖에 있는 만남의 텐트로 갔어. 모세가 그 텐트로 갈 때마다 이런 일이 일어났대. 모든 백성들이 자기 텐트 입구에 서서 모세가 텐트 안으로 들어갈 때까지 쳐다봤어. 모세가 텐트 안으로 들어가면 구름기둥이 텐트 입구로 내려와서 하나님이 모세랑 얘기를 나눴대. 모든 백성들은 텐트 입구에 있는 구름기둥을 보고는 자리에서 일어나 각자 자기 텐트 입구에서 절하면서 예배했어.
+
+--- MSG [11] ---
+And God spoke with Moses face-to-face, as neighbors speak to one another. When he would return to the camp, his attendant, the young man Joshua, stayed—he didn’t leave the Tent.
+
+>>> TEEN:
+  [p4 badge=11] God and Moses would talk face-to-face, like two friends just chatting. When Moses would head back to camp, his young assistant, Joshua, would stay behind and hold down the fort at the Tent.
+  [KO p4] 하나님은 모세랑 얼굴을 마주보고, 마치 친구랑 얘기하듯이 말씀하셨대. 모세가 캠프로 돌아올 때면 그의 조수이자 젊은 여호수아는 텐트를 떠나지 않고 남아 있었어.
+
+--- MSG [12-13] ---
+Moses said to God, “Look, you tell me, ‘Lead this people,’ but you don’t let me know whom you’re going to send with me. You tell me, ‘I know you well and you are special to me.’ If I am so special to you, let me in on your plans. That way, I will continue being special to you. Don’t forget, this is *your* people, your responsibility.”
+
+>>> TEEN:
+  [p5 badge=12-13] Moses said to God, "Look, You're telling me to lead these people, but You haven't told me who's going with me. You say You know me and that I'm special to You. Well, if I'm so special, then let me in on Your plans. That way, I'll know we're still good. And don't forget, these are Your people, Your responsibility."
+  [KO p5] 모세가 하나님께 말했어. "보세요, 주님은 저한테 이 백성을 이끌라고 하시면서 누구를 저와 함께 보내실지는 알려주지 않으시네요. 주님은 저를 잘 아시고 제가 주님께 특별하다고 말씀하셨잖아요. 제가 진짜 주님께 특별하다면, 주님의 계획을 좀 알려주세요. 그래야 제가 계속 주님께 특별한 사람으로 남을 수 있죠. 잊지 마세요, 이 백성은 주님의 백성이고, 주님의 책임이에요."
+
+--- MSG [14] ---
+God said, “My presence will go with you. I’ll see the journey to the end.”
+
+>>> TEEN:
+  [p6 badge=14] God replied, "My presence will go with you. I'll be with you all the way."
+  [KO p6] 하나님이 말씀하셨어. "내가 직접 너와 함께 갈게. 내가 그 여정의 끝까지 책임져 줄게."
+
+--- MSG [15-16] ---
+Moses said, “If your presence doesn’t take the lead here, call this trip off right now. How else will it be known that you’re with me in this, with me and your people? Are you traveling with us or not? How else will we know that we’re special, I and your people, among all other people on this planet Earth?”
+
+>>> TEEN:
+  [p7 badge=15-16] Moses said, "If You're not coming with us, then just cancel the whole trip right now. Seriously. How will anyone know that You're on our side, with me and Your people, if You're not with us? That's what makes us different from everyone else on Earth."
+  [KO p7] 모세가 말했어. "주님이 직접 우리를 이끌고 가지 않으실 거면, 그냥 이 여행 당장 취소해요. 주님이 우리와 함께 계시다는 걸, 저와 주님의 백성과 함께 계시다는 걸 어떻게 알 수 있겠어요? 주님이 우리랑 같이 여행하시는 거 아니면, 우리가 이 세상 모든 민족들 사이에서 특별하다는 걸 어떻게 알겠냐고요?"
+
+--- MSG [17] ---
+God said to Moses: “All right. Just as you say; this also I will do, for I know you well and you are special to me. I know you by name.”
+
+>>> TEEN:
+  [p8 badge=17] God said to Moses, "Okay, fine. I'll do what you're asking. I know you well, and you're special to me. I know you by name."
+  [KO p8] 하나님이 모세에게 말씀하셨어. "알겠다. 네 말대로 해주지. 내가 너를 잘 알고 너는 나에게 특별하니까. 내가 너의 이름을 아니까."
+
+--- MSG [18] ---
+Moses said, “Please. Let me see your Glory.”
+
+>>> TEEN:
+  [p9 badge=18] Moses then said, "Please, let me see Your glory."
+  [KO p9] 모세가 말했어. "제발요. 주님의 영광을 보여주세요."
+
+--- MSG [19] ---
+God said, “I will make my Goodness pass right in front of you; I’ll call out the name, God, right before you. I’ll treat well whomever I want to treat well and I’ll be kind to whomever I want to be kind.”
+
+>>> TEEN:
+  [p10 badge=19] God said, "I'll make all my goodness pass right in front of you, and I'll say my name, 'God,' right before you. I'll be good to whoever I want to be good to, and I'll be kind to whoever I want to be kind to."
+  [KO p10] 하나님이 말씀하셨어. "내가 나의 모든 선함을 네 앞으로 지나가게 하고, 내 이름 '하나님'을 네 앞에서 선포할 거야. 내가 은혜 베풀고 싶은 사람한테 은혜 베풀고, 긍휼히 여기고 싶은 사람한테 긍휼을 베풀 거야."
+
+--- MSG [20] ---
+God continued, “But you may not see my face. No one can see me and live.”
+
+>>> TEEN:
+  [p11 badge=20] God continued, "But you can't see my face. No one can see me and live."
+  [KO p11] 하나님이 이어서 말씀하셨어. "근데 내 얼굴은 못 봐. 나를 보고 살 수 있는 사람은 아무도 없어."
+
+--- MSG [21-23] ---
+God said, “Look, here is a place right beside me. Put yourself on this rock. When my Glory passes by, I’ll put you in the cleft of the rock and cover you with my hand until I’ve passed by. Then I’ll take my hand away and you’ll see my back. But you won’t see my face.”
+
+>>> TEEN:
+  [p12 badge=21-23] God said, "Look, there's a spot right next to me. Stand on that rock. When my glory passes by, I'll hide you in a crack in the rock and cover you with my hand until I've passed. Then I'll move my hand, and you'll see my back. But you won't see my face."
+  [KO p12] 하나님이 말씀하셨어. "봐봐, 내 바로 옆에 자리가 있어. 이 바위 위에 서. 내 영광이 지나갈 때 내가 너를 바위 틈에 넣고 내가 지나갈 때까지 내 손으로 너를 덮어줄게. 그런 다음에 내 손을 치우면 네가 내 등은 볼 수 있을 거야. 하지만 내 얼굴은 못 볼 거임."

@@ -1,0 +1,202 @@
+[
+ {
+  "badges": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5-7",
+   "8"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L1357-1376)으로 6개 섹션 확정. 기존 9문단 중 MSG 문단 분할 3건 병합: '3'/'3'→'3', '4'/'4'→'4', '5-6'/'7'→'5-7' (merges[]+confirmations_needed[] 기록). EN 'officials'를 MSG 원어 'eunuchs'로 복원. 열린/이중 인용부호 정리"
+  ],
+  "chapter": 39,
+  "confirmations_needed": [
+   "ch39: 기존 '3'/'3' 대화 분리를 MSG 단일 섹션 '3'으로 병합 (MSG 문단 합병)",
+   "ch39: 기존 '4'/'4' 대화 분리를 MSG 단일 섹션 '4'로 병합 (MSG 문단 합병)",
+   "ch39: 기존 '5-6'/'7' 분리를 MSG 단일 섹션 '5-7'로 병합 (MSG 문단 합병)"
+  ],
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "join": [
+     2,
+     3
+    ]
+   },
+   {
+    "join": [
+     4,
+     5
+    ]
+   },
+   {
+    "new": "Then Isaiah dropped a heavy message on Hezekiah from the God-of-the-Angel-Armies: \"You need to listen up. I gotta warn you, the time is coming when everything in this palace, plus everything your ancestors saved up before you, is going to be hauled off to Babylon. God says there will be nothing left. Zero. And it's not just your stuff, but your sons too. Some of your own sons will be taken away, and they'll end up as eunuchs serving in the palace of the king of Babylon.\""
+   },
+   {
+    "keep": 8
+   }
+  ],
+  "ko_changes": [
+   "EN과 동일한 6문단으로 병합. KO는 이미 '내시' 포함 — join으로 연결"
+  ],
+  "ko_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "join": [
+     2,
+     3
+    ]
+   },
+   {
+    "join": [
+     4,
+     5
+    ]
+   },
+   {
+    "join": [
+     6,
+     7
+    ]
+   },
+   {
+    "keep": 8
+   }
+  ],
+  "ko_title": "바빌론 사절단",
+  "merges": [
+   {
+    "reason": "MSG ch39 '3'은 단일 섹션 (이사야 질문 + 히스기야 답변). 기존 '3'/'3' 대화 분리는 MSG 1:1에 어긋나므로 병합.",
+    "scope": "Isaiah 39:3",
+    "msg_ranges": [
+     "3"
+    ]
+   },
+   {
+    "reason": "MSG ch39 '4'는 단일 섹션 (이사야 질문 + 히스기야 답변). 기존 '4'/'4' 대화 분리는 MSG 1:1에 어긋나므로 병합.",
+    "scope": "Isaiah 39:4",
+    "msg_ranges": [
+     "4"
+    ]
+   },
+   {
+    "reason": "MSG ch39 '5-7'은 단일 섹션. 기존 '5-6'/'7' 분리는 MSG 1:1에 어긋나므로 병합.",
+    "scope": "Isaiah 39:5-7",
+    "msg_ranges": [
+     "5-7"
+    ]
+   }
+  ],
+  "title": "Hezekiah's Epic Flex Backfires"
+ },
+ {
+  "badges": [
+   "1-2",
+   "3-5",
+   "6-8",
+   "9-11",
+   "12-17",
+   "18-20",
+   "21-24",
+   "25-26",
+   "27-31"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L1382-1424)으로 9개 섹션 확정. 기존 '6'/'6-8' 대화 분리를 MSG 단일 섹션 '6-8'로 병합 (merges[]+confirmations_needed[] 기록). KO 인용부호 구조 정리 + 창작 prefix 정리. 내용 누락·창작 없음"
+  ],
+  "chapter": 40,
+  "confirmations_needed": [
+   "ch40: 기존 '6'/'6-8' 대화 분리를 MSG 단일 섹션 '6-8'으로 병합 (MSG 문단 합병)"
+  ],
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "join": [
+     2,
+     3
+    ]
+   },
+   {
+    "keep": 4
+   },
+   {
+    "keep": 5
+   },
+   {
+    "keep": 6
+   },
+   {
+    "keep": 7
+   },
+   {
+    "keep": 8
+   },
+   {
+    "keep": 9
+   }
+  ],
+  "ko_changes": [
+   "EN과 동일한 9문단으로 병합. KO[0] 인용부호 정리"
+  ],
+  "ko_ops": [
+   {
+    "new": "\"내 백성을 위로해 줘. 진짜로 위로해 줘.\" 너네 하나님이 말씀하셨대. \"예루살렘한테는 진짜 부드럽고 스윗하게 말해주고, 이제 벌 다 받았다고 확실하게 알려주래. 지은 죄? 그거 다 해결됐대. 용서받은 거임! 벌 받을 만큼 받았고, 아니 그보다 더 받았으니까 이제 다 끝났다고.\""
+   },
+   {
+    "keep": 1
+   },
+   {
+    "join": [
+     2,
+     3
+    ]
+   },
+   {
+    "keep": 4
+   },
+   {
+    "keep": 5
+   },
+   {
+    "keep": 6
+   },
+   {
+    "keep": 7
+   },
+   {
+    "keep": 8
+   },
+   {
+    "keep": 9
+   }
+  ],
+  "ko_title": "위로의 메시지",
+  "merges": [
+   {
+    "reason": "MSG ch40 '6-8'은 단일 섹션 ('Shout!'/'What shall I shout?' 포함). 기존 '6'/'6-8' 대화 분리는 MSG 1:1에 어긋나므로 병합.",
+    "scope": "Isaiah 40:6-8",
+    "msg_ranges": [
+     "6-8"
+    ]
+   }
+  ],
+  "title": "God's Ultimate Power Flex"
+ }
+]

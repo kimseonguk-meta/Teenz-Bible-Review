@@ -1,0 +1,134 @@
+[
+ {
+  "badges": [
+   "1-2",
+   "3-4",
+   "5-7",
+   "8-10"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L1184-1199)으로 4개 섹션 확정. 기존 배지 '3'/'4-6'/'7-10'을 MSG 섹션에 맞춰 '3-4'/'5-7'/'8-10'으로 수정. EN[2]에 누락된 MSG v7 'thirsty ground a splashing fountain' 복원"
+  ],
+  "chapter": 35,
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "new": "When He shows up, it’s gonna be amazing. People who were blind will be able to see, and those who were deaf will hear everything. People who couldn't walk will be jumping around like deer, and those who couldn't speak will be singing their hearts out. Water will start flowing in the driest places, turning hot sand into a cool, refreshing oasis, and thirsty ground into a splashing fountain. Even the wild animals will have plenty to drink, and the dead grasslands will become super lush."
+   },
+   {
+    "keep": 3
+   }
+  ],
+  "ko_changes": [
+   "EN과 동일한 4문단. KO는 이미 MSG v7 '목마른 땅 샘' 포함 — 배지만 EN에 맞춰 수정"
+  ],
+  "ko_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   }
+  ],
+  "ko_title": "사막에 꽃이",
+  "title": "The Ultimate Glo-Up is Coming!"
+ },
+ {
+  "badges": [
+   "1-3",
+   "4-7",
+   "8-9",
+   "10",
+   "11",
+   "12",
+   "13-15",
+   "16-20",
+   "21",
+   "22"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L1203-1239)으로 10개 섹션 확정. 기존 '12-13'/'14-15'/'16-19'를 '12'/'13-15'/'16-20'으로 수정 (v13은 '히브리어로 크게 외쳤다' 서술이므로 13-15와 같은 문단, v20은 '예루살렘을 내 손에서 구해낼 수 있냐?'로 16-20 문단에 이미 포함). 내용 누락·창작 없음"
+  ],
+  "chapter": 36,
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   },
+   {
+    "keep": 4
+   },
+   {
+    "keep": 5
+   },
+   {
+    "keep": 6
+   },
+   {
+    "keep": 7
+   },
+   {
+    "keep": 8
+   },
+   {
+    "keep": 9
+   }
+  ],
+  "ko_changes": [
+   "EN과 동일한 10문단, 배지 수정"
+  ],
+  "ko_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   },
+   {
+    "keep": 4
+   },
+   {
+    "keep": 5
+   },
+   {
+    "keep": 6
+   },
+   {
+    "keep": 7
+   },
+   {
+    "keep": 8
+   },
+   {
+    "keep": 9
+   }
+  ],
+  "ko_title": "산헤립의 침공",
+  "title": "Assyria's King Tries to Cancel Hezekiah"
+ }
+]

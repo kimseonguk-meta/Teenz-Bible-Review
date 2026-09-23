@@ -1,0 +1,69 @@
+# EXODUS 37 — God's GOATED Gear: The Ultimate Unboxing
+TEEN paras: 9 | badges: ['1-5', '6-7', '8-9', '10-15', '16', '17-23', '24', '25-28', '29']
+KO paras: 9 | badges: ['1-5', '6-7', '8-9', '10-15', '16', '17-23', '24', '25-28', '29']
+MSG sections: 9 | ranges: ['1-5', '6', '7-9', '10-15', '16', '17-23', '24', '25-28', '29']
+
+--- MSG [1-5] ---
+Bezalel made the Chest using acacia wood: He made it three and three-quarters feet long and two and a quarter feet wide and deep. He covered it inside and out with a veneer of pure gold and made a molding of gold all around it. He cast four gold rings and attached them to its four feet, two rings on one side and two rings on the other. He made poles from acacia wood, covered them with a veneer of gold, and inserted the poles for carrying the Chest into the rings on the sides.
+
+>>> TEEN:
+  [p0 badge=1-5] So this guy Bezalel built the Ark of the Covenant using acacia wood. It was almost four feet long and a little over two feet wide and deep. He totally decked it out, covering the inside and outside with pure gold and adding a gold trim all around. Then he made four gold rings and attached them to its four feet, two on each side. He also made some poles from acacia wood, covered them in gold too, and slid them into the rings so they could carry the Ark around.
+  [KO p0] 브살렐이라는 사람이 아카시아 나무로 궤를 만들었대. 길이가 1.7미터, 너비랑 깊이가 1미터 정도 됐대. 안팎으로 순금으로 싹 다 도배하고, 금으로 테두리까지 둘렀다는 거임. 그리고 금으로 고리 네 개를 만들어서 네 발에다 달았는데, 한쪽에 두 개씩. 또 아카시아 나무로 채를 만들어서 금으로 싹 감싼 다음에, 궤 옆에 있는 고리에 껴서 들고 다닐 수 있게 했대.
+
+--- MSG [6] ---
+Next he made a lid of pure gold for the Chest, an Atonement-Cover, three and three-quarters feet long and two and a quarter feet wide.
+
+>>> TEEN:
+  [p1 badge=6-7] Next up, he made a solid gold lid for the Ark, called the Atonement-Cover. It was the same size as the Ark, almost four feet long and a bit over two feet wide.
+  [KO p1] 그 다음엔 순금으로 궤 뚜껑을 만들었는데, 속죄판이라고 부르는 거임. 길이 1.7미터에 너비 1미터. 궤랑 사이즈가 똑같았대.
+
+--- MSG [7-9] ---
+He sculpted two winged angel-cherubim out of hammered gold for the ends of the Atonement-Cover, one angel at one end, one angel at the other. He made them of one piece with the Atonement-Cover. The angels had outstretched wings and appeared to hover over the Atonement-Cover, facing one another but looking down on the Atonement-Cover.
+
+>>> TEEN:
+  [p1 badge=6-7] Next up, he made a solid gold lid for the Ark, called the Atonement-Cover. It was the same size as the Ark, almost four feet long and a bit over two feet wide.
+  [KO p1] 그 다음엔 순금으로 궤 뚜껑을 만들었는데, 속죄판이라고 부르는 거임. 길이 1.7미터에 너비 1미터. 궤랑 사이즈가 똑같았대.
+  [p2 badge=8-9] Then he sculpted two awesome winged angels, called cherubim, out of hammered gold. He put one at each end of the Atonement-Cover, and they were all one piece with the lid. The angels had their wings spread out like they were about to take off, hovering over the cover. They were facing each other but looking down at the lid, which is pretty cool.
+  [KO p2] 그리고 망치로 금을 두드려서 날개 달린 천사, 그러니까 그룹을 두 개 만들어서 속죄판 양쪽 끝에 뒀대. 한쪽 끝에 천사 하나씩. 근데 이게 놀라운 게, 속죄판이랑 하나로 이어진 조각이었던 거임. 천사들은 날개를 쫙 펴고 속죄판 위를 나는 것처럼 보였는데, 서로 마주보면서 속죄판을 내려다보는 모습이었대.
+
+--- MSG [10-15] ---
+He made the Table from acacia wood. He made it three feet long, one and a half feet wide and two and a quarter feet high. He covered it with a veneer of pure gold and made a molding of gold all around it. He made a border a handbreadth wide all around it and a rim of gold for the border. He cast four rings of gold for it and attached the rings to the four legs parallel to the tabletop. They will serve as holders for the poles used to carry the Table. He made the poles of acacia wood and covered them with a veneer of gold. They will be used to carry the Table.
+
+>>> TEEN:
+  [p3 badge=10-15] After that, he built the Table, also from acacia wood. It was three feet long, a foot and a half wide, and a little over two feet high. He gave it the gold treatment too, covering it with pure gold and adding a gold trim. He even made a border around it and put a gold rim on that. Then he made four gold rings and attached them to the legs, so they could slide poles through them to carry the Table. And you guessed it, the poles were made of acacia wood and covered in gold.
+  [KO p3] 그 다음엔 아카시아 나무로 상을 만들었대. 길이가 1.4미터, 너비가 0.7미터, 높이가 1미터 정도. 이것도 순금으로 싹 다 도배하고 금으로 테두리를 둘렀대. 그리고 손바닥 너비만 한 턱을 만들고, 그 턱에도 금테를 둘렀다는 거임. 금으로 고리 네 개를 만들어서 상다리 네 개에 달았는데, 상판이랑 평행하게. 이건 상을 들고 다닐 때 쓰는 채를 끼우는 용도였대. 채도 아카시아 나무로 만들어서 금으로 싹 감쌌고, 상을 들고 다닐 때 썼대.
+
+--- MSG [16] ---
+Out of pure gold he made the utensils for the Table: its plates, bowls, jars, and jugs used for pouring.
+
+>>> TEEN:
+  [p4 badge=16] He didn't stop there. He made all the dishes for the Table out of pure gold – plates, bowls, jars, and jugs for pouring drinks.
+  [KO p4] 순금으로 상에서 쓰는 그릇들도 만들었는데, 접시, 사발, 단지, 붓는 데 쓰는 주전자 같은 것들이었대.
+
+--- MSG [17-23] ---
+He made a Lampstand of pure hammered gold, making its stem and branches, cups, calyxes, and petals all of one piece. It had six branches, three from one side and three from the other; three cups shaped like almond blossoms with calyxes and petals on one branch, three on the next, and so on—the same for all six branches. On the main stem of the Lampstand, there were four cups shaped like almonds, with calyxes and petals, a calyx extending from under each pair of the six branches. The entire Lampstand with its calyxes and stems was fashioned from one piece of hammered pure gold. He made seven of these lamps with their candle snuffers, all out of pure gold.
+
+>>> TEEN:
+  [p5 badge=17-23] Then he made a Lampstand out of pure hammered gold. The whole thing—stem, branches, cups, and all the little details—was made from one single piece. It had six branches, three on each side. Each branch had three cups shaped like almond blossoms with all the fancy details. The main stem had four cups like that. The entire Lampstand was just one solid piece of hammered gold. He also made seven lamps and all the tools for them out of pure gold.
+  [KO p5] 그리고 순금을 두드려서 등잔대를 만들었는데, 줄기랑 가지, 잔, 꽃받침, 꽃잎까지 전부 한 덩어리로 만들었대. 가지가 여섯 개 있었는데, 한쪽에서 세 개, 다른 쪽에서 세 개. 가지 하나에 꽃받침이랑 꽃잎이 달린 살구꽃 모양 잔이 세 개씩 있었고, 여섯 가지 전부 다 똑같았대. 등잔대 중심 줄기에는 살구꽃 모양 잔이 네 개 있었고, 꽃받침이랑 꽃잎도 있었대. 여섯 가지가 두 개씩 짝을 이루는데, 그 아래마다 꽃받침이 하나씩 튀어나와 있었대. 등잔대 전체랑 꽃받침, 줄기까지 전부 다 순금을 두드려서 한 덩어리로 만들었다는 거임. 등잔 일곱 개랑 심지 자르는 가위도 전부 순금으로 만들었대.
+
+--- MSG [24] ---
+He used a seventy-five-pound brick of pure gold to make the Lampstand and its accessories.
+
+>>> TEEN:
+  [p6 badge=24] Get this: he made its seven lamps, plus the wick trimmers and trays, all out of pure gold. He used a whole seventy-five-pound brick of pure gold to make the Lampstand and all its accessories. That's some serious bling.
+  [KO p6] 진짜 놀라운 게, 순금 34킬로그램짜리 벽돌 하나를 통째로 써서 등잔대랑 거기에 딸린 모든 걸 만들었대.
+
+--- MSG [25-28] ---
+He made an Altar for burning incense from acacia wood. He made it a foot and a half square and three feet high, with its horns of one piece with it. He covered it with a veneer of pure gold, its top, sides, and horns, and made a gold molding around it with two rings of gold beneath the molding. He placed the rings on the two opposing sides to serve as holders for poles by which it will be carried. He made the poles of acacia wood and covered them with a veneer of gold.
+
+>>> TEEN:
+  [p7 badge=25-28] Next, he made an Altar for burning incense from acacia wood. It was a square, a foot and a half on each side, and three feet high. The horns on the corners were part of the altar itself. He covered the whole thing in pure gold—top, sides, and horns—and put a gold molding around it. He added two gold rings on opposite sides to hold the poles for carrying it. And yup, the poles were acacia wood covered in gold.
+  [KO p7] 그리고 분향할 제단을 아카시아 나무로 만들었대. 가로세로 45센티미터 정사각형에 높이는 90센티미터. 뿔도 제단이랑 하나로 이어진 거였대. 윗면, 옆면, 뿔까지 싹 다 순금으로 도배하고, 금테를 둘렀대. 테두리 아래에 금 고리 두 개를 만들었는데, 마주 보는 양쪽에 달아서 제단을 들고 다닐 때 쓰는 채를 끼우는 용도로 썼대. 채도 아카시아 나무로 만들어서 금으로 싹 감쌌대.
+
+--- MSG [29] ---
+He also prepared with the art of a perfumer the holy anointing oil and the pure aromatic incense.
+
+>>> TEEN:
+  [p8 badge=29] Finally, like a master perfumer, he mixed up the holy anointing oil and the pure, fragrant incense.
+  [KO p8] 마지막으로 조향사가 향수 만들듯이 거룩한 기름이랑 순수한 향을 만들었대.

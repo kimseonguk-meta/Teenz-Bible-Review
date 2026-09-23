@@ -1,0 +1,192 @@
+{
+  "chapter": 13,
+  "title": "The End of the World Survival Guide",
+  "paragraphs": [
+    "§Doomsday Deceivers",
+    "As Jesus was walking away from the Temple, one of his disciples pointed and said, \"Teacher, seriously, check out that stonework! Those massive buildings!\"",
+    "Jesus replied, \"You're really impressed by all this fancy architecture, huh? Well, guess what? Not a single stone in this whole place is going to be left standing. It's all gonna end up in a huge pile of rubble.\"",
+    "Later, Jesus was chilling on Mount Olives, with a perfect view of the Temple. Peter, James, John, and Andrew pulled him aside and asked, \"Spill it, when is all this going to happen? What kind of sign should we look for that things are totally coming to a head?\"",
+    "Jesus started by saying, \"Listen up, watch out for people who try to trick you with 'doomsday' prophecies. A lot of leaders are going to pop up with fake identities, claiming, 'I'm the One.' They'll fool a ton of people.\"",
+    "When you start hearing about wars and rumors of wars, don't lose your cool and don't panic. That's just how history goes, it's routine, and it's not a sign that the end is here yet. Nations will fight nations, and rulers will fight rulers, over and over again. There will be earthquakes in different places, and famines.",
+    "But honestly, all those things are nothing compared to the really intense stuff that's still coming.\"",
+    "\"And seriously, heads up! They're going to drag you into court. And then things will go from bad to worse, like a total dog-eat-dog situation, with everyone coming after you just because you're associated with my name.",
+    "But you're put in those situations to be like watchmen for the truth. The Message (the Good News about me) has to be preached all over the world.\"",
+    "\"When they bring you into court after you've been betrayed, don't stress about what you're going to say. When the time comes, just speak what's genuinely on your heart—the Holy Spirit will actually speak through you and make his witness.\"",
+    "\"It's going to get so bad that brother will kill brother, fathers will kill their children, and children will even kill their parents. There's no telling who will hate you because of me.",
+    "But you gotta stick with it—that's what's required. Hang in there until the very end. You won't regret it; you'll be saved.\"",
+    "§Run for the Hills",
+    "\"But get ready to bolt when you see 'the monster of desecration' set up where it should never be. If you're reading this, make sure you understand what I'm talking about.\"",
+    "If you're living in Judea at that time, run for the hills! If you're working in the yard, don't even go back to the house to grab anything. If you're out in the field, don't go back to get your coat.",
+    "Pregnant and nursing mothers are going to have an especially hard time. Hope and pray that this doesn't happen in the middle of winter.\"",
+    "\"These are going to be incredibly tough days—nothing like it has ever happened from the moment God created the world right up until now. And there will never be anything like it again.",
+    "If he just let those days of trouble play out, no one would survive. But because of God's chosen people, the ones he personally picked, he has already stepped in to shorten that time.\"",
+    "§No One Knows the Day or Hour",
+    "\"If anyone tries to get your attention, yelling, 'Hey, here's the Messiah!' or points, 'There he is!'—don't fall for it. Fake Messiahs and lying preachers are going to pop up everywhere.",
+    "Their impressive credentials and their mind-blowing performances will totally trick even those who should know better. So watch out. I'm giving you a heads-up now.\"",
+    "\"After those hard times, the sun will start to fade out, the moon will get cloudy, stars will fall out of the sky, and even the cosmic powers will tremble.\"",
+    "\"And then, everyone will see the Son of Man arrive in a super grand way, his coming filling the sky—no one will miss it! He'll send out the angels; they will gather his chosen people from all four directions, from one end of the earth to the other.\"",
+    "\"Learn a lesson from the fig tree. The moment you notice its buds forming, that first tiny hint of green, you know summer is just around the corner.",
+    "And it's the same with you. When you see all these things I've described, you'll know he is right at the door. Don't take this lightly.",
+    "I'm not just saying this for some generation way in the future, but for this one, too—these things will actually happen. The sky and earth will eventually wear out; but my words won't ever wear out.\"",
+    "\"But the exact day and hour? No one knows that—not even the angels in heaven, not even the Son. Only the Father knows. So stay super alert, because you don't know the exact schedule.\"",
+    "It's like a guy who goes on a trip, leaves his house, and puts his servants in charge. Each one gets a task, and he tells the gatekeeper to stay awake and watch.",
+    "So, stay at your post, watching. You have no idea when the homeowner is coming back, whether it's evening, midnight, when the rooster crows, or in the morning.",
+    "You don't want him showing up unexpectedly and finding you asleep on the job. I'm saying it to you, and I'm saying it to everyone: Stay at your post. Keep watch.\""
+  ],
+  "verseRanges": [
+    "1",
+    "1",
+    "2",
+    "3-4",
+    "5",
+    "6-7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "14",
+    "15",
+    "16-17",
+    "19-20",
+    "19-20",
+    "21",
+    "21",
+    "22-23",
+    "24-25",
+    "26-27",
+    "28",
+    "29-30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35-37"
+  ],
+  "msg_ranges": [
+    "1",
+    "1",
+    "2",
+    "3-4",
+    "5",
+    "6-7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "14",
+    "15",
+    "16-17",
+    "19-20",
+    "19-20",
+    "21",
+    "21",
+    "22-23",
+    "24-25",
+    "26-27",
+    "28",
+    "29-30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35-37"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "5-8",
+      "paras": [
+        5,
+        6,
+        7
+      ],
+      "note": "MSG 단일 문단(5-8)을 EN 가독성을 위해 3개 문단으로 분리"
+    },
+    {
+      "msg_range": "9-10",
+      "paras": [
+        8,
+        9
+      ],
+      "note": "MSG 단일 문단(9-10)을 EN 가독성을 위해 2개 문단으로 분리"
+    },
+    {
+      "msg_range": "12-13",
+      "paras": [
+        11,
+        12
+      ],
+      "note": "MSG 단일 문단(12-13)을 EN 가독성을 위해 2개 문단으로 분리"
+    },
+    {
+      "msg_range": "14-18",
+      "paras": [
+        14,
+        15,
+        16
+      ],
+      "note": "MSG 단일 문단(14-18)을 EN 가독성을 위해 3개 문단으로 분리"
+    },
+    {
+      "msg_range": "21-23",
+      "paras": [
+        20,
+        21
+      ],
+      "note": "MSG 단일 문단(21-23)을 EN 가독성을 위해 2개 문단으로 분리"
+    },
+    {
+      "msg_range": "28-31",
+      "paras": [
+        24,
+        25,
+        26
+      ],
+      "note": "MSG 단일 문단(28-31)을 EN 가독성을 위해 3개 문단으로 분리"
+    },
+    {
+      "msg_range": "32-37",
+      "paras": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "note": "MSG 단일 문단(32-37)을 EN 가독성을 위해 4개 문단으로 분리"
+    },
+    {
+      "msg_range": "19",
+      "paras": [
+        17,
+        18
+      ],
+      "note": "MSG 원문이 19절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    },
+    {
+      "msg_range": "20",
+      "paras": [
+        17,
+        18
+      ],
+      "note": "MSG 원문이 20절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    }
+  ],
+  "changes": [
+    "Mark 13장: MSG 문단 구조 기준으로 배지 재구성 및 § 헤더 추가",
+    "EN 5번 문단: MSG에 없는 Messiah 해석 삽입 삭제",
+    "EN 14번 문단(배지 '14'): MSG에 없는 해석 삽입 '(a terrible, unholy thing)' 삭제",
+    "EN 17번 문단 배지 '18'→'19-20': MSG 문단 구분 기준('These are going to be hard days'는 MSG 19-20절 내용)에 맞춤",
+    "EN 22번 문단(배지 '24-25'): MSG에 없는 해석 삽입 '(the spiritual forces that influence the universe)' 삭제",
+    "EN 23번 문단(배지 '26-27'): MSG에 없는 해석 삽입 '(that's me)' 삭제",
+    "EN 25번 문단(배지 '29-30'): MSG에 없는 해석 삽입 '(meaning me, or my coming)' 삭제",
+    "EN 27번 문단(배지 '32'): MSG에 없는 해석 삽입 '(meaning me)' 삭제"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

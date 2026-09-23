@@ -1,0 +1,32 @@
+# EXODUS 27 — God's Holy Hangout: Altar & Courtyard DIY
+TEEN paras: 4 | badges: ['1-8', '9-11', '12-19', '20-21']
+KO paras: 4 | badges: ['1-8', '9-11', '12-19', '20-21']
+MSG sections: 4 | ranges: ['1-8', '9-11', '12-19', '20-21']
+
+--- MSG [1-8] ---
+“Make an Altar of acacia wood. Make it seven and a half feet square and four and a half feet high. Make horns at each of the four corners. The horns are to be of one piece with the Altar and covered with a veneer of bronze. Make buckets for removing the ashes, along with shovels, basins, forks, and fire pans. Make all these utensils from bronze. Make a grate of bronze mesh and attach bronze rings at each of the four corners. Put the grate under the ledge of the Altar at the halfway point of the Altar. Make acacia wood poles for the Altar and cover them with a veneer of bronze. Insert the poles through the rings on the two sides of the Altar for carrying. Use boards to make the Altar, keeping the interior hollow.
+
+>>> TEEN:
+  [p0 badge=1-8] Alright, so first up, you're gonna build an altar out of acacia wood. Make it 7.5 feet square and 4.5 feet high. It needs to have horns at each of the four corners, all one piece with the altar, and then cover the whole thing in bronze. You'll also need some gear: bronze buckets for the ashes, shovels, basins, forks, and fire pans. Make a bronze mesh grate and put bronze rings on the four corners. This grate goes under the altar's ledge, right at the halfway point. You'll also need some acacia wood poles for carrying the altar, and you'll cover those in bronze too. Just slide the poles through the rings on the sides of the altar when you need to move it. And hey, make sure the altar is hollo
+  [KO p0] 자, 먼저 아카시아 나무로 제단을 만들래. 가로세로 7.5피트, 높이는 4.5피트로 만들고, 네 귀퉁이에 뿔을 만드는데, 제단이랑 한 조각이어야 한대. 그리고 전부 놋으로 덮으래. 재 버리는 통, 삽, 대야, 갈고리, 불 옮기는 그릇도 다 놋으로 만들라고 하셨어. 놋으로 그물 모양 받침을 만들어서 네 귀퉁이에 놋 고리를 달래. 이 받침은 제단 선반 아래, 제단 중간 높이에 두는 거야. 제단을 옮길 때 쓸 아카시아 나무 막대기도 만들어서 놋으로 덮고, 제단 양쪽 고리에 끼워서 들고 다닐 수 있게 하래. 제단 내부는 비워두고 널빤지로 만들래.
+
+--- MSG [9-11] ---
+“Make a Courtyard for The Dwelling. The south side is to be 150 feet long. The hangings for the Courtyard are to be woven from fine twisted linen, with their twenty posts, twenty bronze bases, and fastening hooks and bands of silver. The north side is to be exactly the same.
+
+>>> TEEN:
+  [p1 badge=9-11] Next, you're gonna make a courtyard for the Dwelling. The south side should be 150 feet long, with hangings made of fine twisted linen. It'll have twenty posts, twenty bronze bases, and silver hooks and bands. The north side is gonna be the exact same.
+  [KO p1] 다음은 성막 뜰을 만들 차례야. 남쪽은 길이가 150피트. 뜰의 휘장은 가늘게 꼰 베실로 짜서 만들고, 기둥 스무 개, 받침 스무 개는 놋으로, 갈고리랑 띠는 은으로 만들래. 북쪽도 남쪽이랑 똑같이 만들면 된대.
+
+--- MSG [12-19] ---
+“For the west end of the Courtyard you will need seventy-five feet of hangings with their ten posts and bases. Across the seventy-five feet at the front, or east end, you will need twenty-two and a half feet of hangings, with their three posts and bases on one side and the same for the other side. At the door of the Courtyard make a screen thirty feet long woven from blue, purple, and scarlet stuff, with fine twisted linen, embroidered by a craftsman, and hung on its four posts and bases. All the posts around the Courtyard are to be banded with silver, with hooks of silver and bases of bronze. The Courtyard is to be 150 feet long and seventy-five feet wide. The hangings of fine twisted linen set on their bronze bases are to be seven and a half feet high. All the tools used for setting up The Holy Dwelling, including all the pegs in it and the Courtyard, are to be made of bronze.
+
+>>> TEEN:
+  [p2 badge=12-19] For the west end of the courtyard, you'll need 75 feet of hangings with ten posts and bases. Across the 75 feet at the front, or east end, you'll need 22.5 feet of hangings, with their three posts and bases on one side and the same for the other side. At the door of the Courtyard make a screen thirty feet long woven from blue, purple, and scarlet stuff, with fine twisted linen, embroidered by a craftsman, and hung on its four posts and bases. All the posts around the Courtyard are to be banded with silver, with hooks of silver and bases of bronze. The Courtyard is to be 150 feet long and seventy-five feet wide. The hangings of fine twisted linen set on their bronze bases are to be seven and 
+  [KO p2] 뜰 서쪽 끝은 75피트 길이의 휘장이랑 기둥 열 개, 받침 열 개가 필요하대. 앞쪽, 그러니까 동쪽 75피트 너비의 입구에는 한쪽에 22.5피트 길이의 휘장이랑 기둥 세 개, 받침 세 개를 두고, 다른 쪽도 똑같이 만들래. 뜰 입구에는 30피트 길이의 막을 치는데, 파란색, 보라색, 빨간색 실이랑 가늘게 꼰 베실로 수를 놓아서 만들고, 기둥 네 개랑 받침 네 개에 걸어두래. 뜰 주위의 모든 기둥은 은으로 띠를 두르고, 갈고리는 은, 받침은 놋으로 만들래. 뜰은 길이가 150피트, 너비가 75피트야. 놋 받침 위에 세운 가늘게 꼰 베실로 만든 휘장의 높이는 7.5피트여야 한대. 성막을 세울 때 쓰는 모든 기구랑 성막과 뜰
+
+--- MSG [20-21] ---
+“Now, order the Israelites to bring you pure, clear olive oil for light so that the lamps can be kept burning. In the Tent of Meeting, the area outside the curtain that veils The Testimony, Aaron and his sons will keep this light burning from evening until morning before God. This is to be a permanent practice down through the generations for Israelites.”
+
+>>> TEEN:
+  [p3 badge=20-21] Now, order the Israelites to bring you pure, clear olive oil for light so that the lamps can be kept burning. In the Tent of Meeting, the area outside the curtain that veils The Testimony, Aaron and his sons will keep this light burning from evening until morning before God. This is to be a permanent practice down through the generations for Israelites.
+  [KO p3] 이제 이스라엘 백성들한테 등불을 밝힐 순수한 감람유를 가져오라고 명령해서, 등불이 계속 타오르게 하래. 아론과 그의 아들들은 증거궤를 가린 휘장 바깥에 있는 만남의 장막에서, 저녁부터 아침까지 하나님 앞에서 이 등불이 꺼지지 않게 지켜야 한대. 이건 이스라엘 자손들이 대대로 지켜야 할 영원한 규칙인 거임.

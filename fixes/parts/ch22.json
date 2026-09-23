@@ -1,0 +1,125 @@
+{
+  "chapter": 22,
+  "title": "Party Crashers & Gotcha Questions",
+  "paragraphs": [
+    "§ The Story of the Wedding Banquet",
+    "Jesus dropped another parable on them. He said, \"God's kingdom is like a king who threw a wedding banquet for his son. He sent out servants to call in all the invited guests — and they wouldn't come!\"",
+    "He sent out another round of servants with the message: 'Look, everything is on the table, the prime rib is ready for carving. Come to the feast!' But the guests couldn't be bothered. One went off to weed his garden, another to work in his shop. The rest, with nothing better to do, beat up the messengers — and then killed them. The king was outraged. He sent his soldiers to destroy those thugs and level their city.",
+    "Then he told his servants, 'We have a wedding banquet all prepared but no guests. The ones I invited weren't up to it. Go out into the busiest intersections in town and invite anyone you find to the banquet.' The servants went out on the streets and rounded up everyone they laid eyes on, good and bad, regardless — and the wedding hall was packed. But when the king entered and looked over the scene, he spotted a man who wasn't properly dressed. 'Friend,' he said, 'how dare you come in here looking like that!' The man was speechless. Then the king told his servants, 'Get him out of here — fast. Tie him up and ship him to hell, and make sure he doesn't get back in.' That's what Jesus meant when he said, 'Many get invited; only a few make it.'",
+    "§ Paying Taxes",
+    "That's when the Pharisees plotted a way to trap him into saying something damaging. They sent their disciples, with a few of Herod's followers mixed in, to ask, 'Teacher, we know you've got integrity — you teach God's way accurately, you don't care about popular opinion, and you don't play favorites with your students. So tell us straight: is it right to pay taxes to Caesar or not?' Jesus knew they were up to no good. 'Why are you playing these games with me? Why are you trying to trap me? Got a coin? Let me see it.' They handed him a silver coin.",
+    "'This engraving — who does it look like? And whose name is on it?' 'Caesar's,' they said. 'Then give Caesar what is his, and give God what is his.' The Pharisees were speechless. They went off shaking their heads.",
+    "§ Marriage and Resurrection",
+    "That same day, some Sadducees — the party that says there's no such thing as resurrection — came at him with a wild hypothetical. 'Teacher, Moses said that if a man dies childless, his brother is obligated to marry the widow and father a child with her. So here's a case: there were seven brothers. The first brother married her and died with no kids, so his wife passed to his brother. The second brother also left her childless, then the third — on and on, all seven. Finally the wife died. Now here's our question: at the resurrection, whose wife is she? She was a wife to each of them.'",
+    "Jesus answered, 'You're off base on two counts: you don't know what God said, and you don't know how God works. At the resurrection we're beyond marriage. Like the angels, all our ecstasies and intimacies then will be with God. And regarding your little theory about whether the dead are raised — don't you read your Bibles? The grammar is clear: God says, 'I am — not *was* — the God of Abraham, the God of Isaac, the God of Jacob.' The living God defines himself not as the God of dead men, but of the *living*.' Hearing this exchange, the crowd was seriously impressed.",
+    "§ The Most Important Command",
+    "When the Pharisees heard how he had bested the Sadducees, they gathered their forces for another assault. One of their religion scholars spoke for them, posing a question they hoped would show him up: 'Teacher, which command in God's Law is the most important?' Jesus said, ''Love the Lord your God with all your passion and prayer and intelligence.' This is the most important, the first on any list. But there's a second to set alongside it: 'Love others as well as you love yourself.' These two commands are pegs — everything in God's Law and the Prophets hangs from them.'",
+    "§ David's Son and Master",
+    "As the Pharisees were regrouping, Jesus caught them off balance with his own test question: 'What do you think about the Christ? Whose son is he?' 'David's son,' they said. Jesus replied, 'Well, if the Christ is David's son, how do you explain that David, under inspiration, named Christ his 'Master'? God said to my Master, 'Sit here at my right hand until I make your enemies your footstool.' Now if David calls him 'Master,' how can he at the same time be his son?' That stumped them, literalists that they were. Unwilling to risk losing face again in one of these public verbal exchanges, they quit asking questions for good."
+  ],
+  "verseRanges": [
+    "1-3",
+    "1-3",
+    "4-7",
+    "8-14",
+    "15-19",
+    "15-19",
+    "20-22",
+    "23-28",
+    "23-28",
+    "29-33",
+    "34-40",
+    "34-40",
+    "41-46",
+    "41-46"
+  ],
+  "msg_ranges": [
+    "1-3",
+    "4",
+    "5-7",
+    "8-10",
+    "11-13",
+    "14",
+    "15-17",
+    "18-19",
+    "20",
+    "21",
+    "22",
+    "23-28",
+    "29-33",
+    "34-36",
+    "37-40",
+    "41-42",
+    "43-45",
+    "46"
+  ],
+  "merges": [
+    {
+      "para": 2,
+      "msg_ranges": [
+        "4",
+        "5-7"
+      ],
+      "note": "MSG 4절(별도 문단)과 5-7을 하나의 EN 문단으로 합쳐 서사 흐름 유지"
+    },
+    {
+      "para": 3,
+      "msg_ranges": [
+        "8-10",
+        "11-13",
+        "14"
+      ],
+      "note": "초대 손님(8-10) + 예복 없는 손님(11-13) + 결론(14)을 하나의 EN 문단으로 합쳐 비유 완결성 유지"
+    },
+    {
+      "para": 5,
+      "msg_ranges": [
+        "15-17",
+        "18-19"
+      ],
+      "note": "세금 함정 질문과 예수의 응수(동전 요청)를 하나의 대화 비트로 합침"
+    },
+    {
+      "para": 6,
+      "msg_ranges": [
+        "20",
+        "21",
+        "22"
+      ],
+      "note": "한 줄짜리 MSG 세 문단(동전 각인, 결론, 반응)을 하나의 EN 문단으로 합침"
+    },
+    {
+      "para": 11,
+      "msg_ranges": [
+        "34-36",
+        "37-40"
+      ],
+      "note": "가장 큰 계명 질문과 예수의 답을 하나의 대화 비트로 합침"
+    },
+    {
+      "para": 13,
+      "msg_ranges": [
+        "41-42",
+        "43-45",
+        "46"
+      ],
+      "note": "다윗의 아들/주님 질문 공방을 하나의 EN 문단으로 합침"
+    }
+  ],
+  "splits": [],
+  "changes": [
+    "4절: MSG 직접 인용 '모든 것이 식탁 위에, prime rib은 써는 중. 잔치에 오라' 복원",
+    "11-13절: 왕의 명령 '여기서 내보내라 — 빨리. 묶어서 지옥으로 보내고, 다시는 들어오지 못하게 하라' 복원(MSG 원문 그대로)",
+    "15-17절: '신의 도를 정확히 가르치고, 인기 따위 신경 안 쓰고, 제자들에게 아부하지 않는다' 아첨 부분 복원",
+    "18-19절 말미 '은동전을 건넴' 문장을 15-19 문단으로 이동 — 기존 15-18/19-22 배지가 19절에서 겹치던 것을 수정(15-19 / 20-22)",
+    "20-22절: '설교 바리새인들은 말을 잃었다. 고개를 저으며 떠났다' 복원",
+    "23-28절: '아내는 형에게 넘어가고 자식을 낳는다' 및 7형제 연속 결혼 서사 복원",
+    "29-33절: '두 가지에서 틀렸다: 하나님이 무슨 말씀하셨는지도, 하나님이 어떻게 일하시는지도 모른다' + '천사처럼, 그때의 모든 기쁨과 친밀함은 하나님과 함께' + '성경을 안 읽느냐? 문법이 명확하다: 하나님은 '나는 — 였다 가 아니라 — 아브라함의 하나님'' + '살아 계신 하나님은 죽은 자의 하나님이 아니라 산 자의 하나님' 복원",
+    "34-40절: 예수 인용을 MSG 근거로 조정 — '네 열정과 기도와 지성을 다해서' + '이 두 계명은 팻 같아서 모든 율법과 선지자가 거기에 걸려 있다'",
+    "41-46절: '그들은 문자주의자들이었다' + '공개 논쟁에서 또 체면을 구길 위험을 무릅쓰기 싫어 질문을 그만뒀다' 복원",
+    "MSG 섹션 헤더 5개(§ 문단)를 추가하고 뒤따르는 본문 문단과 동일 배지 부여"
+  ],
+  "confirmations_needed": [
+    "EN para2(MSG 4+5-7), para3(MSG 8-10+11-13+14), para5(MSG 15-17+18-19), para6(MSG 20+21+22), para11(MSG 34-36+37-40), para13(MSG 41-42+43-45+46)의 merge 승인 요청 — 짧은 MSG 문단들을 주제별로 묶음"
+  ]
+}

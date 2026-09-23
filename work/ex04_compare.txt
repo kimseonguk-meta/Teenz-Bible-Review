@@ -1,0 +1,136 @@
+# EXODUS 4 — Moses' Lame Excuses & God's Epic Comebacks
+TEEN paras: 20 | badges: ['1', '2', '2', '3', '4-5', '6', '7', '8-9', '10', '11-12', '13', '14-17', '18', '18', '19', '20', '21-23', '24-26', '27-28', '28-31']
+KO paras: 20 | badges: ['1', '2', '2', '3', '4-5', '6', '7', '8-9', '10', '11-12', '13', '14-17', '18', '18', '19', '20', '21-23', '24-26', '27-28', '28-31']
+MSG sections: 18 | ranges: ['1', '2', '3', '4-5', '6', '7', '8-9', '10', '11-12', '13', '14-17', '18', '19', '20', '21-23', '24-26', '27-28', '29-31']
+
+--- MSG [1] ---
+Moses objected, “They won’t trust me. They won’t listen to a word I say. They’re going to say, ‘God? Appear to him? Hardly!’”
+
+>>> TEEN:
+  [p0 badge=1] Moses was like, "Yo, they're not gonna trust me. They won't listen to a single thing I say. They'll just be like, 'God? Appeared to *him*? No way.'"
+  [KO p0] 모세가 "아 걔네 저 안 믿을걸요? 제가 하는 말 한마디도 안 들을 거임. '하나님이? 너한테 나타났다고? 에이 말도 안 돼' 이럴 거라니까요" 이러면서 뺀 거임.
+
+--- MSG [2] ---
+So God said, “What’s that in your hand?” “A staff.”
+
+>>> TEEN:
+  [p1 badge=2] So God said, "What's that in your hand?"
+  [KO p1] 그러니까 하나님이 "네 손에 있는 거 그거 뭐냐?" 하고 물어보셨대.
+  [p2 badge=2] "A staff."
+  [KO p2] "지팡이요."
+
+--- MSG [3] ---
+“Throw it on the ground.” He threw it. It became a snake; Moses jumped back—fast!
+
+>>> TEEN:
+  [p3 badge=3] "Throw it on the ground." He chucked it. It turned into a snake, and Moses legit jumped back, like, super fast!
+  [KO p3] "그거 땅에 던져봐." 모세가 던졌더니 그게 뱀이 된 거임. 모세 완전 놀라서 뒤로 펄쩍 뛰었지, 완전 빨리!
+
+--- MSG [4-5] ---
+God said to Moses, “Reach out and grab it by the tail.” He reached out and grabbed it—and he was holding his staff again. “That’s so they will trust that God appeared to you, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob.”
+
+>>> TEEN:
+  [p4 badge=4-5] God told Moses, "Reach out and grab it by the tail." He reached out, grabbed it, and boom—it was just his staff again. "This is so they'll actually believe that God, the God of their ancestors—Abraham, Isaac, and Jacob—appeared to you."
+  [KO p4] 하나님이 모세한테 "손 뻗어서 꼬리를 잡아봐" 하시는 거임. 모세가 손 뻗어서 잡았더니, 헐, 다시 지팡이가 된 거 있지. "이거 보여주면 걔네 조상들의 하나님, 그러니까 아브라함, 이삭, 야곱의 하나님이 너한테 나타난 거 믿을 거다" 하셨대.
+
+--- MSG [6] ---
+God then said, “Put your hand inside your shirt.” He slipped his hand under his shirt, then took it out. His hand had turned leprous, like snow.
+
+>>> TEEN:
+  [p5 badge=6] Then God said, "Put your hand inside your shirt." He slipped his hand in, then pulled it out. His hand was all messed up with leprosy, white as snow. Wild.
+  [KO p5] 하나님이 이어서 "네 손을 옷 속에 넣어봐" 하신 거임. 모세가 손을 옷 속에 넣었다가 뺐는데, 손이 갑자기 나병 환자처럼 하얗게 변한 거야. 놀라운.
+
+--- MSG [7] ---
+He said, “Put your hand back under your shirt.” He did it, then took it back out—as healthy as before.
+
+>>> TEEN:
+  [p6 badge=7] He said, "Put your hand back in your shirt." He did, then pulled it out again—totally fine, good as new.
+  [KO p6] 하나님이 "다시 손을 옷 속에 넣어봐" 하셨대. 모세가 그렇게 했다가 다시 빼니까, 완전 깨끗하게 나은 거임.
+
+--- MSG [8-9] ---
+“So if they don’t trust you and aren’t convinced by the first sign, the second sign should do it. But if it doesn’t, if even after these two signs they don’t trust you and listen to your message, take some water out of the Nile and pour it out on the dry land; the Nile water that you pour out will turn to blood when it hits the ground.”
+
+>>> TEEN:
+  [p7 badge=8-9] "So, if they don't trust you or aren't convinced by the first sign, the second one should seal the deal. But if it doesn't, if they still don't trust you or listen to your message after these two signs, then grab some water from the Nile, pour it on the dry ground, and the water you pour will turn into blood the second it hits the dirt."
+  [KO p7] "그러니까, 만약 걔네가 널 안 믿고 첫 번째 표적을 보고도 시큰둥하면, 두 번째 표적이면 먹힐 거다. 근데 만약에, 이 두 가지 표적을 보고도 널 안 믿고 네 말을 안 들으면, 나일강에서 물 좀 퍼다가 마른 땅에 부어라. 그럼 네가 붓는 그 나일강 물이 땅에 닿자마자 피로 변할 거다" 하셨대.
+
+--- MSG [10] ---
+Moses raised another objection to God: “Master, please, I don’t talk well. I’ve never been good with words, neither before nor after you spoke to me. I stutter and stammer.”
+
+>>> TEEN:
+  [p8 badge=10] Moses hit God with another objection: "Master, please, I'm not a good speaker. I've never been good with words, not before you talked to me, and not now. I kinda stutter and get all tongue-tied."
+  [KO p8] 모세가 하나님한테 또 핑계를 댄 거임. "주님, 제발요, 전 말을 잘 못해요. 원래도 말주변이 없었고, 주님이 저한테 말씀하신 지금도 마찬가지예요. 막 더듬고 혀가 꼬여요."
+
+--- MSG [11-12] ---
+God said, “And who do you think made the human mouth? And who makes some mute, some deaf, some sighted, some blind? Isn’t it I, God? So, get going. I’ll be right there with you—with your mouth! I’ll be right there to teach you what to say.”
+
+>>> TEEN:
+  [p9 badge=11-12] God was like, "Uh, who do you think made the human mouth? And who decides if someone can't speak, or can't hear, or can see, or is blind? Isn't it me, God? So, get going. I'll be right there with you—and with your mouth! I'll literally teach you what to say."
+  [KO p9] 하나님이 "야, 사람 입은 누가 만들었냐? 누구는 벙어리로, 누구는 귀머거리로, 누구는 보게 하고, 누구는 못 보게 하는 게 누구냐? 나, 하나님 아니냐? 그러니까 그냥 가. 내가 너랑 같이 있을게, 네 입이랑 같이! 내가 너한테 무슨 말 할지 다 가르쳐줄게" 하셨대.
+
+--- MSG [13] ---
+He said, “Oh, Master, please! Send somebody else!”
+
+>>> TEEN:
+  [p10 badge=13] But Moses said, "Oh, Master, please! Just send someone else!"
+  [KO p10] 근데 모세가 "아, 주님, 제발요! 그냥 다른 사람 보내세요!" 이런 거임.
+
+--- MSG [14-17] ---
+God got angry with Moses: “Don’t you have a brother, Aaron the Levite? He’s good with words, I know he is. He speaks very well. In fact, at this very moment he’s on his way to meet you. When he sees you he’s going to be glad. You’ll speak to him and tell him what to say. I’ll be right there with you as you speak and with him as he speaks, teaching you step by step. He will speak to the people for you. He’ll act as your mouth, but you’ll decide what comes out of it. Now take this staff in your hand; you’ll use it to do the signs.”
+
+>>> TEEN:
+  [p11 badge=14-17] God got seriously angry with Moses: "Don't you have a brother, Aaron the Levite? I know for a fact he's good with words. He's a great speaker. Actually, right now, he's already on his way to meet you. He's gonna be so stoked to see you. You'll talk to him and tell him what to say. I'll be right there with both of you when you speak, teaching you every step. He'll be your spokesperson to the people. He'll be your mouthpiece, but you'll be the one calling the shots. Now take this staff in your hand; you're gonna use it to do the signs."
+  [KO p11] 하나님이 모세한테 진짜 화나신 거야. "너 형 없냐? 레위 사람 아론 있잖아. 걔 말 잘하는 거 나도 안다. 연설 진짜 잘해. 사실 지금 너 만나러 오고 있는 중이다. 너 보면 엄청 반가워할걸. 넌 걔한테 가서 내가 할 말을 전해. 너랑 걔가 말할 때 내가 옆에 딱 붙어서 하나하나 다 가르쳐줄게. 걔가 너 대신 백성들한테 말해줄 거야. 걔가 네 입 역할을 하는 거지, 근데 뭘 말할지는 네가 정하는 거고. 자, 이 지팡이 손에 들고 가라. 이걸로 표적들을 보여줄 거니까."
+
+--- MSG [18] ---
+Moses went back to Jethro his father-in-law and said, “I need to return to my relatives who are in Egypt. I want to see if they’re still alive.” Jethro said, “Go. And peace be with you.”
+
+>>> TEEN:
+  [p12 badge=18] So Moses went back to his father-in-law Jethro and said, "I gotta go back to my family in Egypt. I need to see if they're even still alive."
+  [KO p12] 그래서 모세는 장인 이드로한테 돌아가서 "저 이집트에 있는 제 친척들한테 돌아가봐야겠어요. 아직 살아있는지 보고 싶어요" 라고 말했대.
+  [p13 badge=18] Jethro said, "Go. Peace be with you."
+  [KO p13] 이드로가 "그래, 잘 다녀오게" 하고 보내줬대.
+
+--- MSG [19] ---
+God said to Moses in Midian: “Go. Return to Egypt. All the men who wanted to kill you are dead.”
+
+>>> TEEN:
+  [p14 badge=19] God said to Moses in Midian: "Go. Head back to Egypt. All the guys who wanted to kill you are dead now."
+  [KO p14] 하나님이 미디안에 있는 모세한테 말씀하셨어. "가라. 이집트로 돌아가. 너 죽이려던 사람들 다 죽었다."
+
+--- MSG [20] ---
+So Moses took his wife and sons and put them on a donkey for the return trip to Egypt. He had a firm grip on the staff of God.
+
+>>> TEEN:
+  [p15 badge=20] So Moses put his wife and sons on a donkey and started the trip back to Egypt. He had a solid grip on that staff from God.
+  [KO p15] 그래서 모세는 아내랑 아들들을 나귀에 태우고 이집트로 돌아가는 길에 올랐어. 하나님의 지팡이를 손에 꽉 쥐고 말이야.
+
+--- MSG [21-23] ---
+God said to Moses, “When you get back to Egypt, be prepared: All the wonders that I will do through you, you’ll do before Pharaoh. But I will make him stubborn so that he will refuse to let the people go. Then you are to tell Pharaoh, ‘God’s Message: Israel is my son, my firstborn! I told you, “Free my son so that he can serve me.” But you refused to free him. So now I’m going to kill *your* son, *your* firstborn.’”
+
+>>> TEEN:
+  [p16 badge=21-23] God told Moses, "When you get back to Egypt, get ready. All the miracles I'm gonna do through you, you'll perform them right in front of Pharaoh. But I'm gonna make him super stubborn, so he'll refuse to let the people go. Then you have to tell Pharaoh, 'This is God's message: Israel is my son, my firstborn! I told you to free my son so he can serve me. But you refused. So now I'm going to kill your son, your firstborn.'"
+  [KO p16] 하나님이 모세한테 말했대. "이집트 돌아가면 준비 단단히 해라. 내가 너를 통해 보여줄 모든 기적들을 파라오 앞에서 행하게 될 거다. 근데 내가 파라오 마음을 일부러 완고하게 만들어서 백성들을 안 보내주게 할 거임. 그럼 넌 파라오한테 이렇게 말해라. '하나님 메시지다. 이스라엘은 내 아들, 내 장남이다! 내가 내 아들 풀어줘서 날 섬기게 하라고 말했지. 근데 넌 안 풀어줬어. 그래서 이제 내가 네 아들, 네 장남을 죽일 거다.'"
+
+--- MSG [24-26] ---
+On the journey back, as they camped for the night, God met Moses and would have killed him but Zipporah took a flint knife and cut off her son’s foreskin, and touched Moses’ member with it. She said, “Oh! You’re a bridegroom of blood to me!” Then God let him go. She used the phrase “bridegroom of blood” because of the circumcision.
+
+>>> TEEN:
+  [p17 badge=24-26] On the way back, when they stopped for the night, God met Moses and was about to kill him, but Zipporah grabbed a flint knife, circumcised her son, and touched Moses' feet with it. She said, "Whoa! You're a bridegroom of blood to me!" Then God let him go. She said "bridegroom of blood" because of the circumcision thing.
+  [KO p17] 돌아가는 길에, 그들이 밤에 야영을 할 때 하나님이 모세를 만나서 죽이려고 하셨는데, 십보라가 부싯돌 칼을 가져다가 아들의 포피를 베어서 모세의 발에 갖다 댔대. 그러면서 "오! 당신은 나에게 피 남편이네요!" 라고 말한 거임. 그러자 하나님이 그를 놔주셨대. 십보라가 '피 남편'이라는 말을 쓴 건 할례 때문이었어.
+
+--- MSG [27-28] ---
+God spoke to Aaron, “Go and meet Moses in the wilderness.” He went and met him at the mountain of God and kissed him. Moses told Aaron the message that God had sent him to speak and the wonders he had commanded him to do.
+
+>>> TEEN:
+  [p18 badge=27-28] God spoke to Aaron, "Go meet Moses in the wilderness." So he went, met him at the mountain of God, and gave him a hug. Moses told Aaron everything God had sent him to say and all the miracles he had commanded him to perform.
+  [KO p18] 하나님이 아론한테 "광야로 가서 모세를 만나라"고 말씀하셨대. 아론이 가서 하나님의 산에서 모세를 만나 입을 맞췄어. 모세는 아론에게 하나님이 자기에게 전하라고 하신 모든 말씀과 행하라고 명령하신 모든 기적들에 대해 다 말해줬대.
+  [p19 badge=28-31] So Moses and Aaron went and gathered all the leaders of Israel. Aaron told them everything God had told Moses and did the miracles for everyone to see. And the people, they trusted it. They believed that God was actually concerned about what was happening to the Israelites and knew all about their suffering. They bowed down and worshiped.
+  [KO p19] 그래서 모세와 아론은 가서 이스라엘의 모든 지도자들을 모았어. 아론은 하나님이 모세에게 하신 모든 말씀을 그들에게 전하고, 백성들 앞에서 기적들을 보여줬지. 그러자 백성들이 믿었대. 하나님이 이스라엘 백성들에게 일어나는 일에 관심이 있으시고 그들의 고통을 다 알고 계신다는 걸 믿고 들은 거야. 그들은 몸을 숙여 경배했대.
+
+--- MSG [29-31] ---
+So Moses and Aaron proceeded to round up all the leaders of Israel. Aaron told them everything that God had told Moses and demonstrated the wonders before the people. And the people trusted and listened believingly that God was concerned with what was going on with the Israelites and knew all about their affliction. They bowed low and they worshiped.
+
+>>> TEEN:
+  [p19 badge=28-31] So Moses and Aaron went and gathered all the leaders of Israel. Aaron told them everything God had told Moses and did the miracles for everyone to see. And the people, they trusted it. They believed that God was actually concerned about what was happening to the Israelites and knew all about their suffering. They bowed down and worshiped.
+  [KO p19] 그래서 모세와 아론은 가서 이스라엘의 모든 지도자들을 모았어. 아론은 하나님이 모세에게 하신 모든 말씀을 그들에게 전하고, 백성들 앞에서 기적들을 보여줬지. 그러자 백성들이 믿었대. 하나님이 이스라엘 백성들에게 일어나는 일에 관심이 있으시고 그들의 고통을 다 알고 계신다는 걸 믿고 들은 거야. 그들은 몸을 숙여 경배했대.

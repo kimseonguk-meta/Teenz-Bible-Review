@@ -1,0 +1,91 @@
+# EXODUS 15 — God's Epic Victory Song & The Bitter Water Fix
+TEEN paras: 15 | badges: ['1', '1-5', '6-8', '9', '10-11', '12-13', '14-18', '19', '20', '21', '22-23', '24-25', '25', '26', '27']
+KO paras: 15 | badges: ['1', '1-5', '6-8', '9', '10-11', '12-13', '14-18', '19', '20', '21', '22-23', '24-25', '25', '26', '27']
+MSG sections: 11 | ranges: ['1-8', '9', '10-11', '12-13', '14-18', '19', '20-21', '22-24', '25', '26', '27']
+
+--- MSG [1-8] ---
+Then Moses and the Israelites sang this song to God, giving voice together, I’m singing my heart out to God—what a victory!       He pitched horse and rider into the sea.  God is my strength, God is my song,       and, yes! God is my salvation.  *This* is the kind of God I have       and I’m telling the world!  *This* is the God of my father—       I’m spreading the news far and wide!  God is a fighter,       pure God, through and through.  Pharaoh’s chariots and army       he dumped in the sea,  The elite of his officers       he drowned in the Red Sea.  Wild ocean waters poured over them;       they sank like a rock in the deep blue sea.  Your strong right hand, God, shimmers with power;       your strong right hand shatters the enemy.  In your mighty majesty       you smash your upstart enemies,  You let loose your hot anger       and burn them to a crisp.  At a blast from your nostrils       the waters piled up;  Tumbling streams dammed up,       wild oceans curdled into a swamp.
+
+>>> TEEN:
+  [p0 badge=1] Then Moses and the Israelites sang this awesome song to God, all of them together:
+  [KO p0] 그때 모세랑 이스라엘 백성들이 다 같이 하나님한테 이 노래를 불렀대.
+  [p1 badge=1-5] I’m shouting out my praise to God—He's absolutely amazing! He threw Pharaoh's horses and riders straight into the sea. God is my power, my favorite song, and for real, my ultimate rescue. This is my God, and I’m telling everyone about Him! He's the God of my ancestors, and I’m spreading the news everywhere. God is a total warrior, 100% God. He threw Pharaoh’s chariots and whole army into the sea. All his top officers? Drowned in the Red Sea. The ocean waves crashed over them; they sank like rocks to the bottom.
+  [KO p1] 내가 하나님한테 진심으로 노래 부를 거임. 완전 굉장한 승리였거든! 하나님이 말이랑 기병을 바다에 던져버리셨어. 하나님은 나의 힘이고, 나의 노래고, 진짜 나의 구원이심. 이분이 바로 나의 하나님인데, 내가 세상 사람들한테 다 알려줄 거야! 이분은 우리 조상들의 하나님이시래. 내가 이 소식을 널리 퍼뜨릴 거임. 하나님은 완전한 전사, 그냥 찐 하나님 그 자체인 거임. 파라오의 전차랑 군대를 바다에 그냥 쳐박아버리셨어. 그의 엘리트 장교들은 홍해에 빠져 죽었대. 거친 바닷물이 그들을 덮어버렸고, 그들은 깊고 푸른 바다 속으로 돌멩이처럼 가라앉았지.
+  [p2 badge=6-8] Your right hand, God, is crazy powerful; your right hand smashes the enemy. You're so majestic, you just crush anyone who tries to come against you. You unleash your anger and it burns them up like straw. With just a breath from you, the waters piled up; the crazy streams literally stood up like a wall, and the wild ocean turned into a swamp.
+  [KO p2] 하나님, 당신의 강한 오른손은 힘으로 빛나고, 당신의 강한 오른손은 적을 박살 내버리심. 당신의 위대함으로 당신에게 대드는 적들을 다 부숴버리시고, 당신의 뜨거운 분노를 터뜨려서 그들을 재로 만들어버리셨어. 당신의 콧김 한 번에 물이 산더미처럼 쌓이고, 흐르던 물줄기가 댐처럼 막히고, 거친 바다가 늪처럼 굳어버렸대.
+
+--- MSG [9] ---
+The enemy spoke,       “I’ll pursue, I’ll hunt them down,  I’ll divide up the plunder,       I’ll glut myself on them;  I’ll pull out my sword,       my fist will send them reeling.”
+
+>>> TEEN:
+  [p3 badge=9] The enemy was like, “I’m gonna chase them, I’m gonna catch them, I’ll take all their stuff, I’ll get my fill. I’ll pull out my sword, and my own strength will destroy them.”
+  [KO p3] 그때 적들이 “내가 쫓아가서 잡아버릴 거야. 전리품을 나눠 갖고, 배 터지게 먹어주지. 칼을 뽑아서 내 주먹으로 그들을 날려버릴 거야”라고 말했었대.
+
+--- MSG [10-11] ---
+You blew with all your might       and the sea covered them.  They sank like a lead weight       in the majestic waters.  Who compares with you among gods, O God?  Who compares with you in power,       in holy majesty,  In awesome praises,       wonder-working God?
+
+>>> TEEN:
+  [p4 badge=10-11] But then you blew, and the sea just covered them. They sank like a lead weight in the massive waters. Who's like you among the gods, O God? Seriously, who compares to your power, your holiness, your amazing deeds, you miracle-working God?
+  [KO p4] 근데 하나님이 한 번 입김을 부시니까 바다가 그들을 덮어버린 거임. 그들은 거대한 물속으로 납덩이처럼 가라앉았어. 하나님, 신들 중에 누가 당신과 비교할 수 있겠음? 당신의 능력, 거룩한 위엄, 놀라운 찬양, 기적을 행하시는 하나님과 누가 비교가 되겠냐고.
+
+--- MSG [12-13] ---
+You stretched out your right hand       and the Earth swallowed them up.  But the people you redeemed,       you led in merciful love;  You guided them under your protection       to your holy pasture.
+
+>>> TEEN:
+  [p5 badge=12-13] You just stretched out your right hand, and the earth swallowed them. And the people you saved, you led them with your unfailing love; you guided them to your special place.
+  [KO p5] 당신이 오른손을 뻗으시니 땅이 그들을 삼켜버렸어. 하지만 당신이 구원하신 백성은 자비로운 사랑으로 이끌어주셨고, 당신의 거룩한 목장으로 안전하게 인도해주셨대.
+
+--- MSG [14-18] ---
+When people heard, they were scared;       Philistines writhed and trembled;  Yes, even the head men in Edom were shaken,       and the big bosses in Moab.  Everybody in Canaan       panicked and fell faint.  Dread and terror       sent them reeling.  Before your brandished right arm       they were struck dumb like a stone,  Until your people crossed over and entered, O God,       until the people you made crossed over and entered.  You brought them and planted them       on the mountain of your heritage,  The place where you live,       the place you made,  Your sanctuary, Master,       that you established with your own hands.  Let God rule       forever, for eternity!
+
+>>> TEEN:
+  [p6 badge=14-18] When other nations heard about it, they freaked out. The Philistines were shaking. The leaders of Edom were shook, and the big shots in Moab were terrified. Everyone in Canaan was panicking and just fainted. Pure dread and terror hit them. Your awesome power left them frozen like statues, until your people, the people you created, crossed over and entered the land. You brought them and planted them on your own mountain, the place you made to live, your sanctuary, Lord, that you built with your own hands. God will reign forever and ever!
+  [KO p6] 다른 민족들이 이 소식을 듣고 다들 무서워했대. 블레셋 사람들은 고통스러워하며 벌벌 떨었고, 에돔의 우두머리들과 모압의 대장들도 충격에 빠졌어. 가나안의 모든 사람들은 공황 상태에 빠져 기절할 지경이었대. 공포와 두려움에 정신을 못 차린 거지. 당신이 휘두르는 오른팔 앞에서 그들은 돌처럼 말문이 막혔어. 당신의 백성, 당신이 만드신 그 백성이 건너와 들어갈 때까지 말이야. 당신은 그들을 데려와 당신의 유산인 산에 심으셨고, 당신이 사시는 곳, 당신이 만드신 그곳, 당신의 손으로 세우신 주님의 성소에 심으셨대. 하나님이 영원히 다스리실 거임!
+
+--- MSG [19] ---
+Yes, Pharaoh’s horses and chariots and riders went into the sea and God turned the waters back on them; but the Israelites walked on dry land right through the middle of the sea.
+
+>>> TEEN:
+  [p7 badge=19] Yeah, Pharaoh’s horses, his chariots, and his riders all went into the sea, and God made the water crash back down on them. But the Israelites? They walked right through the middle of the sea on dry ground. It was wild.
+  [KO p7] 진짜로, 파라오의 말과 전차와 기병들이 바다로 들어갔을 때 하나님이 물을 다시 그들 위로 덮어버리셨어. 근데 이스라엘 백성들은 바다 한가운데를 마른 땅으로 걸어서 지나갔다는 거. 완전 전설이지.
+
+--- MSG [20-21] ---
+Miriam the prophetess, Aaron’s sister, took a tambourine, and all the women followed her with tambourines, dancing. Miriam led them in singing, Sing to God—       what a victory!  He pitched horse and rider       into the sea!
+
+>>> TEEN:
+  [p8 badge=20] Then Miriam the prophetess, who was Aaron's sister, grabbed a tambourine, and all the women followed her, playing tambourines and dancing. Miriam sang this to them:
+  [KO p8] 그때 아론의 누나인 예언자 미리암이 탬버린을 들었고, 모든 여자들이 탬버린을 들고 춤을 추며 그녀를 따랐대. 미리암이 그들을 이끌며 이렇게 노래했어.
+  [p9 badge=21] “Sing to God—what a victory! He pitched the horse and rider into the sea!”
+  [KO p9] “하나님께 노래하자! 정말 엄청난 승리야! 그가 말이랑 기병을 바다에 던져버리셨어!”
+
+--- MSG [22-24] ---
+Moses led Israel from the Red Sea on to the Wilderness of Shur. They traveled for three days through the wilderness without finding any water. They got to Marah, but they couldn’t drink the water at Marah; it was bitter. That’s why they called the place Marah (Bitter). And the people complained to Moses, “So what are we supposed to drink?”
+
+>>> TEEN:
+  [p10 badge=22-23] After that, Moses led Israel from the Red Sea into the Desert of Shur. They traveled for three days in the desert but couldn't find any water. Then they got to a place called Marah, but the water there was bitter, so they couldn't drink it. That's why they named it Marah, which means "Bitter." And the people started complaining to Moses, like, “So, what are we supposed to drink now?”
+  [KO p10] 그 후에 모세는 이스라엘 백성을 홍해에서 수르 광야로 이끌었어. 그들은 사흘 동안 광야를 헤맸는데 물을 하나도 찾지 못했대. 마라라는 곳에 도착했는데, 거기 물이 써서 마실 수가 없는 거임. 그래서 그곳 이름을 ‘쓰다’는 뜻의 마라라고 불렀대. 백성들은 모세한테 “아니 그럼 우리 뭐 마시라고요?”라며 불평하기 시작했어.
+  [p11 badge=24-25] So Moses cried out to God for help. God showed him a piece of wood. Moses threw it into the water, and the water became sweet and drinkable.
+  [KO p11] 그래서 모세가 하나님께 부르짖으며 기도했대. 그랬더니 하나님이 나무 한 조각을 가리키셨어. 모세가 그걸 물에 던지니까 물이 달콤해졌다는 거.
+
+--- MSG [25] ---
+So Moses cried out in prayer to God. God pointed him to a stick of wood. Moses threw it into the water and the water turned sweet.
+
+>>> TEEN:
+  [p11 badge=24-25] So Moses cried out to God for help. God showed him a piece of wood. Moses threw it into the water, and the water became sweet and drinkable.
+  [KO p11] 그래서 모세가 하나님께 부르짖으며 기도했대. 그랬더니 하나님이 나무 한 조각을 가리키셨어. 모세가 그걸 물에 던지니까 물이 달콤해졌다는 거.
+  [p12 badge=25] That was the place where God laid down some rules for them and started to test them.
+  [KO p12] 거기서 하나님이 그들을 위한 규칙과 절차를 정해주셨고, 그들을 시험하기 시작하셨대.
+
+--- MSG [26] ---
+That’s the place where God set up rules and procedures; that’s where he started testing them. God said, “If you listen, listen obediently to how God tells you to live in his presence, obeying his commandments and keeping all his laws, then I won’t strike you with all the diseases that I inflicted on the Egyptians; I am God your healer.”
+
+>>> TEEN:
+  [p13 badge=26] God said, “If you really listen to me and do what I say, obeying my commands and following all my rules, then I won’t hit you with any of the diseases I sent on the Egyptians. Because I am God, your healer.”
+  [KO p13] 하나님이 말씀하시길, “너희가 만약 하나님이 너희에게 그의 앞에서 어떻게 살아야 하는지 알려주는 말씀을 잘 듣고, 그의 계명을 지키고 모든 율법을 따른다면, 내가 이집트인들에게 내렸던 어떤 질병도 너희에게 내리지 않을 것이다. 나는 너희를 치유하는 하나님이다”라고 하셨어.
+
+--- MSG [27] ---
+They came to Elim where there were twelve springs of water and seventy palm trees. They set up camp there by the water.
+
+>>> TEEN:
+  [p14 badge=27] Then they came to a place called Elim, where there were twelve springs and seventy palm trees. They set up camp there right by the water.
+  [KO p14] 그들은 샘이 열두 개나 있고 야자수가 칠십 그루나 있는 엘림이라는 곳에 도착했어. 그들은 거기 물가에 캠프를 차렸대.

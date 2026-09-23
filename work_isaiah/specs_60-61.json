@@ -1,0 +1,75 @@
+[
+ {
+  "badges": [
+   "1-7",
+   "8-22"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L2090-2117)으로 2개 섹션 확정. 기존 '1-6'→'1-7' (내용에 v7 Kedar/Nebaioth 제단 선물 포함), '7-22'→'8-22' (내용은 v8 'doves darkening the sky'부터 v22 'At the right time'까지). KO도 동일 교정. 깨진 문자 없음"
+  ],
+  "chapter": 60,
+  "en_ops": [
+   {
+    "badge": "1-7",
+    "keep": 0
+   },
+   {
+    "badge": "8-22",
+    "keep": 1
+   }
+  ],
+  "ko_changes": [
+   "EN과 동일한 2문단·배지 교정"
+  ],
+  "ko_ops": [
+   {
+    "badge": "1-7",
+    "keep": 0
+   },
+   {
+    "badge": "8-22",
+    "keep": 1
+   }
+  ],
+  "ko_title": "일어나 빛나라",
+  "title": "Jerusalem's Epic Glow Up is GOATED"
+ },
+ {
+  "badges": [
+   "1-7",
+   "8-9",
+   "10-11"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L2121-2136)으로 기존 3개 배지가 MSG와 1:1 일치 확인. anointed, captives/prisoners, year of grace, roses instead of ashes, Oaks of Righteousness, Priests of God, double dose, suit of salvation, tuxedo/tiara까지 모두 완전. KO도 배지 일치·깨진 문자 없음. 변경 없음"
+  ],
+  "chapter": 61,
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   }
+  ],
+  "ko_changes": [
+   "변경 없음"
+  ],
+  "ko_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   }
+  ],
+  "ko_title": "희소식 전도자",
+  "title": "God's Epic Glow-Up Plan"
+ }
+]

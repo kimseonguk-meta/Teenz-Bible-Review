@@ -1,0 +1,101 @@
+{
+  "changes": [
+    "Ch5: § headers fixed to MSG headers only (Ananias and Sapphira; They All Met Regularly; To Obey God Rather than Men) — removed fabricated 'More Miracles and More Trouble'",
+    "Ch5: split merged paras: 7-8→7/8, 12-16→12-14/15-16, 17-20/21-23, 24/25-26, 27-28/29-32, 33-37/38-39/40-42",
+    "Ch5: badges corrected to MSG ranges throughout",
+    "Ch5: moderated slang (my guy, super salty, solid advice, not bummed out)",
+    "Title revised: The Ultimate Lie Detector Test / 궁극의 거짓말 탐지기",
+    "Ch5: header badge corrected 12-14 → 12-16 (Principle 2: header shares badge with following text)"
+  ],
+  "chapter": 5,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-2",
+    "1-2",
+    "3-4",
+    "5-6",
+    "7-8",
+    "7-8",
+    "9-10",
+    "11",
+    "12-16",
+    "12-16",
+    "12-16",
+    "17-20",
+    "17-20",
+    "21-23",
+    "24",
+    "25-26",
+    "27-28",
+    "29-32",
+    "33-37",
+    "38-39",
+    "40-42"
+  ],
+  "paragraphs": [
+    "§Ananias and Sapphira",
+    "There was this guy Ananias, and his wife Sapphira was totally in on the plan with him. They sold a piece of land, then secretly pocketed part of the money for themselves. They brought the rest to the apostles and presented it like it was the whole thing.",
+    "Peter called him out: \"Ananias, how did you let Satan talk you into lying to the Holy Spirit and skimming off the price of the field? Before you sold it, it was yours. After you sold it, the money was yours to do whatever you wanted with. So why pull a stunt like this? You didn't lie to people — you lied to God.\"",
+    "The moment Ananias heard that, he dropped dead. Everyone who heard the story was shaken to the core with the fear of God. The younger guys jumped right in, wrapped him up, carried him out, and buried him.",
+    "Less than three hours later, his wife walked in — she had no idea what had happened. Peter said to her, \"Tell me, is this really the full price you got for the field?\"",
+    "\"Yes,\" she said, \"that's the price.\"",
+    "Peter answered, \"So the two of you actually schemed together against the Spirit of the Master? Listen — the men who just buried your husband are at the door right now, and you're next.\" The words were barely out of his mouth when she collapsed, dead. When the young men came back, they found her body, carried her out, and buried her next to her husband.",
+    "By now the whole church — actually everyone who heard about this — had a serious, healthy respect for God. Nobody was about to trifle with him.",
+    "§They All Met Regularly",
+    "God was doing amazing signs through the apostles — wonderful things happening all over among the people. The believers kept meeting regularly, in incredible harmony, at Solomon's Porch in the Temple. People admired them a lot, but outsiders were nervous about actually joining. Meanwhile, those who trusted the Master kept getting added, left and right — men and women both.",
+    "It got so intense that people carried the sick out into the streets and laid them on stretchers and mats, hoping even Peter's shadow might fall on them as he walked by. Crowds poured in from the villages around Jerusalem, bringing the sick and the tormented. And every one of them was healed.",
+    "§To Obey God Rather than Men",
+    "The Chief Priest and his crew — mostly Sadducees — were provoked beyond measure by all this, so they sprang into action: they arrested the apostles and threw them in the city jail. But that night an angel of God opened the jail doors and led them out. \"Go stand in the Temple,\" he said, \"and tell the people everything there is to say about this Life.\" They obeyed immediately — at daybreak they were in the Temple, teaching again.",
+    "Meanwhile the Chief Priest and his allies called together the High Council, Israel's senate, and sent officers to the jail to bring in the prisoners. But when the officers arrived, the jail was empty — no prisoners anywhere. They went back and reported, \"We found the jail locked up tight, guards at every door — but when we went in, there wasn't a soul inside.\"",
+    "The Temple police chief and the high priests were baffled. \"What is going on here?\"",
+    "Just then someone burst in with the news: \"The men you locked up are back in the Temple, teaching the people!\" So the chief went with his officers and brought them in — gently, because they were scared the crowd might riot and turn on them.",
+    "They stood the apostles before the High Council, and the Chief Priest laid into them: \"Didn't we strictly order you not to teach in Jesus' name? Yet you've filled all of Jerusalem with your teaching — and you're doing your best to pin this man's death on us.\"",
+    "Peter and the apostles answered, \"We have to obey God, not men. The God of our ancestors raised up Jesus — the One you killed by hanging him on a cross. God lifted him up to the highest place at his side, as Prince and Savior, to give Israel the gift of a changed life and forgiven sins. We are witnesses to all of this — and so is the Holy Spirit, whom God gives to everyone who obeys him.\"",
+    "That made them furious — they wanted to kill the apostles on the spot. But then a council member stood up: Gamaliel, a Pharisee and a teacher of God's Law whom everybody respected. He had the apostles taken outside for a few minutes, then said, \"Fellow Israelites, think carefully about what you're going to do to these men. Remember Theudas? Not long ago he made a splash, claimed to be somebody important, and gathered about four hundred followers. He was killed, his followers scattered, and the whole thing came to nothing. Then, around the time of the census, Judas the Galilean showed up and built a following. He fizzled out too, and his people scattered everywhere.\"",
+    "\"So here's my advice: leave these men alone. Hands off! If this movement is just human, it'll collapse on its own. But if it's from God, there's nothing you can do to stop it — and you do not want to be found fighting God himself.\"",
+    "That convinced them. They called the apostles back in, had them whipped hard, warned them never to speak in Jesus' name again, and let them go. The apostles walked out of the High Council beaming — they had been honored with the honor of being dishonored for the Name. And they didn't slow down for a second: every day, in the Temple and in homes, they kept teaching and preaching that Jesus is the Christ."
+  ],
+  "splits": [
+    {
+      "msg_range": "7-8",
+      "note": "MSG para 7-8 split for dialogue clarity: Sapphira's arrival and Peter's question (7) / her answer (8)",
+      "paras": [
+        4,
+        5
+      ]
+    },
+    {
+      "msg_range": "12-16",
+      "note": "Long MSG para 12-16 split: community life and growth (12-14) / street healings and Peter's shadow (15-16)",
+      "paras": [
+        9,
+        10
+      ]
+    }
+  ],
+  "title": "The Ultimate Lie Detector Test",
+  "verseRanges": [
+    "1-2",
+    "1-2",
+    "3-4",
+    "5-6",
+    "7",
+    "8",
+    "9-10",
+    "11",
+    "12-14",
+    "12-14",
+    "15-16",
+    "17-20",
+    "17-20",
+    "21-23",
+    "24",
+    "25-26",
+    "27-28",
+    "29-32",
+    "33-37",
+    "38-39",
+    "40-42"
+  ]
+}

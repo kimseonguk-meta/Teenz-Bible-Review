@@ -1,0 +1,834 @@
+{
+ "1": {
+  "badges": {
+   "2": "10-11",
+   "4": "16-18"
+  },
+  "changes": [
+   "badges corrected: para 2 '11'->'10-11', para 4 '17-18'->'16-18'",
+   "split declared for MSG 1-9 across paras 0-1",
+   "toned down 'main guy' in para 0 to match MSG 'Moses the servant of God'",
+   "title toned down ('Who Dis' removed)"
+  ],
+  "confirmations_needed": [
+   "Ch1 split of MSG 1-9 across paras 0-1 — confirm two-paragraph split is OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-9",
+    "note": "MSG 1-9 split: para 0 is v1 (badged '1'), para 1 is vv2-9 (badged '2-9')",
+    "paras": [
+     0,
+     1
+    ]
+   }
+  ],
+  "en_edits": {
+   "0": "So, after Moses, God's servant, passed away, God hit up Joshua, Moses's assistant. He was like:"
+  },
+  "title_en": "New Leader Alert: Joshua Steps Up",
+  "title_ko": "새 리더 알림: 여호수아가 나서다"
+ },
+ "10": {
+  "badges": {
+   "0": "1-2",
+   "1": "3-4",
+   "2": "5",
+   "3": "6",
+   "4": "7-8",
+   "5": "9-11",
+   "8": "13-14"
+  },
+  "changes": [
+   "badges corrected",
+   "splits declared for MSG 12-13 and 24",
+   "softened 'no cap' to 'for real' in para 8; KO '거짓말 아님' removed"
+  ],
+  "confirmations_needed": [
+   "Ch10 splits of MSG 12-13 and 24 — confirm splits are OK"
+  ],
+  "en_edits": {
+   "8": "(This is actually written down in the Book of Jashar, for real.) The sun stopped right in the middle of the sky and just stayed there for a whole day. There has never been a day like it before or since, when God took orders from a human. God was really fighting for Israel that day."
+  },
+  "ko_edits": {
+   "8": "(이거 야살의 책에 진짜로 적혀있는 내용임.) 태양이 하늘 한가운데에 멈춰서서 거의 하룧 종일 움직이지 않았던 거야. 하나님이 사람의 목소리를 들어주신 이런 날은 전에도 없었고 후에도 없었대. 진짜 하나님이 이스라엘을 위해 싸워주신 거임."
+  },
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "12-13",
+    "note": "MSG 12-13 split: para 6 is the prayer intro (badged '12'), para 7 is the sun/moon command (badged '12-13')",
+    "paras": [
+     6,
+     7
+    ]
+   },
+   {
+    "msg_range": "24",
+    "note": "MSG v24 split: para 15 is the command (badged '24'), para 16 is the obedience (badged '24')",
+    "paras": [
+     15,
+     16
+    ]
+   }
+  ],
+  "title_ko": "태양이 멈추고 왕들이 무너지다! 여호수아 최고의 전투"
+ },
+ "11": {
+  "badges": {},
+  "changes": [
+   "split declared for MSG 23 across paras 9-10"
+  ],
+  "confirmations_needed": [
+   "Ch11 split of MSG 23 across paras 9-10 — confirm split is OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "23",
+    "note": "MSG v23 split: para 9 is the land division (badged '23'), para 10 is 'Israel had rest from war' (badged '23')",
+    "paras": [
+     9,
+     10
+    ]
+   }
+  ],
+  "title_ko": "최종 보스전: 북부 연합군"
+ },
+ "12": {
+  "badges": {
+   "0": "1"
+  },
+  "changes": [
+   "badge corrected: para 0 '1-2'->'1'",
+   "split declared for MSG 7-24 across paras 4-6",
+   "softened 'No cap' to 'For real' in para 6 (KO unchanged — already neutral)",
+   "title toned down ('GOATED' removed)"
+  ],
+  "confirmations_needed": [
+   "Ch12 split of MSG 7-24 across paras 4-6 — confirm split is OK"
+  ],
+  "en_edits": {
+   "6": "That's a grand total of thirty-one kings. For real."
+  },
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "7-24",
+    "note": "MSG 7-24 split into three: para 4 is the west-side intro vv7-8 (badged '7-8'), para 5 is the king list vv9-23 (badged '9-23'), para 6 is the total v24 (badged '24')",
+    "paras": [
+     4,
+     5,
+     6
+    ]
+   }
+  ],
+  "title_en": "Israel's Victory Lap: All The Kings They Beat",
+  "title_ko": "이스라엘의 승리 랩: 무찌른 왕들"
+ },
+ "13": {
+  "badges": {},
+  "changes": [
+   "splits declared for MSG 1-6, 15-22, 24-27, 29-31 (town-list chapters split for readability)"
+  ],
+  "confirmations_needed": [
+   "Ch13 splits of MSG 1-6, 15-22, 24-27, 29-31 — confirm splits are OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-6",
+    "note": "MSG 1-6 split: para 0 is the old-age intro vv1-2a (badged '1-2'), para 1 is the remaining-land list vv2b-6 (badged '2-6')",
+    "paras": [
+     0,
+     1
+    ]
+   },
+   {
+    "msg_range": "15-22",
+    "note": "MSG 15-22 (Reuben) split into four: para 6 intro v15, para 7 v16, para 8 v17 town list, para 9 vv18-22",
+    "paras": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "msg_range": "24-27",
+    "note": "MSG 24-27 (Gad) split into four: para 11 intro v24, paras 12-14 vv25-27",
+    "paras": [
+     11,
+     12,
+     13,
+     14
+    ]
+   },
+   {
+    "msg_range": "29-31",
+    "note": "MSG 29-31 (half-Manasseh) split into four: para 16 intro v29, paras 17-18 v30, para 19 v31",
+    "paras": [
+     16,
+     17,
+     18,
+     19
+    ]
+   }
+  ],
+  "title_ko": "여호수아를 위한 하나님의 할 일 목록"
+ },
+ "14": {
+  "badges": {},
+  "changes": [
+   "split declared for MSG 1-2, 6-12, 15; merge declared for para 1 (MSG 1-2 + 3-4)",
+   "softened 'no cap' to 'for real' in para 3",
+   "KO para 3 split into three to match EN paragraph count (was 7 paras, now 9)"
+  ],
+  "confirmations_needed": [
+   "Ch14 split of MSG 1-2, 6-12, 15 and merge of para 1 (MSG 1-2 + 3-4) — confirm splits/merge are OK"
+  ],
+  "en_edits": {
+   "3": "Then, the guys from the tribe of Judah went to see Joshua at Gilgal. Caleb, son of Jephunneh the Kenizzite, stepped up and said, “Yo, you remember what God said to Moses, the man of God, about you and me way back at Kadesh Barnea, right? I was forty when Moses, God's servant, sent me from Kadesh Barnea to check out the land. I came back and gave a totally honest report, for real."
+  },
+  "ko_split": {
+   "3": [
+    "그때 유다 자손들이 길갈에 있는 여호수아한테 찾아왔음. 그중에서 그니스 사람 여분네의 아들 갈렙이 말했어. \"너도 기억나지? 하나님이 가데스 바네아에서, 하나님의 사람 모세를 통해 너랑 나에 대해 하신 말씀 말이야. 내가 40살 때, 하나님의 종 모세가 가데스 바네아에서 나를 이 땅 정탐하라고 보냈잖아. 나 진짜 정직하게 팩트만 보고했음.",
+    "나랑 같이 갔던 내 동료들은 백성들 마음 약해지게 만들었지만, 나는 내 하나님 여호와께 충성을 다했거든. 그날 모세가 '네 발로 밟는 땅은 영원히 너와 네 자손의 기업이 될 거다. 왜냐하면 네가 내 하나님 여호와께 충성을 다했기 때문이다'라고 진지하게 약속했었지.",
+    "자, 이제 나를 봐. 하나님이 약속하신 대로 나를 살려주셨어. 하나님이 이 말씀을 모세한테 하신 지 45년이 지났고, 그동안 이스라엘은 광야에서 헤맸지. 오늘 내 나이가 85살이야! 근데 모세가 나를 보냈던 그날처럼 여전히 힘이 넘쳐. 싸우는 거나 다른 모든 일에 있어서 그때나 지금이나 똑같이 강하다고. 그러니까 하나님이 그날 약속하신 이 산지를 나한테 줘. 너도 들었잖아, 거기에는 아낙 자손이 있고 그 성들은 크고 견고하다고. 근데 만약 하나님이 나와 함께 하시면, 하나님이 말씀하신 대로 그들을 쫓아낼 거임.\""
+   ]
+  },
+  "merges": [
+   {
+    "msg_ranges": [
+     "1-2",
+     "3-4"
+    ],
+    "note": "para 1 merges MSG v2 (lot for nine-and-a-half tribes) with MSG 3-4 (two-and-a-half tribes east + Levites), badged '2-4'",
+    "para": 1
+   }
+  ],
+  "splits": [
+   {
+    "msg_range": "1-2",
+    "note": "MSG 1-2 split: para 0 is v1 (badged '1'), para 1 covers v2 plus MSG 3-4 (badged '2-4')",
+    "paras": [
+     0,
+     1
+    ]
+   },
+   {
+    "msg_range": "6-12",
+    "note": "MSG 6-12 (Caleb's speech) split into three: para 3 vv6-7, para 4 vv8-9, para 5 vv10-12",
+    "paras": [
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "msg_range": "15",
+    "note": "MSG v15 split: para 7 is the Kiriath Arba name (badged '15'), para 8 is 'rest from war' (badged '15')",
+    "paras": [
+     7,
+     8
+    ]
+   }
+  ],
+  "title_ko": "갈렙의 컴백: 85세, 여전히 강하다"
+ },
+ "15": {
+  "badges": {},
+  "changes": [
+   "deleted 8 duplicated EN paragraphs (14-19, 21, 23) that repeated the Shephelah/hill-country/wilderness town lists and headers already covered in paras 12, 13, 20, 22",
+   "KO restructured to match: kept 17 of 74 paras (merged town-list chunks + removed duplicates), fixing KO null badges",
+   "splits declared for MSG 5-11, 12, 20-32"
+  ],
+  "confirmations_needed": [
+   "Ch15 deletion of 8 duplicated paragraphs — confirm removal is OK",
+   "Ch15 splits of MSG 5-11, 12, 20-32 — confirm splits are OK"
+  ],
+  "delete_en": [
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   21,
+   23
+  ],
+  "ko_keep": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   26,
+   48,
+   68,
+   73
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "5-11",
+    "note": "MSG 5-11 split: para 2 is v5 (badged '5'), para 3 is vv6-11 (badged '6-11')",
+    "paras": [
+     2,
+     3
+    ]
+   },
+   {
+    "msg_range": "12",
+    "note": "MSG v12 split: para 4 is the western border (badged '12'), para 5 is the boundary summary (badged '12')",
+    "paras": [
+     4,
+     5
+    ]
+   },
+   {
+    "msg_range": "20-32",
+    "note": "MSG 20-32 split into three: para 10 intro v20, para 11 v21 intro, para 12 the town list vv21-32 (badged '21-32')",
+    "paras": [
+     10,
+     11,
+     12
+    ]
+   }
+  ],
+  "title_ko": "유다의 땅은 엄청나다 (갈렙의 딸은 천재)"
+ },
+ "16": {
+  "badges": {},
+  "changes": [
+   "split declared for MSG 5-9"
+  ],
+  "confirmations_needed": [
+   "Ch16 split of MSG 5-9 — confirm split is OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "5-9",
+    "note": "MSG 5-9 split: para 2 is the v5 intro (badged '5'), para 3 is the boundary vv6-9 (badged '6-9')",
+    "paras": [
+     2,
+     3
+    ]
+   }
+  ],
+  "title_ko": "에브라임 팀이 땅을 받다!"
+ },
+ "17": {
+  "badges": {
+   "9": "17-18"
+  },
+  "changes": [
+   "restored Zelophehad's genealogy (son of Hepher, son of Gilead, son of Makir, son of Manasseh) in EN para 1 and KO para 1 to match MSG v3",
+   "badge corrected: para 9 '16-18'->'17-18'"
+  ],
+  "confirmations_needed": [],
+  "en_edits": {
+   "1": "Now, check this out. There was this guy, Zelophehad—son of Hepher, son of Gilead, son of Makir, son of Manasseh—who had no sons—only five daughters. Their names were Mahlah, Noah, Hoglah, Milcah, and Tirzah. These girls were seriously brave. They marched right up to Eleazar the priest, Joshua, and all the leaders and said, 'Yo, God told Moses that we should get an inheritance just like our male relatives.' And Joshua, being a real one, did exactly what God commanded and gave them their own land right there with their uncles."
+  },
+  "ko_edits": {
+   "1": "근데 어마어마한 사건이 하나 있었음. 므낫세의 고손이고 마길의 증손이며 길르앗의 손자, 헤벨의 아들인 슬로브핫이라는 사람이 있었는데, 이 아저씨가 아들은 없고 딸만 다섯인 거임. 이름이 말라, 노아, 호글라, 밀가, 디르사. 근데 이 딸들이 완전 용감했대. 제사장 엘르아살이랑 여호수아랑 지도자들한테 찾아가서 당당하게 말한 거임. '하나님이 모세한테 우리도 남자 친척들이랑 똑같이 땅을 주라고 명령하셨는데요?' 와우. 그랬더니 여호수아가 알겠다고 하고 하나님이 명령한 대로 진짜로 삼촌들 몫이랑 똑같이 땅을 떼어줬대."
+  },
+  "merges": [],
+  "splits": [],
+  "title_ko": "우리를 얕보지 마, 상속자가 있다!"
+ },
+ "18": {
+  "badges": {},
+  "changes": [
+   "KO restructured to match EN: kept 17 of 27 paras (removed chunked duplicates of the Benjamin city list)",
+   "splits declared for MSG 1-2, 20, 21-28"
+  ],
+  "confirmations_needed": [
+   "Ch18 splits of MSG 1-2, 20, 21-28 — confirm splits are OK"
+  ],
+  "ko_keep": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   26
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-2",
+    "note": "MSG 1-2 split: para 0 is the Shiloh gathering v1 (badged '1'), para 1 is the seven tribes v2 (badged '2')",
+    "paras": [
+     0,
+     1
+    ]
+   },
+   {
+    "msg_range": "20",
+    "note": "MSG v20 split: para 12 is the east border (badged '20'), para 13 is the inheritance summary (badged '20')",
+    "paras": [
+     12,
+     13
+    ]
+   },
+   {
+    "msg_range": "21-28",
+    "note": "MSG 21-28 split into three: para 14 intro v21, para 15 the city list vv21-28 (badged '21-28'), para 16 the summary v28 (badged '28')",
+    "paras": [
+     14,
+     15,
+     16
+    ]
+   }
+  ],
+  "title_ko": "땅을 차지할 시간, 빈둥거림은 끝!"
+ },
+ "19": {
+  "badges": {
+   "0": "1-9",
+   "2": "10-15",
+   "4": "17-22"
+  },
+  "changes": [
+   "badges corrected: para 0 '1-8'->'1-9', para 2 '10-16'->'10-15', para 4 '18-22'->'17-22'",
+   "merges declared for paras 0-1, 4, 6, 8",
+   "split declared for MSG 8-9 across paras 0-1"
+  ],
+  "confirmations_needed": [
+   "Ch19 paras 0-1 merge MSG 1-8 + 8-9 — confirm merged section is OK",
+   "Ch19 para 4 merges MSG 17-21 + 22 — confirm merged paragraph is OK",
+   "Ch19 para 6 merges MSG 24 + 25-30 — confirm merged paragraph is OK",
+   "Ch19 para 8 merges MSG 32 + 33 + 34 + 35-38 — confirm merged paragraph is OK"
+  ],
+  "merges": [
+   {
+    "msg_ranges": [
+     "1-8",
+     "8-9"
+    ],
+    "note": "MSG 1-8 (Simeon towns) and 8-9 (Simeon explanation + extra towns) interwoven across paras 0-1: para 0 covers vv1-9a incl. Ain/Rimmon/Ether/Ashan (badged '1-9'), para 1 is the Judah-share explanation v9b (badged '9')",
+    "paras": [
+     0,
+     1
+    ]
+   },
+   {
+    "msg_ranges": [
+     "17-21",
+     "22"
+    ],
+    "note": "para 4 merges MSG 17-21 (Issachar territory) with MSG 22 (boundary + sixteen towns), badged '17-22'",
+    "para": 4
+   },
+   {
+    "msg_ranges": [
+     "24",
+     "25-30"
+    ],
+    "note": "para 6 merges MSG 24 (Asher lot) with MSG 25-30 (Asher territory), badged '24-30'",
+    "para": 6
+   },
+   {
+    "msg_ranges": [
+     "32",
+     "33",
+     "34",
+     "35-38"
+    ],
+    "note": "para 8 merges MSG 32 (Naphtali lot), 33-34 (borders) and 35-38 (fort cities), badged '32-38'",
+    "para": 8
+   }
+  ],
+  "splits": [
+   {
+    "msg_range": "8-9",
+    "paras": [
+     0,
+     1
+    ],
+    "note": "MSG 8-9 split across paras 0-1: para 0 carries the town list incl. Ain/Rimmon/Ether/Ashan (badged '1-9'), para 1 is the Judah-share explanation (badged '9')"
+   }
+  ],
+  "title_ko": "대규모 땅 분배 피날레!"
+ },
+ "2": {
+  "badges": {
+   "0": "1",
+   "1": "2",
+   "10": "22",
+   "11": "23-24",
+   "2": "3",
+   "3": "4-7",
+   "4": "8-11",
+   "6": "14",
+   "7": "15-16",
+   "9": "21"
+  },
+  "changes": [
+   "badges corrected to MSG ranges (were shifted by one position after v1)",
+   "softened 'no cap' to 'for real' in para 11 (KO unchanged — already neutral)"
+  ],
+  "confirmations_needed": [],
+  "merges": [],
+  "splits": [],
+  "en_edits": {
+   "11": "Then the two men started back. They came down from the hills, crossed the river, and returned to Joshua son of Nun and told him everything that had happened. They told Joshua, \"For real, God has given the whole land over to us. Everyone there is literally shaking in their boots because of us.\""
+  },
+  "title_ko": "두 정탐꾼과 비밀 약속"
+ },
+ "20": {
+  "badges": {
+   "0": "1-3"
+  },
+  "changes": [
+   "restored 'east of Jericho', 'on the desert plateau', and tribal attributions (Reuben/Gad/Manasseh) in EN para 4 and KO para 4 to match MSG vv8-9",
+   "badge corrected: para 0 '2-3'->'1-3'"
+  ],
+  "confirmations_needed": [],
+  "en_edits": {
+   "4": "On the other side of the Jordan, east of Jericho, they picked Bezer on the desert plateau (from the tribe of Reuben), Ramoth in Gilead (from the tribe of Gad), and Golan in Bashan (from the tribe of Manasseh). These were the safe zones for all Israelites and any foreigners living with them. So if you accidentally killed someone, you could go there and not get taken out by an avenger before you even got a fair trial."
+  },
+  "ko_edits": {
+   "4": "그리고 요단강 동쪽, 여리고 동편에서는 사막 고원에 있는 르우벤 지파의 베셀, 갓 지파의 길르앗 라못, 므낫세 지파의 바산 골란을 도피성으로 정했대. 이 성들은 이스라엘 백성이랑 거기 사는 외국인들 모두를 위한 거였음. 실수로 사람 죽인 사람이면 누구든지 거기로 튀어서, 재판도 못 받고 복수당해 죽는 일을 피할 수 있게 한 거임."
+  },
+  "merges": [],
+  "splits": [],
+  "title_ko": "하나님의 안전지대: 원조 노복수 규칙"
+ },
+ "21": {
+  "badges": {
+   "10": "19",
+   "11": "20-22",
+   "9": "17-18"
+  },
+  "changes": [
+   "badges corrected to MSG ranges"
+  ],
+  "confirmations_needed": [],
+  "merges": [],
+  "splits": [],
+  "title_ko": "레위 사람들이 드디어 땅을 받다!"
+ },
+ "22": {
+  "badges": {
+   "12": "22-23",
+   "17": "28",
+   "18": "29",
+   "19": "30",
+   "20": "31",
+   "21": "32-33",
+   "6": "11",
+   "7": "12-14",
+   "8": "15-18",
+   "9": "19-20",
+   "10": "21-22",
+   "11": "21-22"
+  },
+  "changes": [
+   "badges corrected",
+   "splits declared for MSG 1-5, 21-22, 27, 34"
+  ],
+  "confirmations_needed": [
+   "Ch22 splits of MSG 1-5, 21-22, 27, 34 — confirm splits are OK",
+   "Ch22 split of MSG 28 across paras 16-17 — confirm split is OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-5",
+    "note": "MSG 1-5 split: para 0 is vv1-3 (badged '1-3'), para 1 is vv4-5 (badged '4-5')",
+    "paras": [
+     0,
+     1
+    ]
+   },
+   {
+    "msg_range": "21-22",
+    "note": "MSG 21-22 split: para 10 is the reply intro (badged '21-22'), para 11 is the oath (badged '21-22')",
+    "paras": [
+     10,
+     11
+    ]
+   },
+   {
+    "msg_range": "34",
+    "note": "MSG v34 split: para 22 is the naming intro (badged '34'), para 23 is the altar name (badged '34')",
+    "paras": [
+     22,
+     23
+    ]
+   },
+   {
+    "msg_range": "28",
+    "paras": [
+     16,
+     17
+    ],
+    "note": "MSG 28 split: para 16 is 'your kids can't say...' (badged '28'), para 17 is the replica-of-altar reply (badged '28')"
+   }
+  ],
+  "title_ko": "제단 때문에 내전 날 뻔한 썰"
+ },
+ "23": {
+  "badges": {},
+  "changes": [
+   "split declared for MSG 1-2 across paras 0-1"
+  ],
+  "confirmations_needed": [
+   "Ch23 split of MSG 1-2 across paras 0-1 — confirm split is OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-2",
+    "paras": [
+     0,
+     1
+    ],
+    "note": "MSG 1-2 split: para 0 is the gathering of aged Joshua (badged '1-2'), para 1 begins the farewell speech overlapping v2 (badged '2-3')"
+   }
+  ],
+  "title_ko": "여호수아의 마이크 드롭: 충성하거나 망하거나"
+ },
+ "24": {
+  "badges": {
+   "0": "1-2",
+   "7": "14",
+   "11": "17-18"
+  },
+  "changes": [
+   "badge corrected: para 0 '1'->'1-2' (covers the Shechem gathering + address intro)",
+   "splits declared for MSG 7-10, 17-18, 22"
+  ],
+  "confirmations_needed": [
+   "Ch24 splits of MSG 7-10, 17-18, 22 — confirm splits are OK",
+   "Ch24 split of MSG 1-2 across paras 0-1 — confirm split is OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "7-10",
+    "note": "MSG 7-10 split: para 2 is v7 (badged '7'), para 3 is vv7b-10 (badged '7-10')",
+    "paras": [
+     2,
+     3
+    ]
+   },
+   {
+    "msg_range": "17-18",
+    "note": "MSG 17-18 split: para 10 is v17 (badged '17-18'), para 11 is v18 (badged '18')",
+    "paras": [
+     10,
+     11
+    ]
+   },
+   {
+    "msg_range": "22",
+    "note": "MSG v22 split: para 14 is the witness challenge (badged '22'), para 15 is 'We are witnesses' (badged '22')",
+    "paras": [
+     14,
+     15
+    ]
+   },
+   {
+    "msg_range": "1-2",
+    "paras": [
+     0,
+     1
+    ],
+    "note": "MSG 1-2 split: para 0 is the Shechem gathering (badged '1-2'), para 1 begins the history speech overlapping v2 (badged '2-6')"
+   }
+  ],
+  "title_ko": "궁극의 충성 테스트: 함께할 거야, 말 거야?"
+ },
+ "3": {
+  "badges": {},
+  "changes": [],
+  "confirmations_needed": [],
+  "merges": [],
+  "splits": [],
+  "title_ko": "하나님이 물을 또 가르시다?!"
+ },
+ "4": {
+  "badges": {
+   "2": "8-9",
+   "5": "14",
+   "6": "15-16",
+   "7": "17",
+   "8": "18",
+   "9": "19-22"
+  },
+  "changes": [
+   "badges corrected to MSG ranges",
+   "toned down 'total legend' in para 5 (KO unchanged — already neutral)"
+  ],
+  "confirmations_needed": [],
+  "merges": [],
+  "splits": [],
+  "en_edits": {
+   "5": "That day, God made Joshua earn serious respect in front of all of Israel. They respected him deeply, just like they had respected Moses his whole life."
+  },
+  "title_ko": "요단강 건너기: 최고의 플렉스"
+ },
+ "5": {
+  "badges": {},
+  "changes": [
+   "split declared for MSG 15 across paras 9-10"
+  ],
+  "confirmations_needed": [
+   "Ch5 split of MSG 15 across paras 9-10 — confirm two-paragraph split is OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "15",
+    "note": "MSG v15 split: para 9 is the sandal command (badged '15'), para 10 is 'And Joshua did it' (badged '15')",
+    "paras": [
+     9,
+     10
+    ]
+   }
+  ],
+  "title_ko": "완벽 변신"
+ },
+ "6": {
+  "badges": {},
+  "changes": [
+   "splits declared for MSG 15-17, 20, 26",
+   "softened 'no cap' to 'for real' in para 18 (KO unchanged — already neutral)"
+  ],
+  "confirmations_needed": [
+   "Ch6 splits of MSG 15-17, 20, 26 — confirm splits are OK"
+  ],
+  "en_edits": {
+   "18": "God was with Joshua, for real. He got famous all over the country."
+  },
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "15-17",
+    "note": "MSG 15-17 split: para 8 is vv15-17a incl. the shout + curse (badged '15-17'), para 9 is the Rahab exception v17b (badged '17')",
+    "paras": [
+     8,
+     9
+    ]
+   },
+   {
+    "msg_range": "20",
+    "note": "MSG v20 split: para 11 is the trumpet blast (badged '20'), para 12 is the shout + wall fall (badged '20')",
+    "paras": [
+     11,
+     12
+    ]
+   },
+   {
+    "msg_range": "26",
+    "note": "MSG v26 split: para 16 is the oath intro (badged '26'), para 17 is the curse content (badged '26')",
+    "paras": [
+     16,
+     17
+    ]
+   }
+  ],
+  "title_ko": "여리고 함락: 궁극의 성벽 핵"
+ },
+ "7": {
+  "badges": {
+   "12": "22-23",
+   "13": "24",
+   "14": "25-26"
+  },
+  "changes": [
+   "restored Achan's genealogy (son of Carmi, son of Zabdi, son of Zerah) in para 0 to match MSG v1 — KO already had it",
+   "badges corrected: para 12 '22'->'22-23', para 13 '24'->'24', para 14 '24-26'->'25-26'"
+  ],
+  "confirmations_needed": [],
+  "en_edits": {
+   "0": "But then the Israelites totally broke the rules. This guy named Achan—son of Carmi, son of Zabdi, son of Zerah—from the tribe of Judah, took some of the stuff that was supposed to be destroyed under the holy curse. And God got really mad at the people of Israel."
+  },
+  "merges": [],
+  "splits": [],
+  "title_ko": "한 사람의 실수가 망친 전투"
+ },
+ "8": {
+  "badges": {
+   "11": "26-27",
+   "12": "28-29",
+   "13": "30-32",
+   "14": "33",
+   "15": "34-35",
+   "2": "3-8",
+   "3": "9",
+   "4": "10-13",
+   "5": "14",
+   "6": "15-17",
+   "7": "18-19",
+   "8": "20-21"
+  },
+  "changes": [
+   "badges corrected to MSG ranges"
+  ],
+  "confirmations_needed": [],
+  "merges": [],
+  "splits": [],
+  "title_ko": "역전 드라마: 가짜 후퇴로 아이를 점령하다"
+ },
+ "9": {
+  "badges": {
+   "1": "3-6",
+   "2": "7",
+   "3": "8",
+   "11": "19-21",
+   "13": "24-25"
+  },
+  "changes": [
+   "badges corrected to MSG ranges",
+   "splits declared for MSG 8 and 19-21"
+  ],
+  "confirmations_needed": [
+   "Ch9 splits of MSG 8 and 19-21 — confirm splits are OK"
+  ],
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "8",
+    "note": "MSG v8 split: para 3 is 'We'll be your servants' (badged '7'-> corrected '8'), para 4 is Joshua's question (badged '8')",
+    "paras": [
+     3,
+     4
+    ]
+   },
+   {
+    "msg_range": "19-21",
+    "note": "MSG 19-21 split: para 10 is the leaders' decision (badged '19-21'), para 11 is 'the leaders kept their promise' (badged '21'-> corrected '19-21')",
+    "paras": [
+     10,
+     11
+    ]
+   }
+  ],
+  "title_ko": "기브온 사람들의 대 사기극"
+ }
+}

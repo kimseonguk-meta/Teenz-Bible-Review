@@ -1,0 +1,76 @@
+# EXODUS 7 — Pharaoh's Epic Fail: Snakes & Bloody Water
+TEEN paras: 11 | badges: ['1-5', '6-7', '8-9', '10', '11-12', '13', '14-18', '19', '20-21', '22-24', '25']
+KO paras: 11 | badges: ['1-5', '6-7', '8-9', '10', '11-12', '13', '14-18', '19', '20-21', '22-24', '25']
+MSG sections: 10 | ranges: ['1-5', '6-7', '8-9', '10', '11-12', '13', '14-18', '19', '20-21', '22-25']
+
+--- MSG [1-5] ---
+God told Moses, “Look at me. I’ll make you as a god to Pharaoh and your brother Aaron will be your prophet. You are to speak everything I command you, and your brother Aaron will tell it to Pharaoh. Then he will release the Israelites from his land. At the same time I am going to put Pharaoh’s back up and follow it up by filling Egypt with signs and wonders. Pharaoh is not going to listen to you, but I will have my way against Egypt and bring out my soldiers, my people the Israelites, from Egypt by mighty acts of judgment. The Egyptians will realize that I am God when I step in and take the Israelites out of their country.”
+
+>>> TEEN:
+  [p0 badge=1-5] God told Moses, “Alright, listen up. I’m gonna make you seem like a god to Pharaoh, and your brother Aaron will be your hype man. You say everything I tell you to, and Aaron will pass it on to Pharaoh. Then he’ll let the Israelites leave his country. But at the same time, I’m gonna make Pharaoh super stubborn, and then I'm gonna hit Egypt with some mind-blowing signs and wonders. Pharaoh’s not gonna listen to you, but I’ll show my power against Egypt and bring out my crew, my people the Israelites, from Egypt with some major acts of judgment. The Egyptians will know I’m the real deal when I step in and pull the Israelites right out of their country.”
+  [KO p0] 하나님이 모세한테 말했대. “야, 잘 들어봐. 내가 너를 파라오 앞에서 신처럼 만들어줄게. 그리고 니 형 아론은 너의 대변인이 되는거임. 너는 내가 시키는 대로 다 말하고, 니 형 아론이 그걸 파라오한테 전하는 거지. 그러면 파라오가 이스라엘 백성들을 그 땅에서 내보내 줄 거야. 근데 동시에 내가 파라오를 완전 고집불통으로 만들어서 이집트에다가 믿기 힘든 신기한 일들을 막 보여줄 거임. 파라오가 니 말을 안 듣겠지만, 결국엔 내가 이집트를 치고 내 군대, 내 백성 이스라엘 자손을 이집트에서 데리고 나올 거야. 내가 이집트에 손을 뻗어서 이스라엘 자손을 그 나라에서 인도하여 낼 때에야 이집트 사람들이 내가 여호와인 줄 알
+
+--- MSG [6-7] ---
+Moses and Aaron did exactly what God commanded. Moses was eighty and Aaron eighty-three when they spoke to Pharaoh.
+
+>>> TEEN:
+  [p1 badge=6-7] So Moses and Aaron did exactly what God told them to. Quick fact check: Moses was 80 and Aaron was 83 when they went to talk to Pharaoh.
+  [KO p1] 모세랑 아론은 하나님이 시키는 대로 했대. 그때 모세는 80살, 아론은 83살이었다고 함.
+
+--- MSG [8-9] ---
+Then God spoke to Moses and Aaron. He said, “When Pharaoh speaks to you and says, ‘Prove yourselves. Perform a miracle,’ then tell Aaron, ‘Take your staff and throw it down in front of Pharaoh: It will turn into a snake.’”
+
+>>> TEEN:
+  [p2 badge=8-9] Then God said to Moses and Aaron, “When Pharaoh challenges you and says, ‘Prove yourselves. Do something amazing,’ you tell Aaron, ‘Take your staff and throw it down in front of Pharaoh. It’ll turn into a snake.’”
+  [KO p2] 하나님이 모세랑 아론한테 또 말했대. “파라오가 너네한테 ‘너네 정체가 뭐냐? 증거를 대봐라. 신기한 거 해봐’라고 하면, 아론한테 ‘지팡이를 파라오 앞에 던져라. 그럼 그게 뱀이 될 거다’라고 말해줘.”
+
+--- MSG [10] ---
+Moses and Aaron went to Pharaoh and did what God commanded. Aaron threw his staff down in front of Pharaoh and his servants, and it turned into a snake.
+
+>>> TEEN:
+  [p3 badge=10] So Moses and Aaron went to Pharaoh and did just what God commanded. Aaron threw his staff down in front of Pharaoh and his officials, and it turned into a snake.
+  [KO p3] 모세랑 아론이 파라오한테 가서 하나님이 시킨 대로 했대. 아론이 자기 지팡이를 파라오랑 그 신하들 앞에 던지니까 진짜 뱀이 된 거임.
+
+--- MSG [11-12] ---
+Pharaoh called in his wise men and sorcerers. The magicians of Egypt did the same thing by their spells: each man threw down his staff and they all turned into snakes. But then Aaron’s staff swallowed their staffs.
+
+>>> TEEN:
+  [p4 badge=11-12] Pharaoh then called his own wise men and sorcerers. The Egyptian magicians did the same thing with their magic spells: each one threw down his staff, and they all turned into snakes. But then, Aaron’s staff totally swallowed their staffs. Wild.
+  [KO p4] 그러니까 파라오도 자기 똑똑한 부하들이랑 마술사들을 불렀어. 이집트 마술사들도 자기네 마술로 똑같이 따라 했대. 각자 지팡이를 던지니까 다 뱀으로 변한 거야. 근데 엄청난 건, 아론의 지팡이가 걔네 지팡이를 다 삼켜버렸어. 어마어마했지.
+
+--- MSG [13] ---
+Yet Pharaoh was as stubborn as ever—he wouldn’t listen to them, just as God had said.
+
+>>> TEEN:
+  [p5 badge=13] But Pharaoh was still being stubborn and wouldn’t listen to them, just like God said he would.
+  [KO p5] 근데도 파라오는 여전히 고집불통이었어. 하나님이 말한 대로, 걔네 말을 듣지도 않았대.
+
+--- MSG [14-18] ---
+God said to Moses: “Pharaoh is a stubborn man. He refuses to release the people. First thing in the morning, go and meet Pharaoh as he goes down to the river. At the shore of the Nile take the staff that turned into a snake and say to him, ‘God, the God of the Hebrews, sent me to you with this message, “Release my people so that they can worship me in the wilderness.” So far you haven’t listened. This is how you’ll know that I am God. I am going to take this staff that I’m holding and strike this Nile River water: The water will turn to blood; the fish in the Nile will die; the Nile will stink; and the Egyptians won’t be able to drink the Nile water.’”
+
+>>> TEEN:
+  [p6 badge=14-18] God said to Moses: “Pharaoh is being a stubborn dude. He refuses to let the people go. First thing tomorrow, go meet Pharaoh when he goes down to the river. Stand on the bank of the Nile with the staff that turned into a snake and tell him, ‘God, the God of the Hebrews, sent me to you with this message: “Let my people go so they can worship me in the wilderness.” You haven’t listened so far. This is how you’ll know that I am God. I’m going to take this staff I’m holding and hit the Nile River water with it: The water will turn to blood; the fish in the Nile will die; the river will stink; and the Egyptians won’t be able to drink the water.’”
+  [KO p6] 하나님이 모세한테 말했어. “파라오 저거 완전 고집불통이네. 백성들을 보내주질 않아. 내일 아침 일찍, 파라오가 강으로 내려갈 때 가서 만나. 나일 강가에 서서 뱀으로 변했던 그 지팡이를 들고 그에게 말해. ‘히브리 사람의 하나님 여호와께서 저를 왕에게 보내셨습니다. ‘내 백성을 보내라. 그들이 광야에서 나를 섬기게 하라’는 말씀을 전하라고 하셨는데, 왕께서는 지금까지 듣지 않으셨습니다. 이걸로 왕은 제가 여호와인 줄 알게 될 겁니다. 제가 들고 있는 이 지팡이로 나일 강 물을 치면 물이 피로 변할 것이고, 나일 강의 물고기는 죽고, 강에서는 썩은 냄새가 나서 이집트 사람들은 나일 강 물을 마실 수 없게 될 겁니다.’”
+
+--- MSG [19] ---
+God said to Moses, “Tell Aaron, ‘Take your staff and wave it over the waters of Egypt—over its rivers, its canals, its ponds, all its bodies of water—so that they turn to blood.’ There’ll be blood everywhere in Egypt—even in the pots and pans.”
+
+>>> TEEN:
+  [p7 badge=19] God told Moses, “Tell Aaron, ‘Take your staff and wave it over all the waters of Egypt—its rivers, canals, ponds, and all its pools—so they all turn to blood.’ There will be blood everywhere in Egypt, even in their pots and pans.”
+  [KO p7] 하나님이 모세한테 말했어. “아론한테 말해줘. ‘네 지팡이를 잡고 이집트의 모든 물, 강, 운하, 연못 위에 손을 뻗어라. 그러면 그 물들이 다 피로 변할 것이다.’ 이집트 온 땅에, 심지어 그릇에 담긴 물까지 다 피가 될 거래.”
+
+--- MSG [20-21] ---
+Moses and Aaron did exactly as God commanded them. Aaron raised his staff and hit the water in the Nile with Pharaoh and his servants watching. All the water in the Nile turned into blood. The fish in the Nile died; the Nile stank; and the Egyptians couldn’t drink the Nile water. The blood was everywhere in Egypt.
+
+>>> TEEN:
+  [p8 badge=20-21] Moses and Aaron did exactly what God commanded. Aaron lifted his staff and struck the water in the Nile while Pharaoh and his officials watched. All the water in the Nile turned to blood. The fish in the Nile died, and the river started to stink, so the Egyptians couldn’t drink its water. There was blood everywhere in Egypt.
+  [KO p8] 모세와 아론은 하나님이 명령하신 대로 했어. 아론이 파라오와 그의 신하들이 보는 앞에서 지팡이를 들어 나일 강 물을 쳤더니, 강의 모든 물이 피로 변했대. 나일 강의 물고기는 다 죽고, 강에서는 썩은 냄새가 나서 이집트 사람들은 그 물을 마실 수가 없었어. 이집트 온 땅에 피가 넘쳐났지.
+
+--- MSG [22-25] ---
+But the magicians of Egypt did the same thing with their incantations. Still Pharaoh remained stubborn. He wouldn’t listen to them as God had said. He spun around and went home, never giving it a second thought. But all the Egyptians had to dig inland from the river for water because they couldn’t drink the Nile water. Seven days went by after God had struck the Nile.
+
+>>> TEEN:
+  [p9 badge=22-24] But the Egyptian magicians did the same thing with their spells. So Pharaoh stayed stubborn. He wouldn’t listen to Moses and Aaron, just as God had said. He just turned and went home, not even giving it a second thought. But all the Egyptians had to dig new wells near the river for water because they couldn’t drink the water from the Nile.
+  [KO p9] 근데 이집트 마술사들도 자기네 마술로 똑같이 따라 하는 거야. 그러니까 파라오는 더 고집을 부렸지. 하나님이 말한 대로 모세와 아론의 말을 듣지 않았어. 그는 그냥 휙 돌아서서 집으로 가버리고, 이 일에 대해 전혀 신경 쓰지 않았대. 하지만 모든 이집트 사람들은 나일 강 물을 마실 수 없게 되어서 강 주변을 파서 마실 물을 구해야만 했어.
+  [p10 badge=25] A whole week went by after God struck the Nile.
+  [KO p10] 하나님이 나일 강을 친 후, 7일이 지났대.

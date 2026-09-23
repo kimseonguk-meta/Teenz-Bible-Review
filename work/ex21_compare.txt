@@ -1,0 +1,102 @@
+# EXODUS 21 — Ancient Rules for Modern Messes
+TEEN paras: 14 | badges: ['1', '2-6', '7-11', '12-14', '15', '16', '17', '18-19', '20-21', '22-25', '26-27', '28-32', '33-34', '35-36']
+KO paras: 14 | badges: ['1', '2-6', '7-11', '12-14', '15', '16', '17', '18-19', '20-21', '22-25', '26-27', '28-32', '33-34', '35-36']
+MSG sections: 14 | ranges: ['1', '2-6', '7-11', '12-14', '15', '16', '17', '18-19', '20-21', '22-25', '26-27', '28-32', '33-34', '35-36']
+
+--- MSG [1] ---
+“These are the laws that you are to place before them:
+
+>>> TEEN:
+  [p0 badge=1] Alright, here are the rules you need to lay down for them:
+  [KO p0] 자, 이제부터 애들한테 알려줘야 할 법임.
+
+--- MSG [2-6] ---
+“When you buy a Hebrew slave, he will serve six years. The seventh year he goes free, for nothing. If he came in single he leaves single. If he came in married he leaves with his wife. If the master gives him a wife and she gave him sons and daughters, the wife and children stay with the master and he leaves by himself. But suppose the slave should say, ‘I love my master and my wife and children—I don’t want my freedom,’ then his master is to bring him before God and to a door or doorpost and pierce his ear with an awl, a sign that he is a slave for life.
+
+>>> TEEN:
+  [p1 badge=2-6] If you get a Hebrew servant, they're with you for six years. On the seventh year, they get to walk free, no charge. If they came to you single, they leave single. If they were married, their wife leaves with them. But if you, the boss, give them a wife and they have kids, the wife and kids stay with you, and the servant leaves by himself. But what if the servant is like, ‘Yo, I actually love my boss and my family—I don’t want to be free’? Then you gotta take him to a sacred spot, stand him by a door or a doorpost, and pierce his ear with an awl. That’s the sign that he’s your servant for life.
+  [KO p1] 히브리 노예를 사면 6년 동안 부릴 수 있대. 근데 7년째 되는 해에는 공짜로 풀어줘야 하는 거임. 만약 혼자 왔으면 혼자 나가고, 결혼한 상태로 왔으면 아내랑 같이 나가는 거야. 근데 주인이 아내를 구해줘서 아들딸을 낳았으면, 그 아내랑 애들은 주인한테 남고 노예 혼자 나가는 거래. 근데 만약에 그 노예가 '아, 주인님도 좋고 내 아내랑 애들도 좋은데... 자유롭고 싶지 않아요'라고 말하면, 주인은 그를 신성한 곳으로 데려가서 문이나 문설주에 세우고 송곳으로 귀를 뚫어야 한대. 평생 노예라는 표식인 거지.
+
+--- MSG [7-11] ---
+“When a man sells his daughter to be a handmaid, she doesn’t go free after six years like the men. If she doesn’t please her master, her family must buy her back; her master doesn’t have the right to sell her to foreigners since he broke his word to her. If he turns her over to his son, he has to treat her like a daughter. If he marries another woman, she retains all her full rights to meals, clothing, and marital relations. If he won’t do any of these three things for her, she goes free, for nothing.
+
+>>> TEEN:
+  [p2 badge=7-11] Now, if a guy sells his daughter as a servant, she doesn't get to just leave after six years like the guys do. If her new owner isn't happy with her, her family has to buy her back. The owner can't just sell her off to some random foreigners because he broke his promise to her. If he decides to give her to his son, he has to treat her like his own daughter. If he marries another woman, the servant girl still gets all her rights to food, clothes, and, you know, wifely duties. If he fails to provide any of these three things, she gets to leave, completely free.
+  [KO p2] 어떤 남자가 자기 딸을 하녀로 팔았을 경우, 그 딸은 남자 노예들처럼 6년 후에 자유롭게 나갈 수 없대. 만약 주인이 그 딸을 마음에 들어 하지 않으면, 가족들이 다시 돈을 주고 데려와야 하는 거임. 주인은 그 딸을 외국인한테 팔 권리가 없는데, 왜냐면 그 딸과의 약속을 깬 거니까. 만약 주인이 자기 아들에게 그 딸을 주기로 했으면, 친딸처럼 대해야 한대. 만약 다른 여자랑 결혼하면, 그 하녀는 식사, 의복, 그리고 부부 관계에 대한 모든 권리를 그대로 유지한대. 만약 이 세 가지 중 하나라도 해주지 않으면, 그녀는 아무 대가 없이 자유롭게 떠날 수 있는 거임.
+
+--- MSG [12-14] ---
+“If someone hits another and death results, the penalty is death. But if there was no intent to kill—if it was an accident, an ‘act of God’—I’ll set aside a place to which the killer can flee for refuge. But if the murder was premeditated, cunningly plotted, then drag the killer away, even if it’s from my Altar, to be put to death.
+
+>>> TEEN:
+  [p3 badge=12-14] If someone straight up hits another person and they die, that's a death sentence. But if it wasn't on purpose—like a total accident, an 'act of God'—I'll set up a safe place where the killer can run for protection. But if it was a planned-out, sneaky murder, you drag that killer away, even from my holy Altar, and they get put to death.
+  [KO p3] 만약 누가 다른 사람을 쳐서 죽게 하면, 그건 사형임. 근데 죽일 의도가 없었고, 완전 사고, 즉 '신의 뜻'이었다면, 내가 살인자가 피할 수 있는 피난처를 마련해 줄 거래. 하지만 만약 계획적으로, 교활하게 살인을 저질렀다면, 그 살인자는 내 제단에서라도 끌어내서 사형에 처해야 한대.
+
+--- MSG [15] ---
+“If someone hits father or mother, the penalty is death.
+
+>>> TEEN:
+  [p4 badge=15] Anyone who hits their own father or mother gets the death penalty.
+  [KO p4] 자기 아버지나 어머니를 때린 사람은 사형임.
+
+--- MSG [16] ---
+“If someone kidnaps a person, the penalty is death, regardless of whether the person has been sold or is still held in possession.
+
+>>> TEEN:
+  [p5 badge=16] Kidnapping someone? That's a death sentence, whether you sold them or they're still with you.
+  [KO p5] 사람을 납치한 경우, 그 사람을 팔았든 아직 데리고 있든 상관없이 사형임.
+
+--- MSG [17] ---
+“If someone curses father or mother, the penalty is death.
+
+>>> TEEN:
+  [p6 badge=17] Cursing your father or mother? Death penalty.
+  [KO p6] 자기 아버지나 어머니를 저주하는 사람도 사형임.
+
+--- MSG [18-19] ---
+“If a quarrel breaks out and one hits the other with a rock or a fist and the injured one doesn’t die but is confined to bed and then later gets better and can get about on a crutch, the one who hit him is in the clear, except to pay for the loss of time and make sure of complete recovery.
+
+>>> TEEN:
+  [p7 badge=18-19] If two people get into a fight and one whacks the other with a rock or their fist, and the injured person doesn't die but is stuck in bed for a while, and then later they can get around with a crutch, the one who hit them is off the hook. Except, they have to pay for the person's lost time and make sure they're totally healed.
+  [KO p7] 만약 말다툼이 벌어져서 한 사람이 다른 사람을 돌이나 주먹으로 쳤는데, 다친 사람이 죽지는 않고 침대에 누워 있다가 나중에 지팡이를 짚고 다닐 수 있게 되면, 때린 사람은 처벌받지 않는대. 단, 그동안 일 못한 거에 대한 손실을 보상하고 완전히 회복될 때까지 책임져야 함.
+
+--- MSG [20-21] ---
+“If a slave owner hits a slave, male or female, with a stick and the slave dies on the spot, the slave must be avenged. But if the slave survives a day or two, he’s not to be avenged—the slave is the owner’s property.
+
+>>> TEEN:
+  [p8 badge=20-21] If a slave owner hits their male or female slave with a stick and the slave dies right there, that slave has to be avenged. But if the slave hangs on for a day or two, the owner is in the clear—the slave is their property, after all.
+  [KO p8] 만약 노예 주인이 남자 노예든 여자 노예든 막대기로 때려서 그 자리에서 죽으면, 그 노예의 복수를 해줘야 한대. 근데 만약 하루나 이틀 후에 죽으면 복수하지 않아도 된대. 그 노예는 주인의 재산이니까.
+
+--- MSG [22-25] ---
+“When there’s a fight and in the fight a pregnant woman is hit so that she miscarries but is not otherwise hurt, the one responsible has to pay whatever the husband demands in compensation. But if there is further damage, then you must give life for life—eye for eye, tooth for tooth, hand for hand, foot for foot, burn for burn, wound for wound, bruise for bruise.
+
+>>> TEEN:
+  [p9 badge=22-25] If people are fighting and a pregnant woman gets hit and has a miscarriage but is otherwise okay, the person responsible has to pay whatever her husband demands. But if there's more serious injury, then it's life for a life—eye for an eye, tooth for a tooth, hand for a hand, foot for a foot, burn for a burn, wound for a wound, bruise for a bruise.
+  [KO p9] 싸움이 났는데 임신한 여자를 쳐서 유산했지만 다른 상처는 없다면, 책임자는 남편이 요구하는 만큼의 보상금을 내야 한대. 근데 만약 더 큰 상처가 생겼다면, 목숨은 목숨으로, 눈은 눈으로, 이는 이로, 손은 손으로, 발은 발로, 화상은 화상으로, 상처는 상처로, 멍은 멍으로 갚아야 하는 거임.
+
+--- MSG [26-27] ---
+“If a slave owner hits the eye of a slave or handmaid and ruins it, the owner must let the slave go free because of the eye. If the owner knocks out the tooth of the male or female slave, the slave must be released and go free because of the tooth.
+
+>>> TEEN:
+  [p10 badge=26-27] If a slave owner hits their slave's eye and messes it up, they have to let the slave go free because of the eye. If the owner knocks out a slave's tooth, the slave gets to go free because of the tooth.
+  [KO p10] 만약 노예 주인이 노예의 눈을 쳐서 못 쓰게 만들면, 주인은 그 눈 때문에 노예를 자유롭게 풀어줘야 한대. 만약 주인이 남자 노예나 여자 노예의 이를 부러뜨리면, 그 이 때문에 노예를 풀어주고 자유롭게 가게 해야 함.
+
+--- MSG [28-32] ---
+“If an ox gores a man or a woman to death, the ox must be stoned. The meat cannot be eaten but the owner of the ox is in the clear. But if the ox has a history of goring and the owner knew it and did nothing to guard against it, then if the ox kills a man or a woman, the ox is to be stoned and the owner given the death penalty. If a ransom is agreed upon instead of death, he must pay it in full as a redemption for his life. If a son or daughter is gored, the same judgment holds. If it is a slave or a handmaid the ox gores, thirty shekels of silver is to be paid to the owner and the ox stoned.
+
+>>> TEEN:
+  [p11 badge=28-32] If an ox gores a man or a woman and they die, the ox has to be stoned to death. You can't eat its meat, but the owner is fine. But if the ox was known for goring people and the owner knew it but didn't do anything about it, and then it kills someone, the ox gets stoned and the owner gets the death penalty. However, if they agree on a ransom instead of death, the owner has to pay the full amount to save his life. The same rule applies if the ox gores a son or a daughter. If it gores a slave, thirty silver shekels have to be paid to the owner, and the ox gets stoned.
+  [KO p11] 만약 소가 남자나 여자를 들이받아 죽게 하면, 그 소는 돌로 쳐 죽여야 한대. 그 고기는 먹을 수 없고, 소 주인은 책임이 없음. 근데 만약 그 소가 원래 사람을 들이받는 버릇이 있었고 주인이 그걸 알면서도 조심하지 않았다가 소가 사람을 죽이면, 그 소는 돌로 쳐 죽이고 주인은 사형에 처한대. 만약 사형 대신 합의금이 정해지면, 그는 자기 목숨값으로 그 돈을 전액 지불해야 함. 아들이나 딸이 들이받혔을 때도 똑같은 판결이 적용된대. 만약 소가 노예를 들이받으면, 은 30세겔을 주인에게 지불하고 소는 돌로 쳐 죽여야 함.
+
+--- MSG [33-34] ---
+“If someone uncovers a cistern or digs a pit and leaves it open and an ox or donkey falls into it, the owner of the pit must pay whatever the animal is worth to its owner but can keep the dead animal.
+
+>>> TEEN:
+  [p12 badge=33-34] If someone uncovers a well or digs a pit and just leaves it open, and an ox or a donkey falls in, the owner of the pit has to pay the animal's owner what it was worth, but they get to keep the dead animal.
+  [KO p12] 만약 누가 우물을 파거나 구덩이를 파놓고 뚜껑을 덮지 않아서 소나 나귀가 빠지면, 구덩이 주인이 그 동물의 가치만큼 주인에게 보상해야 하고, 죽은 동물은 가질 수 있대.
+
+--- MSG [35-36] ---
+“If someone’s ox injures a neighbor’s ox and the ox dies, they must sell the live ox and split the price; they must also split the dead animal. But if the ox had a history of goring and the owner knew it and did nothing to guard against it, the owner must pay an ox for an ox but can keep the dead animal.”
+
+>>> TEEN:
+  [p13 badge=35-36] If someone's ox injures a neighbor's ox and it dies, they have to sell the live ox and split the money. They also have to split the dead animal. But if the ox had a history of being aggressive and the owner knew it and did nothing, the owner has to pay an ox for an ox, but they can keep the dead one.
+  [KO p13] 만약 누구네 소가 이웃집 소를 다치게 해서 죽으면, 살아있는 소를 팔아서 그 값을 나누고, 죽은 동물도 나눠야 한대. 근데 만약 그 소가 원래 들이받는 버릇이 있었고 주인이 그걸 알면서도 조심하지 않았다면, 주인은 소 한 마리를 소 한 마리로 갚아야 하고, 죽은 동물은 가질 수 있음.

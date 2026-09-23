@@ -1,0 +1,279 @@
+[
+ {
+  "changes": [
+   "Ch1: removed fabricated §A Living Hope header (MSG has no header before 1-2) and inserted MSG's real headers §A New Life (badge 3-5) and §A Future in God (badge 13-16)",
+   "Ch1: fixed badge 13-14 → 13-16 and restored MSG's 'a life energetic and blazing with holiness'",
+   "Ch1: fixed badge 18-19 → 18-21 (content already covered 18-21)",
+   "Ch1: rebuilt 22-25 (was a fragmented set of null/'24'/'25' badges) into 3 paragraphs all badged 22-25 with split declared",
+   "Ch1: corrected 10-12 'the Messiah would have to suffer and then get a miraculous transformation' → 'suffer first, and then enter into glory' (MSG: 'suffering, followed by glory')",
+   "Ch1 1-2: restored 'an apostle on assignment from Jesus the Messiah' (was 'one of Jesus's main guys')",
+   "Ch1 1-2: restored 'keeping you obedient ... through the sacrifice Jesus made' (was 'on the right track ... what Jesus did')",
+   "Ch1 10-12: restored 'by orders from heaven' + 'the message of those prophecies coming true'",
+   "Ch1 13-16: restored 'roll up your sleeves'",
+   "Ch1 18-21: restored 'at the end of the ages'"
+  ],
+  "chapter": 1,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-2",
+   "3-5",
+   "6-7",
+   "8-9",
+   "10-12",
+   "13-16",
+   "17",
+   "18-21",
+   "22-25"
+  ],
+  "paragraphs": [
+   "Hey, what up! It's Peter, an apostle on assignment from Jesus the Messiah, dropping a line to all you guys who are scattered all over the place. You might feel like you're on the outside looking in, but God the Father's got his eye on every single one of you. He hasn't forgotten a single person. The Holy Spirit is working in you, keeping you obedient, all through the sacrifice Jesus made for us. I hope you're getting all the good stuff God has for you!",
+   "§A New Life",
+   "Seriously, how awesome is our God? We're so lucky to have him as the Father of our main man, Jesus. Because Jesus came back from the dead, we've got a totally new life to live. We've got a future in heaven to look forward to, and it's not some far-off thing—it's starting right now! God's watching over us and our future. The day is coming when everything will be perfect, and we'll be whole and healed.",
+   "I know this makes you feel stoked, even when you're dealing with all sorts of annoying stuff. Think about it like this: when you put gold in the fire, it comes out pure. When your faith goes through tough times, it comes out legit. When Jesus comes back and wraps everything up, it's your faith, not your money, that God's gonna show off as proof of his win.",
+   "You've never seen Jesus, but you love him. You still don't see him, but you trust him, and it makes you want to sing and laugh. Because you kept believing, you're going to get what you've been waiting for: complete salvation.",
+   "The prophets who talked about this awesome gift of life a long time ago had a ton of questions. The Spirit of the Messiah gave them a sneak peek: the Messiah would have to suffer first, and then enter into glory. They were dying to know who it would be and when it would happen. All they were told was that they were serving you guys. And now, by orders from heaven, you've heard the message of those prophecies coming true for yourselves through the Holy Spirit. Do you realize how lucky you are? Even angels would have loved to be in on this!",
+   "§A Future in God",
+   "So roll up your sleeves, get your head in the game, and be ready for the gift that's coming when Jesus shows up. Don't be lazy and fall back into your old ways of doing whatever you feel like. You didn't know any better back then, but you do now. Be like obedient kids and let God pull you into a life shaped by his life—energetic and blazing with holiness. He said, “I am holy; you be holy.”",
+   "You call out to God for help, and he's a good Father who helps you. But don't forget that he's also a responsible Father. He won't let you get away with being sloppy.",
+   "Your life is a journey, and you need to be aware of God every step of the way. It cost God a lot to get you out of the dead-end, pointless life you grew up in. He paid for it with the precious blood of Christ. Jesus was like a perfect, sacrificial lamb. And this wasn't a last-minute plan. God always knew he was going to do this for you, even though it only became public recently, at the end of the ages. It's because of Jesus, who died and was raised from the dead and glorified, that you can trust God and know you have a future with him.",
+   "Now that you've cleaned up your act by following the truth, you need to love each other like your lives depend on it. Your new life isn't like your old one. Your old life came from a physical birth, but your new life comes from the living Word of God. Just think about it: a life created by God himself! That's why the prophet said:",
+   "> The old life is a grass life, and its beauty lasts only as long as wildflowers. Grass dries up, flowers wilt, but God's Word goes on and on forever.",
+   "This is the Word that gave you your new life."
+  ],
+  "splits": [
+   {
+    "msg_range": "22-25",
+    "note": "MSG one paragraph 22-25 split for readability: prose + prophet's grass quote + closing line; all share badge 22-25",
+    "paras": [
+     10,
+     11,
+     12
+    ]
+   }
+  ],
+  "title": "You've Got an honored one Pass to a Crazy Awesome Future",
+  "verseRanges": [
+   "1-2",
+   "3-5",
+   "3-5",
+   "6-7",
+   "8-9",
+   "10-12",
+   "13-16",
+   "13-16",
+   "17",
+   "18-21",
+   "22-25",
+   "22-25",
+   "22-25"
+  ]
+ },
+ {
+  "changes": [
+   "Ch2: removed fabricated §Living Stones header (MSG has no header before 1-3) and inserted MSG's real headers §The Stone (badge 4-8) and §The Kind of Life He Lived (badge 18-20)",
+   "Ch2: split the merged 9-12 paragraph (badge 9-12) into two paragraphs badged 9-10 and 11-12, following MSG's own paragraphing — no merge needed",
+   "Ch2: fixed badge 15-17 → 13-17 (content already covered 13-17)",
+   "Ch2 4-8: 'refuse to listen' -> 'refuse to obey' (MSG)",
+   "Ch2 13-17: restored 'use your freedom to serve God, not as an excuse to break the rules'",
+   "Ch2 18-20: restored 'for God's sake ... treated badly for no good reason'",
+   "Ch2 21-25: restored 'his servant body'",
+   "Ch2 21-25: restored 'who you were'",
+   "Ch2 21-25: restored 'named and kept for good'"
+  ],
+  "chapter": 2,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-3",
+   "4-8",
+   "9-10",
+   "11-12",
+   "13-17",
+   "18-20",
+   "21-25"
+  ],
+  "paragraphs": [
+   "Alright, listen up. It's time to declutter your life. Get rid of all the drama, the fake attitudes, the jealousy, and the trash talk. You've had a little taste of how awesome God is, right? So now, you gotta be like a baby who's super thirsty for milk, but instead of milk, you're chugging down God's pure goodness. That's how you'll get your transformation and become a solid, complete person in God.",
+   "§The Stone",
+   "Check it out, you're now part of something epic. Think of Jesus as the 'living Stone,' the source of all life. Some haters, like a bunch of clumsy construction workers, took one look at him and said, 'Nah, this stone is trash,' and tossed it. But God, the master builder, picked up that same stone and made it the most important one of all—the cornerstone. Now, you guys are like living stones, too. God is using you to build a super cool, spiritual house. And you're the priests in this house, living lives that get a thumbs-up from Christ. The old scrolls even talked about this: 'Look! I'm putting a special stone in Zion, a cornerstone in the place of honor. Whoever trusts in this stone will never be sorry.' For you guys who trust him, this Stone is your pride and joy. But for the haters who ghosted him, that same stone they rejected is now the main event. For them, it's a stumbling block, a rock that trips them up. They stumble and fall because they refuse to obey, just as predicted.",
+   "But you guys are different. You're God's chosen crew—chosen for the high calling of priestly work, chosen to be a holy people, God's instruments to do his work and speak out for him. You've got one job: tell everyone about the night-and-day difference he made for you—from nothing to something, from rejected to accepted.",
+   "This world isn't your permanent home, so don't get too comfortable. Don't let your ego run wild and mess up your soul. Live such good lives that when people see you, all their wrong ideas about you will be proven wrong. They'll be so impressed that they'll end up on God's side, ready to party when he shows up.",
+   "Be good citizens and make the Master proud. Respect the people in charge, from the president down to the local cops. They're God's crew for keeping things in order. God wants you to shut down the haters with your good actions. You're free — so use your freedom to serve God, not as an excuse to break the rules. Treat everyone with respect, love your Christian family, have a healthy fear of God, and respect the government.",
+   "§The Kind of Life He Lived",
+   "If you're working for someone, be a good employee, even if your boss is a total pain. What counts is putting up with it for God's sake when you're treated badly for no good reason — that's what gets God's attention. There's no credit in getting punished for something you actually did wrong. But if you're a good person and you still get roasted, and you handle it with grace, God sees that and he's impressed.",
+   "This is the life you signed up for, the same kind of life Christ lived. He took all the hits that came his way to show you that it's possible, and to give you a step-by-step guide on how to do it. He never did anything wrong, and he never said a single bad word. People called him all sorts of names, but he never talked back. He suffered quietly and trusted God to make things right. He used his servant body to carry our sins to the cross so we could be done with sin and start living the right way. His wounds are what healed you. You were like lost sheep, with no clue who you were or where you were going. But now, you're named and kept for good by the Shepherd of your souls."
+  ],
+  "splits": [],
+  "title": "The Rock That Everyone Stumbles Over",
+  "verseRanges": [
+   "1-3",
+   "4-8",
+   "4-8",
+   "9-10",
+   "11-12",
+   "13-17",
+   "18-20",
+   "18-20",
+   "21-25"
+  ]
+ },
+ {
+  "changes": [
+   "Ch3: removed fabricated §Submit for the Lord's Sake header and inserted MSG's real headers §Cultivate Inner Beauty (badge 1-4) and §Suffering for Doing Good (badge 13-18)",
+   "Ch3: fixed badge 3-6 → 4-6, badge 8-9 → 8-12, badge 11-12 → 8-12 (quote paragraph, split declared), badge 13-16 → 13-18",
+   "Ch3: old badge split 8-9/11-12 dropped verse 10 coverage — now both paragraphs badged 8-12 covering MSG's full 8-12 including the psalm quote",
+   "Ch3 4-6: restored 'taking care of Abraham'",
+   "Ch3: moved §Suffering for Doing Good header from before 13-18 to before 8-12 (MSG's real placement); verseRanges reordered to match"
+  ],
+  "chapter": 3,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-4",
+   "4-6",
+   "7",
+   "8-12",
+   "13-18",
+   "19-22"
+  ],
+  "paragraphs": [
+   "§Cultivate Inner Beauty",
+   "Alright, so for all the wives out there, here's the deal: be awesome to your husbands and be there for them. Even if your husband isn't really into God, he'll be totally blown away by how you live. It's not about your fire haircut, your bling, or your fresh new kicks. It's all about what's on the inside. That's the real transformation.",
+   "Work on that inner beauty, the kind that's gentle and gracious, the stuff God is really into. The holy women back in the day were beautiful to God because they were loyal and good to their husbands. Take Sarah, for example. She took care of Abraham and respected him so much she called him \"my dear husband.\" You'll be just like her if you do the same, no stress, no drama.",
+   "And for you husbands, don't think you're off the hook. Be good to your wives. Show them honor and be stoked about them. Yeah, you might have some advantages, but in God's new kingdom, you're equals. So treat your wives with honor, so your prayers don't get ghosted.",
+   "§Suffering for Doing Good",
+   "Here's the bottom line for everyone: be cool with each other, be understanding, be loving, be kind, and be humble. No exceptions. Don't get back at people, and don't be a troll with your words. Instead, be a blessing. That's your job. If you're a blessing, you'll get a blessing.",
+   "If you want to live your best life and have good days, here's the secret sauce: Don't say messed-up or hurtful things. Ditch the evil and do good. Chase after peace like it's the last bus home. God is all about that, and he's listening. But he'll totally turn his back on anyone who's into doing bad stuff.",
+   "If you're all in for doing good, who's going to stop you? And even if you get roasted for it, you're still winning. Don't even give the haters a second thought. Through thick and thin, stay focused on Christ, your ultimate boss. Be ready to tell anyone who asks why you live the way you do, but always be super polite about it. Keep your conscience clean before God, so when people try to throw shade at you, it won't even stick. They'll just end up looking like the fools who need to clean up their act. It's way better to suffer for doing good, if that's what God wants, than to get wrecked for doing bad. That's what Christ did. He took the hit for our sins, the perfect one for all of us who are messed up. He went through it all—he was put to death in the body but brought back to life by the Spirit—to bring us to God.",
+   "He even went and told the good news to the people from way back who were stuck in judgment because they wouldn't listen. You know, like in the days of Noah. God waited patiently while Noah built his epic boat, but only a few people—eight, to be exact—were saved. They were saved *from* the water *by* the water. Baptism is like that for you. It's not about washing dirt off your skin, but about giving you a clean slate with God because of Jesus' resurrection. Jesus has the final say on everything and everyone, from angels to armies. He's right there with God, and what he says, goes."
+  ],
+  "splits": [
+   {
+    "msg_range": "8-12",
+    "note": "MSG one paragraph 8-12 split for readability: prose list + psalm quote; both share badge 8-12 (also restores v10 coverage that the old 8-9/11-12 split dropped)",
+    "paras": [
+     5,
+     6
+    ]
+   }
+  ],
+  "title": "The Ultimate Transformation",
+  "verseRanges": [
+   "1-4",
+   "1-4",
+   "4-6",
+   "7",
+   "8-12",
+   "8-12",
+   "8-12",
+   "13-18",
+   "19-22"
+  ]
+ },
+ {
+  "changes": [
+   "Ch4: replaced fabricated §Suffering for Doing Good header (wrong chapter's header!) with MSG's real §Learn to Think Like Him (badge 1-2), and inserted MSG's §Glory Just Around the Corner (badge 12-13)",
+   "Ch4: fixed badge 3-4 → 3-5, badge 15-16 → 14-16",
+   "Ch4: restored MSG 14-16's 'disturbed the peace' ('if you're getting in trouble for breaking the law or stirring up trouble, that's on you — totally different story')",
+   "Ch4 14-16: restored 'and his glory'",
+   "Ch4 14-16: restored 'the distinguished status in that name'"
+  ],
+  "chapter": 4,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-2",
+   "3-5",
+   "6",
+   "7-11",
+   "12-13",
+   "14-16",
+   "17-19"
+  ],
+  "paragraphs": [
+   "§Learn to Think Like Him",
+   "So, Jesus went through way worse stuff than you ever will. Time to level up your thinking and be more like him. When you're going through a tough time, think of it as breaking a bad habit – like, the habit of always wanting things your way. Once you do that, you'll be free to do what God wants, not just what you want. Stop being a slave to your own desires.",
+   "You've already ruined enough time living like you didn't know God, right? All those wild parties and crazy nights? It's time to ghost that lifestyle for good. Your old crew might not get why you're not hanging out with them anymore, but who cares? You don't owe them an explanation. They're the ones who are gonna have to explain themselves to the big boss – God.",
+   "Listen up. The good news was even told to people who are dead now. And even though they died, they still get to have the awesome life God gives through Jesus.",
+   "The world is about to have its season finale, so don't take anything for granted. Stay alert and pray. Most importantly, love each other like your life depends on it. Love pretty much fixes everything. If someone's hungry, get them a burger. If they need a place to crash, let them crash at your place. And do it with a smile. God gave you all sorts of cool stuff, so share it! If you're good with words, use them to say what God would say. If you're good at helping, then help with all your heart. That way, everyone will see how awesome God is, and Jesus will get all the credit as the One mighty in everything, forever and ever. Amen!",
+   "§Glory Just Around the Corner",
+   "When life gets super hard, don't panic and think God ghosted you. Instead, be stoked that you're getting a taste of what Jesus went through. This is like a spiritual transformation, and something amazing is right around the corner.",
+   "If people roast you because you're a follower of Christ, you're actually lucky. It means God's Spirit and his glory are in you, and that's what makes you stand out. Now, if you're getting in trouble for breaking the law or stirring up trouble, that's on you — totally different story. But if it's because you're a Christian, don't even sweat it. Be proud of the distinguished status in that name!",
+   "It's judgment day, and it's starting with God's own family. We're first in line. If it's this tough for us, imagine how bad it's gonna be for the people who ignored God's message. If the good guys barely make it, what's gonna happen to the bad guys? So, if your life is hard because you're doing what God wants, just roll with it. Trust him. He's got a plan, and he's not gonna quit on you."
+  ],
+  "splits": [],
+  "title": "Level Up Your Thinking",
+  "verseRanges": [
+   "1-2",
+   "1-2",
+   "3-5",
+   "6",
+   "7-11",
+   "12-13",
+   "12-13",
+   "14-16",
+   "17-19"
+  ]
+ },
+ {
+  "changes": [
+   "Ch5: removed fabricated §Shepherding the Flock header and inserted MSG's real headers §He'll Promote You at the Right Time (badge 1-3) and §He Gets the Last Word (badge 8-11)",
+   "Ch5: fixed badge 1-4 → 1-3, badge 4-7 → 4-5, badge 5-7 → 6-7, badge 8-10 → 8-11",
+   "Ch5: fixed overlapping 12/12-13 badges: MSG 12 is now two paragraphs both badged 12 (split declared), 13-14 stands alone",
+   "Ch5: corrected 'he'll give you a miraculous transformation at the right time' → 'he'll promote you at just the right time' (MSG: 'he'll promote you at the right time')",
+   "Ch5: toned down 4-5 'God totally roasts the fakes and the proud' → 'God's done with the proud' (MSG: 'God has had it with the proud')",
+   "Ch5: restored 'I think the world of him' for MSG 12's 'I have the highest regard for him'",
+   "Ch5 1-3: restored 'with all the diligence of a shepherd'",
+   "Ch5 1-3: 'just be real' -> 'because you genuinely want to' (MSG 'acting spontaneously')",
+   "Ch5 4-5: restored 'shows up to rule'",
+   "Ch5 4-5: 'respect your leaders' -> 'follow your leaders' (MSG)",
+   "Ch5 8-11: restored 'eternal, glorious plans' + 'put you back together'",
+   "Ch5 13-14: restored 'in exile here with me'"
+  ],
+  "chapter": 5,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-3",
+   "4-5",
+   "6-7",
+   "8-11",
+   "12",
+   "13-14"
+  ],
+  "paragraphs": [
+   "§He'll Promote You at the Right Time",
+   "Hey, to all the leaders out there, listen up. I’ve been there, done that, and got the t-shirt when it comes to leading and seeing both the rough times and the awesome glory of Christ. So here’s the deal: take care of God{A}s crew with all the diligence of a shepherd. Don’t do it because you have to, do it because you want to make God proud. Don’t be all about what you can get out of it — do it because you genuinely want to. Don’t be a bossy know-it-all, but show them how it’s done with some class.",
+   "When God, the best shepherd of all, shows up to rule, he's gonna see you've been a real one and give you a major shout-out. And for all you younger guys, you gotta follow your leaders. But for real, everyone — leaders and followers — just stay down to earth with each other. God's done with the proud, but he loves people who stay humble and real.",
+   "So just be content with who you are, no need to flex. God's strong hand is on you, and he'll promote you at just the right time. Live carefree before him — he is most careful with you, for real.",
+   "§He Gets the Last Word",
+   "Stay sharp and keep your eyes open. The Devil is like a lion waiting to pounce, and he’d love to catch you sleeping. So get your guard up. You’re not the only one going through it. Christians everywhere are in the same boat. So hold on tight to what you believe. This whole suffering thing won’t last forever. Pretty soon, this awesome God, who has epic, eternal, glorious plans for you in Christ, is gonna put you back together and get you on your feet for good. He’s the one who gets the final say, for real.",
+   "I'm sending this quick note to you through Silas, a super solid, dependable brother. I think the world of him.",
+   "I've written as urgently and accurately as I know how. This is God's generous truth — embrace it with both arms!",
+   "The church crew in exile here with me — not forgotten by God for a moment — send their love. Mark, who’s like a son to me, says what’s up. Give everyone a big hug. Peace out to all of you who are on Team Christ."
+  ],
+  "splits": [
+   {
+    "msg_range": "12",
+    "note": "MSG one paragraph 12 split for readability: Silas intro + written-truth charge; both share badge 12",
+    "paras": [
+     6,
+     7
+    ]
+   }
+  ],
+  "title": "How to Be a Real MVP",
+  "verseRanges": [
+   "1-3",
+   "1-3",
+   "4-5",
+   "6-7",
+   "8-11",
+   "8-11",
+   "12",
+   "12",
+   "13-14"
+  ]
+ }
+]

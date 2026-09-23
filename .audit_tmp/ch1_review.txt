@@ -1,0 +1,110 @@
+### TITLE EN: The New Mission
+### TITLE KO: 새로운 미션
+
+[MSG 0] range=1-5 header='To the Ends of the World'
+Dear Theophilus, in the first volume of this book I wrote on everything that Jesus began to do and teach until the day he said good-bye to the apostles, the ones he had chosen through the Holy Spirit, and was taken up to heaven. After his death, he presented himself alive to them in many different settings over a period of forty days. In face-to-face meetings, he talked to them about things concerning the kingdom of God. As they met and ate meals together, he told them that they were on no account to leave Jerusalem but "must wait for what the Father promised: the promise you heard from me. John baptized in water; you will be baptized in the Holy Spirit. And soon."
+
+[MSG 1] range=6 header=None
+When they were together for the last time they asked, "Master, are you going to restore the kingdom to Israel now? Is this the time?"
+
+[MSG 2] range=7-8 header=None
+He told them, "You don't get to know the time. Timing is the Father's business. What you'll get is the Holy Spirit. And when the Holy Spirit comes on you, you will be able to be my witnesses in Jerusalem, all over Judea and Samaria, even to the ends of the world."
+
+[MSG 3] range=9-11 header=None
+These were his last words. As they watched, he was taken up and disappeared in a cloud. They stood there, staring into the empty sky. Suddenly two men appeared—in white robes! They said, "You Galileans!—why do you just stand here looking up at an empty sky? This very Jesus who was taken up from among you to heaven will come as certainly—and mysteriously—as he left."
+
+[MSG 4] range=12-13 header='Returning to Jerusalem'
+So they left the mountain called Olives and returned to Jerusalem. It was a little over half a mile. They went to the upper room they had been using as a meeting place: Peter, John,, James,, Andrew,, Philip,, Thomas,, Bartholomew,, Matthew, James, son of Alphaeus, Simon the Zealot, Judas, son of James.
+
+[MSG 5] range=14 header=None
+They agreed they were in this for good, completely together in prayer, the women included. Also Jesus' mother, Mary, and his brothers.
+
+[MSG 6] range=15-17 header='Replacing Judas'
+During this time, Peter stood up in the company—there were about 120 of them in the room at the time—and said, "Friends, long ago the Holy Spirit spoke through David regarding Judas, who became the guide to those who arrested Jesus. That Scripture had to be fulfilled, and now has been. Judas was one of us and had his assigned place in this ministry.
+
+[MSG 7] range=18-20 header=None
+"As you know, he took the evil bribe money and bought a small farm. There he came to a bad end, rupturing his belly and spilling his guts. Everybody in Jerusalem knows this by now; they call the place Murder Meadow. It's exactly what we find written in the Psalms: Let his farm become haunted  So no one can ever live there. "And also what was written later: Let someone else take over his post.
+
+[MSG 8] range=21-22 header=None
+"Judas must now be replaced. The replacement must come from the company of men who stayed together with us from the time Jesus was baptized by John up to the day of his ascension, designated along with us as a witness to his resurrection."
+
+[MSG 9] range=23-26 header=None
+They nominated two: Joseph Barsabbas, nicknamed Justus, and Matthias. Then they prayed, "You, O God, know every one of us inside and out. Make plain which of these two men you choose to take the place in this ministry and leadership that Judas threw away in order to go his own way." They then drew straws. Matthias won and was counted in with the eleven apostles.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Jesus Goes Up
+
+[EN 1] badge=1-3
+Yo Theophilus, what's up? In my first book, I told you all about what Jesus did and taught, right up until he peaced out and went to heaven. After he came back from the dead, he hung out with his chosen apostles for 40 days, proving he was for real. They just chilled, and he told them all about God's kingdom.
+
+[EN 2] badge=4-5
+One time, while they were eating, he gave them a direct order: "Don't leave Jerusalem. Wait for the special gift my Father promised, the one I told you about. John the Baptist just used water, but you guys are about to get a major upgrade with the Holy Spirit, and it's coming soon."
+
+[EN 3] badge=6-7
+So, when they were all together for the last time, they asked him, "Hey, boss, is it time? Are you gonna make Israel the top dog again now?" Jesus was like, "Chill, the timing is my Father's business, not yours. But here's what you *do* get: the Holy Spirit. When he comes, you'll get this insane power to be my witnesses. You'll start in Jerusalem, then go all over Judea and Samaria, and then, like, to the whole world."
+
+[EN 4] badge=8-9
+Right after he said that, he started floating up into the sky and disappeared into a cloud. They were all just standing there, staring up, totally stunned. Suddenly, two guys in bright white clothes appeared next to them and said, "You guys from Galilee, why are you just staring at the sky? This same Jesus, who was just taken from you into heaven, is going to come back in the exact same way you saw him go."
+
+[EN 5] badge=10-13
+After that, the crew walked back to Jerusalem from the Mount of Olives, which was like a short walk. They went straight to the upstairs room where they were staying. The whole squad was there: Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James (the son of Alphaeus), Simon the Zealot, and Judas (the son of James).
+
+[EN 6] badge=14
+They were all on the same page, spending all their time praying together. The women were there too, along with Jesus's mom, Mary, and his brothers. They were all in.
+
+[EN 7] badge=15
+After a few days, Peter stood up in front of the whole group, about 120 people, and said, "Listen up, everyone. The prophecy from the Holy Spirit, spoken by King David, had to come true. It was about Judas, the guy who betrayed Jesus and led the temple guards to arrest him. He was one of us, part of the team.
+
+[EN 8] badge=16-18
+(Here's the dirt on Judas: he took the bribe money and bought a field. But then he had a gnarly fall, his stomach burst open, and all his guts spilled out. Everyone in Jerusalem heard about it, and they even named the field 'Field of Blood.')
+
+[EN 9] badge=19-20
+"It's written in the book of Psalms: 'Let his place be empty; let no one live there,' and also, 'Let someone else take his job.' So now we have to pick a replacement for Judas. It has to be one of the guys who was with us the whole time, from when Jesus was baptized by John until the day he was taken up to heaven. This new guy will be a witness with us that Jesus rose from the dead."
+
+[EN 10] badge=21-26
+They nominated two guys: Joseph, who was also called Barsabbas (and nicknamed Justus), and Matthias. Then they prayed, "God, you know everyone's heart. Show us which of these two you've chosen to take over this ministry and leadership role that Judas ditched to go to his own place." Then they drew straws, and the lot fell to Matthias. So he was officially added to the eleven apostles, making them a solid twelve again.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§예수님의 승천
+
+[KO 1] badge=None
+성령을 약속하심
+
+[KO 2] badge=1-5
+데오빌로 각하께. 제가 쓴 첫 번째 책에서는 예수님이 성령을 통해 직접 뽑으신 사도들에게 마지막 인사를 하시고 하늘로 올라가신 날까지, 그분이 하시고 가르치신 모든 일들을 기록했음요. 예수님은 돌아가신 후에 40일 동안 여러 번, 각기 다른 상황에서 사도들한테 살아있는 모습으로 나타나셨대요. 직접 얼굴 보고 만났을 때, 예수님은 하나님 나라에 대한 이야기들을 해주셨음. 같이 밥 먹으면서는 사도들한테 절대 예루살렘 떠나지 말라고, 이렇게 말씀하셨대요. “아버지께서 약속하신 거, 너네가 나한테 들은 그 약속을 기다려야 함. 요한은 물로 세례를 줬지만, 너네는 성령으로 세례를 받을 거임. 이제 곧.”
+
+[KO 3] badge=6
+마지막으로 같이 있을 때 사도들이 물어봄. “주님, 지금이 이스라엘을 다시 세우실 때임까?”
+
+[KO 4] badge=7-8
+예수님이 대답하심. “그때는 너네가 알 수 없음. 그건 아버지께서 하실 일임. 너네가 받을 건 성령임. 성령이 너네한테 오면, 너네는 예루살렘이랑 온 유대, 사마리아, 그리고 세상 끝까지 가서 내 증인이 될 거임.”
+
+[KO 5] badge=9-11
+이게 예수님의 마지막 말이었음. 예수님은 사도들이 보는 앞에서 하늘로 올라가 구름 속으로 사라지심. 제자들은 멍하니 하늘만 쳐다보고 서 있었음. 그때 갑자기 흰옷 입은 두 사람이 나타나서 말함. “갈릴리 사람들아! 왜 여기서 하늘만 쳐다보고 서 있냐? 너네 가운데서 하늘로 올라가신 이 예수님은, 가신 모습 그대로 완전 영광스럽게 다시 오실 거임.”
+
+[KO 6] badge=None
+예루살렘으로 돌아가다
+
+[KO 7] badge=12-13
+사도들은 올리브 산을 떠나 예루살렘으로 돌아갔음. 1킬로미터도 안 되는 거리였음. 그들은 늘 모이던 다락방으로 갔음. 베드로, 요한, 야고보, 안드레, 빌립, 도마, 바돌로매, 마태, 알패오의 아들 야고보, 열심당원 시몬, 야고보의 아들 유다. 다들 모임.
+
+[KO 8] badge=14
+이 사람들은 끝까지 함께하기로 마음먹고, 한마음으로 기도했음. 여자들도 있었고, 예수님 어머니 마리아랑 예수님 동생들도 같이 있었음.
+
+[KO 9] badge=None
+유다를 대신할 사람
+
+[KO 10] badge=15-17
+그때 베드로가 사람들 앞에서 일어서서 말함. 방에는 한 120명 정도 있었음. “친구들, 오래전에 성령님이 다윗을 통해 예수님을 배신한 유다에 대해 말씀하신 거 알지? 그 성경 말씀이 진짜로 이루어져야 했고, 이제 이루어졌음. 유다는 우리 중 한 명이었고, 이 중요한 일의 한 부분을 맡았었음.”
+
+[KO 11] badge=18-20
+“너네도 알다시피, 그는 나쁜 짓 해서 번 돈으로 땅을 좀 샀는데, 거기서 배가 터져서 창자가 다 쏟아져 나오는 완전 비참한 최후를 맞이했음. 이건 예루살렘 사람이라면 다 아는 얘기임. 그래서 사람들이 거기를 ‘피의 밭’이라고 부름. 시편에 딱 기록된 그대로임. ‘그의 집이 폐허가 되어 아무도 살지 못하게 하소서.’ 그리고 또 다른 시편에는 ‘그의 직분을 다른 사람이 가져가게 하소서.’라고 되어 있음.”
+
+[KO 12] badge=21-22
+“그래서 이제 유다를 대신할 사람을 뽑아야 함. 후임자는 예수님이 요한한테 세례 받으실 때부터 하늘로 올라가신 날까지 우리랑 쭉 함께했고, 우리랑 같이 예수님 부활의 증인으로 뽑힌 사람 중에서 나와야 함.”
+
+[KO 13] badge=23-26
+그래서 두 명을 추천함. 한 명은 유스도라고도 불리는 요셉 바사바, 다른 한 명은 맛디아였음. 그리고 기도함. “오 하나님, 주님은 우리 각 사람의 마음을 다 아시잖아요. 유다가 자기 갈 길 가버려서 텅 빈 이 사역과 리더의 자리를 대신할 사람으로, 이 두 사람 중에 누구를 뽑으셨는지 보여주세요.” 그리고 제비를 뽑았는데, 맛디아가 뽑혀서 열두 사도 중 한 명이 됨.
+

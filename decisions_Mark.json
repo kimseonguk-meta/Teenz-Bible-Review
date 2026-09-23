@@ -1,0 +1,11 @@
+{
+  "mark_merges": "approved_as_is",
+  "scope": "EN 4건 (ch1 16-18/19-20, ch1 29-31/32-34, ch1 40/41-42(of41-45), ch3 3(of1-3)/4) + KO 6건 (동일 4건 + ch5 37-40/40-43 2건)",
+  "ko_ch5_v40_verification": {
+    "checked": "KO 5장 para 17/18 본문 vs EN 본문 vs MSG 원문(37-40, 40-43)",
+    "result": "no_duplication_no_omission",
+    "detail": "v40 '비꼬며 조롱'(40a)은 KO para 17에만, '다 내보내고 방으로 들어감'(40b)은 KO para 18에만 있음. 중복·누락 없음. EN도 동일 구조.",
+    "caveat": "KO ch5 merges/splits 메타데이터의 para 인덱스 [18,19]는 stale(실제 문단은 0-18까지 19개). 본문·배지는 정상이므로 메타데이터는 승인 유지, 인덱스 표기는 후속 정리 대상."
+  },
+  "date": "2026-09-22"
+}

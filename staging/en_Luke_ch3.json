@@ -1,0 +1,92 @@
+{
+  "chapter": 3,
+  "title": "The Savage Preacher and the Family Tree",
+  "paragraphs": [
+    "§A Baptism of Life-Change",
+    "It was the fifteenth year of Emperor Tiberius's rule. Pontius Pilate was governor of Judea; Herod ruled Galilee; his brother Philip ruled Iturea and Trachonitis; Lysanias ruled Abilene; and the religious high priests were Annas and Caiaphas.",
+    "During this time, the word of God came to John (Zechariah's son) out in the desert. He started hiking all around the Jordan River, preaching a baptism of changing your mind and getting your sins forgiven.",
+    "This was exactly what the ancient prophet Isaiah had written about: 'Thunder in the desert! Get ready for God's arrival! Make the road smooth and straight! Every ditch will be filled in, every bump smoothed out, the crooked paths straightened, all the rough roads paved. Everyone will get to see God's salvation on parade!'",
+    "Massive crowds came out to get baptized because it was the popular thing to do, but John didn't sugarcoat anything. He exploded:",
+    "\"You bunch of poisonous snakes! What are you doing slithering down here to the river? Do you think a little water on your snakeskins will deflect God's judgment? It's your life that has to change, not your skin! Prove you've actually changed. And don't pull rank by claiming Abraham as your father — being Abraham's child is neither here nor there; children of Abraham are a dime a dozen. God can make children from these stones if he wants! What counts is your life: is it green and flourishing? Because if it's deadwood, it goes on the fire.\"",
+    "The crowd was shaken. \"What should we do then?\"",
+    "John gave them a real, practical rule: \"If you have two coats, give one away. Do the same with your food.\"",
+    "Even the corrupt tax collectors showed up to be baptized. \"Teacher, what should we do?\"",
+    "John said: \"Stop scamming people. Don't collect a single penny more than the law requires.\"",
+    "Some soldiers asked, \"What about us?\" John said: \"Stop extorting people, stop framing people with fake charges, and be satisfied with your paycheck.\"",
+    "People were so excited they started wondering if John was actually the Messiah.",
+    "John shut that down immediately: \"I'm just baptizing you here in the river with water. But the main character in this drama is coming — to him I'm just a stagehand. He's going to ignite the kingdom life within you — fire, the Holy Spirit — changing you from the inside out. He's going to clean house, make a clean sweep of your lives. Everything true he'll place in its proper place before God; everything false he'll throw out with the trash to be burned.\"",
+    "John kept preaching like this — words that gave people strength and put heart in them. But Herod the ruler was stung by John's public rebuke about Herodias, his brother Philip's wife. So Herod capped off his long string of evil deeds with one more outrage: he threw John in prison.",
+    "After all the people were baptized, Jesus was baptized too. As he was praying, the sky opened up and the Holy Spirit came down on him like a dove descending. And along with the Spirit, a voice: \"You are my Son, chosen and marked by my love, pride of my life.\"",
+    "§Son of Adam, Son of God",
+    "When Jesus started his public ministry, he was about thirty years old. People thought he was Joseph's son. The family line goes like this, going backward: Joseph was the son of Heli, Heli of Matthat, Matthat of Levi, Levi of Melki, Melki of Jannai, Jannai of Joseph, Joseph of Mattathias, Mattathias of Amos, Amos of Nahum, Nahum of Esli, Esli of Naggai, Naggai of Maath, Maath of Mattathias, Mattathias of Semein, Semein of Josech, Josech of Joda, Joda of Joanan, Joanan of Rhesa, Rhesa of Zerubbabel, Zerubbabel of Shealtiel, Shealtiel of Neri, Neri of Melchi, Melchi of Addi, Addi of Cosam, Cosam of Elmadam, Elmadam of Er, Er of Joshua, Joshua of Eliezer, Eliezer of Jorim, Jorim of Matthat, Matthat of Levi, Levi of Simeon, Simeon of Judah, Judah of Joseph, Joseph of Jonam, Jonam of Eliakim, Eliakim of Melea, Melea of Menna, Menna of Mattatha, Mattatha of Nathan, Nathan of David, David of Jesse, Jesse of Obed, Obed of Boaz, Boaz of Salmon, Salmon of Nahshon, Nahshon of Amminadab, Amminadab of Admin, Admin of Arni, Arni of Hezron, Hezron of Perez, Perez of Judah, Judah of Jacob, Jacob of Isaac, Isaac of Abraham, Abraham of Terah, Terah of Nahor, Nahor of Serug, Serug of Reu, Reu of Peleg, Peleg of Eber, Eber of Shelah, Shelah of Kenan, Kenan of Arphaxad, Arphaxad of Shem, Shem of Noah, Noah of Lamech, Lamech of Methuselah, Methuselah of Enoch, Enoch of Jared, Jared of Mahalaleel, Mahalaleel of Kenan, Kenan of Enos, Enos of Seth, Seth of Adam, Adam of God."
+  ],
+  "verseRanges": [
+    "1-6",
+    "1-2",
+    "3",
+    "4-6",
+    "7",
+    "8-9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16-17",
+    "18-20",
+    "21-22",
+    "23-38",
+    "23-38"
+  ],
+  "msg_ranges": [
+    "1-6",
+    "1-2",
+    "3",
+    "4-6",
+    "7",
+    "8-9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16-17",
+    "18-20",
+    "21-22",
+    "23-38",
+    "23-38"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "1-6",
+      "paras": [
+        2,
+        3,
+        4
+      ],
+      "note": "MSG 단일 문단(1-6)을 EN 가독성을 위해 3개 문단으로 분리"
+    },
+    {
+      "msg_range": "7-9",
+      "paras": [
+        5,
+        6
+      ],
+      "note": "MSG 단일 문단(7-9)을 EN 가독성을 위해 2개 문단으로 분리"
+    }
+  ],
+  "changes": [
+    "Luke 3장: MSG 문단 구조 기준으로 EN 전면 재구성",
+    "EN 2번 문단(배지 '1-2'): MSG 1-2절 사실 복원 — 헤롯(갈릴리)·빌립(이두래·드라고닛)·루사니아(아빌레네)의 통치. 기존 EN은 빌라도·안나스·가야바만 언급",
+    "EN 5~6번 문단(배지 '7'/'8-9'): 기존 EN 3~4번('He was savage:' 단편 + 7-9절)을 MSG 문단 구분에 맞춰 정리. 독사 연설 전문 복원 — '뱀 껍데기에 물 묻힌다고 심판 피하나', '아브라함 자손은 널리고 널렸다', '인생이 푸르게 꽃피고 있나, 말라비틀어지면 땔감행' 복원",
+    "EN 7~11번 문단(배지 '10'/'11'/'12'/'13'/'14'): 기존 EN 5번(10-14절 합병)을 MSG 문단 구분(각 절이 독립 문단)에 맞춰 5개 문단으로 분리",
+    "EN 12~13번 문단(배지 '15'/'16-17'): 기존 EN 7번(15-17절 합병)을 MSG 문단 구분에 맞춰 분리. MSG에 없는 '신발 끈 풀 자격도 없다' 삭제(MSG 누가복음에 없음). '집을 대청소(진짜는 제자리에, 가짜는 쓰레기와 함께)' 복원",
+    "EN 15번 문단(배지 '21-22'): 기존 'The Ultimate Endorsement' 잔재 헤더 삭제. MSG 표현('You are my Son, chosen and marked by my love, pride of my life')으로 정리",
+    "EN 17번 문단(배지 '23-38') 신설: 기존 EN 9번은 족보 대신 편집자 해설('(Luke then lists Jesus's family tree...')이었음 — MSG 족보 전문(요셉→헬리→…→아담→하나님, 77명)으로 교체"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

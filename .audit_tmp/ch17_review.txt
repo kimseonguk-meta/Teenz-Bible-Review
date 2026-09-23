@@ -1,0 +1,134 @@
+### TITLE EN: Paul Starts a Riot (Whoops!)
+### TITLE KO: 바울이 폭동을 일으키다
+
+[MSG 0] range=1-3 header='Thessalonica'
+They took the road south through Amphipolis and Apollonia to Thessalonica, where there was a community of Jews. Paul went to their meeting place, as he usually did when he came to a town, and for three Sabbaths running he preached to them from the Scriptures. He opened up the texts so they understood what they'd been reading all their lives: that the Messiah absolutely *had* to be put to death and raised from the dead—there were no other options—and that "this Jesus I'm introducing you to is that Messiah."
+
+[MSG 1] range=4-5 header=None
+Some of them were won over and joined ranks with Paul and Silas, among them a great many God-fearing Greeks and a considerable number of women from the aristocracy. But the hard-line Jews became furious over the conversions. Mad with jealousy, they rounded up a bunch of brawlers off the streets and soon had an ugly mob terrorizing the city as they hunted down Paul and Silas.
+
+[MSG 2] range=5-7 header=None
+They broke into Jason's house, thinking that Paul and Silas were there. When they couldn't find them, they collared Jason and his friends instead and dragged them before the city fathers, yelling hysterically, "These people are out to destroy the world, and now they've shown up on our doorstep, attacking everything we hold dear! And Jason is hiding them, these traitors and turncoats who say Jesus is king and Caesar is nothing!"
+
+[MSG 3] range=8-9 header=None
+The city fathers and the crowd of people were totally alarmed by what they heard. They made Jason and his friends post heavy bail and let them go while they investigated the charges.
+
+[MSG 4] range=10-12 header='Berea'
+That night, under cover of darkness, their friends got Paul and Silas out of town as fast as they could. They sent them to Berea, where they again met with the Jewish community. They were treated a lot better there than in Thessalonica. The Jews received Paul's message with enthusiasm and met with him daily, examining the Scriptures to see if they supported what he said. A lot of them became believers, including many Greeks who were prominent in the community, women and men of influence.
+
+[MSG 5] range=13-15 header=None
+But it wasn't long before reports got back to the Thessalonian hard-line Jews that Paul was at it again, preaching the Word of God, this time in Berea. They lost no time responding, and created a mob scene there, too. With the help of his friends, Paul gave them the slip—caught a boat and put out to sea. Silas and Timothy stayed behind. The men who helped Paul escape got him as far as Athens and left him there. Paul sent word back with them to Silas and Timothy: "Come as quickly as you can!"
+
+[MSG 6] range=16 header='Athens'
+The longer Paul waited in Athens for Silas and Timothy, the angrier he got—all those idols! The city was a junkyard of idols.
+
+[MSG 7] range=17-18 header=None
+He discussed it with the Jews and other like-minded people at their meeting place. And every day he went out on the streets and talked with anyone who happened along. He got to know some of the Epicurean and Stoic intellectuals pretty well through these conversations. Some of them dismissed him with sarcasm: "What a moron!" But others, listening to him go on about Jesus and the resurrection, were intrigued: "That's a new slant on the gods. Tell us more."
+
+[MSG 8] range=19-21 header=None
+These people got together and asked him to make a public presentation over at the Areopagus, where things were a little quieter. They said, "This is a new one on us. We've never heard anything quite like it. Where did you come up with this anyway? Explain it so we can understand." Downtown Athens was a great place for gossip. There were always people hanging around, natives and tourists alike, waiting for the latest tidbit on most anything.
+
+[MSG 9] range=22-23 header=None
+So Paul took his stand in the open space at the Areopagus and laid it out for them. "It is plain to see that you Athenians take your religion seriously. When I arrived here the other day, I was fascinated with all the shrines I came across. And then I found one inscribed, to the god nobody knows. I'm here to introduce you to this God so you can worship intelligently, know who you're dealing with.
+
+[MSG 10] range=24-29 header=None
+"The God who made the world and everything in it, this Master of sky and land, doesn't live in custom-made shrines or need the human race to run errands for him, as if he couldn't take care of himself. He makes the creatures; the creatures don't make him. Starting from scratch, he made the entire human race and made the earth hospitable, with plenty of time and space for living so we could seek after God, and not just grope around in the dark but actually *find* him. He doesn't play hide-and-seek with us. He's not remote; he's *near*. We live and move in him, can't get away from him! One of your poets said it well: 'We're the God-created.' Well, if we are the God-created, it doesn't make a lot of sense to think we could hire a sculptor to chisel a god out of stone for *us*, does it?
+
+[MSG 11] range=30-31 header=None
+"God overlooks it as long as you don't know any better—but that time is past. The unknown is now known, and he's calling for a radical life-change. He has set a day when the entire human race will be judged and everything set right. And he has already appointed the judge, confirming him before everyone by raising him from the dead."
+
+[MSG 12] range=32-34 header=None
+At the phrase "raising him from the dead," the listeners split: Some laughed at him and walked off making jokes; others said, "Let's do this again. We want to hear more." But that was it for the day, and Paul left. There were still others, it turned out, who were convinced then and there, and stuck with Paul—among them Dionysius the Areopagite and a woman named Damaris.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Thessalonica and Berea
+
+[EN 1] badge=1-3
+Paul and his crew rolled into Thessalonica and, like always, Paul headed straight for the synagogue. For three weeks straight, he basically held a masterclass, breaking down the scriptures. He was like, "Listen up! The Messiah *had* to die and have a miraculous transformation by coming back to life. No other way. And guess what? This Jesus I've been telling you about? He's the guy."
+
+[EN 2] badge=4-6
+Some people were totally convinced and joined Paul and Silas's squad, including a bunch of Greeks who were into God and even some prominent women. But the old-school religious leaders were seriously salty about all the new followers. They got super jealous, hired a mob of random thugs, and started a riot, trying to hunt down Paul and Silas.
+
+[EN 3] badge=7-9
+They busted into this guy Jason's house, thinking Paul and Silas were hiding out there. When they couldn't find them, they grabbed Jason and his friends and dragged them in front of the city officials, screaming, "These guys are trying to flip the world upside down, and now they're here! Jason's even helping them! They're saying some guy named Jesus is the real king, not Caesar!"
+
+[EN 4] badge=None
+§Trouble in Berea
+
+[EN 5] badge=10
+The whole city was in an uproar. The officials made Jason and his buddies pay a ton of money as a security deposit and told them to chill while they figured things out.
+
+[EN 6] badge=11-12
+That night, Paul and Silas's friends snuck them out of town and sent them to Berea. The people there were way cooler. They were super into Paul's message and actually checked the scriptures every day to see if he was legit. A lot of them started believing, including some really important Greek men and women.
+
+[EN 7] badge=13-15
+But, of course, the drama followed them. The haters from Thessalonica heard Paul was preaching in Berea and came over to start another mob. So Paul's friends helped him dip out, and he hopped on a boat. Silas and Timothy stayed behind. The guys who helped Paul escape took him all the way to Athens and then bounced, but not before Paul told them to tell Silas and Timothy to hurry up and meet him.
+
+[EN 8] badge=None
+§Paul in Athens
+
+[EN 9] badge=16-19
+While Paul was waiting in Athens, he got more and more furious. The whole city was like a museum of fake gods. He argued with the religious people at the synagogue and then went out and debated anyone he could find on the street. He even got into it with some brainy philosophers. Some of them said, "This guy is a total moron," but others who heard him talking about Jesus and the resurrection said, "Whoa, that's a new take. Tell us more."
+
+[EN 10] badge=19-21
+They took him to a big open meeting place called the Areopagus to give a formal presentation. "This is some wild new teaching," they said. "We've never heard this before. Spill the tea." See, everyone in Athens, locals and tourists, just loved to gossip and hear the latest hot take.
+
+[EN 11] badge=22-23
+So Paul stood up and went for it. "Okay, people of Athens, I can see you're all super religious. I was walking around and saw all your shrines, and I even found one that said, 'To the Unknown God.' Well, I'm here to introduce you to him, so you can stop guessing and know who you're actually dealing with.
+
+[EN 12] badge=24-27
+"The God who made the entire universe doesn't live in some little temple you built. He doesn't need us to do stuff for him, like he's helpless. He made us; we didn't make him. He created all of humanity from one person and gave us the whole world to live in so we could search for him and find him. And he's not playing hide-and-seek; he's right here. We live and move and exist in him. One of your own poets even said, 'We are his offspring.' So if we're God's kids, does it really make sense to think we can just carve a god out of gold or stone?
+
+[EN 13] badge=28-29
+"God let it slide when you didn't know any better, but that time's over. Now that you know the truth, he's calling everyone to make a major life change. He's set a day to judge the whole world and make everything right. And he's already picked the judge and proved it to everyone by raising him from the dead."
+
+[EN 14] badge=30-34
+When he said "raising him from the dead," the crowd was split. Some of them just laughed and walked away, making jokes. Others said, "We want to hear more about this later." So Paul left. But a few people were convinced right then and there and stuck with Paul, including a guy named Dionysius, who was a member of the Areopagus, and a woman named Damaris.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§데살로니가와 베뢰아
+
+[KO 1] badge=1-3
+그들 남쪽 길로 쭉 가서 암비볼리랑 아볼로니아 찍고 데살로니가에 도착했음. 거기 유대인들 모여 사는 곳이 있었거든. 바울은 늘 하던 대로 유대인 회당에 가서 3주 동안 주말마다 성경으로 썰을 풀었지. 걔네가 평생 읽어온 성경 구절인데, 바울이 완전 새로운 각도로 해석해준 거야. '메시아는 무조건 죽었다가 다시 살아나야만 했어. 다른 방법은 없었거든. 그리고 내가 지금 말하는 이 예수가 바로 그 메시아임!' 이렇게 빡! 하고 깨닫게 해준 거지.
+
+[KO 2] badge=4-5
+그랬더니 몇몇 사람들이 바울과 실라의 말에 설득되어 바로 합류함. 하나님 믿는 그리스 사람들도 엄청 많았고, 심지어 잘나가는 집안 여자들도 꽤 있었대. 근데 이걸 본 완고한 유대인들이 완전 화난 거야. 질투심 폭발해서 동네 불량배들 모아가지고 바울이랑 실라 잡으려고 막 험악한 분위기 만들고 다녔음.
+
+[KO 3] badge=5-7
+바울이랑 실라가 야손네 집에 숨어있는 줄 알고 거기로 쳐들어갔는데, 없는 거야. 그러니까 야손이랑 친구들을 대신 잡아다가 동네 어르신들한테 끌고 가서 막 소리 질렀음. "이 사람들 완전히 세상을 뒤집어엎으려는 사람들이에요! 우리 동네까지 와서 우리가 소중하게 생각하는 거 다 망가뜨리려고 한다고요! 예수가 왕이고 황제는 아무것도 아니라고 떠드는 반역자들을 야손이 숨겨줬어요!"
+
+[KO 4] badge=8-9
+그 말을 들은 어르신들이랑 구경하던 사람들은 완전 깜짝 놀랐지. 그래서 일단 고발 내용 들어보고, 야손이랑 친구들한테서 합의금 두둑하게 받고 풀어줌.
+
+[KO 5] badge=10-12
+그날 밤, 형들이 몰래 바울이랑 실라를 성 밖으로 빼돌렸어. 베뢰아라는 곳으로 보냈는데, 거기서도 유대인들을 만났지. 근데 여기 사람들은 데살로니가 애들보다 훨씬 괜찮았음. 바울이 하는 말을 진짜 열심히 듣고, 이게 진짜 성경에 있는 내용인지 확인하려고 매일 만나서 같이 성경 공부까지 한 거야. 그래서 믿는 사람들이 엄청 많이 생겼는데, 그중에는 동네에서 좀 잘나가고 영향력 있는 남자, 여자들도 많았대.
+
+[KO 6] badge=13-15
+근데 바울이 베뢰아에서 또 하나님의 말씀을 전하고 있다는 소식이 데살로니가 완고한 유대인들 귀에 들어간 거임. 그들 바로 행동에 나섰지. 거기까지 쫓아와서 또 사람들을 선동해서 난리를 피운 거야. 바울은 형들 도움으로 걔네 따돌리고 배 타고 튀었음. 실라랑 디모데는 남겨두고. 바울 도망치는 거 도와준 사람들이 아테네까지 데려다주고 갔는데, 가는 길에 바울이 "야, 실라랑 디모데한테 최대한 빨리 오라고 전해줘!"라고 말했대.
+
+[KO 7] badge=None
+§아덴의 바울
+
+[KO 8] badge=16
+아테네에서 실라랑 디모데 기다리는데, 시간이 좀 걸렸나 봐. 근데 바울이 아테네를 둘러보니까 온통 우상 천지인 거야. 마음이 몹시 격해졌지! 도시 전체가 우상으로 도배돼 있었거든.
+
+[KO 9] badge=17-18
+그래서 바울은 유대인 회당에서 유대인들이랑 마음 맞는 사람들이랑 이 문제로 토론을 벌였어. 그리고 매일 길거리에 나가서 아무나 붙잡고 이야기했지. 그러다가 에피쿠로스랑 스토아 학파 똑똑이들이랑도 말을 트게 됐어. 그중 몇몇은 "뭐야 이 헛소리하는 애는?" 하면서 바울 말을 무시했대. 근데 예수랑 부활 이야기에 귀를 기울이면서 "오, 신에 대한 새로운 관점이네. 좀 더 들어보자" 하고 관심을 보이는 사람들도 있었던 거야.
+
+[KO 10] badge=19-21
+그 사람들이 바울을 아레오바고 법정으로 데려가서 사람들 앞에서 공개적으로 설명해달라고 부탁했어. 거기가 좀 조용한 곳이었거든. 걔네가 말했지. "이거 완전 새로운 이야기인데? 우리 이런 거 처음 들어봄. 도대체 어디서 이런 생각을 한 거임? 우리도 좀 알아듣게 설명 좀 해봐." 아테네 시내는 원래 별의별 이야기로 가득한 곳이었거든. 현지인이든 관광객이든 다들 어슬렁거리면서 최신 핫이슈만 기다리는 그런 곳이었어.
+
+[KO 11] badge=22-23
+그래서 바울이 아레오바고 법정에 딱 서서 설명하기 시작했지. "아테네 시민 여러분, 보아하니 종교에 완전 진심이시네요. 제가 며칠 전에 여기 와서 돌아다녀 보니까 신전이 진짜 많더라고요. 완전 놀랐습니다. 심지어 '이름 모를 신에게'라고 쓰인 신전도 있던데요? 제가 여기 온 이유는, 여러분이 그동안 누군지도 모르고 섬겼던 그 신을 제대로 알려줘서, 이제부터는 알고 예배하게 하려는 겁니다."
+
+[KO 12] badge=24-27
+"온 세상과 그 안의 모든 걸 만드신 하나님, 하늘과 땅의 주인이신 분은 여러분이 주문 제작한 그런 신전에 살지 않으세요. 그리고 혼자서는 아무것도 못해서 누가 옆에서 챙겨줘야 하는 그런 분도 아니고요. 하나님이 우리를 만드신 거지, 우리가 하나님을 만든 게 아니잖아요. 그분은 아무것도 없는 데서 온 인류를 만드셨고, 이 땅을 살기 좋은 곳으로 만들어주셨어요. 시간도 넉넉하게, 살 공간도 넉넉하게 주셨죠. 이건 우리가 어둠 속에서 헤매지 말고 진짜 하나님을 만나고 찾을 수 있도록 하신 거예요. 하나님은 우리랑 숨바꼭질하는 분이 아니에요. 멀리 계시지도 않고요. 완전 가까이 계십니다. 우리는 그분 안에서 살고 움직여요. 절대 그분을 벗어날 수 없다고요! 여러분의 시인 중 한 명도 '우리는 하나님이 만드신 존재'라고 멋지게 말했잖아요. 진짜 우리가 하나님이 만드신 존재라면, 우리가 돌 깎는 사람 고용해서 우리를 위한 신을 만들겠다는 게 얼마나 말도 안 되는 생각이에요? 하나님은 사람의 손으로 섬김을 받으시는 분이 아니고, 우리는 그분 안에서 살고 움직이며 존재한단다."
+
+[KO 13] badge=30-31
+"여러분이 아직 잘 몰랐을 때는 하나님도 그냥 넘어가 주셨어요. 하지만 이제 그 시절은 끝났습니다. 이제 그 이름 모를 신이 누군지 알려졌고, 그분은 여러분에게 삶을 완전히 바꾸라고 요구하십니다. 그분은 온 인류를 심판하고 모든 걸 바로잡을 날을 정해놓으셨어요. 이미 심판할 분도 정해놓으셨고, 그분을 죽은 사람들 가운데서 다시 살리셔서 모든 사람에게 확실히 보여주셨습니다."
+
+[KO 14] badge=32-34
+"죽은 사람을 다시 살리셨다"는 말에 사람들 반응이 딱 둘로 갈렸어. 어떤 사람들은 바울을 비웃으며 떠나고, 어떤 사람들은 "오, 다시 듣고 싶어요. 더 듣고 싶습니다"라고 말했지. 근데 그날은 그걸로 끝났고 바울도 자리를 떴어. 하지만 그 자리에서 확신이 생겨서 바울을 따라나선 사람들도 있었대. 그중에는 아레오바고 법정 판사인 디오누시오랑 다마리라는 여자도 있었음.
+

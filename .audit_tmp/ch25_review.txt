@@ -1,0 +1,121 @@
+### TITLE EN: Paul Pulls the Ultimate Power Move
+### TITLE KO: 바울의 한 수
+
+[MSG 0] range=1-3 header='An Appeal to Caesar'
+Three days after Festus arrived in Caesarea to take up his duties as governor, he went up to Jerusalem. The high priests and top leaders renewed their vendetta against Paul. They asked Festus if he wouldn't please do them a favor by sending Paul to Jerusalem to respond to their charges. A lie, of course—they had revived their old plot to set an ambush and kill him along the way.
+
+[MSG 1] range=4-5 header=None
+Festus answered that Caesarea was the proper jurisdiction for Paul, and that he himself was going back there in a few days. "You're perfectly welcome," he said, "to go back with me then and accuse him of whatever you think he's done wrong."
+
+[MSG 2] range=6-7 header=None
+About eight or ten days later, Festus returned to Caesarea. The next morning he took his place in the courtroom and had Paul brought in. The minute he walked in, the Jews who had come down from Jerusalem were all over him, hurling the most extreme accusations, none of which they could prove.
+
+[MSG 3] range=8 header=None
+Then Paul took the stand and said simply, "I've done nothing wrong against the Jewish religion, or the Temple, or Caesar. Period."
+
+[MSG 4] range=9 header=None
+Festus, though, wanted to get on the good side of the Jews and so said, "How would you like to go up to Jerusalem, and let me conduct your trial there?"
+
+[MSG 5] range=10-11 header=None
+Paul answered, "I'm standing at this moment before Caesar's bar of justice, where I have a perfect right to stand. And I'm going to keep standing here. I've done nothing wrong to the Jews, and you know it as well as I do. If I've committed a crime and deserve death, name the day. I can face it. But if there's nothing to their accusations—and you know there isn't—nobody can force me to go along with their nonsense. We've fooled around here long enough. I appeal to Caesar."
+
+[MSG 6] range=12 header=None
+Festus huddled with his advisors briefly and then gave his verdict: "You've appealed to Caesar; you'll go to Caesar!"
+
+[MSG 7] range=13-17 header=None
+A few days later King Agrippa and his wife, Bernice, visited Caesarea to welcome Festus to his new post. After several days, Festus brought up Paul's case to the king. "I have a man on my hands here, a prisoner left by Felix. When I was in Jerusalem, the high priests and Jewish leaders brought a bunch of accusations against him and wanted me to sentence him to death. I told them that wasn't the way we Romans did things. Just because a man is accused, we don't throw him out to the dogs. We make sure the accused has a chance to face his accusers and defend himself of the charges. So when they came down here I got right on the case. I took my place in the courtroom and put the man on the stand.
+
+[MSG 8] range=18-21 header=None
+"The accusers came at him from all sides, but their accusations turned out to be nothing more than arguments about their religion and a dead man named Jesus, who the prisoner claimed was alive. Since I'm a newcomer here and don't understand everything involved in cases like this, I asked if he'd be willing to go to Jerusalem and be tried there. Paul refused and demanded a hearing before His Majesty in our highest court. So I ordered him returned to custody until I could send him to Caesar in Rome."
+
+[MSG 9] range=22 header=None
+Agrippa said, "I'd like to see this man and hear his story." "Good," said Festus. "We'll bring him in first thing in the morning and you'll hear it for yourself."
+
+[MSG 10] range=23 header=None
+The next day everybody who was anybody in Caesarea found his way to the Great Hall, along with the top military brass. Agrippa and Bernice made a flourishing grand entrance and took their places. Festus then ordered Paul brought in.
+
+[MSG 11] range=24-26 header=None
+Festus said, "King Agrippa and distinguished guests, take a good look at this man. A bunch of Jews petitioned me first in Jerusalem, and later here, to do away with him. They have been most vehement in demanding his execution. I looked into it and decided that he had committed no crime. He requested a trial before Caesar and I agreed to send him to Rome. But what am I going to write to my master, Caesar? All the charges made by the Jews were fabrications, and I've uncovered nothing else.
+
+[MSG 12] range=26-27 header=None
+"That's why I've brought him before this company, and especially you, King Agrippa: so we can come up with something in the nature of a charge that will hold water. For it seems to me silly to send a prisoner all that way for a trial and not be able to document what he did wrong."
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Paul Appeals to Caesar
+
+[EN 1] badge=1-5
+So, this new governor, Festus, barely had time to unpack his bags in Caesarea before he shot up to Jerusalem. Three days in, and the top priests and Jewish leaders were already in his ear, trying to get him to do their dirty work. They were still super salty about Paul and wanted him gone. They said, "Hey Festus, my guy, could you do us a solid and bring Paul to Jerusalem for his trial?" But it was a total scam. They were planning to have a group of assassins ambush Paul on the way and take him out for good.
+
+[EN 2] badge=6
+But Festus wasn't a total noob. He was like, "Nah, I'm not doing that. Paul's staying in Caesarea. I'm heading back in a few days, so if you've got beef with him, you can come with me and say it to his face." He wasn't about to let them play him.
+
+[EN 3] badge=7-9
+A week or so later, Festus is back in Caesarea and drags Paul into the courtroom. The second Paul walks in, the guys from Jerusalem start throwing all sorts of wild accusations at him, but they had zero proof to back it up. Paul just stands there, cool as a cucumber, and says, "I haven't done anything wrong. Not against our religion, not against the Temple, and definitely not against Caesar. Period."
+
+[EN 4] badge=10-12
+Festus, trying to be a people-pleaser, turns to Paul and says, "So, how about we just take this whole show on the road to Jerusalem?" But Paul wasn't having it. He knew what was up. He looked Festus dead in the eye and said, "I'm a Roman citizen, and I'm standing in Caesar's court. I've done nothing wrong, and you know it. If I've actually committed a crime worthy of death, then fine, let's do it. But if these guys are just making stuff up, you can't just hand me over to them. I've had enough of this nonsense. I'm taking this to the top. I appeal to Caesar!"
+
+[EN 5] badge=14
+Festus was stunned. He had a quick huddle with his advisors and then came back and said, "You appealed to Caesar? Fine. To Caesar you will go!"
+
+[EN 6] badge=13-16
+A few days later, King Agrippa and his wife, Bernice, roll into town to say hi to the new governor. After a few days of chilling, Festus brings up Paul's case. "So, I've got this prisoner, Paul, that the last governor, Felix, left behind. When I was in Jerusalem, the Jewish leaders were all over me, wanting me to sentence him to death. I told them that's not how we Romans roll. We don't just ghost someone because of accusations. The guy gets to face his accusers and defend himself.
+
+[EN 7] badge=17-20
+"So, I brought him to trial, and you won't believe what their beef was about. It was all about their religion and some dead guy named Jesus, who Paul claims is alive. I'm new here and this is all way above my pay grade, so I asked Paul if he wanted to go to Jerusalem to be tried. He said no way and demanded a trial with the big boss, Caesar. So, I've got him on lockdown until I can ship him off to Rome."
+
+[EN 8] badge=22
+Agrippa was intrigued. "I'd actually like to hear this guy's story for myself," he said. "Sweet," said Festus. "First thing tomorrow, you'll get your wish."
+
+[EN 9] badge=23-27
+The next day, it was a full-on media circus. All the important people in Caesarea, including the top military brass, packed into the Great Hall. Agrippa and Bernice made a grand entrance, and then Festus had Paul brought in. Festus stood up and said, "King Agrippa, and all you distinguished guests, check out this guy. The Jews have been constantly demanding, wanting me to execute him. But after looking into it, I can't find anything he's done wrong. He's the one who asked to see Caesar, so I'm sending him to Rome. But here's the thing: I have no idea what to write in my report to Caesar. The Jews' accusations were all bogus, and I've got nothing else. That's why I've brought him before you all, and especially you, King Agrippa. I'm hoping you can help me come up with some actual charges that will stick. It's pretty lame to send a prisoner all that way without even being able to say what he did wrong."
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§바울이 가이사에게 상소하다
+
+[KO 1] badge=1-3
+베스도가 총독으로 부임하고 3일 뒤에 가이사랴에서 예루살렘으로 올라갔음.
+대제사장이랑 높은 양반들이 바울한테 완전 화나 있었거든. 그래서 베스도한테 잘 좀 봐달라고 부탁함.
+바울을 예루살렘으로 보내달라고 한 거야. 근데 이거 다 거짓말이었음. 걔네는 길에 숨어있다가 바울 죽이려고 작당모의하고 있었던 거임. 완전 무섭지 않냐?
+
+[KO 2] badge=4-5
+베스도가 말했음. "바울은 가이사랴 관할이고, 나도 며칠 뒤에 거기로 돌아갈 거임. 그때 같이 가서 그가 뭘 잘못했는지 다 말해 보세요."
+
+[KO 3] badge=6-7
+한 8일에서 10일 정도 지나고 베스도는 가이사랴로 돌아갔음. 다음날 아침 바로 재판 시작하고 바울을 부름.
+바울이 딱 들어오니까 예루살렘에서 온 유대인들이 달려들어서 막 아무 말이나 다 던지면서 바울을 고발하는 거야. 근데 증거는 하나도 없었음. 그냥 막 던지는 거임.
+
+[KO 4] badge=8
+바울이 증인석에 서서 딱 한마디 함. "난 유대인 율법이나 성전, 황제한테 잘못한 거 하나도 없음. 이게 팩트임."
+
+[KO 5] badge=9
+근데 베스도는 유대인들한테 잘 보이고 싶어서 이렇게 말함. "예루살렘으로 올라가서 재판받는 거 어떰?"
+
+[KO 6] badge=10-11
+바울이 대답했음. "지금 나는 황제의 법정에 서 있는 거임. 여기서 재판받을 권리가 있고, 앞으로도 그럴 거임. 난 유대인들한테 아무 잘못도 안 했고, 총독님도 그거 잘 알잖슴. 만약 내가 죽을죄를 지었으면, 그냥 바로 사형 때리셈. 달게 받겠음. 근데 쟤네 말이 다 거짓말이라면, 총독님도 아시겠지만, 아무도 나한테 쟤네들 헛소리 따르라고 강요 못함. 여기서 시간 낭비한 걸로 충분함. 나 황제한테 상소하겠음!"
+
+[KO 7] badge=12
+베스도가 자기 참모들이랑 잠깐 얘기하더니 판결을 내림. "황제한테 상소했으니, 황제한테 가게 될 거임!"
+
+[KO 8] badge=13-17
+며칠 뒤에 아그립바 왕이랑 아내 버니게가 새로 온 총독 베스도한테 인사하러 가이사랴에 옴.
+며칠 지나고 베스도가 아그립바 왕한테 바울 얘기를 꺼냄. "벨릭스가 남기고 간 죄수가 한 명 있는데, 지금 내 관할임. 내가 예루살렘 갔을 때 대제사장이랑 유대인 지도자들이 걔를 고발하면서 사형시켜달라고 엄청 졸랐음. 그래서 내가 말해줬지. 우리 로마는 그런 식으로 일 안 한다고. 고발당했다고 바로 재판하는 게 아니라, 피고인이랑 원고랑 얼굴 보고 직접 자기 변호할 기회를 줘야 한다고 말했음. 그래서 걔네가 여기로 왔을 때 바로 사건 조사에 들어갔고, 법정에 앉혀서 증언하게 했음."
+
+[KO 9] badge=18-21
+"원고들이 진짜 인정사정없이 공격하는데, 들어보니까 고작 자기네 종교 문제랑, 바울이 살아있다고 주장하는 '예수'라는 죽은 사람에 대한 논쟁이었음. 나는 새로 부임해서 이런 사건은 잘 모르겠어서, 그냥 예루살렘 가서 재판받을 생각 있냐고 물어봤음. 근데 걔가 거절하고 최고 법정인 황제 앞에서 재판받겠다고 요청함. 그래서 황제한테 보낼 때까지 감옥에 다시 가두라고 명령했음."
+
+[KO 10] badge=22
+아그립바가 말했음. "오, 그 사람 얘기 한번 들어보고 싶은데?"
+베스도가 말했음. "좋아요. 내일 아침 바로 불러서 직접 들어보세요."
+
+[KO 11] badge=23
+다음날, 가이사랴의 모든 귀빈들이랑 군대 높은 장교들까지 싹 다 연회장에 모임. 아그립바랑 버니게가 완전 폼나게 등장해서 자리에 앉음. 베스도가 바울을 데려오라고 시킴.
+
+[KO 12] badge=24-26
+베스도가 말했음. "아그립바 왕이랑 귀빈 여러분, 이 사람 좀 보셈. 수많은 유대인들이 예루살렘에서부터 시작해서 여기까지 와서 이 사람 없애달라고 난리임. 진짜 맹렬하게 죽여달라고 요구했음. 근데 내가 조사해 보니까 그는 아무 죄도 안 지었음. 근데 자기가 황제 앞에서 재판받겠다고 해서 로마로 보내기로 함. 근데 황제 폐하께 보고서에 뭐라고 써야 할지 막막함. 유대인들이 쓴 고발 내용은 다 거짓이었고, 내가 따로 밝혀낸 것도 없음."
+
+[KO 13] badge=26-27
+"그래서 여러분 앞에, 특히 아그립바 왕 앞에 그를 데려온 거임. 혹시 제대로 된 재판에 쓸 만한 건더기라도 나올까 해서. 죄수를 저 멀리 재판받으러 보내는데, 죄목 하나 제대로 못 적으면 완전 완전 창피하는 거 아님?"
+

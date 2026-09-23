@@ -1,0 +1,104 @@
+# EXODUS 29 — The Official Priesting Ceremony: How to Level Up
+TEEN paras: 14 | badges: ['1-4', '5-9', '10-14', '15-18', '19-21', '22-23', '24-25', '26', '27-28', '29-30', '31-34', '35-37', '38-41', '42-46']
+KO paras: 14 | badges: ['1-4', '5-9', '10-14', '15-18', '19-21', '22-23', '24-25', '26', '27-28', '29-30', '31-34', '35-37', '38-41', '42-46']
+MSG sections: 14 | ranges: ['1-4', '5-9', '9-14', '15-18', '19-21', '22-23', '24-25', '26', '27-28', '29-30', '31-34', '35-37', '38-41', '42-46']
+
+--- MSG [1-4] ---
+“This is the ceremony for dedicating them as priests. Take a young bull and two rams, healthy and without defects. Using fine wheat flour but no yeast make bread and cakes mixed with oil and wafers spread with oil. Place them in a basket and carry them along with the bull and the two rams. Bring Aaron and his sons to the entrance of the Tent of Meeting and wash them with water.
+
+>>> TEEN:
+  [p0 badge=1-4] Alright, here's the game plan for making them official priests. First, you'll need a young bull and two rams, both totally perfect, no defects. Then, grab some fine wheat flour—no yeast!—and make three things: regular bread, cakes mixed with olive oil, and super thin wafers with a bit of oil spread on them. Put all that bread stuff in a basket and bring it over with the bull and the two rams. Then, get Aaron and his sons, bring them to the entrance of the main tent, and have them wash up.
+  [KO p0] 자, 이제부터 걔네를 제사장으로 임명하는 법 알려줄게. 일단 젊은 수소 한 마리랑 흠 없는 숫양 두 마리를 준비하는 거야. 그리고 고운 밀가루를 가져오는데, 누룩은 절대 넣으면 안 됨. 이걸로 기름 섞은 빵이랑 기름 바른 전병을 만들어. 그걸 바구니에 담아서 수소랑 숫양 두 마리랑 같이 가져오는 거지. 그리고 아론이랑 아들들을 성막 입구로 데려와서 물로 씻겨.
+
+--- MSG [5-9] ---
+“Then take the vestments and dress Aaron in the tunic, the robe of the Ephod, the Ephod, and the Breastpiece, belting the Ephod on him with the embroidered waistband. Set the turban on his head and place the sacred crown on the turban. Then take the anointing oil and pour it on his head, anointing him. Then bring his sons, put tunics on them and gird them with sashes, both Aaron and his sons, and set hats on them. Their priesthood is upheld by law and is permanent.
+
+>>> TEEN:
+  [p1 badge=5-9] Next, it's time to get them dressed. You'll suit up Aaron in all the official gear: the tunic, the special robe, the ephod, and the chestpiece with all the gems. You'll tie it all together with that fancy embroidered belt. Put the turban on his head and the sacred crown right on top of it. Then, take the special anointing oil, pour it over his head, and boom, he's anointed. After that, bring his sons out, put their tunics on, wrap the sashes around them and Aaron, and pop their hats on. This priest gig is legit, backed by law, and it's a forever thing for their family.
+  [KO p1] 그다음엔 옷을 입힐 차례야. 아론한테 속옷, 에봇 받침 겉옷, 에봇, 흉패까지 싹 다 입히고, 무늬 놓은 에봇 띠로 딱 매주는 거지. 머리에는 관을 씌우고 그 위에 거룩한 패를 붙여. 그리고 기름 붓는 병을 가져다가 머리에 부어서 기름을 발라주는 거야. 그 다음에 아들들을 데려와서 속옷을 입히고, 아론이랑 아들들한테 띠를 매주고, 머리에 관을 씌워줘. 제사장 직분은 법으로 정해진 거고, 영원히 걔네들 거임.
+
+--- MSG [9-14] ---
+“This is how you will ordain Aaron and his sons: Bring the bull to the Tent of Meeting. Aaron and his sons will place their hands on the head of the bull. Then you will slaughter the bull in the presence of God at the entrance to the Tent of Meeting. Take some of the bull’s blood and smear it on the horns of the Altar with your finger; pour the rest of the blood on the base of the Altar. Next take all the fat that covers the innards, fat from around the liver and the two kidneys, and burn it on the Altar. But the flesh of the bull, including its hide and dung, you will burn up outside the camp. It is an Absolution-Offering.
+
+>>> TEEN:
+  [p1 badge=5-9] Next, it's time to get them dressed. You'll suit up Aaron in all the official gear: the tunic, the special robe, the ephod, and the chestpiece with all the gems. You'll tie it all together with that fancy embroidered belt. Put the turban on his head and the sacred crown right on top of it. Then, take the special anointing oil, pour it over his head, and boom, he's anointed. After that, bring his sons out, put their tunics on, wrap the sashes around them and Aaron, and pop their hats on. This priest gig is legit, backed by law, and it's a forever thing for their family.
+  [KO p1] 그다음엔 옷을 입힐 차례야. 아론한테 속옷, 에봇 받침 겉옷, 에봇, 흉패까지 싹 다 입히고, 무늬 놓은 에봇 띠로 딱 매주는 거지. 머리에는 관을 씌우고 그 위에 거룩한 패를 붙여. 그리고 기름 붓는 병을 가져다가 머리에 부어서 기름을 발라주는 거야. 그 다음에 아들들을 데려와서 속옷을 입히고, 아론이랑 아들들한테 띠를 매주고, 머리에 관을 씌워줘. 제사장 직분은 법으로 정해진 거고, 영원히 걔네들 거임.
+  [p2 badge=10-14] So this is how you officially ordain Aaron and his crew. Bring the bull to the front of the Tent of Meeting, and have Aaron and his sons put their hands on its head. Then, you'll slaughter the bull right there in front of God. Take some of its blood with your finger and wipe it on the horns of the altar, and pour the rest of the blood at the altar's base. Next, take all the fat from inside the bull—the stuff covering its organs, the fat around the liver, and the two kidneys—and burn it all on the altar as an offering. But the rest of the bull—the meat, the hide, even the dung—you've got to burn it completely outside the camp. It's a special kind of offering to make things right, an Absolutio
+  [KO p2] 아론이랑 아들들을 제사장으로 세우는 법은 이렇대. 수소를 회막 앞으로 끌고 오면, 아론이랑 아들들이 그 수소 머리에 손을 얹을 거야. 그러면 넌 하나님 앞에서, 바로 그 회막 입구에서 그 소를 잡는 거지. 소의 피를 좀 가져다가 손가락으로 제단 뿔에 바르고, 나머지 피는 제단 밑에 다 쏟아부어. 그 다음엔 내장을 덮은 모든 기름이랑, 간에 붙은 기름, 그리고 두 콩팥이랑 그 위의 기름을 다 떼어내서 제단 위에서 불태워. 근데 소고기랑 가죽이랑 똥은 진영 밖에서 불살라야 돼. 이건 죄를 씻는 속죄제물이거든.
+
+--- MSG [15-18] ---
+“Then take one of the rams. Have Aaron and his sons place their hands on the head of the ram. Slaughter the ram and take its blood and throw it against the Altar, all around. Cut the ram into pieces; wash its innards and legs, then gather the pieces and its head and burn the whole ram on the Altar. It is a Whole-Burnt-Offering to God, a pleasant fragrance, an offering by fire to God.
+
+>>> TEEN:
+  [p3 badge=15-18] Now, grab one of the rams. Have Aaron and his sons put their hands on its head. Slaughter it, take its blood, and splash it against all sides of the altar. Then, cut the ram into pieces, wash its guts and legs, and put all the pieces, including the head, together on the altar and burn the whole thing. This is a Whole-Burnt-Offering to God, and it creates a smell that God finds pleasing—it's a fire offering to God.
+  [KO p3] 이제 숫양 한 마리를 가져와. 아론이랑 아들들이 그 숫양 머리에 손을 얹게 해. 그리고 그 숫양을 잡아서 피를 제단 주위에 쫙 뿌려. 숫양은 각을 떠서 조각내고, 내장이랑 다리는 씻어서 각 뜬 고기랑 머리랑 같이 모아. 그리고 그 숫양 전체를 제단 위에서 불태우는 거야. 이게 바로 번제, 하나님께 드리는 향기로운 제물, 불로 태워 드리는 제사인 거임.
+
+--- MSG [19-21] ---
+“Then take the second ram. Have Aaron and his sons place their hands on the ram’s head. Slaughter the ram. Take some of its blood and rub it on Aaron’s right earlobe and on the right earlobes of his sons, on the thumbs of their right hands and on the big toes of their right feet. Sprinkle the rest of the blood against all sides of the Altar. Then take some of the blood that is on the Altar, mix it with some of the anointing oil, and splash it on Aaron and his clothes and on his sons and their clothes so that Aaron and his clothes and his sons and his sons’ clothes will be made holy.
+
+>>> TEEN:
+  [p4 badge=19-21] Then you take the second ram. Aaron and his sons put their hands on its head. You slaughter it, and take some of its blood and put it on the lobe of Aaron's right ear, and on his sons' right earlobes too. Also put it on their right thumbs and their right big toes. You splash the rest of the blood against all sides of the altar. After that, take some of the blood from the altar, mix it with the anointing oil, and sprinkle it on Aaron and his clothes, and on his sons and their clothes. This makes them and their priestly outfits totally holy.
+  [KO p4] 그 다음 두 번째 숫양을 가져와. 아론이랑 아들들이 그 양 머리에 손을 얹게 하고, 너는 그 양을 잡아. 피를 좀 가져다가 아론의 오른쪽 귓불이랑 아들들의 오른쪽 귓불에 바르고, 오른손 엄지랑 오른발 엄지에도 발라. 나머지 피는 제단 사방에 뿌려. 그리고 제단 위에 있는 피를 가져다가 기름 붓는 기름이랑 섞어서, 아론이랑 그의 옷, 아들들이랑 아들들의 옷에 뿌려. 그러면 아론이랑 그의 옷, 아들들이랑 아들들의 옷이 다 거룩해지는 거야.
+
+--- MSG [22-23] ---
+“Take the fat from the ram, the fat tail, the fat that covers the innards, the long lobe of the liver, the two kidneys and the fat on them, and the right thigh: this is the ordination ram. Also take one loaf of bread, an oil cake, and a wafer from the breadbasket that is in the presence of God.
+
+>>> TEEN:
+  [p5 badge=22-23] From that same ram, you're gonna take all the fatty parts: the fat tail, the fat covering the organs, the long part of the liver, the two kidneys with their fat, and the right thigh. This is the special ordination ram. On top of that, you'll take one loaf of bread, one cake made with oil, and one wafer from that basket of bread you brought before God.
+  [KO p5] 그 숫양의 기름, 그러니까 기름진 꼬리, 내장을 덮은 기름, 간에 붙은 기름, 두 콩팥과 그 위의 기름, 그리고 오른쪽 넓적다리를 떼어내. 이건 제사장 임명식에 쓰는 숫양이라서 특별한 거임. 그리고 하나님 앞에 있는 빵 바구니에서 빵 한 개, 기름 섞은 과자 한 개, 전병 한 개를 꺼내.
+
+--- MSG [24-25] ---
+“Place all of these in the open hands of Aaron and his sons who will wave them before God, a Wave-Offering. Then take them from their hands and burn them on the Altar with the Whole-Burnt-Offering—a pleasing fragrance before God, a gift to God.
+
+>>> TEEN:
+  [p6 badge=24-25] Put all this stuff into the hands of Aaron and his sons. They're going to hold it up and wave it in front of God as a special Wave-Offering. After they've done that, you take it from their hands and burn it on the altar along with the other burnt offering. It's a smell that pleases God, a gift for God.
+  [KO p6] 이 모든 걸 아론과 아들들의 손에 올려놓고, 하나님 앞에서 흔들어서 요제로 드리게 해. 그런 다음에 그들의 손에서 그걸 받아서 제단 위 번제물 위에 놓고 불살라. 이건 하나님 앞에 향기로운 냄새, 하나님께 드리는 선물이래.
+
+--- MSG [26] ---
+“Now take the breast from Aaron’s ordination ram and wave it before God, a Wave-Offering. That will be your portion.
+
+>>> TEEN:
+  [p7 badge=26] Now, from that same ordination ram, you take the breast meat and wave it before God as a Wave-Offering. That part is for you.
+  [KO p7] 이제 아론의 제사장 임명식에 쓴 숫양의 가슴 부분을 가져다가 하나님 앞에서 흔들어 요제로 드려. 그건 네 몫이 될 거래.
+
+--- MSG [27-28] ---
+“Bless the Wave-Offering breast and the thigh that was held up. These are the parts of the ordination ram that are for Aaron and his sons. Aaron and his sons are always to get this offering from the Israelites; the Israelites are to make this offering regularly from their Peace-Offerings.
+
+>>> TEEN:
+  [p8 badge=27-28] So, make sure you set aside the breast from the Wave-Offering and the thigh that was held up. These parts from the ordination ram are specifically for Aaron and his sons. It's a rule that the Israelites have to give this portion from their Peace-Offerings to the priests forever.
+  [KO p8] 요제로 흔든 가슴이랑 들어 올린 넓적다리는 거룩하게 구별해야 해. 이건 아론과 그의 아들들을 위한 임명식 숫양의 일부거든. 아론과 그의 아들들은 이스라엘 백성들한테서 이걸 항상 받아야 한대. 이스라엘 백성들이 화목제물 중에서 정기적으로 드려야 하는 제물인 거지.
+
+--- MSG [29-30] ---
+“Aaron’s sacred garments are to be handed down to his descendants so they can be anointed and ordained in them. The son who succeeds him as priest is to wear them for seven days and enter the Tent of Meeting to minister in the Holy Place.
+
+>>> TEEN:
+  [p9 badge=29-30] Aaron's holy clothes are to be passed down to his kids and grandkids. They'll wear them when they get anointed and ordained, just like he did. The son who takes over as the main priest after him has to wear these clothes for seven days straight when he goes into the Tent of Meeting to do his job in the Holy Place.
+  [KO p9] 아론이 입던 거룩한 옷은 자손들한테 물려줘서, 그들도 그 옷을 입고 기름 부음을 받고 제사장으로 임명되게 해야 해. 아론의 뒤를 이어서 제사장이 되는 아들은 그 옷을 7일 동안 입고 성소에서 섬기기 위해 회막에 들어가야 한대.
+
+--- MSG [31-34] ---
+“Take the ordination ram and boil the meat in the Holy Place. At the entrance to the Tent of Meeting, Aaron and his sons will eat the boiled ram and the bread that is in the basket. Atoned by these offerings, ordained and hallowed by them, they are the only ones who are to eat them. No outsiders are to eat them; they’re holy. Anything from the ordination ram or from the bread that is left over until morning you are to burn up. Don’t eat it; it’s holy.
+
+>>> TEEN:
+  [p10 badge=31-34] Take the rest of the ordination ram and boil the meat in the Holy Place. Aaron and his sons will eat the boiled meat and the bread from the basket right at the entrance of the Tent of Meeting. They are the only ones who can eat it because it's part of the ceremony that made them holy and set them apart. No one else is allowed to eat it; it's sacred. If there's any meat or bread left over by the morning, you have to burn it. Don't eat it; it's holy now.
+  [KO p10] 임명식에 쓴 숫양을 가져다가 거룩한 곳에서 그 고기를 삶아. 회막 입구에서 아론과 그의 아들들이 그 삶은 양고기랑 바구니에 있는 빵을 먹을 거야. 이 제물들로 속죄 받고, 임명되고, 거룩해졌으니까, 그들만 먹을 수 있는 거임. 다른 사람은 절대 못 먹어. 거룩한 거니까. 만약 임명식 양고기나 빵이 아침까지 남으면, 다 불태워버려. 먹지 마. 거룩한 거니까.
+
+--- MSG [35-37] ---
+“Do everything for the ordination of Aaron and his sons exactly as I’ve commanded you throughout the seven days. Offer a bull as an Absolution-Offering for atonement each day. Offer it on the Altar when you make atonement for it: Anoint and hallow it. Make atonement for the Altar and hallow it for seven days; the Altar will become soaked in holiness—anyone who so much as touches the Altar will become holy.
+
+>>> TEEN:
+  [p11 badge=35-37] Okay, so you're going to do this whole ordination process for Aaron and his sons for seven days straight, exactly like I've told you. Every day, you'll offer a bull as a special offering for forgiveness. You'll offer it on the altar to make things right, then you'll anoint the altar to make it holy. You'll do this for seven days, and the altar itself will become super holy—so holy that anyone who even touches it will become holy too.
+  [KO p11] 아론과 그의 아들들을 제사장으로 임명하는 이 모든 일을 내가 너한테 명령한 그대로 7일 동안 해야 해. 매일 속죄를 위해 수소 한 마리를 속죄제물로 바쳐. 제단을 위해 속죄할 때 제단 위에 바치고, 기름을 부어 거룩하게 해. 7일 동안 제단을 위해 속죄하고 거룩하게 하면, 제단이 완전 거룩함에 젖게 될 거야. 그래서 누구든지 제단에 닿기만 해도 거룩해진대. 대단한 거지.
+
+--- MSG [38-41] ---
+“This is what you are to offer on the Altar: two year-old lambs each and every day, one lamb in the morning and the second lamb at evening. With the sacrifice of the first lamb offer two quarts of fine flour with a quart of virgin olive oil, plus a quart of wine for a Drink-Offering. The sacrifice of the second lamb, the one at evening, is also to be accompanied by the same Grain-Offering and Drink-Offering of the morning sacrifice to give a pleasing fragrance, a gift to God.
+
+>>> TEEN:
+  [p12 badge=38-41] Now, here's what you need to offer on the altar every single day, no exceptions: two one-year-old lambs. One lamb in the morning, and the second one in the evening. With the morning lamb, you'll also offer about two quarts of fine flour mixed with a quart of the best olive oil, plus a quart of wine as a drink offering. You'll do the exact same grain and drink offering with the evening lamb. This creates a pleasing smell, a gift to God.
+  [KO p12] 이건 네가 제단 위에 항상 바쳐야 할 제물이야. 매일 1년 된 어린 양 두 마리씩. 한 마리는 아침에, 다른 한 마리는 저녁에. 첫 번째 양을 바칠 때는 고운 밀가루 2리터에 최상급 올리브유 1리터를 섞어서 바치고, 포도주 1리터를 부어드리는 제물로 함께 드려. 저녁에 드리는 두 번째 양의 제사도 아침 제사랑 똑같은 곡물제물이랑 부어드리는 제물을 같이 드려서 향기로운 냄새, 하나님께 드리는 선물이 되게 해야 해.
+
+--- MSG [42-46] ---
+“This is to be your regular, daily Whole-Burnt-Offering before God, generation after generation, sacrificed at the entrance of the Tent of Meeting. That’s where I’ll meet you; that’s where I’ll speak with you; that’s where I’ll meet the Israelites, at the place made holy by my Glory. I’ll make the Tent of Meeting and the Altar holy. I’ll make Aaron and his sons holy in order to serve me as priests. I’ll move in and live with the Israelites. I’ll be their God. They’ll realize that I am their God who brought them out of the land of Egypt so that I could live with them. I am God, *your* God.”
+
+>>> TEEN:
+  [p13 badge=42-46] This Whole-Burnt-Offering has to happen every single day, for all future generations, right at the entrance of the Tent of Meeting. That's our meeting spot. That's where I'll talk to you. That's where I'll meet the people of Israel, in the place that is made holy by my own Glory. I will make the Tent of Meeting and the altar holy. I will make Aaron and his sons holy to serve me as priests. I'm going to move in and live with the Israelites. I will be their God. And they will know for sure that I am their God, the one who brought them out of Egypt so I could come and live among them. I am God, your God.
+  [KO p13] 이건 너희가 대대로 하나님 앞에서, 회막 입구에서 매일 드려야 하는 번제야. 거기가 바로 내가 너희를 만날 곳이고, 너한테 말할 곳이고, 이스라엘 백성들을 만날 곳이래. 내 영광으로 거룩해진 바로 그곳에서 말이야. 내가 회막이랑 제단을 거룩하게 할 거고, 아론과 그의 아들들을 거룩하게 해서 나를 섬기는 제사장으로 삼을 거야. 내가 이스라엘 백성들 가운데 들어가서 살 거래. 내가 그들의 하나님이 될 거라고. 그러면 그들은 내가 그들을 이집트 땅에서 이끌어내서 그들 가운데 살려고 온 그들의 하나님이라는 걸 깨닫게 될 거야. 나는 하나님, 너의 하나님이다.

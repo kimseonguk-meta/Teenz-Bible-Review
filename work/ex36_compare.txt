@@ -1,0 +1,76 @@
+# EXODUS 36 — God's Ultimate Collab Project
+TEEN paras: 11 | badges: ['1', '2-3', '4-5', '6', '7', '8-13', '14-19', '20-30', '31-34', '35-36', '37-38']
+KO paras: 11 | badges: ['1', '2-3', '4-5', '6', '7', '8-13', '14-19', '20-30', '31-34', '35-36', '37-38']
+MSG sections: 10 | ranges: ['1', '2-3', '4-5', '6-7', '8-13', '14-19', '20-30', '31-34', '35-36', '37-38']
+
+--- MSG [1] ---
+“Bezalel and Oholiab, along with everyone whom God has given the skill and know-how for making everything involved in the worship of the Sanctuary as commanded by God, are to start to work.”
+
+>>> TEEN:
+  [p0 badge=1] “Alright, Bezalel and Oholiab, and everyone else God has gifted with the skills and know-how to build everything for the Sanctuary, just like God commanded—it's time to get to work.”
+  [KO p0] “브살렐과 오홀리압, 그리고 하나님이 성소 만드는 데 필요한 스킬이랑 지혜를 몰빵해준 모든 장인들은 이제 일 시작하라고. 하나님이 명령하신 그대로 만들면 됨.”
+
+--- MSG [2-3] ---
+Moses summoned Bezalel and Oholiab along with all whom God had gifted with the ability to work skillfully with their hands. The men were eager to get started and engage in the work. They took from Moses all the offerings that the Israelites had brought for the work of constructing the Sanctuary. The people kept on bringing in their freewill offerings, morning after morning.
+
+>>> TEEN:
+  [p1 badge=2-3] So Moses called up Bezalel, Oholiab, and all the other super-skilled people God had blessed with talent. These guys were seriously hyped to start building. They collected all the materials the Israelites had brought for the Sanctuary project. And get this—people just kept bringing more free-will offerings, every single morning.
+  [KO p1] 모세가 브살렐과 오홀리압, 그리고 하나님한테 손재주 스킬을 받은 능력자들을 다 불렀음. 이 사람들은 진짜 일하고 싶어서 안달이 난 상태였던 거임. 그들은 모세한테서 이스라엘 백성들이 성소 건축을 위해 가져온 모든 헌물을 받았음. 근데 엄청난 건, 사람들이 아침마다 계속해서 자발적으로 헌물을 가져왔다는 거임.
+
+--- MSG [4-5] ---
+All the artisans who were at work making everything involved in constructing the Sanctuary came, one after another, to Moses, saying, “The people are bringing more than enough for doing this work that God has commanded us to do!”
+
+>>> TEEN:
+  [p2 badge=4-5] It got to the point where all the artisans working on the Sanctuary had to stop what they were doing, and one by one they went to Moses and were like, “Yo, the people are bringing way more than we need to get this job done that God commanded!”
+  [KO p2] 결국 성소 건축에 참여한 모든 장인들이 하던 일을 멈추고, 하나둘씩 모세한테 와서 말했음. “아니, 백성들이 너무 많이 가져와서 하나님이 시키신 거 다 만들고도 남을 각인데요?”
+
+--- MSG [6-7] ---
+So Moses sent out orders through the camp: “Men! Women! No more offerings for the building of the Sanctuary!” The people were ordered to stop bringing offerings! There was plenty of material for all the work to be done. Enough and more than enough.
+
+>>> TEEN:
+  [p3 badge=6] So Moses had to send out an announcement across the camp: “Okay guys and girls! No more offerings for the Sanctuary build!”
+  [KO p3] 그래서 모세가 캠프 전체에 명령을 내렸음. “남자든 여자든! 이제 성소 건축을 위한 헌물 그만 가져오셈!”
+  [p4 badge=7] The people were literally told to stop bringing stuff! There was plenty of material for all the work. More than enough, for real.
+  [KO p4] 백성들은 헌물 가져오는 걸 멈추라는 명령을 받은 거임! 이미 모든 작업을 하기에 재료가 차고 넘쳤음. 진짜 충분하고도 남을 정도.
+
+--- MSG [8-13] ---
+Then all the skilled artisans on The Dwelling made ten tapestries of fine twisted linen and blue, purple, and scarlet fabric with an angel-cherubim design worked into the material. Each panel of tapestry was forty-six feet long and six feet wide. Five of the panels were joined together, and then the other five. Loops of blue were made along the edge of the outside panel of the first set, and the same on the outside panel of the second set. They made fifty loops on each panel, with the loops opposite each other. Then they made fifty gold clasps and joined the tapestries together so that The Dwelling was one whole.
+
+>>> TEEN:
+  [p5 badge=8-13] Then all the skilled builders got to work on The Dwelling. They made ten huge tapestries from fine twisted linen in blue, purple, and scarlet, with a sick design of angel-cherubim woven right in. Each tapestry was 46 feet long and 6 feet wide. They stitched five of them together to make one big piece, and did the same with the other five. They added blue loops along the edge of the first set and the second set. They made fifty loops on each panel, so the loops lined up perfectly. Then they made fifty gold clasps to hook the tapestries together, making The Dwelling one massive, unified structure.
+  [KO p5] 그때부터 모든 기술자들이 성막을 만들기 시작했음. 먼저 가늘게 꼰 베실이랑 청색, 자색, 홍색 실로 열 폭의 휘장을 만들었는데, 거기에 천사 그룹 모양을 정교하게 수놓았음. 각 휘장의 길이는 46피트(약 14미터)에 너비는 6피트(약 1.8미터)였음. 다섯 폭을 하나로 연결하고, 나머지 다섯 폭도 그렇게 연결했음. 첫 번째 세트의 가장자리 휘장 끝에 청색 고리를 만들고, 두 번째 세트의 가장자리 휘장 끝에도 똑같이 만들었음. 각 휘장에 고리를 50개씩 만들어서 서로 마주보게 했음. 그런 다음 금 갈고리 50개를 만들어서 휘장들을 연결해서 성막을 하나로 합쳤음.
+
+--- MSG [14-19] ---
+Next they made tapestries of woven goat hair for a tent that would cover The Dwelling. They made eleven panels of these tapestries. The length of each panel was forty-five feet long and six feet wide. They joined five of the panels together, and then the other six, by making fifty loops along the edge of the end panel and fifty loops along the edge of the joining panel, then making fifty clasps of bronze, connecting the clasps to the loops, bringing the tent together. They finished it off by covering the tapestries with tanned rams’ skins dyed red, and covered that with dolphin skins.
+
+>>> TEEN:
+  [p6 badge=14-19] Next up, they made tapestries from woven goat hair to create a tent to go over The Dwelling. They made eleven of these panels. Each one was 45 feet long and 6 feet wide. They joined five panels together, and then the other six. They did this by putting fifty loops on the edge of one panel and fifty on the edge of the other, then used fifty bronze clasps to connect them, bringing the whole tent together. To top it off, they covered the whole thing with a layer of tanned rams' skins dyed red, and then another layer of dolphin skins.
+  [KO p6] 다음으로, 그들은 염소 털로 짠 휘장으로 성막을 덮을 텐트를 만들었음. 이 휘장을 열한 폭이나 만들었대. 각 폭의 길이는 45피트(약 13.7미터)에 너비는 6피트(약 1.8미터)였음. 다섯 폭을 하나로 연결하고, 나머지 여섯 폭도 연결했음. 한쪽 끝 휘장 가장자리에 고리 50개를 만들고, 다른 쪽 연결할 휘장 가장자리에도 고리 50개를 만들어서, 놋 갈고리 50개로 그 고리들을 연결해서 텐트를 하나로 합쳤음. 마감 처리로 붉게 물들인 숫양 가죽으로 그 휘장을 덮고, 그 위를 돌고래 가죽으로 또 덮었음.
+
+--- MSG [20-30] ---
+They framed The Dwelling with vertical planks of acacia wood, each section of frame fifteen feet long and two and a quarter feet wide, with two pegs for securing them. They made all the frames identical: twenty frames for the south side, with forty silver sockets to receive the two tenons from each of the twenty frames; they repeated that construction on the north side of The Dwelling. For the rear of The Dwelling facing west, they made six frames, with two additional frames for the rear corners. Both of the two corner frames were double in thickness from top to bottom and fit into a single ring—eight frames altogether with sixteen sockets of silver, two under each frame.
+
+>>> TEEN:
+  [p7 badge=20-30] They built the frame for The Dwelling using vertical planks of acacia wood. Each frame section was fifteen feet tall and a little over two feet wide, with two pegs to lock them in place. They made all the frames exactly the same: twenty frames for the south side, with forty silver bases to hold the pegs from each frame. They did the exact same thing for the north side. For the back of The Dwelling, which faced west, they made six frames, plus two extra for the corners. These two corner frames were double-thick from top to bottom and fit into a single ring. That made eight frames in total with sixteen silver bases, two under each frame.
+  [KO p7] 그들은 아카시아 나무로 만든 널빤지로 성막의 뼈대를 세웠음. 각 널빤지는 길이가 15피트(약 4.6미터)에 너비가 2.25피트(약 0.7미터)였고, 고정하기 위한 촉이 두 개씩 있었음. 모든 널빤지를 똑같이 만들었음. 남쪽에 널빤지 20개, 그리고 각 널빤지의 두 촉을 받을 은 받침 40개. 성막 북쪽에도 똑같이 만들었음. 성막 뒤쪽, 즉 서쪽에는 널빤지 6개를 만들고, 뒤쪽 모서리를 위해 2개를 추가로 만들었음. 이 두 모서리 널빤지는 위에서 아래까지 두 겹으로 되어 하나의 고리에 끼워졌음. 그래서 총 8개의 널빤지에 은 받침 16개, 각 널빤지 아래에 두 개씩 놓였음.
+
+--- MSG [31-34] ---
+They made crossbars of acacia wood, five for the frames on one side of The Dwelling, five for the other side, and five for the back side facing west. The center crossbar ran from end to end halfway up the frames. They covered the frames with a veneer of gold, made gold rings to hold the crossbars, and covered the crossbars with a veneer of gold.
+
+>>> TEEN:
+  [p8 badge=31-34] They made crossbars out of acacia wood—five for the frames on one side of The Dwelling, five for the other side, and five for the back side facing west. The middle crossbar ran all the way from one end to the other, halfway up the frames. They covered the frames with a thin layer of gold, made gold rings to hold the crossbars, and then covered the crossbars with gold too.
+  [KO p8] 그들은 아카시아 나무로 가로대를 만들었는데, 성막 한쪽에 5개, 다른 쪽에 5개, 그리고 서쪽을 향한 뒤쪽에 5개를 만들었음. 중앙 가로대는 널빤지 중간 높이에서 끝까지 이어졌음. 그들은 널빤지를 금으로 얇게 덮고, 가로대를 고정할 금 고리를 만들고, 가로대도 금으로 덮었음.
+
+--- MSG [35-36] ---
+They made the curtain of blue, purple, and scarlet material and fine twisted linen. They wove a design of angel-cherubim into it. They made four posts of acacia wood, covered them with a veneer of gold, and cast four silver bases for them.
+
+>>> TEEN:
+  [p9 badge=35-36] They made the main curtain out of blue, purple, and scarlet fabric and fine twisted linen, weaving a design of angel-cherubim into it. They made four posts from acacia wood, covered them in gold, and made four silver bases for them to stand on.
+  [KO p9] 그들은 청색, 자색, 홍색 실과 가늘게 꼰 베실로 휘장을 만들었음. 거기에 천사 그룹 디자인을 수놓았음. 아카시아 나무로 기둥 4개를 만들고, 금으로 얇게 덮은 다음, 그것들을 세울 은 받침 4개를 부어 만들었음.
+
+--- MSG [37-38] ---
+They made a screen for the door of the tent, woven from blue, purple, and scarlet material and fine twisted linen with embroidery. They framed the weaving with five poles of acacia wood covered with a veneer of gold, and made gold hooks to hang the weaving and five bronze bases for the poles.
+
+>>> TEEN:
+  [p10 badge=37-38] Finally, they made a screen for the entrance of the tent, weaving it from blue, purple, and scarlet material and fine twisted linen with detailed embroidery. They framed this screen with five poles of acacia wood covered in gold, made gold hooks to hang it, and created five bronze bases for the poles.
+  [KO p10] 마지막으로, 그들은 텐트 문을 위한 막을 만들었는데, 청색, 자색, 홍색 실과 가늘게 꼰 베실에 수를 놓아 짰음. 이 막을 아카시아 나무로 만든 기둥 5개로 틀을 잡고 금으로 얇게 덮었으며, 막을 걸 금 갈고리와 기둥을 세울 놋 받침 5개를 만들었음.

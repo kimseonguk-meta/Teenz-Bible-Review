@@ -1,0 +1,113 @@
+[
+ {
+  "badges": [
+   "1-2",
+   "3",
+   "4-6",
+   "7-10",
+   "11-12",
+   "13-15"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L1863-1887)으로 기존 6개 배지가 MSG와 1:1 일치 확인. v3('sold for nothing'), muscled arm, rear guard, ruined face까지 모두 완전. 53:1('Who believes what we've heard and seen?')은 MSG 타이포그래피상 52 '13-15' 섹션과 붙어 있으나 데이터상 ch53 '1'에 이미 독립 수록되어 있어 내용 손실 없음. KO도 배지 일치·깨진 문자 없음. 변경 없음"
+  ],
+  "chapter": 52,
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   },
+   {
+    "keep": 4
+   },
+   {
+    "keep": 5
+   }
+  ],
+  "ko_changes": [
+   "변경 없음"
+  ],
+  "ko_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   },
+   {
+    "keep": 4
+   },
+   {
+    "keep": 5
+   }
+  ],
+  "ko_title": "시온아 일어나",
+  "title": "God's Epic Comeback for His People"
+ },
+ {
+  "badges": [
+   "1",
+   "2-6",
+   "7-9",
+   "10",
+   "11-12"
+  ],
+  "changes": [
+   "MSG 라이브 직접 확인(L1887-1907)으로 기존 5개 배지가 MSG와 1:1 일치 확인. scrawny seedling, 'our sins', sheep, lamb/sheared, rich man's grave, life life and more life, black sheep까지 모두 완전. KO 깨진 문자 수정"
+  ],
+  "chapter": 53,
+  "en_ops": [
+   {
+    "keep": 0
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   },
+   {
+    "keep": 4
+   }
+  ],
+  "ko_changes": [
+   "KO[0] 깨진 문자 수정. 나머지는 EN과 동일한 5문단·배지"
+  ],
+  "ko_ops": [
+   {
+    "new": "솔직히 우리가 듣고 본 걸 누가 믿겠냐? 하나님의 구원의 능력이 이런 모습일 거라고 누가 상상이나 했겠어?"
+   },
+   {
+    "keep": 1
+   },
+   {
+    "keep": 2
+   },
+   {
+    "keep": 3
+   },
+   {
+    "keep": 4
+   }
+  ],
+  "ko_title": "고난받는 종",
+  "title": "He Took the Hit for Us"
+ }
+]

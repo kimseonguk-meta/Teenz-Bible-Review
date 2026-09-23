@@ -1,0 +1,191 @@
+### TITLE EN: The Ultimate Informer and a Prison Break
+### TITLE KO: 궁극의 제보자와 탈옥
+
+[MSG 0] range=1-3 header='Before the High Council'
+Paul surveyed the members of the council with a steady gaze, and then said his piece: "Friends, I've lived with a clear conscience before God all my life, up to this very moment." That set the Chief Priest Ananias off. He ordered his aides to slap Paul in the face. Paul shot back, "God will slap you down! What a fake you are! You sit there and judge me by the Law and then break the Law by ordering me slapped around!"
+
+[MSG 1] range=4 header=None
+The aides were scandalized: "How dare you talk to God's Chief Priest like that!"
+
+[MSG 2] range=5 header=None
+Paul acted surprised. "How was I to know he was Chief Priest? He doesn't act like a Chief Priest. You're right, the Scripture does say, 'Don't speak abusively to a ruler of the people.' Sorry."
+
+[MSG 3] range=6 header=None
+Paul, knowing some of the council was made up of Sadducees and others of Pharisees and how they hated each other, decided to exploit their antagonism: "Friends, I am a stalwart Pharisee from a long line of Pharisees. It's because of my Pharisee convictions—the hope and resurrection of the dead—that I've been hauled into this court."
+
+[MSG 4] range=7-9 header=None
+The moment he said this, the council split right down the middle, Pharisees and Sadducees going at each other in heated argument. Sadducees have nothing to do with a resurrection or angels or even a spirit. If they can't see it, they don't believe it. Pharisees believe it all. And so a huge and noisy quarrel broke out. Then some of the religion scholars on the Pharisee side shouted down the others: "We don't find anything wrong with this man! And what if a spirit has spoken to him? Or maybe an angel? What if it turns out we're fighting against God?"
+
+[MSG 5] range=10 header=None
+That was fuel on the fire. The quarrel flamed up and became so violent the captain was afraid they would tear Paul apart, limb from limb. He ordered the soldiers to get him out of there and escort him back to the safety of the barracks.
+
+[MSG 6] range=11 header='A Plot Against Paul'
+That night the Master appeared to Paul: "It's going to be all right. Everything is going to turn out for the best. You've been a good witness for me here in Jerusalem. Now you're going to be my witness in Rome!"
+
+[MSG 7] range=12-15 header=None
+Next day the Jews worked up a plot against Paul. They took a solemn oath that they would neither eat nor drink until they had killed him. Over forty of them ritually bound themselves to this murder pact and presented themselves to the high priests and religious leaders. "We've bound ourselves by a solemn oath to eat nothing until we have killed Paul. But we need your help. Send a request from the council to the captain to bring Paul back so that you can investigate the charges in more detail. We'll do the rest. Before he gets anywhere near you, we'll have killed him. You won't be involved."
+
+[MSG 8] range=16-17 header=None
+Paul's nephew, his sister's son, overheard them plotting the ambush. He went immediately to the barracks and told Paul. Paul called over one of the centurions and said, "Take this young man to the captain. He has something important to tell him."
+
+[MSG 9] range=18 header=None
+The centurion brought him to the captain and said, "The prisoner Paul asked me to bring this young man to you. He said he has something urgent to tell you."
+
+[MSG 10] range=19 header=None
+The captain took him by the arm and led him aside privately. "What is it? What do you have to tell me?"
+
+[MSG 11] range=20-21 header=None
+Paul's nephew said, "The Jews have worked up a plot against Paul. They're going to ask you to bring Paul to the council first thing in the morning on the pretext that they want to investigate the charges against him in more detail. But it's a trick to get him out of your safekeeping so they can murder him. Right now there are more than forty men lying in ambush for him. They've all taken a vow to neither eat nor drink until they've killed him. The ambush is set—all they're waiting for is for you to send him over."
+
+[MSG 12] range=22 header=None
+The captain dismissed the nephew with a warning: "Don't breathe a word of this to a soul."
+
+[MSG 13] range=23-24 header=None
+The captain called up two centurions. "Get two hundred soldiers ready to go immediately to Caesarea. Also seventy cavalry and two hundred light infantry. I want them ready to march by nine o'clock tonight. And you'll need a couple of mules for Paul and his gear. We're going to present this man safe and sound to Governor Felix."
+
+[MSG 14] range=25-30 header=None
+Then he wrote this letter: From Claudius Lysias, to the Most Honorable Governor Felix: Greetings! I rescued this man from a Jewish mob. They had seized him and were about to kill him when I learned that he was a Roman citizen. So I sent in my soldiers. Wanting to know what he had done wrong, I had him brought before their council. It turned out to be a squabble turned vicious over some of their religious differences, but nothing remotely criminal. The next thing I knew, they had cooked up a plot to murder him. I decided that for his own safety I'd better get him out of here in a hurry. So I'm sending him to you. I'm informing his accusers that he's now under your jurisdiction.
+
+[MSG 15] range=31-33 header=None
+The soldiers, following orders, took Paul that same night to safety in Antipatris. In the morning the soldiers returned to their barracks in Jerusalem, sending Paul on to Caesarea under guard of the cavalry. The cavalry entered Caesarea and handed Paul and the letter over to the governor.
+
+[MSG 16] range=34-35 header=None
+After reading the letter, the governor asked Paul what province he came from and was told "Cilicia." Then he said, "I'll take up your case when your accusers show up." He ordered him locked up for the meantime in King Herod's official quarters.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Before the Council
+
+[EN 1] badge=1-3
+Paul stared down the whole council and was like, "For real, I've lived my whole life with a clean slate before God, seriously." That totally set off the head priest, Ananias. He ordered his guards to strike Paul right in the mouth. Paul shot back instantly, "God's gonna strike you right back, you phony! You sit there acting like you're all about the rules, but then you break them by ordering me to get hit? What a fake."
+
+[EN 2] badge=4-5
+The guys standing by were shocked. "You can't just roast God's high priest like that!" Paul, playing it cool, was like, "Seriously? I had no idea he was the head priest. He sure doesn't act like one. You're right, the scripture says you shouldn't bad-mouth a leader. My bad."
+
+[EN 3] badge=6
+Then Paul, knowing the council was split between two rival crews—the Sadducees and the Pharisees—who totally hated each other, decided to stir the pot. He yelled, "Bros, I'm a Pharisee, through and through! The only reason I'm on trial here is because I believe in the ultimate transformation after you die—the resurrection!"
+
+[EN 4] badge=7-11
+The second he said that, the whole room exploded. The Pharisees and Sadducees started going at it. See, the Sadducees don't believe in resurrection, angels, or any of that spiritual stuff. If they can't see it, it's not real to them. But the Pharisees believe all of it. A massive fight broke out, and some of the Pharisee teachers started shouting, "We don't see anything wrong with this guy! What if a spirit or an angel actually talked to him? Are we trying to pick a fight with God himself?"
+
+[EN 5] badge=12-13
+That just added fuel to the fire. The argument got so heated that the Roman commander was afraid they were literally going to tear Paul to pieces. He had to order his soldiers to charge in, grab Paul, and get him back to the safety of the army barracks.
+
+[EN 6] badge=11
+That night, Jesus showed up to Paul and said, "Don't sweat it. It's all good. You've been an awesome witness for me here in Jerusalem. Now, you're gonna do the same thing in Rome!"
+
+[EN 7] badge=None
+§Plot to Kill Paul
+
+[EN 8] badge=12-15
+But the next day, a bunch of Paul's haters cooked up a crazy plot. More than forty of them made a super-serious oath not to eat or drink anything until they killed Paul. This group of men went to the priests and leaders and said, "We've sworn to ghost Paul for good. We need you to do us a solid. Get the council to ask the commander to bring Paul back tomorrow, pretending you need to ask him more questions. We'll be waiting to ambush him. He'll be gone before he even gets to you."
+
+[EN 9] badge=16
+But Paul's nephew, his sister's son, overheard the whole plan. He ran to the barracks and told Paul everything. Paul called over a centurion and said, "Take this kid to the commander. He's got some major tea to spill."
+
+[EN 10] badge=17-18
+The centurion took the nephew to the commander and said, "The prisoner, Paul, asked me to bring this young man to you. He has something important to tell you." The commander took the kid aside privately and asked, "What's up? What's the secret?"
+
+[EN 11] badge=19-21
+Paul's nephew laid it all out: "The Jews have a hit out on Paul. They're going to ask you to bring him to their council tomorrow, but it's a trap to murder him. There are over forty guys in an ambush, and they've all sworn not to eat or drink until he's dead. They're all set and just waiting for you to give the green light."
+
+[EN 12] badge=22
+The commander sent the nephew away with a warning: "Don't tell a soul you told me."
+
+[EN 13] badge=23-24
+Then the commander called two of his centurions. "Get a squad ready. I need 200 soldiers, 70 on horseback, and 200 spearmen ready to roll out for Caesarea by 9 PM tonight. Get a couple of mules for Paul and his stuff, too. We're delivering this man to Governor Felix, safe and sound."
+
+[EN 14] badge=25
+He also wrote a letter to the governor:
+
+[EN 15] badge=26
+*From: Claudius Lysias
+
+[EN 16] badge=None
+§The Commander's Letter
+
+[EN 17] badge=26
+Greetings!
+
+[EN 18] badge=27-28
+I had to rescue this man from a local mob that was about to kill him when I found out he was a Roman citizen. I brought him before their council to figure out what he did wrong, and it turns out it was just some internal drama about their religion, nothing criminal.
+
+[EN 19] badge=29-30
+Then, I got intel that there was a murder plot against him. I decided it was best to get him out of here ASAP for his own safety. So, I'm sending him to you. I've told his accusers they'll have to make their case in your court.*
+
+[EN 20] badge=31
+The soldiers followed their orders, taking Paul that night as far as Antipatris. The next morning, the foot soldiers headed back to Jerusalem, and the cavalry took Paul the rest of the way to Caesarea. They arrived, handed the governor the letter, and turned Paul over.
+
+[EN 21] badge=33-35
+After reading the letter, the governor asked Paul where he was from. "Cilicia," Paul answered. The governor said, "Alright, I'll hear your case once your accusers get here." In the meantime, he had Paul locked up under guard in King Herod's swanky headquarters.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§최고회의 앞에 선 바울
+
+[KO 1] badge=1-3
+바울은 침착하게 의회 의원들을 쓱 둘러보고는 자기 생각을 말했음. “형님들, 나는 지금 이 순간까지 평생을 하나님 앞에서 부끄럽지 않은 양심으로 살아왔습니다.”
+
+[KO 2] badge=2
+그 말에 대제사장 아나니아가 완전 화난 거임. 그는 옆에 있던 사람들한테 바울의 뺨을 때리라고 명령했음.
+
+[KO 3] badge=3
+그러자 바울이 바로 받아쳤음. “하나님께서 당신을 치실 거임! 이 위선자야! 율법대로 나를 심판한다고 거기 앉아 있으면서, 율법을 어기고 나를 때리라고 하는 게 말이 됨?!”
+
+[KO 4] badge=4
+옆에 있던 사람들이 완전 어이없어했음. “네가 어떻게 하나님의 대제사장님한테 막말을 하냐!”
+
+[KO 5] badge=5
+바울이 놀란 척 연기함. “아니, 그분이 대제사장인 줄 내가 어떻게 알았겠음? 행동은 전혀 대제사장 같지 않던데. 형님들 말이 맞음. 성경에도 ‘백성의 지도자를 욕하지 말라’고 했으니, 죄송함.”
+
+[KO 6] badge=6
+의회 멤버 중 일부는 사두개인이고 일부는 바리새인인 걸 바울은 알고 있었음. 그 둘이 서로 완전 원수라는 것도. 그래서 그들의 적대감을 이용하기로 마음먹음. “형제 여러분, 저는 뼈대 있는 바리새인 집안의 충실한 바리새인임. 내가 이 법정에 끌려온 것도, 죽은 자들의 소망과 부활을 믿는다는 바리새인의 신념 때문임.”
+
+[KO 7] badge=7-9
+이 말을 하자마자 의회는 바리새인이랑 사두개인으로 완전히 나뉘어 격렬한 다툼이 벌어짐. 사두개인들은 부활이나 천사, 심지어 영 같은 거 아예 안 믿는 사람들이었거든. 눈에 안 보이면 땡이었음. 근데 바리새인들은 그걸 다 믿었단 말임. 그러니 완전 난리가 난 거지. 그때 바리새인 쪽 학자 몇 명이 목소리를 높이면서 사두개인들한테 직설적인 말을 날림. “우리는 이 사람한테서 아무 잘못도 못 찾겠음! 만약에 어떤 영이나 천사가 이 사람한테 말한 거면 어쩔 거임? 혹시 우리가 하나님이랑 맞짱 뜨는 거면 어쩔 거냐고?”
+
+[KO 8] badge=10
+이건 뭐 불에 기름을 부은 격이었음. 싸움이 너무 과격해지니까, 지휘관은 그들이 바울을 찢어 죽일까 봐 무서워짐. 그래서 병사들한테 바울을 거기서 빼내서 병영 안으로 다시 데려가라고 명령함.
+
+[KO 9] badge=None
+§바울을 죽이려는 음모
+
+[KO 10] badge=11
+그날 밤, 주님께서 바울에게 나타나셨음. “쫄지 마. 다 잘될 거야. 너는 지금까지 여기 예루살렘에서 내 대단한 증인이었어. 이제 너는 로마에서 내 증인이 될 거임!”
+
+[KO 11] badge=12-15
+다음 날, 유대인들이 바울을 죽이려고 작당모의를 함. 걔네는 바울을 죽이기 전까지는 먹지도 마시지도 않겠다고 맹세까지 함. 40명이 넘는 사람들이 이 살인 음모에 서약하고 대제사장이랑 종교 지도자들을 찾아감. “우리는 바울을 죽이기 전에는 아무것도 안 먹고 안 마시기로 맹세했음. 근데 형님들 도움이 필요함. 의회에서 죄목을 더 자세히 조사해야 한다고, 바울을 다시 보내달라고 지휘관한테 요청 좀 해주셈. 나머지는 우리가 알아서 처리함. 그가 형님들 근처에 오기도 전에 우리가 죽여버릴 거임. 형님들은 이 일에 엮이지 않게 해드림.”
+
+[KO 12] badge=16-17
+근데 바울의 조카가 걔네가 매복하는 얘기를 우연히 엿듣고 바로 병영으로 달려가서 바울한테 다 일러바침. 바울은 백부장 한 명을 불러서 말했음. “이 청년을 지휘관님한테 좀 데려다주셈. 드릴 말씀이 있다는데, 완전 중요한 거임.”
+
+[KO 13] badge=18
+백부장이 그를 지휘관에게 데려가서 말함. “죄수 바울이 이 청년을 지휘관님께 데려가 달라고 했습니다. 긴급하게 드릴 말씀이 있다고 합니다.”
+
+[KO 14] badge=19
+지휘관이 그의 팔을 잡고 한쪽으로 데려가서 물었음. “무슨 일인데? 나한테 할 말이 뭔데?”
+
+[KO 15] badge=20-21
+바울의 조카가 말했음. “유대인들이 바울을 죽이려고 음모를 꾸몄습니다. 그들은 죄목을 더 자세히 조사하겠다는 핑계로, 내일 아침 일찍 바울을 의회로 보내달라고 지휘관님께 부탁할 겁니다. 하지만 그건 바울을 지휘관님의 보호에서 빼내서 죽이려는 속임수임. 지금 40명 넘는 사람들이 숨어서 바울을 기다리고 있음. 걔네는 바울을 죽이기 전에는 먹지도 마시지도 않기로 맹세까지 했대요. 이미 매복까지 다 끝내고, 지휘관님이 바울을 보내기만 기다리고 있습니다.”
+
+[KO 16] badge=22
+지휘관은 “이 일 아무한테도 절대 말하지 마라” 하고 주의를 주고 그를 돌려보냈음.
+
+[KO 17] badge=23-24
+지휘관은 백부장 둘을 불렀음. “가이사랴로 떠날 병사 200명 준비시켜. 기병 70명이랑 보병 200명도 같이 오늘 밤 9시까지 행군 준비 끝내놔. 바울이랑 그 짐 실을 노새도 두어 마리 필요할 거임. 이 사람을 벨릭스 총독한테 무사히 넘겨야겠음.”
+
+[KO 18] badge=25
+그리고 그는 이렇게 편지를 썼음.
+
+[KO 19] badge=26
+글라우디오 루시아가 벨릭스 총독 각하께.
+
+[KO 20] badge=27-30
+안녕하십니까! 이 사람은 제가 유대인들한테서 구해낸 사람입니다. 걔네가 그를 잡아서 죽이려고 할 때, 그가 로마 시민인 걸 알게 됐습니다. 그래서 바로 병사들을 보냈죠. 무슨 잘못을 했는지 알고 싶어서 그들의 의회 앞에 세워봤습니다. 알고 보니 자기들끼리 종교 문제로 의견이 안 맞아서 싸운 거지, 범죄랑은 1도 관련 없었습니다. 그러던 중에 유대인들이 그를 죽이려는 음모를 꾸민 걸 알게 됐습니다. 저는 그의 안전을 위해 여기서 빨리 빼내는 게 좋겠다고 판단했습니다. 그래서 그를 각하께 보냅니다. 그를 고발한 놈들한테도 이제 그가 각하의 관할 아래 있다고 알리겠습니다.
+
+[KO 21] badge=31-33
+그날 밤, 병사들은 명령받은 대로 바울을 데리고 안드바드리의 안전한 곳으로 갔음. 다음 날 아침, 병사들은 기병대의 호위 아래 바울을 가이사랴로 보내고 예루살렘 병영으로 돌아감. 기병대는 가이사랴에 들어가서 바울과 편지를 총독에게 넘겼음.
+
+[KO 22] badge=34-35
+편지를 다 읽은 총독은 바울에게 어느 지역 출신인지 물었고, “길리기아”라는 대답을 들었음. 총독은 바울에게 “너 고발한 사람들 오면 그때 네 사건 처리해줌” 하고 말했음. 총독은 바울을 헤롯왕의 공관에 가두라고 명령했음.
+

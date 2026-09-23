@@ -1,0 +1,74 @@
+{
+  "changes": [
+    "Ch25: § header fixed to MSG's real header (An Appeal to Caesar) — removed fabricated 'Paul Appeals to Caesar'",
+    "Ch25: split merged 1-5 (→1-3, 4-5), 7-9 (→6-7, 8), 10-12 (→9, 10-11, 12), 23-27 (→23, 24-26, 26-27)",
+    "Ch25: badges corrected to MSG ranges (1-3, 4-5, 6-7, 8, 9, 10-11, 12, 13-17, 18-21, 23, 24-26, 26-27)",
+    "Ch25: declared split for MSG's own overlap (v26 in 24-26/26-27)",
+    "Ch25: restored 'Just because a man is accused, we don't throw him out to the dogs', 'We've fooled around here long enough', 'fabrications'; moderated slang (unpack bags, shot up, salty, do us a solid, total noob, got beef, play him, cool as a cucumber, people-pleaser, take this whole show on the road, Let's do it, roll into town, chilling, ghost someone, pay grade, on lockdown, ship him off, intrigued, Sweet, media circus)",
+    "Ch25: EN rewritten as independent teen paraphrase (was verbatim MSG); all details preserved",
+    "EN: high-similarity short paragraphs re-paraphrased for MSG independence",
+    "Title revised: Paul Appeals to Caesar / 황제에게 상소하는 바울"
+  ],
+  "chapter": 25,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+    "1-3",
+    "1-3",
+    "4-5",
+    "6-7",
+    "8",
+    "9",
+    "10-11",
+    "12",
+    "13-17",
+    "18-21",
+    "22",
+    "23",
+    "24-26",
+    "26-27"
+  ],
+  "paragraphs": [
+    "§An Appeal to Caesar",
+    "Three days after Festus arrived in Caesarea to start his job as governor, he went up to Jerusalem. The chief priests and top leaders revived their grudge against Paul. They asked Festus to do them a favor and have Paul brought to Jerusalem to answer their charges. A lie, of course — they'd revived their old plan to ambush and kill him on the way.",
+    "Festus replied that Paul's case belonged in Caesarea, and that he himself would be going back there shortly. \"You're free,\" he said, \"to travel back with me and bring whatever charges you think he deserves.\"",
+    "About eight or ten days later, Festus returned to Caesarea. The next morning he took his seat in the courtroom and had Paul brought in. The moment Paul walked in, the Jews who'd come down from Jerusalem swarmed him, throwing the wildest accusations at him — not one of which they could prove.",
+    "Then Paul took the stand and said simply, \"I've done nothing wrong against the Jewish law, or the Temple, or Caesar. Period.\"",
+    "Festus, though, wanted to win favor with the Jews, so he said, \"How would you like to go up to Jerusalem and let me try your case there?\"",
+    "Paul answered, \"Right now I'm standing before Caesar's court, where I have every right to stand — and I'm staying here. I've done nothing wrong to the Jews, and you know it as well as I do. If I've committed a crime and deserve to die, name the day. I can face that. But if there's nothing to their accusations — and you know there isn't — nobody can hand me over to them. We've wasted enough time here. I appeal to Caesar.\"",
+    "Festus conferred briefly with his advisors, then gave his verdict: \"You've appealed to Caesar — to Caesar you will go!\"",
+    "A few days later, King Agrippa and his sister Bernice visited Caesarea to welcome Festus to his new post. After several days, Festus brought up Paul's case with the king. \"I've got a prisoner on my hands here, left behind by Felix. When I was in Jerusalem, the chief priests and Jewish leaders piled accusations on him and wanted me to sentence him to death. I told them that's not how we Romans do things. Just because someone's accused, we don't throw him to the wolves. We make sure the accused gets to face his accusers and defend himself against the charges. So when they came down here, I got right on the case. I took my seat in the courtroom and put the man on trial.\"",
+    "\"The accusers came at him from every angle, but their charges turned out to be nothing but arguments about their religion and a dead man named Jesus, whom the prisoner claims is alive. Since I'm new here and don't fully grasp cases like this, I asked if he'd go to Jerusalem and stand trial there. Paul refused and demanded a hearing before His Majesty in our highest court. So I ordered him kept in custody until I could send him to Caesar in Rome.\"",
+    "Agrippa said, \"I'd like to see this man and hear his story myself.\" \"Good,\" said Festus. \"We'll bring him in first thing tomorrow morning.\"",
+    "The next day, everyone who was anyone in Caesarea made their way to the audience hall, along with the top military officers. Agrippa and Bernice made a grand, sweeping entrance and took their seats. Then Festus ordered Paul brought in.",
+    "Festus said, \"King Agrippa and distinguished guests, take a good look at this man. Crowds of Jews petitioned me — first in Jerusalem, then here — to get rid of him. They've been screaming for his execution. I looked into it and concluded he'd committed no crime. He asked for a trial before Caesar, and I agreed to send him to Rome. But what am I supposed to write to my lord Caesar? Every charge the Jews made was made up, and I've found nothing else.\"",
+    "\"That's why I've brought him before all of you — and especially you, King Agrippa: so we can come up with some kind of charge that actually holds up. Because it seems ridiculous to me to send a prisoner all that way for trial without being able to say what he did wrong.\""
+  ],
+  "splits": [
+    {
+      "msg_range": "26",
+      "note": "MSG's own overlap: v26 closes MSG para 24-26 and opens MSG para 26-27; badges follow MSG paragraph boundaries",
+      "paras": [
+        12,
+        13
+      ]
+    }
+  ],
+  "title": "Paul Appeals to Caesar",
+  "verseRanges": [
+    "1-3",
+    "1-3",
+    "4-5",
+    "6-7",
+    "8",
+    "9",
+    "10-11",
+    "12",
+    "13-17",
+    "18-21",
+    "22",
+    "23",
+    "24-26",
+    "26-27"
+  ]
+}

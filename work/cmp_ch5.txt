@@ -1,0 +1,27 @@
+===== CHAPTER 5: Adam's Family Tree: The Road to Noah =====
+[EN0 None] § Adam's Family Tree
+[EN1 1-2] Here's the official family tree for the human race. When God created people, he made them in his own image, basically like a reflection of himself. He created them male and female, gave them a shout-out, and named the whole crew 'Humanity.'
+[EN2 3-5] When Adam was 130, he had a son who was his spitting image, a total mini-me, and he named him Seth. After Seth came along, Adam lived for another 800 years and had a bunch more sons and daughters. All in all, Adam lived for 930 years. And then he died.
+[EN3 6-8] When Seth was 105, he had a son named Enosh. After Enosh was born, Seth stuck around for another 807 years, having more kids. Seth lived for a grand total of 912 years. And then he died.
+[EN4 9-11] When Enosh was 90, he had Kenan. After Kenan, he lived for another 815 years, having more sons and daughters. Enosh made it to 905 years old. And then he died.
+[EN5 12-14] When Kenan was 70, he had Mahalalel. After Mahalalel, he was around for another 840 years, having more kids. Kenan lived a total of 910 years. And then he died.
+[EN6 15-17] When Mahalalel was 65, he had Jared. After Jared, he lived for another 830 years, with more sons and daughters. Mahalalel lived a total of 895 years. And then he died.
+[EN7 18-20] When Jared was 162, he had Enoch. After Enoch, he lived for another 800 years, having more kids. Jared lived a total of 962 years. And then he died.
+[EN8 None] § The Guy Who Just Vanished
+[EN9 21-24] When Enoch was 65, he had Methuselah. Enoch was super tight with God, like they walked together all the time. After Methuselah was born, Enoch lived another 300 years, having more sons and daughters. Enoch lived for 365 years in total. He was always walking with God, and then one day—poof! He was just gone. God had beamed him up.
+[EN10 25-27] When Methuselah was 187, he had Lamech. After Lamech, he lived for another 782 years. Methuselah lived to be 969 years old. And then he died.
+[EN11 28-31] When Lamech was 182, he had a son. He named him Noah, saying, 'This kid is gonna give us a break from all this back-breaking work on the ground that God cursed.' After Noah was born, Lamech lived for another 595 years, having more sons and daughters. Lamech lived a total of 777 years. And then he died.
+[EN12 32] By the time Noah was 500, he had three sons: Shem, Ham, and Japheth.
+----- MSG -----
+[MSG0 5] 1-2 This is the family tree of the human race: When God created the human race, he made it godlike, with a nature akin to God. He created both male and female and blessed them, the whole human race.
+[MSG1 3-5] When Adam was 130 years old, he had a son who was just like him, his very spirit and image, and named him Seth. After the birth of Seth, Adam lived another 800 years, having more sons and daughters. Adam lived a total of 930 years. And he died.
+[MSG2 6-8] When Seth was 105 years old, he had Enosh. After Seth had Enosh, he lived another 807 years, having more sons and daughters. Seth lived a total of 912 years. And he died.
+[MSG3 9-11] When Enosh was ninety years old, he had Kenan. After he had Kenan, he lived another 815 years, having more sons and daughters. Enosh lived a total of 905 years. And he died.
+[MSG4 12-14] When Kenan was seventy years old, he had Mahalalel. After he had Mahalalel, he lived another 840 years, having more sons and daughters. Kenan lived a total of 910 years. And he died.
+[MSG5 15-17] When Mahalalel was sixty-five years old, he had Jared. After he had Jared, he lived another 830 years, having more sons and daughters. Mahalalel lived a total of 895 years. And he died.
+[MSG6 18-20] When Jared was 162 years old, he had Enoch. After he had Enoch, he lived another 800 years, having more sons and daughters. Jared lived a total of 962 years. And he died.
+[MSG7 21-23] When Enoch was sixty-five years old, he had Methuselah. Enoch walked steadily with God. After he had Methuselah, he lived another 300 years, having more sons and daughters. Enoch lived a total of 365 years.
+[MSG8 24] Enoch walked steadily with God. And then one day he was simply gone: God took him.
+[MSG9 25-27] When Methuselah was 187 years old, he had Lamech. After he had Lamech, he lived another 782 years. Methuselah lived a total of 969 years. And he died.
+[MSG10 28-31] When Lamech was 182 years old, he had a son. He named him Noah, saying, “This one will give us a break from the hard work of farming the ground that God cursed.” After Lamech had Noah, he lived another 595 years, having more sons and daughters. Lamech lived a total of 777 years. And he died.
+[MSG11 32] When Noah was 500 years old, he had Shem, Ham, and Japheth.

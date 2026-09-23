@@ -1,0 +1,113 @@
+### TITLE EN: Road Trip, Riots, and Getting Mistaken for Gods
+### TITLE KO: 로드 트립, 폭동, 신으로 오해받기
+
+[MSG 0] range=1-3 header=None
+When they got to Iconium they went, as they always did, to the meeting place of the Jews and gave their message. The Message convinced both Jews and non-Jews—and not just a few, either. But the unbelieving Jews worked up a whispering campaign against Paul and Barnabas, sowing mistrust and suspicion in the minds of the people in the street. The two apostles were there a long time, speaking freely, openly, and confidently as they presented the clear evidence of God's gifts, God corroborating their work with miracles and wonders.
+
+[MSG 1] range=4-7 header=None
+But then there was a split in public opinion, some siding with the Jews, some with the apostles. One day, learning that both the Jews and non-Jews had been organized by their leaders to beat them up, they escaped as best they could to the next towns—Lyconia, Lystra, Derbe, and that neighborhood—but then were right back at it again, getting out the Message.
+
+[MSG 2] range=8-10 header='Gods or Men?'
+There was a man in Lystra who couldn't walk. He sat there, crippled since the day of his birth. He heard Paul talking, and Paul, looking him in the eye, saw that he was ripe for God's work, ready to believe. So he said, loud enough for everyone to hear, "Up on your feet!" The man was up in a flash—jumped up and walked around as if he'd been walking all his life.
+
+[MSG 3] range=11-13 header=None
+When the crowd saw what Paul had done, they went wild, calling out in their Lyconian dialect, "The gods have come down! These men are gods!" They called Barnabas "Zeus" and Paul "Hermes" (since Paul did most of the speaking). The priest of the local Zeus shrine got up a parade—bulls and banners and people lined right up to the gates, ready for the ritual of sacrifice.
+
+[MSG 4] range=14-15 header=None
+When Barnabas and Paul finally realized what was going on, they stopped them. Waving their arms, they interrupted the parade, calling out, "What do you think you're doing! We're not gods! We are men just like you, and we're here to bring you the Message, to persuade you to abandon these silly god-superstitions and embrace God himself, the living God. We don't make God; he makes us, and all of this—sky, earth, sea, and everything in them.
+
+[MSG 5] range=16-18 header=None
+"In the generations before us, God let all the different nations go their own way. But even then he didn't leave them without a clue, for he made a good creation, poured down rain and gave bumper crops. When your bellies were full and your hearts happy, there was evidence of good beyond your doing." Talking fast and hard like this, they prevented them from carrying out the sacrifice that would have honored them as gods—but just barely.
+
+[MSG 6] range=19-20 header=None
+Then some Jews from Antioch and Iconium caught up with them and turned the fickle crowd against them. They beat Paul unconscious, dragged him outside the town and left him for dead. But as the disciples gathered around him, he came to and got up. He went back into town and the next day left with Barnabas for Derbe.
+
+[MSG 7] range=21-22 header='Plenty of Hard Times'
+After proclaiming the Message in Derbe and establishing a strong core of disciples, they retraced their steps to Lystra, then Iconium, and then Antioch, putting grit in the lives of the disciples, urging them to stick with what they had begun to believe and not quit, making it clear to them that it wouldn't be easy: "Anyone signing up for the kingdom of God has to go through plenty of hard times."
+
+[MSG 8] range=23-26 header=None
+Paul and Barnabas handpicked leaders in each church. After praying—their prayers intensified by fasting—they presented these new leaders to the Master to whom they had entrusted their lives. Working their way back through Pisidia, they came to Pamphylia and preached in Perga. Finally, they made it to Attalia and caught a ship back to Antioch, where it had all started—launched by God's grace and now safely home by God's grace. A good piece of work.
+
+[MSG 9] range=27-28 header=None
+On arrival, they got the church together and reported on their trip, telling in detail how God had used them to throw the door of faith wide open so people of all nations could come streaming in. Then they settled down for a long, leisurely visit with the disciples.
+
+=== CURRENT EN ===
+[EN 0] badge=None
+§Iconium and Lystra
+
+[EN 1] badge=1-2
+So Paul and Barnabas roll into Iconium and, like always, head straight to the Jewish meeting place to share their message. It was straight fire, and tons of people, both Jews and non-Jews, were convinced. But you know there are always haters. The Jews who weren't buying it started a vicious rumor campaign, trying to make everyone suspicious of Paul and Barnabas. But the two apostles didn't back down. They stayed for a long time, speaking freely and confidently about God's amazing grace, and God was flexing His power, backing them up with legit miracles and wonders.
+
+[EN 2] badge=5-7
+Eventually, the town was split. Some people sided with the Jewish leaders, and others were with the apostles. One day, Paul and Barnabas heard that a mob of both Jews and non-Jews, stirred up by the leaders, was planning to rough them up. So they ghosted them and escaped to the nearby towns of Lystra and Derbe. But they didn't stop; they just started preaching the Message all over again there.
+
+[EN 3] badge=8-10
+In Lystra, there was a guy who couldn't walk; he'd been crippled from birth. He was listening to Paul speak, and Paul looked him right in the eye and could just tell the guy was ready to believe—totally ripe for a God-sized transformation. So Paul yelled out, "Up on your feet!" The man was up in a flash, jumping and walking around like he'd been doing it his whole life.
+
+[EN 4] badge=None
+§Mistaken for Gods
+
+[EN 5] badge=11-13
+When the crowd saw this, they went absolutely wild. They started shouting in their local language, "The gods are here! They look like men!" They decided Barnabas was the big boss, Zeus, and since Paul did most of the talking, they called him Hermes, the messenger god. The priest from the local Zeus temple even organized a parade, bringing bulls and flowers to the city gates to throw a massive sacrifice for them.
+
+[EN 6] badge=14-15
+When Paul and Barnabas finally figured out what was happening, they totally freaked out. They ran into the crowd, waving their arms and yelling, "Whoa, what are you guys doing?! We're not gods! We're just ordinary guys like you!" They were there to bring them the real story, to get them to ditch these fake god superstitions and turn to the one, true, living God who made everything—the sky, the earth, the sea, and everything in them.
+
+[EN 7] badge=15-18
+"For a long time," Paul explained, "God let all the nations do their own thing. But He never left you without clues. He sent rain, gave you good crops, filled your stomachs, and made you happy. That was all evidence of a good God looking out for you." Even with all that, they barely stopped the crowd from making a sacrifice to them.
+
+[EN 8] badge=19-20
+Then, some of the haters from Antioch and Iconium showed up and totally flipped the script, turning the crowd against them. They stoned Paul, dragged him out of town, and left him for dead. But as his followers gathered around him, he got back up and went right back into town. The next day, he and Barnabas took off for Derbe.
+
+[EN 9] badge=None
+§Back to Home Base
+
+[EN 10] badge=21-22
+After sharing the Message in Derbe and getting a solid group of disciples going, they back-tracked to Lystra, Iconium, and Antioch. They pumped up the new believers, telling them to stick with it and not give up, and made it super clear: signing up for God's kingdom means going through plenty of hard times.
+
+[EN 11] badge=23-25
+Paul and Barnabas then handpicked leaders for each church. After some serious prayer and fasting, they put these new leaders in charge, trusting the Master with their lives. They traveled back through the regions of Pisidia and Pamphylia, preached in Perga, and finally made it to the port city of Attalia. From there, they sailed back to Antioch, right where their whole journey started, all by God's grace.
+
+[EN 12] badge=26-28
+When they got back, they called a big church meeting and gave everyone the full report. They told them all the details of how God had used them to swing the door of faith wide open for people from all nations to come in. After that, they just chilled for a while, hanging out with the disciples.
+
+=== CURRENT KO ===
+[KO 0] badge=None
+§이고니온과 루스드라
+
+[KO 1] badge=1-3
+바울과 바나바는 이고니온에 도착해서, 늘 하던 대로 유대인 회당에 들어가서 말씀을 전했음. 그랬더니 유대인이랑 이방인 둘 다 완전 설득당해서 믿게 된 사람이 엄청 많았던 거임. 근데 안 믿는 유대인들이 바울이랑 바나바에 대해 막 헛소문을 퍼뜨려서 사람들 마음에 불신이랑 의심의 씨앗을 심어버렸음. 그래도 두 사도는 거기서 오랫동안 머물면서, 하나도 안 쫄고 대놓고 담대하게 말했음. 하나님의 선물에 대한 확실한 증거를 보여줬고, 하나님은 기적이랑 신기한 일들로 그들의 사역이 진짜라는 걸 보여주셨대.
+
+[KO 2] badge=4-7
+근데 그때 사람들 의견이 딱 갈라져서, 유대인 편드는 사람이랑 두 사도 편드는 사람으로 나뉜 거임. 그러던 어느 날, 유대인이랑 이방인으로 된 무리가 자기네 리더들 지휘 아래에서 자기들을 공격하려는 걸 알고, 두 사람은 루가오니아 지역의 루스드라와 더베랑 그 근처 성으로 바로 튀었음. 거기서도 말씀을 전했다고 함.
+
+[KO 3] badge=None
+신이냐, 사람이냐
+
+[KO 4] badge=8-10
+루스드라에 태어날 때부터 걷지 못해서 맨날 앉아만 있는 사람이 있었음. 그 사람이 바울이 하는 말을 듣고 있었는데, 바울이 그 사람 눈을 딱 보니까, 이 사람이 하나님의 일을 위해 준비됐고 믿으려고 하는 게 보이는 거임. 그래서 바울이 다 들으라고 큰 소리로 외쳤음. “일어나 보셈!” 그랬더니 그 사람이 바로 일어나서, 평생 걸어 다닌 사람처럼 걷기도 하고 막 펄쩍펄쩍 뛰기도 했대. 완전 정말 대단했음.
+
+[KO 5] badge=11-13
+사람들이 바울이 한 일을 보고 완전 흥분해서 루가오니아 말로 소리쳤음. “신들이 내려왔다! 이 사람들은 신이야!” 그러면서 바나바는 ‘제우스’라고 부르고, 바울은 ‘헤르메스’라고 불렀대 (바울이 말을 많이 해서). 근처에 있는 제우스 신전 제사장은 막 행렬을 준비하고, 소랑 깃발이랑 사람들이 문 앞에까지 쫙 서서 제사를 지내려고 했음.
+
+[KO 6] badge=14-15
+바나바랑 바울이 드디어 뭔 상황인지 알고는 뜯어말렸음. 막 팔을 흔들면서 행렬을 막고 소리쳤음. “아니 지금 뭐 하시는 거임! 우리는 신이 아님! 우리도 여러분이랑 똑같은 사람이라고요. 여러분한테 메시지를 전하러 온 거지, 이런 신이니 뭐니 하는 말도 안 되는 미신 버리고 살아계신 하나님 믿으라고 알려주러 온 거라고요. 우리가 하나님을 어떻게 만듦? 하나님이 인간이랑 모든 만물, 하늘이랑 땅이랑 바다랑 그 안에 있는 모든 걸 만드셨음.”
+
+[KO 7] badge=16-18
+“우리보다 먼저 살았던 세대한테는 하나님이 각 나라마다 자기들 맘대로 살게 놔두셨음. 근데 그때도 하나님이 아무 힌트도 없이 그냥 버려두신 게 아님. 하나님은 좋은 자연도 만들어주시고, 비도 내려주시고, 농사도 잘 되게 해주셨음. 여러분이 배부르고 마음이 즐거운 건, 여러분이 잘해서 누리는 게 아니라 다 하나님의 착하심 덕분이라는 증거였음.” 이렇게 막 열변을 토하고 나서야, 겨우 자기들을 신으로 모시려는 사람들의 제사를 막을 수 있었다고 함.
+
+[KO 8] badge=19-20
+그 후에, 안디옥이랑 이고니온에서 온 어떤 유대인들이 바나바랑 바울을 쫓아와서, 변덕 심한 사람들을 꼬드겨서 그들한테 나쁜 감정을 품게 만들었음. 그래서 그 사람들이 바울을 정신 잃을 때까지 때리고, 성 밖으로 끌고 가서 죽으라고 내버려 뒀대. 근데 제자들이 그를 둘러싸니까, 바울이 정신을 차리고 일어났음. 그리고 다시 성 안으로 들어가서 다음 날 바나바랑 같이 더베로 떠났다고 함.
+
+[KO 9] badge=None
+안디옥으로 돌아오다
+
+[KO 10] badge=21-22
+바울이랑 바나바는 더베에서 말씀을 전하고, 든든한 기둥이 될 제자들을 세운 다음에, 왔던 길로 다시 돌아가서 루스드라랑 이고니온을 거쳐 안디옥에 도착했음. 거기서 제자들한테 힘이랑 기운을 팍팍 불어넣어 주고, 처음에 믿었던 거 꽉 붙들고 흔들리지 말라고 당부했음. 그게 쉽지는 않을 거라고 분명히 말해줬대. “누구든지 하나님 나라에 지원하는 사람은 무조건 많은 어려움을 겪어야 함.”
+
+[KO 11] badge=23-26
+바울이랑 바나바는 각 교회 리더들을 신중하게 뽑았음. 금식하고 더 간절히 기도한 다음에, 자기들 삶을 맡겼던 주님께 새로 뽑은 리더들을 맡겼대. 두 사람은 비시디아를 지나서 밤빌리아로 돌아왔고, 버가에서 말씀을 전했음. 드디어 앗달리아에 도착해서 배를 타고 처음 출발했던 안디옥으로 돌아왔음. 하나님의 은혜로 시작해서, 이제 하나님의 은혜로 무사히 돌아온 거임.
+
+[KO 12] badge=27-28
+그들은 거기에 도착하자마자 교회 사람들을 다 모아놓고, 그동안 여행했던 얘기를 쫙 보고했음. 하나님이 어떻게 자기들을 사용해서 믿음의 문을 활짝 열어주셨는지, 그래서 어떻게 모든 민족이 교회로 들어올 수 있게 됐는지 자세히 얘기해줬대. 그들은 거기서 머물면서 제자들이랑 오랫동안 편하게 교제를 나눴다고 함.
+

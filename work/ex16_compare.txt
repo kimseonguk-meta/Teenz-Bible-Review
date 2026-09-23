@@ -1,0 +1,184 @@
+# EXODUS 16 — God's Free Food Delivery in the Desert?!
+TEEN paras: 25 | badges: ['1-3', '4-5', '6-8', '9-10', '9', '10', '11-12', '13-14', '15-16', '16-18', '19', '20', '21-22', '22', '23-26', '25-26', '27', '28-29', '30', '31', '32', '33', '34', '35', '36']
+KO paras: 25 | badges: ['1-3', '4-5', '6-8', '9-10', '11', '10', '11-12', '13-15', '15', '16-18', '19', '20', '21-22', '22', '23-26', '25-26', '27', '28-29', '30', '31', '32', '33', '34', '35', '36']
+MSG sections: 24 | ranges: ['1-3', '4-5', '6-7', '8', '9', '10', '11-12', '13-15', '15-16', '17-18', '19', '20', '21-22', '23-24', '25-26', '27', '28-29', '30', '31', '32', '33', '34', '35', '36']
+
+--- MSG [1-3] ---
+On the fifteenth day of the second month after they had left Egypt, the whole company of Israel moved on from Elim to the Wilderness of Sin which is between Elim and Sinai. The whole company of Israel complained against Moses and Aaron there in the wilderness. The Israelites said, “Why didn’t God let us die in comfort in Egypt where we had lamb stew and all the bread we could eat? You’ve brought us out into this wilderness to starve us to death, the whole company of Israel!”
+
+>>> TEEN:
+  [p0 badge=1-3] So, on the fifteenth day of the second month after they bounced from Egypt, the entire Israelite community moved on from Elim to the Desert of Sin, which is between Elim and Sinai. The whole community started complaining to Moses and Aaron right there in the wilderness. The Israelites said, “Seriously? Why didn’t God just let us die comfortably back in Egypt where we had lamb stew and all the bread we could handle? You’ve just brought us out into this desert to starve the whole community to death!”
+  [KO p0] 이집트 나온 지 두 달째 되는 달 15일에, 이스라엘 모든 백성이 엘림을 떠나서 엘림과 시내산 사이에 있는 신 광야로 갔대. 근데 거기서 또 모세랑 아론한테 불평을 엄청 한 거임. 이스라엘 백성들이 “아 그냥 이집트에서 편하게 죽게 놔두지, 거기선 양고기 스튜에 빵도 배 터지게 먹었는데! 왜 우리를 이 광야로 끌고 와서 다 굶겨 죽이려고 하냐!” 이랬대.
+
+--- MSG [4-5] ---
+God said to Moses, “I’m going to rain bread down from the skies for you. The people will go out and gather each day’s ration. I’m going to test them to see if they’ll live according to my Teaching or not. On the sixth day, when they prepare what they have gathered, it will turn out to be twice as much as their daily ration.”
+
+>>> TEEN:
+  [p1 badge=4-5] God said to Moses, “I’m about to rain down bread from the sky for you. The people will go out and gather a day’s portion each day. I’m going to test them to see if they’ll actually live by my teachings or not. On the sixth day, when they prepare what they’ve gathered, it will turn out to be twice as much as their daily portion.”
+  [KO p1] 하나님이 모세한테 “내가 너희를 위해서 하늘에서 빵을 비처럼 내려줄게. 백성들은 매일 나가서 그날 먹을 만큼만 걷어와야 돼. 내가 얘네를 시험해서 내 가르침대로 사는지 안 사는지 볼 거야. 엿샛날에는 거둔 걸로 요리하면, 평소보다 두 배나 많아질 거다”라고 하셨어.
+
+--- MSG [6-7] ---
+Moses and Aaron told the People of Israel, “This evening you will know that it is God who brought you out of Egypt; and in the morning you will see the Glory of God. Yes, he’s listened to your complaints against him. You haven’t been complaining against us, you know, but against God.”
+
+>>> TEEN:
+  [p2 badge=6-8] Moses and Aaron told the People of Israel, “This evening you will know that it is God who brought you out of Egypt; and in the morning you will see the Glory of God. Yes, he’s heard your complaints against him. You haven’t been complaining against us, you know, but against God.”
+  [KO p2] 모세랑 아론이 이스라엘 백성들한테 말했지. “오늘 저녁에 너희는 이집트에서 너희를 데리고 나온 게 하나님이란 걸 알게 될 거야. 그리고 아침에는 하나님의 영광을 보게 될 거고. 하나님이 너희가 자기한테 불평하는 소리를 다 들으셨대. 우리한테 불평한 게 아니라, 하나님한테 한 거라고.”
+
+--- MSG [8] ---
+Moses said, “Since it will be God who gives you meat for your meal in the evening and your fill of bread in the morning, it’s God who will have listened to your complaints against him. Who are we in all this? You haven’t been complaining to us—you’ve been complaining to God!”
+
+>>> TEEN:
+  [p2 badge=6-8] Moses and Aaron told the People of Israel, “This evening you will know that it is God who brought you out of Egypt; and in the morning you will see the Glory of God. Yes, he’s heard your complaints against him. You haven’t been complaining against us, you know, but against God.”
+  [KO p2] 모세랑 아론이 이스라엘 백성들한테 말했지. “오늘 저녁에 너희는 이집트에서 너희를 데리고 나온 게 하나님이란 걸 알게 될 거야. 그리고 아침에는 하나님의 영광을 보게 될 거고. 하나님이 너희가 자기한테 불평하는 소리를 다 들으셨대. 우리한테 불평한 게 아니라, 하나님한테 한 거라고.”
+
+--- MSG [9] ---
+Moses instructed Aaron: “Tell the whole company of Israel: ‘Come near to God. He’s heard your complaints.’”
+
+>>> TEEN:
+  [p3 badge=9-10] Moses said, “Since it will be God who gives you meat for your meal in the evening and your fill of bread in the morning, it’s God who will have listened to your complaints against him. Who are we in all this? You haven’t been complaining to us—you’ve been complaining to God!”
+  [KO p3] 모세가 또 말했어. “저녁에는 하나님이 고기를 주시고 아침에는 빵을 배불리 먹게 해주실 거니까, 너희 불평을 들으신 분은 바로 하나님이야. 우린 그냥 심부름꾼인데. 우리한테 불평한 게 아니라 하나님한테 한 거라고!”
+  [p4 badge=9] Moses instructed Aaron: “Tell the whole community of Israel: ‘Come near to God. He’s heard your complaints.’”
+  [KO p4] 모세가 아론한테 시켰어. “이스라엘 모든 백성한테 ‘하나님께 가까이 나아오라. 그분이 너희의 불평을 들으셨다’고 전해라.”
+
+--- MSG [10] ---
+When Aaron gave out the instructions to the whole company of Israel, they turned to face the wilderness. And there it was: the Glory of God visible in the Cloud.
+
+>>> TEEN:
+  [p3 badge=9-10] Moses said, “Since it will be God who gives you meat for your meal in the evening and your fill of bread in the morning, it’s God who will have listened to your complaints against him. Who are we in all this? You haven’t been complaining to us—you’ve been complaining to God!”
+  [KO p3] 모세가 또 말했어. “저녁에는 하나님이 고기를 주시고 아침에는 빵을 배불리 먹게 해주실 거니까, 너희 불평을 들으신 분은 바로 하나님이야. 우린 그냥 심부름꾼인데. 우리한테 불평한 게 아니라 하나님한테 한 거라고!”
+  [p5 badge=10] When Aaron gave the instructions to the whole community of Israel, they turned to face the wilderness. And there it was: the Glory of God, visible in the Cloud.
+  [KO p5] 아론이 이스라엘 모든 백성한테 이 말을 전하니까, 사람들이 광야 쪽을 쳐다봤는데, 진짜 큰 구름 속에서 하나님의 영광이 보이는 거임.
+
+--- MSG [11-12] ---
+God spoke to Moses, “I’ve listened to the complaints of the Israelites. Now tell them: ‘At dusk you will eat meat and at dawn you’ll eat your fill of bread; and you’ll realize that I am God, *your* God.’”
+
+>>> TEEN:
+  [p6 badge=11-12] God spoke to Moses, “I’ve listened to the complaints of the Israelites. Now tell them: ‘At dusk you will eat meat and at dawn you’ll eat your fill of bread; and you’ll realize that I am God, your God.’”
+  [KO p6] 하나님이 모세한테 말씀하셨어. “나 이스라엘 백성들 불평하는 거 들었다. 이제 걔네한테 이렇게 전해라. ‘해 질 녘에는 고기를 먹고, 새벽에는 빵을 배불리 먹게 될 것이다. 그러면 너희는 내가 너희의 하나님 여호와인 줄 알게 될 것이다.’”
+
+--- MSG [13-15] ---
+That evening quail flew in and covered the camp and in the morning there was a layer of dew all over the camp. When the layer of dew had lifted, there on the wilderness ground was a fine flaky something, fine as frost on the ground. The Israelites took one look and said to one another, *man-hu* (What is it?). They had no idea what it was.
+
+>>> TEEN:
+  [p7 badge=13-14] That evening, quail flew in and covered the camp, and in the morning there was a layer of dew all over the camp. When the layer of dew lifted, there on the wilderness ground was a fine, flaky something, as fine as frost on the ground. The Israelites took one look and said to one another, man-hu (What is it?). They had no idea what it was.
+  [KO p7] 그날 저녁에 메추라기가 날아와서 진영을 싹 덮었고, 아침에는 진영 사방에 이슬이 쫙 내렸대. 이슬이 마르니까 광야 바닥에 서리같이 희고 얇은 게 있는 거야. 이스라엘 백성들은 그걸 보고 서로 “이게 뭐냐?”(만후?)라고 물었대. 진짜 뭔지 아무도 몰랐던 거지.
+  [p8 badge=15-16] So Moses told them, “It’s the bread God has given you to eat. And these are God’s instructions: ‘Gather enough for each person, about two quarts per person; gather enough for everyone in your tent.’”
+  [KO p8] 그래서 모세가 말해줬어. “이건 하나님이 너희한테 먹으라고 주신 빵이야. 그리고 하나님의 지시사항은 이거야. ‘각자 먹을 만큼만, 한 사람당 2리터 정도씩, 자기 장막에 있는 식구 수대로 걷어라.’”
+
+--- MSG [15-16] ---
+So Moses told them, “It’s the bread God has given you to eat. And these are God’s instructions: ‘Gather enough for each person, about two quarts per person; gather enough for everyone in your tent.’”
+
+>>> TEEN:
+  [p8 badge=15-16] So Moses told them, “It’s the bread God has given you to eat. And these are God’s instructions: ‘Gather enough for each person, about two quarts per person; gather enough for everyone in your tent.’”
+  [KO p8] 그래서 모세가 말해줬어. “이건 하나님이 너희한테 먹으라고 주신 빵이야. 그리고 하나님의 지시사항은 이거야. ‘각자 먹을 만큼만, 한 사람당 2리터 정도씩, 자기 장막에 있는 식구 수대로 걷어라.’”
+  [p9 badge=16-18] The People of Israel got to work and started gathering, some more, some less. But when they measured out what they had gathered, those who gathered more had no extra and those who gathered less weren’t short—each person had gathered as much as was needed.
+  [KO p9] 이스라엘 백성들이 바로 나가서 걷기 시작했는데, 많이 걷은 사람도 있고 적게 걷은 사람도 있었어. 근데 신기하게 자기가 걷은 걸 재보니까, 많이 걷은 사람도 남는 게 없고 적게 걷은 사람도 모자라지 않았대. 딱 각자 필요한 만큼 걷은 거임.
+
+--- MSG [17-18] ---
+The People of Israel went to work and started gathering, some more, some less, but when they measured out what they had gathered, those who gathered more had no extra and those who gathered less weren’t short—each person had gathered as much as was needed.
+
+>>> TEEN:
+  [p9 badge=16-18] The People of Israel got to work and started gathering, some more, some less. But when they measured out what they had gathered, those who gathered more had no extra and those who gathered less weren’t short—each person had gathered as much as was needed.
+  [KO p9] 이스라엘 백성들이 바로 나가서 걷기 시작했는데, 많이 걷은 사람도 있고 적게 걷은 사람도 있었어. 근데 신기하게 자기가 걷은 걸 재보니까, 많이 걷은 사람도 남는 게 없고 적게 걷은 사람도 모자라지 않았대. 딱 각자 필요한 만큼 걷은 거임.
+
+--- MSG [19] ---
+Moses said to them, “Don’t leave any of it until morning.”
+
+>>> TEEN:
+  [p10 badge=19] Moses said to them, “Don’t leave any of it until morning.”
+  [KO p10] 모세가 그들한테 말했어. “아침까지 아무것도 남겨두지 마라.”
+
+--- MSG [20] ---
+But they didn’t listen to Moses. A few of the men kept back some of it until morning. It got wormy and smelled bad. And Moses lost his temper with them.
+
+>>> TEEN:
+  [p11 badge=20] But they didn’t listen to Moses. A few of them kept some of it until morning. It got wormy and smelled bad. And Moses was furious with them.
+  [KO p11] 근데 몇몇 사람들이 모세 말을 안 들었어. 그중 몇 명이 아침까지 좀 남겨뒀는데, 다음날 보니까 벌레 생기고 냄새가 나는 거임. 모세가 그 사람들한테 엄청 화났지.
+
+--- MSG [21-22] ---
+They gathered it every morning, each person according to need. Then the sun heated up and it melted. On the sixth day they gathered twice as much bread, about four quarts per person. Then the leaders of the company came to Moses and reported.
+
+>>> TEEN:
+  [p12 badge=21-22] They gathered it every morning, each person according to their need. Then when the sun got hot, it melted. On the sixth day, they gathered twice as much bread, about four quarts per person.
+  [KO p12] 사람들은 매일 아침 각자 필요한 만큼씩 그걸 걷었어. 해가 뜨거워지면 그게 녹아버렸거든. 엿샛날에는 빵을 두 배로, 한 사람당 4리터 정도씩 걷었대.
+  [p13 badge=22] Then the leaders of the community came to Moses and reported it.
+  [KO p13] 그러자 백성의 지도자들이 모세한테 와서 보고했어.
+
+--- MSG [23-24] ---
+Moses said, “This is what God was talking about: Tomorrow is a day of rest, a holy Sabbath to God. Whatever you plan to bake, bake today; and whatever you plan to boil, boil today. Then set aside the leftovers until morning.” They set aside what was left until morning, as Moses had commanded. It didn’t smell bad and there were no worms in it.
+
+>>> TEEN:
+  [p14 badge=23-26] Moses said, “This is what God was talking about: Tomorrow is a day of rest, a holy Sabbath to God. Whatever you plan to bake, bake today; and whatever you plan to boil, boil today. Then set aside the leftovers until morning.” They set aside what was left until morning, as Moses had commanded. It didn’t smell bad and there were no worms in it.
+  [KO p14] 모세가 말했지. “이게 바로 하나님이 말씀하신 거야. 내일은 쉬는 날, 하나님께 바치는 거룩한 안식일이다. 구울 건 오늘 굽고, 삶을 건 오늘 삶아라. 그리고 남은 건 아침까지 따로 놔둬라.” 그들은 모세가 시킨 대로 남은 걸 아침까지 놔뒀는데, 냄새도 안 나고 벌레도 없었대.
+
+--- MSG [25-26] ---
+Moses said, “Now eat it; this is the day, a Sabbath for God. You won’t find any of it on the ground today. Gather it every day for six days, but the seventh day is Sabbath; there won’t be any of it on the ground.”
+
+>>> TEEN:
+  [p14 badge=23-26] Moses said, “This is what God was talking about: Tomorrow is a day of rest, a holy Sabbath to God. Whatever you plan to bake, bake today; and whatever you plan to boil, boil today. Then set aside the leftovers until morning.” They set aside what was left until morning, as Moses had commanded. It didn’t smell bad and there were no worms in it.
+  [KO p14] 모세가 말했지. “이게 바로 하나님이 말씀하신 거야. 내일은 쉬는 날, 하나님께 바치는 거룩한 안식일이다. 구울 건 오늘 굽고, 삶을 건 오늘 삶아라. 그리고 남은 건 아침까지 따로 놔둬라.” 그들은 모세가 시킨 대로 남은 걸 아침까지 놔뒀는데, 냄새도 안 나고 벌레도 없었대.
+  [p15 badge=25-26] Moses said, “Now eat it; today is a Sabbath for God. You won’t find any of it on the ground today. Gather it for six days, but the seventh day is the Sabbath; there won’t be any of it on the ground.”
+  [KO p15] 모세가 말했어. “자, 이제 먹어라. 오늘은 하나님을 위한 안식일이다. 오늘은 땅에서 아무것도 찾지 못할 것이다. 엿새 동안은 매일 걷되, 이레째 되는 날은 안식일이니 땅에 아무것도 없을 것이다.”
+
+--- MSG [27] ---
+On the seventh day, some of the people went out to gather anyway but they didn’t find anything.
+
+>>> TEEN:
+  [p16 badge=27] On the seventh day, some of the people went out to gather anyway, but they didn’t find anything.
+  [KO p16] 이레째 되는 날에 몇몇 사람들이 그래도 혹시나 해서 걷으러 나갔는데, 아무것도 못 찾았대.
+
+--- MSG [28-29] ---
+God said to Moses, “How long are you going to disobey my commands and not follow my instructions? Don’t you see that God has given you the Sabbath? So on the sixth day he gives you bread for *two* days. So, each of you, stay home. Don’t leave home on the seventh day.”
+
+>>> TEEN:
+  [p17 badge=28-29] God said to Moses, “How long are you all going to disobey my commands and not follow my instructions? Don’t you see that God has given you the Sabbath? That’s why on the sixth day he gives you bread for two days. So, each of you, stay home. Don’t leave your home on the seventh day.”
+  [KO p17] 하나님이 모세한테 말씀하셨어. “너희가 언제까지 내 명령을 어기고 내 지시를 따르지 않을 거냐? 하나님이 너희에게 안식일을 준 걸 모르겠느냐? 그래서 엿샛날에 이틀 치 빵을 주는 것이다. 그러니 각자 집에 머물러라. 이레째 되는 날에는 아무도 집 밖으로 나가지 마라.”
+
+--- MSG [30] ---
+So the people quit working on the seventh day.
+
+>>> TEEN:
+  [p18 badge=30] So the people rested on the seventh day.
+  [KO p18] 그래서 백성들은 이레째 되는 날에 쉬었대.
+
+--- MSG [31] ---
+The Israelites named it manna (What is it?). It looked like coriander seed, whitish. And it tasted like a cracker with honey.
+
+>>> TEEN:
+  [p19 badge=31] The Israelites named it manna (What is it?). It looked like coriander seed, whitish. And it tasted like a cracker with honey.
+  [KO p19] 이스라엘 사람들은 그것의 이름을 ‘만나’(이게 뭐냐?)라고 지었어. 생긴 건 고수 씨같이 희고, 맛은 꿀 섞은 과자 같았대.
+
+--- MSG [32] ---
+Moses said, “This is God’s command: ‘Keep a two-quart jar of it, an omer, for future generations so they can see the bread that I fed you in the wilderness after I brought you out of Egypt.’”
+
+>>> TEEN:
+  [p20 badge=32] Moses said, “This is God’s command: ‘Keep a two-quart jar of it for future generations so they can see the bread that I fed you in the wilderness after I brought you out of Egypt.’”
+  [KO p20] 모세가 말했어. “이건 하나님의 명령이다. ‘이것을 2리터짜리 항아리에 담아서 대대로 보관하여라. 내가 너희를 이집트에서 데리고 나온 후 광야에서 먹인 빵을 후손들이 볼 수 있도록 해라.’”
+
+--- MSG [33] ---
+Moses told Aaron, “Take a jar and fill it with two quarts of manna. Place it before God, keeping it safe for future generations.”
+
+>>> TEEN:
+  [p21 badge=33] Moses told Aaron, “Take a jar and fill it with two quarts of manna. Place it before God, keeping it safe for future generations.”
+  [KO p21] 모세가 아론한테 말했어. “항아리 하나 가져다가 만나를 2리터 채워서 담아라. 그리고 하나님 앞에 두어서 대대로 안전하게 보관해라.”
+
+--- MSG [34] ---
+Aaron did what God commanded Moses. He set it aside before The Testimony to preserve it.
+
+>>> TEEN:
+  [p22 badge=34] Aaron did what God commanded Moses. He set it aside before The Testimony to preserve it.
+  [KO p22] 아론은 하나님이 모세에게 명령하신 대로 했어. 그걸 증거궤 앞에 두어서 보존했지.
+
+--- MSG [35] ---
+The Israelites ate the manna for forty years until they arrived at the land where they would settle down. They ate manna until they reached the border into Canaan.
+
+>>> TEEN:
+  [p23 badge=35] The Israelites ate the manna for forty years, until they arrived at the land where they would settle. They ate manna until they reached the border of Canaan.
+  [KO p23] 이스라엘 백성들은 정착할 땅에 도착할 때까지 40년 동안 만나를 먹었대. 가나안 땅 국경에 이를 때까지 만나를 먹은 거임.
+
+--- MSG [36] ---
+According to ancient measurements, an omer is one-tenth of an ephah.
+
+>>> TEEN:
+  [p24 badge=36] An omer is about one-tenth of an ephah, according to ancient measurements.
+  [KO p24] 고대 계량 단위에 따르면, 1오멜은 1/10에바래.

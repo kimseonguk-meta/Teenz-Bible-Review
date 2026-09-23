@@ -1,0 +1,92 @@
+{
+  "chapter": 13,
+  "title": "Dirty Feet and the Setup",
+  "paragraphs": [
+    "§Washing His Disciples' Feet",
+    "Just before the Passover Feast, Jesus knew the time had come to leave this world and go to the Father. Having loved his dear companions, he kept loving them right to the end. It was suppertime. By now the Devil had Judas, son of Simon Iscariot, firmly in his grip, all set for the betrayal.",
+    "Jesus knew the Father had put him in complete charge of everything—that he came from God and was on his way back to God. So he got up from the supper table, set aside his robe, and put on an apron. Then he poured water into a basin and began to wash the disciples' feet, drying them with his apron. When he got to Simon Peter, Peter said, \"Master—you wash my feet?\"",
+    "Jesus answered, \"You don't understand now what I'm doing, but it'll be clear to you later.\"",
+    "Peter persisted, \"You're not going to wash my feet—ever!\" Jesus said, \"If I don't wash you, you can't be part of what I'm doing.\"",
+    "\"Master!\" said Peter. \"Then not only my feet. Wash my hands! Wash my head!\"",
+    "Jesus said, \"If you've had a bath in the morning, you only need your feet washed now, and you're clean from head to toe. My concern, you understand, is holiness, not hygiene. So now you're clean. But not every one of you.\" (He knew who was betraying him. That's why he said, \"Not every one of you.\") After he'd finished washing their feet, he took his robe, put it back on, and went back to his place at the table.",
+    "Then he said, \"Do you understand what I've done for you? You call me 'Teacher' and 'Master,' and rightly so—that's what I am. So if I, the Master and Teacher, washed your feet, you must now wash each other's feet. I've laid down a pattern for you. What I've done, you do. I'm only pointing out the obvious: a servant isn't ranked above his master; an employee doesn't give orders to the employer. If you understand what I'm telling you, act like it—and live a blessed life.",
+    "§The One Who Ate Bread at My Table",
+    "\"I'm not including all of you in this. I know exactly whom I've chosen, so as not to interfere with this Scripture coming true: The one who ate bread at my table will stab me in the back. I'm telling you all this ahead of time, so that when it happens you'll believe I am who I say I am. Make sure you get this right: receiving someone I send is the same as receiving me, just as receiving me is the same as receiving the One who sent me.\"",
+    "After he said these things, Jesus became visibly upset, and then he told them why. \"One of you is going to betray me.\"",
+    "The disciples looked around at one another, wondering who on earth he was talking about. One of the disciples, the one Jesus loved dearly, was leaning against him, his head on his shoulder. Peter motioned to him to ask who Jesus might mean. So, being the closest, he said, \"Master, who?\"",
+    "Jesus said, \"The one I give this piece of bread to after I've dipped it.\" Then he dipped the bread and gave it to Judas, son of Simon Iscariot. As soon as the bread was in his hand, Satan entered him. \"What you have to do,\" said Jesus, \"do it. Do it and get it over with.\"",
+    "No one around the supper table knew why he said this to him. Some thought that since Judas was their treasurer, Jesus was telling him to buy what they needed for the Feast, or that he should give something to the poor.",
+    "Judas, with the piece of bread, left. It was night.",
+    "§A New Command",
+    "When he'd left, Jesus said, \"Now the Son of Man is seen for who he is, and God is seen for who he is in him. The moment God is seen in him, God's glory will be on display. In glorifying him, he himself is glorified—glory all around!",
+    "\"Children, I'm with you only a little while longer. You're going to look high and low for me. But just as I told the Jews, I'm telling you: 'Where I go, you can't come.'",
+    "\"Let me give you a new command: love one another. Just as I loved you, you love one another. This is how everyone will recognize that you're my disciples—when they see the love you have for each other.\"",
+    "Simon Peter asked, \"Master, just where are you going?\" Jesus answered, \"You can't follow me now where I'm going. You will follow later.\"",
+    "\"Master,\" said Peter, \"why can't I follow now? I'll lay down my life for you!\"",
+    "\"Really? You'll lay down your life for me? The truth is, before the rooster crows, you'll deny me three times.\""
+  ],
+  "verseRanges": [
+    "1-2",
+    "1-2",
+    "3-6",
+    "7",
+    "8",
+    "9",
+    "10-12",
+    "12-17",
+    "18-20",
+    "18-20",
+    "21",
+    "22-25",
+    "26-27",
+    "28-29",
+    "30",
+    "31-32",
+    "31-32",
+    "33",
+    "34-35",
+    "36",
+    "37",
+    "38"
+  ],
+  "msg_ranges": [
+    "1-2",
+    "1-2",
+    "3-6",
+    "7",
+    "8",
+    "9",
+    "10-12",
+    "12-17",
+    "18-20",
+    "18-20",
+    "21",
+    "22-25",
+    "26-27",
+    "28-29",
+    "30",
+    "31-32",
+    "31-32",
+    "33",
+    "34-35",
+    "36",
+    "37",
+    "38"
+  ],
+  "merges": [],
+  "splits": [
+    {
+      "msg_range": "12",
+      "paras": [
+        7,
+        8
+      ],
+      "note": "MSG 원문이 12절을 여러 문단에 걸쳐 사용 — EN도 MSG 문단 구분 그대로 따름"
+    }
+  ],
+  "changes": [
+    "John 13장: MSG 문단 구조 기준으로 EN 전면 재구성"
+  ],
+  "confirmations_needed": [],
+  "review_status": "msg_audited"
+}

@@ -1,0 +1,675 @@
+[
+  {
+    "chapter": 1,
+    "verseRanges": [
+      "1-3",
+      "3-6",
+      "3-6",
+      "7",
+      "8-9",
+      "10-12",
+      "13",
+      "14"
+    ],
+    "msg_ranges": [
+      "1-3",
+      "3-6",
+      "3-6",
+      "7",
+      "8-9",
+      "10-12",
+      "13",
+      "14"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "3",
+        "paras": [
+          0,
+          2
+        ],
+        "note": "MSG's own paras 1-3 and 3-6 share v3 at the paragraph boundary (the § header para1 sits between them sharing badge 3-6 with para2); badges kept exactly as MSG printed them"
+      }
+    ],
+    "changes": [
+      "Ch1: § header corrected to MSG's own 'The Son Is Higher than Angels' (was fabricated 'Jesus Is Greater Than Angels' placed at top; now shares badge 3-6 with the following para)",
+      "Ch1: split the old merged 7/8-9 para into MSG's own paras 7 and 8-9; split old merged 13/14 into 13 and 14; badges now MSG 1-3 / 3-6 / 7 / 8-9 / 10-12 / 13 / 14",
+      "Ch1: restored both Son-quotes of 3-6 ('You're my Son; today I celebrate you' / 'I'm his Father, he's my Son') and 'All angels must worship him'"
+    ],
+    "confirmations_needed": [],
+    "title": "God's Son is the Ultimate honored",
+    "paragraphs": [
+      "For ages, God's been trying to get in touch with our great-great-grandparents, using prophets and stuff. But now, He's talking to us straight up, through His Son. This is the guy who was there when God made everything, and one day, he's gonna inherit it all. He's like the spitting image of God, stamped with God's own nature. And get this, he keeps the whole universe from falling apart just by talking. Talk about flexing his power.",
+      "§The Son Is Higher than Angels",
+      "So after he dealt with everyone's misfits, the Son got the ultimate promotion. He's now sitting in his honored place high in the heavens, right alongside God, way above any angel. I mean, did God ever say to an angel, \"You're my Son; today I celebrate you,\" or \"I'm his Father, he's my Son\"? Never. But when he presents his honored Son to the world, he says, \"All angels must worship him.\"",
+      "When it comes to angels, God's like, \"The messengers are winds, the servants are tongues of fire.\"",
+      "But to his Son, he says, \"You're God, and you're on the throne for good. Your rule makes everything right. You love it when things are right, and you hate it when things are wrong. That's why I, your God, poured fragrant oil on your head, marking you out as king, way above all your dear companions.\"",
+      "And he's not done. He also says to the Son, \"You're the one who kicked everything off, who laid earth's foundations and hung the stars in the sky. The earth and sky will get old and fall apart like a worn-out hoodie, and you'll just fold them up like an old cloak and put them on the shelf. But you? You'll never get old. You'll be the same, year after year, forever fresh.\"",
+      "And for the record, God never said to an angel, \"Come chill with me on my throne until I make your enemies your footstool.\"",
+      "It's pretty clear that angels are just the support crew, sent to help out everyone who's getting saved."
+    ]
+  },
+  {
+    "chapter": 2,
+    "verseRanges": [
+      "1-4",
+      "5-9",
+      "5-9",
+      "10-13",
+      "14-15",
+      "16-18"
+    ],
+    "msg_ranges": [
+      "1-4",
+      "5-9",
+      "5-9",
+      "10-13",
+      "14-15",
+      "16-18"
+    ],
+    "merges": [],
+    "splits": [],
+    "changes": [
+      "Ch2: § header corrected to MSG's own 'The Salvation Pioneer' placed before 5-9 (was fabricated 'Don't Drift Away' at top)",
+      "Ch2: split the old merged 14-15/16-18 para (badge '15-18') into MSG's own paras 14-15 and 16-18",
+      "Ch2: restored v16 'It was for people like us, children of Abraham' as its own point"
+    ],
+    "confirmations_needed": [],
+    "title": "Why Jesus is the GOAT",
+    "paragraphs": [
+      "Alright, so listen up. You gotta pay attention to what we've learned, or you'll just drift off and forget it all. Back in the day, the message from the angels was the real deal, and if you messed up, you got called out. No exceptions. So, do you really think we can afford to sleep on this new message, this epic salvation? This isn't some hand-me-down story; the Master, Jesus himself, told us this stuff directly. And the people who heard him passed it on to us, so you know it's legit. Plus, God was dropping all sorts of signs and miracles, and the Holy Spirit was handing out gifts like it was nothing. He was basically flexing to show everyone this was the real deal.",
+      "§The Salvation Pioneer",
+      "Now, God didn't put angels in charge of the world to come, the one we're talking about. Someone in the Scriptures even asked, \"Who are we that you even care about us? Why do you give us a second thought?\" You made us a little lower than the angels, bright with Eden's dawn light, and you put us in charge of everything you made. But let's be real, we don't see ourselves running the whole show just yet. What we do see is Jesus. He was made a little lower than the angels for a bit, but after he faced death, he got the ultimate promotion. He's now crowned with glory \"bright with Eden's dawn light,\" higher than any angel. He basically took one for the team and died for every single one of us.",
+      "It totally makes sense that God, who started everything and keeps it all going, would make Jesus, our team captain for salvation, perfect by having him go through some tough stuff. He's leading us all to glory, after all. Since the one who saves us and those of us being saved are all from the same family, Jesus isn't embarrassed to call us his brothers and sisters. He even says, \"I'm gonna tell my crew all about you, and we'll all praise you together.\" He's basically saying, \"I'm on your team, I trust God just like you,\" and \"Here I am with the squad God gave me.\"",
+      "Since we're all just regular people, it made sense for Jesus to become one of us. He did it to save us by dying himself. By facing death head-on, he totally wrecked the devil's power over it. He freed everyone who was basically living in fear of dying.",
+      "It's pretty clear he didn't do all this for the angels. He did it for us, for Abraham's crew. That's why he had to go through everything we go through. So when he stands before God as our High Priest to wipe our sins clean, he knows exactly what it feels like. He's been through the pain and the struggles, so he's the perfect one to help us when we need it."
+    ]
+  },
+  {
+    "chapter": 3,
+    "verseRanges": [
+      "1-6",
+      "1-6",
+      "6-11",
+      "12-14",
+      "15-19"
+    ],
+    "msg_ranges": [
+      "1-6",
+      "1-6",
+      "6-11",
+      "12-14",
+      "15-19"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "6",
+        "paras": [
+          1,
+          2
+        ],
+        "note": "MSG's own paras 1-6 and 6-11 share v6 at the paragraph boundary; badges kept exactly as MSG printed them"
+      }
+    ],
+    "changes": [
+      "Ch3: § header corrected to MSG's own 'The Centerpiece of Everything We Believe' (was fabricated 'Jesus Our High Priest')",
+      "Ch3: badges corrected to MSG 1-6 / 6-11 / 12-14 / 15-19 (v6 boundary overlap declared in splits)"
+    ],
+    "confirmations_needed": [],
+    "title": "Jesus vs. Moses: The Ultimate Showdown",
+    "paragraphs": [
+      "§The Centerpiece of Everything We Believe",
+      "Alright, listen up, my guys. If you're on this journey to be a better person, you gotta check out Jesus. Seriously. He's the real MVP, the main character of our whole faith. God gave him a job, and he totally crushed it. Yeah, Moses was a solid guy, super loyal. But Jesus? He's on a whole other level. He gets way more props. Think about it: the guy who builds the house is always gonna be more important than the house itself, right? Well, every house has a builder, but God is the OG builder of everything. Moses was like a good manager, keeping things in order and prepping for the main event. But Jesus is the owner's son, the one who's actually in charge of the whole place.",
+      "And here's the thing — if we stay confident and don't bail, we're part of that house too! That's why the Holy Spirit drops this truth bomb: \"Hey, listen up today! Don't be like your ancestors who threw a fit and tested me in the desert. Even after watching me flex my power for forty years, they still wouldn't trust me. They kept trying to do their own thing, and it drove me nuts. I was so furious, I said, 'They're never gonna get it, they just refuse to follow my lead.' I was so done with them, I swore they'd never get to the promised land, never find their chill.\"",
+      "So, for real, watch your backs, fam. Don't let any sneaky doubts sneak in and make you ghost the living God. As long as it's 'today,' you gotta keep each other hyped and accountable, so sin doesn't make you lazy. If we just hang on to the awesome faith we started with, we're on Team Jesus for the long run. That message just keeps echoing, right? \"Hey, listen up today! Don't be like your ancestors who threw a fit.\"",
+      "And who were those people who heard God and still ghosted him? Weren't they the same crew Moses led out of Egypt? And who did God have beef with for forty years? It was the ones who wouldn't listen and ended up as skeletons in the desert. And when God made that promise that they'd never make it, who was he talking to? The ones who wouldn't listen. They totally failed because they just wouldn't believe."
+    ]
+  },
+  {
+    "chapter": 4,
+    "verseRanges": [
+      "1-3",
+      "1-3",
+      "3-7",
+      "8-11",
+      "12-13",
+      "14-16",
+      "14-16"
+    ],
+    "msg_ranges": [
+      "1-3",
+      "1-3",
+      "3-7",
+      "8-11",
+      "12-13",
+      "14-16",
+      "14-16"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "3",
+        "paras": [
+          1,
+          2
+        ],
+        "note": "MSG's own paras 1-3 and 3-7 share v3 at the paragraph boundary; badges kept exactly as MSG printed them"
+      }
+    ],
+    "changes": [
+      "Ch4: § headers corrected to MSG's own 'When Promises Are Mixed with Faith' (was 'A Sabbath Rest') and restored the missing second MSG header 'The High Priest Who Cried Out in Pain' before 14-16",
+      "Ch4: badges corrected to MSG 1-3 / 3-7 / 8-11 / 12-13 / 14-16 (was 1-3 / 3-7 / 8-10 / 12-13 / 14-16 with null header badges)"
+    ],
+    "confirmations_needed": [],
+    "title": "Don't Miss the Ultimate Chill Sesh",
+    "paragraphs": [
+      "§When Promises Are Mixed with Faith",
+      "Alright, so check it. God's promise to let us enter his ultimate chill zone is still on the table, so we gotta be super careful not to get disqualified. The Israelites back in the day got the same invite, but it was a total bust for them because they didn't actually believe it. It was like getting a special access pass but then refusing to go inside. But for us, if we have faith, we get to experience that awesome rest. God was pretty furious with the others, saying, \"They'll never get to where they're going, never be able to just sit down and chill.\"",
+      "God said that even though His part of the work was done since, like, the beginning of the world. You know how it says, \"God rested on the seventh day after finishing his work\"? But then He also says about the others, \"They'll never get to chill.\" So, the offer is still open. Those first guys totally missed out because they were stubborn and disobedient. God keeps hitting refresh on the promise, making \"today\" the day to get in on it, just like he said way later through King David: \"Today, if you hear his voice, don't be a blockhead.\"",
+      "So yeah, this promise is still live. It wasn't a one-time thing with Joshua and his crew, otherwise God wouldn't keep bringing it up. The promise of finally arriving and getting to rest is still there for God's crew. God Himself is chilling, and when we finish our race, we'll get to chill with Him. So let's go hard and make sure we get to that place of rest, and not drop the ball by being disobedient.",
+      "God's Word is no joke. What He says, goes. It's like a super-sharp surgeon's knife that cuts through all our excuses and doubts, laying everything bare. You can't hide anything from Him; His Word sees right through you. It's a total truth bomb, and you can't escape it.",
+      "§The High Priest Who Cried Out in Pain",
+      "And the best part? We've got Jesus, our awesome High Priest with ready access to God. So let's not let this opportunity slip. He's not some out-of-touch leader; He gets what we're going through. He's faced all the same struggles and tests we do, but He never messed up. So we can walk right up to God with confidence and get the mercy and help we need, because He's totally ready to give it. Just take it."
+    ]
+  },
+  {
+    "chapter": 5,
+    "verseRanges": [
+      "1-3",
+      "4-6",
+      "7-10",
+      "11-14",
+      "11-14"
+    ],
+    "msg_ranges": [
+      "1-3",
+      "4-6",
+      "7-10",
+      "11-14",
+      "11-14"
+    ],
+    "merges": [],
+    "splits": [],
+    "changes": [
+      "Ch5: restored MSG's own header 'Re-Crucifying Jesus' in its MSG position before 11-14 (was fabricated 'Jesus the Great High Priest' at the top)",
+      "Ch5: badges corrected to MSG 1-3 / 4-6 / 7-10 / 11-14"
+    ],
+    "confirmations_needed": [],
+    "title": "The Real High Priest",
+    "paragraphs": [
+      "Alright, so check it. Every head priest, picked to rep people in front of God and handle the sacrifices for when they mess up, has to be chill with everyone's slip-ups. Why? Because he's been there, done that, and gets it. But that also means he's gotta offer up sacrifices for his own blunders, not just for everyone else.",
+      "And get this: you don't just decide to be the head priest. God calls you, like he did with Aaron back in the day. Jesus didn't just promote himself to the top spot either. He was chosen by God, who was like, \"You're my Son, and today we're celebrating you!\" And another time, God said, \"You're a priest forever, just like that mysterious guy Melchizedek.\"",
+      "When Jesus was on Earth, knowing he was going to die, he got real with God. He cried, he was in pain, and he prayed like a priest. And because he was straight-up with God, God heard him. Even though he was God's actual Son, he had to learn what it means to trust and obey by going through some rough stuff, just like we do. After he went through all that and basically leveled up to full maturity, God announced him as the new high priest, in the same league as Melchizedek. Now, he's the one who gives eternal life to everyone who listens and follows him.",
+      "§Re-Crucifying Jesus",
+      "Man, I've got so much more to say about this, but it's like talking to a wall. You guys have gotten into this gnarly habit of not even listening. By now, you should be the ones teaching this stuff, but instead, I've gotta go back to the baby steps with you, like you're learning about God for the first time. You're still on milk when you should be eating solid food! Milk is for newbies who don't get God's ways. The real food is for the pros who've had some practice and can tell what's right and what's wrong."
+    ]
+  },
+  {
+    "chapter": 6,
+    "verseRanges": [
+      "1-3",
+      "4-8",
+      "4-8",
+      "9-12",
+      "13-18",
+      "13-18",
+      "18-20"
+    ],
+    "msg_ranges": [
+      "1-3",
+      "4-8",
+      "4-8",
+      "9-12",
+      "13-18",
+      "13-18",
+      "18-20"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "4-8",
+        "paras": [
+          1,
+          2
+        ],
+        "note": "one MSG para rendered as two Teenz paras (the warning, then the parched-ground parable)"
+      },
+      {
+        "msg_range": "18",
+        "paras": [
+          5,
+          6
+        ],
+        "note": "MSG's own paras 13-18 and 18-20 share v18 at the paragraph boundary; badges kept exactly as MSG printed them"
+      }
+    ],
+    "changes": [
+      "Ch6: restored MSG's own header 'God Gave His Word' before 13-18 (was missing)",
+      "Ch6: badges corrected to MSG 13-18 / 18-20 (was 13-15 / 18-20, skipping 16-17)",
+      "Ch6: restored 'running on ahead of us' and 'in the order of Melchizedek' in 18-20",
+      "Ch6: declared the 4-8 split (warning + parable) in splits"
+    ],
+    "confirmations_needed": [],
+    "title": "Level Up or Get Wrecked",
+    "paragraphs": [
+      "Alright, let's get real. It's time to graduate from spiritual kindergarten and leave the fingerpainting exercises on Christ behind. Let's grow up in Christ and get on with the grand work of art. We've learned the basics: ditching the idea that we can save ourselves, turning in trust toward God, getting baptized, the laying on of hands, resurrection of the dead, and eternal judgment. God helping us, we'll stay true to all that. But there's so much more — let's get on with it!",
+      "Think about it. Once people have seen the light, gotten a taste of heaven, and been part of the Holy Spirit's crew — once they've personally experienced the sheer goodness of God's Word and the powers breaking in on us — if they then turn their backs on it and walk away like it was nothing, well, they can't just hit the reset button and start over. That's impossible. Why, it's like they've re-crucified Jesus! They've publicly dissed him.",
+      "It's like a field that gets plenty of rain. If it grows a bunch of awesome crops, the gardener is stoked. But if it just pops up a bunch of weeds, it's getting torched. No harvest, just a big ol' bonfire. You don't want to be that field.",
+      "But yo, I know you guys aren't like that. I've seen how you've shown love to God by helping out other Christians. That's legit. God sees that. So keep that same energy. Go all in on the hope you have, and don't get lazy. Be like the legends who kept the faith and got everything God promised them.",
+      "§God Gave His Word",
+      "When God made a promise to Abraham, he didn't mess around. He backed it to the hilt, putting his own reputation on the line. He said, 'I promise — I'll bless you with everything I have — bless and bless and bless!' Abraham stuck it out and got everything that had been promised to him. When people make promises, they guarantee them by appealing to some authority above them — so that if there's any question, the authority backs it up. When God wanted to guarantee his promises, he gave his word, a rock-solid guarantee — God can't break his word. And because his word cannot change, the promise is likewise unchangeable.",
+      "So for us, who are running to God for safety, we can grab onto that hope and never let go. It's like a spiritual lifeline that goes right into the very presence of God, where Jesus, running on ahead of us, has taken up his permanent post as our High Priest, in the order of Melchizedek. He's the ultimate wingman."
+    ]
+  },
+  {
+    "chapter": 7,
+    "verseRanges": [
+      "1-3",
+      "1-3",
+      "4-7",
+      "8-10",
+      "11-14",
+      "11-14",
+      "15-19",
+      "20-22",
+      "23-25",
+      "26-28"
+    ],
+    "msg_ranges": [
+      "1-3",
+      "1-3",
+      "4-7",
+      "8-10",
+      "11-14",
+      "11-14",
+      "15-19",
+      "20-22",
+      "23-25",
+      "26-28"
+    ],
+    "merges": [],
+    "splits": [],
+    "changes": [
+      "Ch7: restored MSG's own headers 'Melchizedek, Priest of God' (top) and 'A Permanent Priesthood' (before 11-14; was missing)",
+      "Ch7: badges corrected to MSG 1-3 / 4-7 / 8-10 / 11-14 / 15-19 / 20-22 / 23-25 / 26-28 (was 11-12 / 15-17 / 20-22 / 23-24 / 25-28 with gaps)"
+    ],
+    "confirmations_needed": [],
+    "title": "The OG Priest Who's a Bigger Deal Than Abraham",
+    "paragraphs": [
+      "§Melchizedek, Priest of God",
+      "Alright, so check it. There's this guy, Melchizedek. He was the king of a place called Salem and a top-tier priest for the Most High God. After Abraham totally wrecked shop in a big battle, Melchizedek meets up with him and gives him a blessing. Abe, being the stand-up guy he is, gives Melchizedek a tenth of all the loot. Fun fact: 'Melchizedek' means 'King of Doing Right,' and 'Salem' means 'Peace,' so he's also the 'King of Peace.' This guy is like a legend from way back, no family tree on record, no beginning, no end. He's basically a mirror image of the Son of God, this epic priestly figure who's always been there.",
+      "You can tell Melchizedek was a big deal because even Father Abraham, the guy who started it all, gave him a ten percent cut of his winnings. Think about it: the priests from Levi's tribe, who are all related to Abraham, have a rule to collect a tenth from their own people. But this Melchizedek guy, a total outsider, collects it from Abraham and even blesses him — the guy who got all the promises from God! And everyone knows, when someone gives a blessing, the one giving it is the greater one.",
+      "Here's another way to look at it: we give our money to priests who eventually die. But Abraham gave his to a priest who the Bible says 'lives.' You could even say that Levi, the ancestor of all the priests, basically paid his dues to Melchizedek through Abraham. It's like Melchizedek got the credit in the end.",
+      "§A Permanent Priesthood",
+      "The old system with the priests from Levi and Aaron's line was supposed to be the framework for God's law, but it couldn't actually make people perfect. If it had worked, there would've been no need to talk about a new kind of priest, one like Melchizedek. Since the old way didn't get the job done, the priesthood had to get a major update, which also meant the rules had to change. You can't explain Jesus using the old priest system, which is why he doesn't have any of them in his family background.",
+      "But the story of Melchizedek is the perfect setup. Jesus is a priest just like him, not because of who his ancestors were, but because of the raw power of his resurrection life. He's alive for good! The Bible even says he's a 'priest forever in the royal order of Melchizedek.' The old way of doing things, with all its rules that never really worked, got tossed aside. The law never led to a real transformation for anyone. But the new way — Jesus! — totally works. It gives us a direct line right into God's presence.",
+      "And here's the thing: the old priesthood was just passed down from father to son, no big ceremony or promise from God. But God stepped in and created this new, permanent priesthood with a solid promise: 'God gave his word; he won't take it back: \"You're the permanent priest.\"' This makes Jesus the guarantee of a way better deal between us and God — one that actually works. A whole new covenant.",
+      "Back in the day, there had to be a ton of priests, because they kept dying and needing to be replaced. But Jesus's priesthood is for keeps. He's on the job from now to eternity, ready to save everyone who comes to God through him. He's always there, speaking up for them like the ultimate wingman.",
+      "So now we have the perfect high priest for our needs. He's completely holy, never messed up by sin, and has authority that goes all the way up to God's throne room in heaven. Unlike the other high priests, he doesn't have to offer sacrifices for his own mistakes every day before he can even start helping us with ours. He did it once and for all when he offered up *himself* as the sacrifice. The old law made regular guys who could never get it right into high priests. But God's new command, which came later, appointed the Son, who is absolutely, eternally perfect."
+    ]
+  },
+  {
+    "chapter": 8,
+    "verseRanges": [
+      "1-2",
+      "1-2",
+      "3-5",
+      "6-13",
+      "6-13"
+    ],
+    "msg_ranges": [
+      "1-2",
+      "1-2",
+      "3-5",
+      "6-13",
+      "6-13"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "6-13",
+        "paras": [
+          3,
+          4
+        ],
+        "note": "MSG para 6-13 (the new-covenant promise) rendered as two Teenz paras; closing 'gathering dust' line split off"
+      }
+    ],
+    "changes": [
+      "Ch8: § header corrected to MSG's own 'A New Plan with Israel' (was paraphrase 'The New Covenant')",
+      "Ch8: badges corrected to MSG 1-2 / 3-5 / 6-13 (was 1-2 / 3-6 / 6-10 / 13 with the new-covenant quote badge stopping at v10)",
+      "Ch8: declared the 6-13 split in splits (the old '13' badge para is the closing line of MSG 6-13)"
+    ],
+    "confirmations_needed": [],
+    "title": "God's New Game Plan",
+    "paragraphs": [
+      "§A New Plan with Israel",
+      "So, here's the deal. We've got this awesome High Priest, Jesus, who's like God's right-hand man. He's the one in charge of worship in the one true holy place, the one God himself built, not some copy.",
+      "The main job of a high priest is to offer gifts and sacrifices, and it's the same for Jesus. But if he were just stuck on Earth, he wouldn't even be a priest. We've already got plenty of those following the old rules. Those priests are just giving us a little preview of what's really going on in heaven. It's like when Moses got a quick look at the real thing before he built the tent for worship. God told him, \"Hey, make sure you build it exactly like what I showed you on the mountain.\"",
+      "But Jesus's job as a priest is way better than theirs because he's working with a much better plan. If the first plan, the old agreement, had been perfect, we wouldn't have needed a new one. But it had some problems. God said, \"Listen up! The time is coming when I'm going to make a new plan with my people. I'm getting rid of the old plan I made with their ancestors when I led them out of Egypt. They didn't stick to their part of the deal, so I had to let them go. This new plan I'm making isn't going to be written on paper or carved in stone. This time, I'm writing it directly in their hearts. I'll be their God, and they'll be my people. They won't have to go to school to learn about me or read a book to get it. Everyone will know me, from the least to the greatest. They'll know me because I'll forgive them, and I'll completely wipe their sins away.\"",
+      "By creating a new plan, a new agreement between him and his people, God made the old one obsolete. It's like an old, dusty video game sitting on the shelf that no one plays anymore."
+    ]
+  },
+  {
+    "chapter": 9,
+    "verseRanges": [
+      "1-5",
+      "1-5",
+      "6-10",
+      "11-15",
+      "11-15",
+      "16-17",
+      "18-22",
+      "23-26",
+      "27-28"
+    ],
+    "msg_ranges": [
+      "1-5",
+      "1-5",
+      "6-10",
+      "11-15",
+      "11-15",
+      "16-17",
+      "18-22",
+      "23-26",
+      "27-28"
+    ],
+    "merges": [],
+    "splits": [],
+    "changes": [
+      "Ch9: § headers corrected to MSG's own 'A Visible Parable' (was 'The Heavenly Tabernacle') and restored missing second MSG header 'Pointing to the Realities of Heaven' before 11-15",
+      "Ch9: badges corrected to MSG 1-5 / 6-10 / 11-15 / 16-17 / 18-22 / 23-26 / 27-28 (was 11-14 / 28)"
+    ],
+    "confirmations_needed": [],
+    "title": "The Ultimate Holy Access",
+    "paragraphs": [
+      "§A Visible Parable",
+      "Alright, so check it. The first deal God had with his people had a whole bunch of rules for how to worship and a special place to do it. They set up this big tent, and in the main room, they had a lamp, a table, and some special bread. They called it the \"Holy Place.\" But then there was another, even more exclusive room behind a curtain, called the \"Holy of Holies.\" Inside, they had a gold altar for incense, and the Ark of the Covenant, which was covered in gold and held some crazy important stuff: a gold jar of manna (that magic bread from the desert), Aaron's staff that grew leaves, and the stone tablets with the Ten Commandments. And on top of the Ark were these awesome angel-wing statues. But we don't have time to get into all of that right now.",
+      "So, the regular priests would go into the main tent to do their jobs, but only the head priest could go into the inner room, the Holy of Holies, and only once a year. And when he did, he had to bring a blood sacrifice to cover his own mistakes and all the stuff the people had messed up. The Holy Spirit was basically showing them that as long as this old system was in place, nobody could just walk up to God. It was like a beta test. The gifts and sacrifices they offered couldn't really fix what was wrong on the inside or make people feel truly clean. It was all just a temporary fix until the real upgrade came along.",
+      "§Pointing to the Realities of Heaven",
+      "And then, BAM! The Messiah shows up. He's the high priest of a whole new, way better deal. He didn't bother with the old tent and all its props. He went straight into the real Holy Place in heaven, once and for all. And instead of sacrificing goats and calves, he used his own blood to set us free forever. If the old way of doing things could clean people up on the outside, imagine how much more powerful the blood of Christ is! Through the Spirit, he offered himself as the perfect sacrifice, a total transformation for our lives, inside and out. Now we're free from all that dead-end stuff of trying to be good enough on our own, and we can go all-in for God.",
+      "It's like this: when someone writes a will, it doesn't mean anything until they die. Jesus' death was what kicked the new deal into gear. His death was the moment everything switched from the old plan to the new one. It canceled out all the old debts and mistakes and let everyone who was promised a part of the inheritance finally get it. He brought God and people together in a totally new way.",
+      "Even the first deal needed a death to get it started. After Moses read all the rules of the old plan, he took the blood of sacrificed animals and sprinkled it on the rulebook and on the people. He was basically saying, \"This is the blood that seals the deal God has made with you.\" He did the same thing with the special tent and everything in it. Pretty much everything in the old system depended on a death. That's why blood is such a big deal in the Bible, especially when it comes to forgiveness.",
+      "All that stuff with the blood and the sacrifices was just a picture of the real thing in heaven. That's why when the real thing happened, they didn't need all those animal sacrifices anymore. Jesus didn't go into a man-made copy of the Holy Place; he went into the real deal in heaven and offered himself to God as the one and only sacrifice for our sins. He didn't have to do it every year like the old priests did with animal blood. If that were the case, he would have had to die over and over again throughout history. But instead, he did it once and for all, a final mic drop that took care of sin forever.",
+      "Everyone has to die once, and then it's time to face the music. But Christ's death was a one-time sacrifice that wiped the slate clean for good. So when he shows up again, it won't be to deal with sin. It'll be to bring the ultimate prize: salvation for everyone who's been waiting for him."
+    ]
+  },
+  {
+    "chapter": 10,
+    "verseRanges": [
+      "1-10",
+      "1-10",
+      "1-10",
+      "1-10",
+      "11-18",
+      "11-18",
+      "19-21",
+      "19-21",
+      "22-25",
+      "26-31",
+      "32-39",
+      "32-39"
+    ],
+    "msg_ranges": [
+      "1-10",
+      "1-10",
+      "1-10",
+      "1-10",
+      "11-18",
+      "11-18",
+      "19-21",
+      "19-21",
+      "22-25",
+      "26-31",
+      "32-39",
+      "32-39"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "1-10",
+        "paras": [
+          1,
+          2,
+          3
+        ],
+        "note": "MSG para 1-10 rendered as three Teenz paras (shadow/trailer, the prophecy quote, old plan canceled)"
+      },
+      {
+        "msg_range": "11-18",
+        "paras": [
+          4,
+          5
+        ],
+        "note": "MSG para 11-18 rendered as two Teenz paras (one sacrifice, Spirit's confirmation)"
+      },
+      {
+        "msg_range": "32-39",
+        "paras": [
+          10,
+          11
+        ],
+        "note": "MSG para 32-39 rendered as two Teenz paras (remember the early days, he's on the way)"
+      }
+    ],
+    "changes": [
+      "Ch10: restored MSG's own headers 'The Sacrifice of Jesus' (was 'Christ's Perfect Sacrifice') and 'Don't Throw It All Away' (was missing) in MSG positions",
+      "Ch10: declared the 1-10, 11-18 and 32-39 splits in splits (old file had them split with no declaration)",
+      "Ch10: badges verified against MSG 1-10 / 11-18 / 19-21 / 22-25 / 26-31 / 32-39"
+    ],
+    "confirmations_needed": [],
+    "title": "Jesus Dropped the Mic",
+    "paragraphs": [
+      "§The Sacrifice of Jesus",
+      "Alright, so check it. The old way of doing things, with all the rules and sacrifices? That was just a sneak peek, like a movie trailer for the awesome new plan. That old system was incomplete, a beta version, so it could never truly fix people. No matter how many animals they sacrificed, year after year, it was like trying to fill a bucket with a hole in it. It just reminded them of their mess-ups and made them feel even guiltier. Let's be real, the blood of bulls and goats can't just delete sin. It's like trying to erase a permanent marker with a pencil eraser. Pointless.",
+      "This is what the prophecy was talking about, with Jesus saying: \"You don't want all these endless sacrifices. You gave me a body to be the real sacrifice. You're not impressed by the smoke and smells from the altar. So I said, 'I'm here to do it your way, God, just like it says in your book.'\"",
+      "When Jesus said He was here to do it God's way, He was basically saying the old plan was canceled. He came to roll out the new, perfect plan. And by sacrificing himself once and for all, he made us right with God. Total transformation.",
+      "Think about it: every other priest is on a hamster wheel, doing the same sacrifices every single day, year after year, and it never actually solves the sin problem. But Jesus, our High Priest, made one single sacrifice for all our sins, and then He sat down next to God, like a boss. Now He's just waiting for his enemies to admit defeat. It was the perfect sacrifice from a perfect person to make us, a bunch of imperfect people, perfect in God's eyes. With that one move, he did everything that needed to be done for anyone who wants to be made clean.",
+      "The Holy Spirit even confirms this, saying the new deal God is making with us won't be written on paper or carved in stone. This time, God's writing his plan *inside* us, on our hearts. And then He says, \"I'll completely forget their sins.\" Once our sins are gone for good, there's no need for any more sacrifices. Mic drop.",
+      "§Don't Throw It All Away",
+      "So, my guys, because of Jesus' sacrifice, we can walk right up to God, into the Holy Place, with no hesitation. Jesus cleared the way for us. The curtain that used to block us from God's presence? That's Jesus' body.",
+      "So let's do it! Let's go to God with total confidence, knowing we're clean inside and out. Let's hold on tight to the promises that keep us going, because God always keeps His word. Let's get creative in how we show love and help each other out. Don't be like those people who ghost worship services. Instead, let's hype each other up, especially since we know the big day is coming.",
+      "If we bail on everything we've learned and been given, if we turn our backs on the truth, we're basically spitting on Jesus' sacrifice. Then we're on our own, and we'll have to face God's judgment, which is going to be intense. If breaking the old rules meant you could be put to death, what do you think will happen if you diss God's Son, disrespect the sacrifice that made you whole, and insult the Holy Spirit? This is not a small thing. God said He'll get his vengeance and that He'll judge his people. Nobody's getting away with anything.",
+      "Remember when you first got it? Those were tough times. You were made fun of, people came at you from all sides. Sometimes it was you, sometimes it was your friends. If your friends went to jail, you had their backs. If your enemies came and took your stuff, you let it go with a smile, because you knew they couldn't touch your real treasure. You were solid. So don't throw it all away now. You were so sure of yourselves then, and you can still be sure now. You just have to stick with it and follow God's plan. Then you'll get the reward He promised.",
+      "It won't be long now. He's on his way and will be here any minute. The people who are right with God live by their loyal trust in Him. If they cut and run, He won't be happy. But we're not quitters who are going to lose out. No way. We're going to stick with it, trust God all the way, and we're going to make it."
+    ]
+  },
+  {
+    "chapter": 11,
+    "verseRanges": [
+      "1-2",
+      "1-2",
+      "3",
+      "4",
+      "5-6",
+      "7",
+      "8-10",
+      "11-12",
+      "13-16",
+      "17-19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24-28",
+      "29",
+      "30",
+      "31",
+      "32-38",
+      "39-40"
+    ],
+    "msg_ranges": [
+      "1-2",
+      "1-2",
+      "3",
+      "4",
+      "5-6",
+      "7",
+      "8-10",
+      "11-12",
+      "13-16",
+      "17-19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24-28",
+      "29",
+      "30",
+      "31",
+      "32-38",
+      "39-40"
+    ],
+    "merges": [],
+    "splits": [],
+    "changes": [
+      "Ch11: FULL REBUILD 1:1 to MSG paras (was 16 paras with overlaps and merges: 4 merged with 5-6, 5-6 duplicated, 7 merged with 8-10, 8-10 merged with 11-12, 11-12 duplicated, 20/21/22 merged, 23 merged with 24-28, 29/30/31 merged, 32-38 split undeclared)",
+      "Ch11: now 20 paras with exact MSG badges 1-2 / 3 / 4 / 5-6 / 7 / 8-10 / 11-12 / 13-16 / 17-19 / 20 / 21 / 22 / 23 / 24-28 / 29 / 30 / 31 / 32-38 / 39-40; § header 'Faith in What We Don't See' (was 'The Faith Hall of Fame')",
+      "Ch11: restored dropped MSG details — 'homesick for the old country could have gone back', 'his only son', 'millions', 'murdered in cold blood', 'friendless, powerless', 'cruel edges of the world'"
+    ],
+    "confirmations_needed": [],
+    "title": "The All-Stars of Faith",
+    "paragraphs": [
+      "§Faith in What We Don't See",
+      "So, what's the deal with faith? It's basically being 100% sure about stuff you can't even see. It's the solid ground under everything that makes life awesome. This is what made our ancestors total legends.",
+      "By faith, we get that God created the entire universe with just a word. He made everything we see out of stuff we can't see. Mind-blowing, right?",
+      "Abel, because he had faith, gave God a way better offering than his brother Cain. It wasn't about the gift itself, but the fact that he believed. That's what got him on God's good side. And even now, we're still talking about it.",
+      "Then there's Enoch. This guy had so much faith he literally just vanished — God took him. They looked everywhere and couldn't find him, because God had taken him. We know from solid testimony that before he was taken, he pleased God. You can't impress God without faith. Why? Because if you want to get close to God, you have to believe he's real and that he actually cares enough to respond to you.",
+      "Noah's another one. God warned him about something he couldn't even see, and Noah just acted on what he was told — he built a massive boat in the middle of dry land. And because he did, his family was saved. His faith drew a sharp line between the messed-up world that refused to believe and the world that got it right. That's how Noah and God became super close.",
+      "And don't even get me started on Abraham. God told him to pack his bags and move to a place he'd never even heard of, and he just did it. He left without knowing where he was going. He lived in tents like a nomad in the promised country, and so did his son Isaac and his grandson Jacob, all holding on to the same promise. Abraham kept his eyes on a real city, one with eternal foundations, designed and built by God himself.",
+      "Sarah, Abraham's wife, was way too old to have kids — she was barren — but because she had faith, she got pregnant. She knew the One who made the promise would keep it. And from this one old guy, whose body was basically done, came millions of people.",
+      "All these heroes of faith died before they got what was promised, but they saw it coming from a distance and waved hello. They were cool with being visitors here on Earth. The way they lived made it obvious they were looking for their true home. If they were homesick for the old country, they could've gone back any time. But they wanted something way better — heaven country. That's why God is so proud of them, and why he's got a city waiting for them.",
+      "Remember when God tested Abraham and told him to sacrifice his son Isaac — the promised son, his one and only? Abraham was ready to do it, as ready to give him back as he'd been to receive him — and this was after God had told him, \"Your descendants shall come from Isaac.\" Abraham figured that if God wanted to, he could just raise the dead. And in a way, that's exactly what happened when he got Isaac back, alive from off the altar.",
+      "By faith, Isaac reached into the future and blessed Jacob and Esau.",
+      "By faith, Jacob, on his deathbed, blessed each of Joseph's sons one by one — with God's blessing, not his own — as he bowed down in worship, leaning on his staff.",
+      "By faith, Joseph, while dying, prophesied that Israel would leave Egypt, and even made arrangements for his own burial.",
+      "By faith, Moses' parents hid him away for three months after he was born. They saw how beautiful the child was, and they weren't scared of the king's orders.",
+      "By faith, when Moses grew up, he refused the privileges of the Egyptian royal house. He chose a hard life with God's people over a soft, opportunistic life of sin with the oppressors. He figured that suffering with the Messiah was worth way more than all of Egypt's treasure, because he was looking ahead to the payoff. So he turned his back on Egypt, totally ignoring the king's blind rage. He kept his eyes on the One no eye can see, and kept right on going. And by faith, he kept the Passover and sprinkled blood on each house, so the destroyer of the firstborn wouldn't touch them.",
+      "By faith, the Israelites walked right through the Red Sea on dry land. The Egyptians tried to follow and drowned.",
+      "By faith, the Israelites marched around the walls of Jericho for seven days, and the walls just fell flat.",
+      "By faith, Rahab, a prostitute in Jericho, welcomed the spies and escaped the destruction that came on everyone who refused to trust God.",
+      "I could go on all day — Gideon, Barak, Samson, Jephthah, David, Samuel, the prophets, and so many more. Through faith, they toppled kingdoms, made justice work, and got what God promised them. They were protected from lions, fires, and sword thrusts. They turned weakness into strength, won battles, and routed entire armies. Women even got their dead loved ones back. Some were tortured but refused to give in and go free, because they were holding out for something better: resurrection. Others faced mockery and whips, chains and dungeons. Some were stoned, sawed in two, murdered in cold blood. Some wandered the earth with nothing but animal skins — homeless, friendless, powerless — and the world didn't even deserve them. They just kept going on the cruel edges of the world, doing their best.",
+      "None of these people, even with their amazing faith, got everything that was promised. God had a better plan for us. He wanted their story and our story to come together to make one epic saga. Their journey of faith isn't complete without ours."
+    ]
+  },
+  {
+    "chapter": 12,
+    "verseRanges": [
+      "1-3",
+      "1-3",
+      "4-11",
+      "12-13",
+      "14-17",
+      "18-21",
+      "18-21",
+      "22-24",
+      "25-27",
+      "28-29"
+    ],
+    "msg_ranges": [
+      "1-3",
+      "1-3",
+      "4-11",
+      "12-13",
+      "14-17",
+      "18-21",
+      "18-21",
+      "22-24",
+      "25-27",
+      "28-29"
+    ],
+    "merges": [],
+    "splits": [],
+    "changes": [
+      "Ch12: FULL REBUILD 1:1 to MSG paras (was 9 paras with fabricated mid-chapter § 'God's Discipline', overlapping badges 1-3/2-6, a null badge, and 18-21/22-24 merged)",
+      "Ch12: now 10 paras with exact MSG badges 1-3 / 4-11 / 12-13 / 14-17 / 18-21 / 22-24 / 25-27 / 28-29; § headers 'Discipline in a Long-Distance Race' and 'An Unshakable Kingdom' in MSG positions",
+      "Ch12: restored dropped MSG details — the discipline quote, 'would you prefer an irresponsible God', 'seemed best vs is best', Esau tears, 'the murder of Jesus, unlike Abel's', 'stem to stern', 'God himself is Fire'"
+    ],
+    "confirmations_needed": [],
+    "title": "Level Up Your Faith Game",
+    "paragraphs": [
+      "§Discipline in a Long-Distance Race",
+      "So, what's all this mean — all these pioneers who blazed the way, all these veterans cheering us on from the sidelines? It means we'd better get on with it. Strip down, start running — and never quit! No extra spiritual fat, no parasitic sins. Keep your eyes on Jesus, who both started and finished this race we're in. Study how he did it. He never lost sight of where he was headed — that epic finish line with God — so he could handle anything they threw at him: the cross, the shame, all of it. And now he's there, in the place of honor, right alongside God. So when your faith starts running on low, go over his story again, piece by piece — all that hostility he pushed through. That'll give your soul the adrenaline shot it needs.",
+      "In this all-out battle against sin, others have suffered way worse than you — not to mention what Jesus went through, all that bloodshed. So don't feel sorry for yourselves. Or have you forgotten how good parents treat their kids, and that God sees you as his kids? Listen: \"My dear child, don't shrug off God's discipline, but don't be crushed by it either. It's the child he loves that he disciplines; the child he embraces, he also corrects.\" God is training you, so never drop out. He's treating you like his dear kids. This trouble you're in isn't punishment — it's training, the normal experience of kids. Only irresponsible parents leave their kids to fend for themselves. Would you rather have an irresponsible God? We respect our own parents for training us instead of spoiling us, so why not embrace God's training so we can truly live? When we were kids, our parents did what seemed best to them. But God is doing what actually is best for us, training us to live his holy best. Right now, discipline isn't fun. It feels like it's going against the grain. But later, it pays off big time — because it's the well-trained who end up mature in their relationship with God.",
+      "So don't just sit around! No more dragging your feet! Clear the path for the long-distance runners, so nobody trips and falls, so nobody steps in a hole and sprains an ankle. Help each other out. And run for it!",
+      "Work at getting along with each other — and with God. Otherwise you'll never even catch a glimpse of God. Make sure nobody in your crew misses out on God's generosity. Keep a sharp eye out for weeds of bitter discontent — one or two thistles gone to seed can ruin a whole garden in no time. And watch out for the Esau syndrome: trading away God's lifelong gift to satisfy a short-term craving. You know how Esau later regretted that impulsive move and wanted God's blessing — but by then it was too late, tears or no tears.",
+      "§An Unshakable Kingdom",
+      "Unlike your ancestors, you didn't come to Mount Sinai — all that volcanic fire and earthshaking rumble — to hear God speak. The earsplitting words and soul-shaking message terrified them, and they begged him to stop. When they heard, \"If an animal touches the Mountain, it's as good as dead,\" they were too scared to move. Even Moses was terrified.",
+      "No, that's not your experience at all. You've come to Mount Zion, the city where the living God lives. The invisible Jerusalem is packed with celebrating angels and Christian citizens. It's the city where God is Judge — and his judgments make us just. You've come to Jesus, who brings us a new covenant, a fresh charter from God. He's the Mediator of this covenant. And unlike Abel's murder — a killing that cried out for revenge — Jesus' death became a proclamation of grace.",
+      "So don't turn a deaf ear to these gracious words. If the people who ignored warnings from earth didn't get away with it, what'll happen to us if we turn our backs on warnings from heaven? His voice shook the earth to its foundations that time; this time — he's told us this plainly — he'll rock the heavens too: \"One last shaking, from top to bottom, stem to stern.\" That phrase \"one last shaking\" means a total housecleaning — getting rid of all the historical and religious junk so the unshakable essentials stand clear.",
+      "Do you see what we've got? An unshakable kingdom! And do you get how thankful we need to be? Not just thankful — overflowing with worship, deeply respectful before God. Because God isn't some indifferent bystander. He's actively cleaning house, torching everything that needs to burn, and he won't quit until it's all cleansed. God himself is Fire!"
+    ]
+  },
+  {
+    "chapter": 13,
+    "verseRanges": [
+      "1-4",
+      "1-4",
+      "5-6",
+      "7-8",
+      "9",
+      "10-12",
+      "13-15",
+      "16",
+      "17",
+      "18-21",
+      "18-21",
+      "22-23",
+      "24",
+      "25"
+    ],
+    "msg_ranges": [
+      "1-4",
+      "1-4",
+      "5-6",
+      "7-8",
+      "9",
+      "10-12",
+      "13-15",
+      "16",
+      "17",
+      "18-21",
+      "18-21",
+      "22-23",
+      "24",
+      "25"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "18-21",
+        "paras": [
+          9,
+          10
+        ],
+        "note": "MSG para 18-21 rendered as two Teenz paras (prayer request, then the full benediction)"
+      }
+    ],
+    "changes": [
+      "Ch13: § header corrected to MSG's own 'Jesus Doesn't Change' (was 'Final Instructions')",
+      "Ch13: split the old merged 13-15/16 para (badge '14-16') into MSG's own paras 13-15 and 16; split old merged 24/25 into 24 and 25; badges now MSG 1-4 / 5-6 / 7-8 / 9 / 10-12 / 13-15 / 16 / 17 / 18-21 / 22-23 / 24 / 25",
+      "Ch13: restored dropped MSG details — 'products named after Christ', the altar/exploitation line, the full benediction ('puts all things together, makes all things whole', 'the sacrifice of blood that sealed the eternal covenant', 'our Great Shepherd', 'oh, yes, yes, yes')",
+      "Ch13: removed the fabricated non-§ subtitle line '하나님이 기뻐하시는 제사'-style extra header (KO side)"
+    ],
+    "confirmations_needed": [],
+    "title": "The Real Deal",
+    "paragraphs": [
+      "§Jesus Doesn't Change",
+      "Stay on good terms with each other, held together by love. Be ready with a meal or a bed when it's needed. Why, some people have shown hospitality to angels without even knowing it! Treat prisoners like you're in prison with them. Look at victims of abuse like what happened to them happened to you. Honor marriage, and guard the sacredness of sexual intimacy between a husband and wife. God draws a hard line against casual, illicit sex.",
+      "Don't get obsessed with stacking up more stuff. Be chill with what you've got. Since God promised us, \"I'll never let you down, never walk off and leave you,\" we can say it boldly: \"God's got my back. I'm fearless, no matter what. Who or what can get to me?\"",
+      "Appreciate your leaders who gave you God's Word. Take a good look at how they live, and let their faithfulness teach you, along with their honesty. There should be a consistency that runs through all of us. Because Jesus doesn't change — yesterday, today, tomorrow, he's always totally himself.",
+      "Don't get lured away from him by the latest hot takes about him. The grace of Christ is the only solid ground for life. Products named after Christ don't seem to do much for the people who buy them.",
+      "The altar where God gives us the gift of himself isn't there for insiders to exploit — people who just grab and loot. In the old system, the animals were killed and their bodies were disposed of outside the camp. Then the blood was brought inside to the altar as a sacrifice for sin. It's the same with Jesus. He was crucified outside the city gates — that's where he poured out the sacrificial blood that was brought to God's altar to cleanse his people.",
+      "So let's go outside, where Jesus is, where the action is — not trying to be privileged insiders, but taking our share in the abuse Jesus took. This insider world isn't our home. We've got our eyes peeled for the City that's coming. Let's take our place outside with Jesus, no longer pouring out the blood of animal sacrifices, but pouring out sacrificial praises from our lips to God, in Jesus' name.",
+      "And don't slack off or take things for granted when it comes to working for the common good — share what you have with others. God really loves this kind of worship — a different kind of \"sacrifice\" — the kind that happens in kitchens and workplaces and out on the streets.",
+      "Listen to your leaders. Take their advice seriously. They're watching over your lives and they answer to God himself. Make their job a joy, not a drag. Why would you want to make things harder for them?",
+      "Pray for us. We've got zero doubts about what we're doing or why — but it's tough going, and we need your prayers. All we care about is living well before God. And pray that we can be together soon.",
+      "May God — who puts all things together and makes all things whole, who made a lasting mark through the sacrifice of Jesus, the sacrifice of blood that sealed the eternal covenant, who brought Jesus, our Great Shepherd, up and alive from the dead — now put you together and give you everything you need to please him. May he make us into what gives him the most pleasure, through the sacrifice of Jesus, the Messiah. All glory to Jesus, forever and always! Oh, yes, yes, yes.",
+      "Friends, please take what I've written seriously. I've kept this as short as I could — no extra fluff. Good news: Timothy's out of prison. If he leaves soon, I'll come with him and get to see you myself.",
+      "Say hi to your leaders and all the congregations. Everyone here in Italy says hello and wants to be remembered to you.",
+      "Grace be with you — every single one of you."
+    ]
+  }
+]
