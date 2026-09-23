@@ -7,7 +7,8 @@ Usage: python3 upload_ot_a.py Obadiah [Haggai ...]
 '{한글이름} ({영어이름}) — Final: MSG + Teen EN + KO' 제목으로 Doc 생성
 -> docx 업로드(자동 변환) -> Docs API title 일치 + 테이블 수 == 장 수 확인
 -> export-back 검증 (빈 틴 셀 없음, 누락 문단 없음).
-결과는 gdocs_build/upload_results.json에 추가(키 단위 upsert) + 본 스크립트 출력.
+결과는 gdocs_build/upload_results_workerA.json에 추가(키 단위 upsert) + 본 스크립트 출력.
+(2026-09-23: 공유 파일 경합 방지를 위해 공유 upload_results.json에는 쓰지 않음. 작업자 A 전용 파일 사용.)
 """
 import json, subprocess, sys, time, os
 
@@ -80,7 +81,7 @@ def run(args):
 def main():
     keys = sys.argv[1:]
     assert keys and all(k in BOOK_MAP for k in keys), f'usage: upload_ot_a.py <OT-A Key...>'
-    res_path = os.path.join(GDIR, 'upload_results.json')
+    res_path = os.path.join(GDIR, 'upload_results_workerA.json')
     results = json.load(open(res_path, encoding='utf-8'))
     id_by_key = {r['key']: r for r in results}
     summary = []
@@ -126,7 +127,8 @@ def main():
                      'webViewLink': f.get('webViewLink'),
                      'tables': n_tables, 'expected': exp_tables,
                      'status': 'OK' if ok else 'MISMATCH',
-                     'export_problems': problems[:10]}
+                     'export_problems': problems[:10],
+                     'export_back': 'VERIFIED OK' if (ok and not problems) else 'ISSUES'}
             if key in id_by_key:
                 results[results.index(id_by_key[key])] = entry
             else:
