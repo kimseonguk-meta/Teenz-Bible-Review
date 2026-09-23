@@ -165,3 +165,13 @@
 ### I2. ch6 — MSG 문단 번호 겹침 (teen 배지 조정) — 상태: applied-pre
 - MSG 6장 유닛 번호에 겹침/연속 문제가 있었고, 1차 감사에서 teen 배지를 조정해 해결한 상태로 발견 (verseRanges == msg_ranges 6장 전부 일치 확인).
 - 내용 손실 없음. 구조 변경 없음.
+
+---
+
+## Hebrews (감사: 2026-09-23)
+
+### H1. ch13 — MSG 18-21 → 2문단 split — 상태: pending
+- MSG: 18-21 하나의 문단 (기도 요청 "Pray for us... Pray that we may be together soon." → 축복기도 "May God, who puts all things together... Oh, yes, yes, yes.").
+- EN: [18-21] 기도 요청 / [18-21] 축복기도 ("May God — who puts all things together and makes all things whole... All glory to Jesus, forever and always! Oh, yes, yes, yes."). 두 문단 모두 배지 18-21 공유.
+- KO: 동일하게 2문단.
+- 근거: 간청 → 축복 선포로 담화 전환. 내용 손실 없음. (성욱 컨펌 전 구조 변경 없음)
