@@ -3,6 +3,8 @@
 규칙: 성욱 컨펌 없이 적용 금지. 22권 전체 감사 종료 후 일괄 컨펌 요청.
 상태: `pending` (컨펌 대기) / `approved` (성욱 승인됨) / `applied-pre` (2026-09-22 1차 감사에서 이미 적용된 것 — 이번 감사에서 재확인용으로 기록)
 
+**2026-09-23 성욱 승인: 15건 pending 전부 keep(현재 구조 유지)으로 승인됨. 본문 구조 변경 없음. R1/R2는 metadata만 실제 구조에 맞게 정정.**
+
 ---
 
 ## Acts (감사: 2026-09-23)
@@ -36,7 +38,7 @@
 
 ## 1Corinthians (감사: 2026-09-23)
 
-### C1. ch8 — MSG 7 → merge (두 문단을 하나로) — 상태: pending
+### C1. ch8 — MSG 7 → merge (두 문단을 하나로) — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 8:7이 두 개의 별도 문단 — "In strict logic, then, nothing happened to the meat when it was offered up to an idol..." / "We need to be sensitive to the fact that we're not all at the same level of understanding in this."
 - EN/KO: 한 문단으로 합쳐짐 (ch8 p3, 배지 '7').
 - 근거: 내용 누락 없음 (두 문단 내용 모두 한 문단 안에 반영됨). 적용 시 splits 선언 필요.
@@ -45,25 +47,25 @@
 
 ## 2Corinthians (감사: 2026-09-23)
 
-### D1. ch6 — MSG 1–10 → 2문단 split — 상태: pending
+### D1. ch6 — MSG 1–10 → 2문단 split — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 6:1–10이 하나의 긴 문단 ("Staying at Our Post": 귀 기울이라는 호소 + 고난받는 일꾼들의 긴 목록).
 - EN: [1-10] "Listen! Pay attention…" 호소부 / [1-10] "Here are the servants' stories…" 목록부 (두 문단 모두 배지 1–10, splits 선언됨).
 - KO: 동일하게 2문단.
 - 근거: 호소 → 서번트 리스트로 담화 전환. 내용 손실 없음.
 
-### D2. ch6 — MSG 14–18 → 2문단 split — 상태: pending
+### D2. ch6 — MSG 14–18 → 2문단 split — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 6:14–18이 하나의 문단 (반문 병렬 + 하나님의 약속 인용).
 - EN: [14-18] 질문 병렬부 / [14-18] "I will live with them… I will be their God" 약속 인용부 (두 문단 모두 배지 14–18, splits 선언됨).
 - KO: 동일하게 2문단.
 - 근거: 질문/대조 → 약속 인용으로 구조 전환. 내용 손실 없음.
 
-### D3. ch8 — MSG 10–20 → 2문단 split — 상태: pending
+### D3. ch8 — MSG 10–20 → 2문단 split — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 8:10–20이 하나의 긴 문단 (연보 완수 촉구 + 디도/동역자 파송).
 - EN: [10-20] 연보 완수부 (v10–15) / [10-20] 디도와 동역자부 (v16–20) (두 문단 모두 배지 10–20, splits 선언됨).
 - KO: 동일하게 2문단.
 - 근거: 연보 촉구 → 동역자 파송으로 주제 전환. 내용 손실 없음.
 
-### D4. ch9 — MSG 3–5 → 2문단 split — 상태: pending
+### D4. ch9 — MSG 3–5 → 2문단 split — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 9:3–5가 하나의 문단 (얼굴 붉힘/허언 우려 + 선행 파송팀).
 - EN: [3-5] "I don't want to be embarrassed…" 우려부 / [3-5] "So I'm sending the advance team…" 파송부 (두 문단 모두 배지 3–5, splits 선언됨).
 - KO: 동일하게 2문단.
@@ -75,25 +77,25 @@
 
 아래 4건은 모두 MSG 자체의 겹침 인쇄 범위(overlapping print ranges)를 Teen이 두 문단으로 나눈 것으로, `splits` metadata에 선언済. Teen이 MSG 단일 문단을 나눈 것이 아니라 MSG의 문단 경계를 그대로 따른 것. 내용 손실 없음.
 
-### G1. ch1 — MSG 13-16 / 16-20 (v16 공유) — 상태: pending
+### G1. ch1 — MSG 13-16 / 16-20 (v16 공유) — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 13-16(유대교 시절 박해+모태에서의 부르심)과 16-20(아라비아→다마스쿠스→예루살렘 15일)이 v16을 공유하며 별도 문단.
 - EN: [13-16] / [16-20] 2문단 (splits 선언됨).
 - KO: 동일하게 2문단.
 - 근거: MSG 자체 문단 구분. 내용 손실 없음.
 
-### G2. ch2 — MSG 19-21 / 21 (v21 공유) — 상태: pending
+### G2. ch2 — MSG 19-21 / 21 (v21 공유) — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 19-21(율법과 결별 선언)과 21("Is it not clear to you…Christ died unnecessarily")이 v21을 공유하며 별도 문단.
 - EN: [19-21] / [21] 2문단 (splits 선언됨).
 - KO: 동일하게 2문단.
 - 근거: MSG 자체 문단 구분. 내용 손실 없음.
 
-### G3. ch3 — MSG 15-18 / 18-20 (v18 공유) — 상태: pending
+### G3. ch3 — MSG 15-18 / 18-20 (v18 공유) — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 15-18(유언 비유·430년)과 18-20(율법의 목적·모세 중재자)이 v18을 공유하며 별도 문단.
 - EN: [15-18] / [18-20] 2문단 (splits 선언됨).
 - KO: 동일하게 2문단.
 - 근거: MSG 자체 문단 구분. 내용 손실 없음.
 
-### G4. ch5 — MSG 22-23 / 23-24 (v23 공유) — 상태: pending
+### G4. ch5 — MSG 22-23 / 23-24 (v23 공유) — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 22-23(성령의 열매)과 23-24(율법주의 무력+십자가에 못박음)이 v23을 공유하며 별도 문단.
 - EN: [22-23] / [23-24] 2문단 (splits 선언됨).
 - KO: 동일하게 2문단.
@@ -103,15 +105,15 @@
 
 ## Ephesians (감사: 2026-09-23)
 
-아래 2건은 `splits` metadata에 이미 선언된 것으로, Teen이 MSG 문단 경계를 따른 것. 내용 손실 없음. 상태: pending.
+아래 2건은 `splits` metadata에 이미 선언된 것으로, Teen이 MSG 문단 경계를 따른 것. 내용 손실 없음. 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지).
 
-### E1. ch2 — MSG 1-6 → 2문단 split — 상태: pending
+### E1. ch2 — MSG 1-6 → 2문단 split — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 1-6 단일 문단(§He Tore Down the Wall 헤더 포함).
 - EN: [1-6] 죄의 삶 묘사(para1) / [1-6] 자비로 살리심(para2). splits 선언됨 (note: "가독상 2문단 분할").
 - KO: 동일하게 2문단.
 - 근거: 담화 전환(죄의 삶 → 하나님의 자비). 내용 손실 없음.
 
-### E2. ch3 — MSG 7-8 / 8-10 (v8 공유) — 상태: pending
+### E2. ch3 — MSG 7-8 / 8-10 (v8 공유) — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 7-8(사도직 논리)과 8-10(선포 사명)이 v8을 공유하며 별도 문단.
 - EN: [7-8] / [8-10] 2문단 (splits 선언됨).
 - KO: 동일하게 2문단.
@@ -146,7 +148,7 @@
 
 ## 2Thessalonians (감사: 2026-09-23)
 
-### T1. ch3 — MSG 10-13 → (10-12)/(13) split — 상태: pending
+### T1. ch3 — MSG 10-13 → (10-12)/(13) split — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 10-13이 하나의 문단 ("Don't you remember the rule…?" 인용 + 게으른 자 보고 + 일 명령 + "don't slack off").
 - EN: [10-12] 규칙 인용/보고/일 명령 / [13] "Friends, don't slack off in doing your duty. Don't burn out doing the right thing — keep going." (splits 선언됨, 문단 경계가 v13 절 경계와 일치).
 - KO: 동일하게 2문단.
@@ -170,7 +172,7 @@
 
 ## Hebrews (감사: 2026-09-23)
 
-### H1. ch13 — MSG 18-21 → 2문단 split — 상태: pending
+### H1. ch13 — MSG 18-21 → 2문단 split — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 18-21 하나의 문단 (기도 요청 "Pray for us... Pray that we may be together soon." → 축복기도 "May God, who puts all things together... Oh, yes, yes, yes.").
 - EN: [18-21] 기도 요청 / [18-21] 축복기도 ("May God — who puts all things together and makes all things whole... All glory to Jesus, forever and always! Oh, yes, yes, yes."). 두 문단 모두 배지 18-21 공유.
 - KO: 동일하게 2문단.
@@ -180,14 +182,14 @@
 
 ## Revelation (감사: 2026-09-23)
 
-### R1. ch5 — MSG 찬양 3문단 → teen 문단 내 인라인 병합 (undeclared merge ×3) — 상태: pending
+### R1. ch5 — MSG 찬양 3문단 → teen 문단 내 인라인 병합 (undeclared merge ×3) — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 6-10 유닛("And they sang a new song:"로 끝남) + 별도 찬양 문단 "Worthy! Take the scroll..." / 11-14 유닛("in full song:"로 끝남) + 별도 찬양 문단 "The slain Lamb is worthy!..." + 별도 찬양 문단 "To the One on the Throne!...".
 - EN/KO: 찬양 3개가 앞 문단에 인라인으로 합쳐짐 — [6-10] 새 노래 본문 포함 / [11-14] 어린 양 찬양 포함 / [11-14] 보좌+어린 양 찬양 포함. splits 선언 없음 (미선언).
 - 근거: 찬양 블록이 화자 전환 없이 직전 서술에 바로 이어지는 구조. 내용 손실 없음 (찬양 전문이 teen 문단 안에 인용 형태로 보존됨).
-- ⚠ 성욱 컨펌 전 구조 변경 없음. 컨펌 시 splits 메타로 선언하거나 현재 구조 유지 결정 필요.
+- ⚠ 2026-09-23 성욱 keep 승인 — 구조 변경 없음. merges 메타로 선언됨 (fixes/en_Revelation.json, fixes/ko_Revelation.json ch5).
 
-### R2. ch16 — MSG 4-7 (4문단) → EN/KO 2문단 (undeclared merge) — 상태: pending
+### R2. ch16 — MSG 4-7 (4문단) → EN/KO 2문단 (undeclared merge) — 상태: approved (성욱 2026-09-23 keep 승인 — 현재 구조 유지)
 - MSG: 4개 문단 — "4-7 The third Angel poured his bowl on rivers and springs..." / "Righteous you are, and your judgments are righteous..." / "Just then I heard the Altar chime in," / "Yes, O God, the Sovereign-Strong! Your judgments are true and just!".
 - EN/KO: 2문단 (idx 4, 5, 배지 4-7 공유). splits 메타는 "MSG prints 4-7 as two paragraphs (Angel of Waters + Altar); Split approved 2026-09-22 (Seonguk)"로 기록되어 있으나 MSG 실제는 4문단 — 메타 설명이 사실과 다름.
 - 근거: 물의 천사 찬양 + 제단 응답이 하나의 심판-응답 담화로 이어짐. 내용 손실 없음.
-- ⚠ 성욱 컨펌 전 구조 변경 없음. 컨펌 시 splits 메타 노트를 실제(MSG 4문단→2문단 병합)에 맞게 정정 필요.
+- ⚠ 2026-09-23 성욱 keep 승인 — 구조 변경 없음. splits 메타 노트를 실제(MSG 4문단→2문단 병합)에 맞게 정정함.

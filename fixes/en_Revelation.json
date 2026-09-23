@@ -439,7 +439,29 @@
    "Then I heard every creature in Heaven and earth, in underworld and sea, join in, all voices in all places, singing: To the One on the Throne! To the Lamb! The blessing, the honor, the glory, the strength, for age after age after age.",
    "The Four Animals called out, “Oh, Yes!” The Elders fell to their knees and worshiped."
   ],
-  "merges": [],
+  "merges": [
+   {
+    "para": 5,
+    "msg_ranges": [
+     "6-10"
+    ],
+    "note": "Keep approved 2026-09-23 (Seonguk): MSG's separate 6-10 praise block ('Worthy! Take the scroll, open its seals. Slain!...') merged inline into teen para[5] right after 'And they sang a new song:'. Content complete, no loss."
+   },
+   {
+    "para": 6,
+    "msg_ranges": [
+     "11-14"
+    ],
+    "note": "Keep approved 2026-09-23 (Seonguk): MSG's separate 11-14 praise block ('The slain Lamb is worthy!...') merged inline into teen para[6] right after 'in full song:'. Content complete, no loss."
+   },
+   {
+    "para": 7,
+    "msg_ranges": [
+     "11-14"
+    ],
+    "note": "Keep approved 2026-09-23 (Seonguk): MSG's separate 11-14 praise block ('To the One on the Throne!...') merged inline into teen para[7] right after '...singing:'. Content complete, no loss."
+   }
+  ],
   "splits": [
    {
     "msg_range": "6-10",
@@ -447,7 +469,7 @@
      4,
      5
     ],
-    "note": "Split approved 2026-09-22 (Seonguk): MSG prints 6-10 as two paragraphs (Lamb takes scroll + new song); split into 2 EN/KO paragraphs following MSG"
+    "note": "Keep approved 2026-09-23 (Seonguk): MSG 6-10 prints as narrative ('So I looked... And they sang a new song:') + a separate praise block ('Worthy! Take the scroll, open its seals...'); teen splits the narrative into 2 EN/KO paragraphs [4,5] and merges the praise inline into para[5] (declared in merges). Content complete, no loss."
    },
    {
     "msg_range": "11-14",
@@ -456,7 +478,7 @@
      7,
      8
     ],
-    "note": "Split approved 2026-09-22 (Seonguk): MSG prints 11-14 as three paragraphs (angels' song, every creature, Amen); split into 3 EN/KO paragraphs following MSG"
+    "note": "Keep approved 2026-09-23 (Seonguk): MSG 11-14 prints as 5 blocks (narrative 'in full song:' + praise + narrative 'singing:' + praise + final 'Oh, Yes!'); teen keeps 3 EN/KO paragraphs [6,7,8] with the 2 praise blocks merged inline into paras [6],[7] (declared in merges). Content complete, no loss."
    }
   ],
   "changes": [
@@ -468,7 +490,10 @@
    "Restored MSG 11-14 'ten thousand times ten thousand', 'every creature in Heaven and earth, in underworld and sea', 'for age after age after age'",
    "Removed invented 'super-exclusive drop', 'taken out'; fixed badges to MSG ranges"
   ],
-  "confirmations_needed": []
+  "confirmations_needed": [
+   "R1 approved 2026-09-23 (Seonguk keep): ch5 merges MSG 6-10's separate praise block inline into para[5] — confirm merged paragraph OK.",
+   "R1 approved 2026-09-23 (Seonguk keep): ch5 merges MSG 11-14's two separate praise blocks inline into paras [6],[7] — confirm merged paragraphs OK."
+  ]
  },
  {
   "chapter": 6,
@@ -1040,7 +1065,22 @@
    "The frog-demons gathered the kings together at the place called in Hebrew *Armageddon*.",
    "The seventh Angel poured his bowl into the air: From the Throne in the Temple came a shout, “Done!” followed by lightning flashes and shouts, thunder crashes and a colossal earthquake—a huge and devastating earthquake, never an earthquake like it since time began. The Great City split three ways, the cities of the nations toppled to ruin. Great Babylon had to drink the wine of God's raging anger—God remembered to give her the cup! Every island fled and not a mountain was to be found. Hailstones weighing close to a hundred pounds plummeted, crushing and smashing men and women as they cursed God for the hail, the epic disaster of hail."
   ],
-  "merges": [],
+  "merges": [
+   {
+    "para": 4,
+    "msg_ranges": [
+     "4-7"
+    ],
+    "note": "Keep approved 2026-09-23 (Seonguk): MSG's separate 4-7 praise paragraph ('Righteous you are, and your judgments are righteous...') merged inline into teen para[4] right after 'I heard the Angel of Waters say,'. Content complete, no loss."
+   },
+   {
+    "para": 5,
+    "msg_ranges": [
+     "4-7"
+    ],
+    "note": "Keep approved 2026-09-23 (Seonguk): MSG's separate 4-7 response paragraph ('Yes, O God, the Sovereign-Strong! Your judgments are true and just!') merged inline into teen para[5] right after 'Just then I heard the Altar chime in,'. Content complete, no loss."
+   }
+  ],
   "splits": [
    {
     "msg_range": "4-7",
@@ -1048,7 +1088,7 @@
      4,
      5
     ],
-    "note": "Split approved 2026-09-22 (Seonguk): MSG prints 4-7 as two paragraphs (Angel of Waters + Altar); split into 2 EN/KO paragraphs following MSG"
+    "note": "Keep approved 2026-09-23 (Seonguk): MSG prints 4-7 as four paragraphs (third Angel pours bowl on rivers/springs + Angel of Waters praise 'Righteous you are...' + 'Just then I heard the Altar chime in,' + Altar response 'Yes, O God, the Sovereign-Strong!...'); teen keeps 2 EN/KO paragraphs [4,5] with the praise/response blocks merged inline (declared in merges). Content complete, no loss."
    }
   ],
   "changes": [
@@ -1064,7 +1104,9 @@
    "Restored MSG 17-21 'lightning flashes and shouts, thunder crashes and a colossal earthquake—a huge and devastating earthquake, never an earthquake like it since time began', 'The Great City split three ways, the cities of the nations toppled to ruin', 'Hailstones weighing close to a hundred pounds plummeted, crushing and smashing men and women'",
    "Fixed badge 15-16 to 15 (was overlapping 16); removed invented 'Super horrible', 'Total fail'; fixed badges to MSG ranges"
   ],
-  "confirmations_needed": []
+  "confirmations_needed": [
+   "R2 approved 2026-09-23 (Seonguk keep): ch16 merges MSG 4-7's separate praise/response paragraphs inline into paras [4],[5] — confirm merged paragraphs OK."
+  ]
  },
  {
   "chapter": 17,
