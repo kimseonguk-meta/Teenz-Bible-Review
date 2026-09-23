@@ -31,5 +31,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "2Chronicles",
+  "title": "역대기하 (2Chronicles): MSG + Teen EN + KO",
+  "id": "1df1z3dJkMjNRWqAT58T2Oini0NRZwiheunK_jSrDSeY",
+  "webViewLink": "https://docs.google.com/document/d/1df1z3dJkMjNRWqAT58T2Oini0NRZwiheunK_jSrDSeY/edit?usp=drivesdk",
+  "tables": 36,
+  "expected": 36,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]
