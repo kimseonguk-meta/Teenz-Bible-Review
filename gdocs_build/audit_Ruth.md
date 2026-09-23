@@ -47,3 +47,10 @@
 ## 5. 검증 범위 및 미확인 경계
 - 검증한 것: MSG vs EN vs KO 전수 대조 4장, validator, completeness_check(오탐 문서화), DOCX 빌드, 짝지음 내용 검증, Google Docs 업로드 + API 테이블 수 + export-back 검증.
 - 미확인: Google Docs 웹 화면은 이 환경에서 직접 보지 못함. 자동 욕설 목록 밖 미묘한 뉘앙스. production 앱 미접촉.
+
+## 6. 재확인 (2026-09-24, 재확인 작업자 — 독립 재검증)
+- 7개 게이트 재실행: ③ validate PASS, ⑤ 재빌드 VERIFY_DROPPED=0 (rows=74), ⑥ verify_pairing_content PASS (74행).
+- ④ 기계적 완전성 검사 14건 FAIL → 전수 수동 대조 결과 전부 오탐, 텍스트 변경 0건: 'ephrathites'→"an Ephrathite"(단수), 'elimelech' 2건→"her husband's side"/"the rich relative"(1장에서 지시 대상 확립), 'moabite' 3건→"from Moab", 'moabitess'→"Ruth was like"(정체 명확), 숫자 4건→"the first"→나열 순서/"two daughters-in-law"→"both"/"the one"→"the girl"/"the two women"→Rachel·Leah 명시, 인용구 3건→"pick up/gather the leftovers"(gleaning 의역 일관). 1차 감사(작업자 A)의 오탐 문서화와 독립적으로 동일한 결론에 도달.
+- 슬랭 6 Rule 재검색: EN "woke up"(3:8, 정상 동사 — 오탐), KO "좋아요"(1:17 "벌하셔도 좋아요", 정상 형용사 — 오탐) 외 위반 없음. R6 chill 1건 유지(변경 금지).
+- 파서 경계 버그(Joshua 14:15/15:1) 해당 없음 — Ruth 장 경계 전체 정상 파싱 확인.
+- 텍스트 변경 없으므로 Google Docs 재업로드 불필요 (기존 Doc id 14tmrTTb1rGX0gatBv5khy4tBvEEopS9uD5m3kcEd_LY 유지).

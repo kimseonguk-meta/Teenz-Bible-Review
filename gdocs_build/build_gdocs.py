@@ -225,6 +225,25 @@ def next_verse_mins(classified):
     return res
 
 
+def next_single_num(classified, i):
+    """Single verse number of the next verse-bearing line after index i,
+    skipping BLANK/SKIP/TEXT lines. Returns the number only when that line
+    is a lone single-number verse ('N <text>'); otherwise None."""
+    for j in range(i + 1, len(classified)):
+        kind, pay = classified[j]
+        if kind in ('BLANK', 'SKIP', 'TEXT'):
+            continue
+        if kind == 'VERSE':
+            vset = parse_verse_set(pay[0])
+            if len(vset) == 1:
+                return next(iter(vset))
+            return None
+        if kind == 'SINGLE_NUM_TEXT':
+            return pay[0]
+        return None
+    return None
+
+
 def parse_msg_lines(text, initial_ch=0):
     """Pass 2: build MSG units [{chapter, verses:set, blocks:[str]}]."""
     text = expand_inline_markers(text)
@@ -307,6 +326,17 @@ def parse_msg_lines(text, initial_ch=0):
                     # ambiguous: verse nn of cur_ch, or chapter nn marker?
                     if nn in covered:
                         chapter_marker(nn, rest.strip())
+                    elif next_single_num(classified, i) == nn:
+                        # duplicate 'N <text>' lines: the first is the last
+                        # verse of cur_ch (e.g. Joshua 14:15 'The name of
+                        # Hebron...'), the second opens chapter N (e.g.
+                        # ch15:1 'The lot for the people of Judah...').
+                        # A chapter marker is never followed by the same
+                        # number again, so this must be a verse. Without
+                        # this, the first line is misfiled as chapter N
+                        # verse 1 and the doc pairs it with the wrong Teen
+                        # paragraph.
+                        new_unit(cur_ch, vset, rest.strip())
                     elif nxt[i] is None:
                         # last verse line of the file: a chapter marker
                         # would have following content, so this is a verse
