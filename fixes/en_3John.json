@@ -1,82 +1,82 @@
 [
-  {
-    "changes": [
-      "Ch1: fixed null badge — '§Support the Travelers' now badged '5-8' (shares with following body paragraph)",
-      "Ch1: fixed overlapping badges '5-6'/'7-8' → '5-8' x2 (MSG's single 5-8 paragraph split in two; splits declared)",
-      "Ch1: fixed badge '10' → '9-10' (MSG's two 9-10 paragraphs map 1:1; splits declared)",
-      "Ch1: restored 5-8 — 'set out under the banner of the Name', 'get no help from unbelievers', 'deserve any support we can give them', 'companions in spreading the Truth'",
-      "Ch1: restored 1-4 nuance — 'good fortune in everything you do', 'everyday affairs prosper, as well as your soul'",
-      "Ch1: fixed 9-10 — removed invented 'of the church' detail (MSG: 'he throws them out')",
-      "Ch1: split 13-14 into two paragraphs (was merged into one); restored 'Greet our friends there by name'",
-      "Ch1: kept chapter title 'A Shout-Out to My honored' (existing)",
-      "Ch1: restored MSG heading '§Model the Good' (was invented '§Support the Travelers'; verified on BibleGateway MSG 3 John, heading sits before 5-8)",
-      "Ch1: restored 11 — 'falsifies God' ('twists who God is') was dropped; 'doesn\\'t know the first thing about God' also restored"
-    ],
-    "chapter": 1,
-    "confirmations_needed": [],
-    "merges": [],
-    "msg_ranges": [
-      "1-4",
-      "5-8",
-      "5-8",
-      "5-8",
-      "9-10",
-      "9-10",
-      "11",
-      "12",
-      "13-14",
-      "13-14"
-    ],
-    "paragraphs": [
-      "The Pastor, writing to my good friend Gaius: Bro, I genuinely love you! We're the best of friends, and I'm praying that everything you do goes well—for your good health, and that your everyday life prospers right along with your soul! I was SO happy when some friends showed up and told me you're still walking in the Truth. Honestly, nothing makes me happier than hearing that my spiritual kids are staying on the right path!",
-      "§Model the Good",
-      "Dear friend, when you open your home to other Christians—even total strangers—you're making faith real and visible. They came back and told the whole church about your love. That's amazing work you're doing, helping these travelers along their journey. It's the kind of hospitality that honors God himself!",
-      "These travelers set out under the banner of the Name, and they don't get any help from non-believers. So they totally deserve whatever support we can give them. When we provide meals and a bed, we become their partners in spreading the Truth.",
-      "I actually wrote something like this to the church earlier, but Diotrephes—this guy who loves being the boss of everything—totally dismissed what I said. If I come visit, trust me, I'm going to call him out for all the trash he's been talking about us.",
-      "And it gets worse. He not only refuses to welcome traveling Christians himself, but he actually tries to stop OTHER people from helping them too. Worse yet, instead of inviting them in, he throws them out.",
-      "Friend, don't follow that kind of evil behavior. Follow the good instead. The person who does good is doing God's work. The person who does evil twists who God is—clearly doesn't know the first thing about God.",
-      "Everyone has great things to say about Demetrius—and the Truth itself backs him up! We agree completely, and you know we don't just hand out endorsements to anyone.",
-      "I have SO much more to tell you, but I'd rather not use pen and ink for it. I hope to be there soon in person so we can have a real heart-to-heart talk.",
-      "Peace to you! All our friends here say hi. Tell each of our friends there hello—by name."
-    ],
-    "splits": [
-      {
-        "msg_range": "5-8",
-        "note": "MSG's single 5-8 hospitality paragraph split into two teen-voice paragraphs (praise for hospitality / supporting the travelers)",
-        "paras": [
-          2,
-          3
-        ]
-      },
-      {
-        "msg_range": "9-10",
-        "note": "MSG's two 9-10 paragraphs map 1:1 (Diotrephes denigrates counsel / refuses hospitality)",
-        "paras": [
-          4,
-          5
-        ]
-      },
-      {
-        "msg_range": "13-14",
-        "note": "MSG's two 13-14 paragraphs kept separate (letter closing / peace and greetings) — un-did the previous single-paragraph merge",
-        "paras": [
-          8,
-          9
-        ]
-      }
-    ],
-    "title": "A Shout-Out to My honored",
-    "verseRanges": [
-      "1-4",
-      "5-8",
-      "5-8",
-      "5-8",
-      "9-10",
-      "9-10",
-      "11",
-      "12",
-      "13-14",
-      "13-14"
+ {
+  "changes": [
+   "Ch1: fixed null badge — '§Support the Travelers' now badged '5-8' (shares with following body paragraph)",
+   "Ch1: fixed overlapping badges '5-6'/'7-8' → '5-8' x2 (MSG's single 5-8 paragraph split in two; splits declared)",
+   "Ch1: fixed badge '10' → '9-10' (MSG's two 9-10 paragraphs map 1:1; splits declared)",
+   "Ch1: restored 5-8 — 'set out under the banner of the Name', 'get no help from unbelievers', 'deserve any support we can give them', 'companions in spreading the Truth'",
+   "Ch1: restored 1-4 nuance — 'good fortune in everything you do', 'everyday affairs prosper, as well as your soul'",
+   "Ch1: fixed 9-10 — removed invented 'of the church' detail (MSG: 'he throws them out')",
+   "Ch1: split 13-14 into two paragraphs (was merged into one); restored 'Greet our friends there by name'",
+   "Ch1: kept chapter title 'A Shout-Out to My honored' (existing)",
+   "Ch1: restored MSG heading '§Model the Good' (was invented '§Support the Travelers'; verified on BibleGateway MSG 3 John, heading sits before 5-8)",
+   "Ch1: restored 11 — 'falsifies God' ('twists who God is') was dropped; 'doesn\\'t know the first thing about God' also restored"
+  ],
+  "chapter": 1,
+  "confirmations_needed": [],
+  "merges": [],
+  "msg_ranges": [
+   "1-4",
+   "5-8",
+   "5-8",
+   "5-8",
+   "9-10",
+   "9-10",
+   "11",
+   "12",
+   "13-14",
+   "13-14"
+  ],
+  "paragraphs": [
+   "The Pastor, writing to my good friend Gaius: Bro, I genuinely love you! We're the best of friends, and I'm praying that everything you do goes well—for your good health, and that your everyday life prospers right along with your soul! I was SO happy when some friends showed up and told me you're still walking in the Truth. Honestly, nothing makes me happier than hearing that my spiritual kids are staying on the right path!",
+   "§Model the Good",
+   "Dear friend, when you open your home to other Christians—even total strangers—you're making faith real and visible. They came back and told the whole church about your love. That's amazing work you're doing, helping these travelers along their journey. It's the kind of hospitality that honors God himself!",
+   "These travelers set out under the banner of the Name, and they don't get any help from non-believers. So they totally deserve whatever support we can give them. When we provide meals and a bed, we become their partners in spreading the Truth.",
+   "I actually wrote something like this to the church earlier, but Diotrephes—this guy who loves being the boss of everything—totally dismissed what I said. If I come visit, trust me, I'm going to call him out for all the trash he's been talking about us.",
+   "And it gets worse. He not only refuses to welcome traveling Christians himself, but he actually tries to stop OTHER people from helping them too. Worse yet, instead of inviting them in, he throws them out.",
+   "Friend, don't follow that kind of evil behavior. Follow the good instead. The person who does good is doing God's work. The person who does evil twists who God is—clearly doesn't know the first thing about God.",
+   "Everyone has great things to say about Demetrius—and the Truth itself backs him up! We agree completely, and you know we don't just hand out endorsements to anyone.",
+   "I have SO much more to tell you, but I'd rather not use pen and ink for it. I hope to be there soon in person so we can have a real heart-to-heart talk.",
+   "Peace to you! All our friends here say hi. Tell each of our friends there hello—by name."
+  ],
+  "splits": [
+   {
+    "msg_range": "5-8",
+    "note": "MSG's single 5-8 hospitality paragraph split into two teen-voice paragraphs (praise for hospitality / supporting the travelers)",
+    "paras": [
+     2,
+     3
     ]
-  }
+   },
+   {
+    "msg_range": "9-10",
+    "note": "MSG's two 9-10 paragraphs map 1:1 (Diotrephes denigrates counsel / refuses hospitality)",
+    "paras": [
+     4,
+     5
+    ]
+   },
+   {
+    "msg_range": "13-14",
+    "note": "MSG's two 13-14 paragraphs kept separate (letter closing / peace and greetings) — un-did the previous single-paragraph merge",
+    "paras": [
+     8,
+     9
+    ]
+   }
+  ],
+  "title": "A Shout-Out to My Honored",
+  "verseRanges": [
+   "1-4",
+   "5-8",
+   "5-8",
+   "5-8",
+   "9-10",
+   "9-10",
+   "11",
+   "12",
+   "13-14",
+   "13-14"
+  ]
+ }
 ]

@@ -331,10 +331,35 @@ def match_msg_for_teen(ch_units, teen_infos):
     match = {ti['idx']: [] for ti in teen_infos}
     used = set()
     teen_without_msg = []
+    # Positional pairing for duplicate MSG verse sets: when several MSG
+    # units share the identical verse set (e.g. 3John's two distinct "9-10"
+    # paragraphs, or two "13-14" paragraphs) and several Teen paragraphs
+    # carry that same badge, pair them positionally (k-th Teen para gets
+    # the k-th MSG unit) instead of letting the greedy coverage below
+    # collapse them all onto the first unit and orphan the rest.
+    units_by_vset = {}
+    for ui, u in enumerate(ch_units):
+        units_by_vset.setdefault(frozenset(u['verses'] or set()), []).append(ui)
+    teen_by_vset = {}
+    for ti in teen_infos:
+        if not ti['is_header'] and ti['vset']:
+            teen_by_vset.setdefault(frozenset(ti['vset']), []).append(ti['idx'])
+    teen_seen = {}
     for ti in teen_infos:
         if ti['is_header'] or not ti['vset']:
             continue
         tset = ti['vset']
+        sig = frozenset(tset)
+        dup_units = units_by_vset.get(sig, [])
+        # Only when the counts line up exactly (k Teen paras, k MSG units
+        # with the identical verse set) is it a clean positional 1:1.
+        if len(dup_units) > 1 and len(teen_by_vset.get(sig, [])) == len(dup_units):
+            k = teen_seen.get(sig, 0)
+            teen_seen[sig] = k + 1
+            ui = dup_units[k]
+            match[ti['idx']] = [ch_units[ui]]
+            used.add(ui)
+            continue
         cands = []
         for ui, u in enumerate(ch_units):
             uverses = u['verses'] or set()
