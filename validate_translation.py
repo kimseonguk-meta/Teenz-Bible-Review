@@ -37,7 +37,10 @@ def check_profanity(paras, label, ch, errors):
         text = p if isinstance(p, str) else ''
         low = text.lower()
         for w in PROFANITY_KO:
-            if w in text:
+            # '염병' 오탐 방지: 정상 단어 '전염병'(plague/epidemic)의 substring으로 등장.
+            # 독립된 비속어 용법('염병하네' 등)만 검출한다.
+            pat = r'(?<!전)' + re.escape(w) if w == '염병' else re.escape(w)
+            if re.search(pat, text):
                 errors.append(f"ch{ch}: {label} para{i}에 비속어 '{w}' (원칙 5)")
                 break
         for w in PROFANITY_EN:

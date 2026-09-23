@@ -238,5 +238,15 @@
   "title": "사도행전 (Acts) — Final: MSG + Teen EN + KO",
   "id": "11z558cFT0xrKqs-pbcZBLbu2DhyFDB6E6DWHxBchyrM",
   "webViewLink": "https://docs.google.com/document/d/11z558cFT0xrKqs-pbcZBLbu2DhyFDB6E6DWHxBchyrM"
+ },
+ {
+  "key": "Obadiah",
+  "title": "오바댜 (Obadiah) — Final: MSG + Teen EN + KO",
+  "id": "1fp-bW_iBIzpfjVTrh9mL0XxpwXb2Ry-k5v3leLleUCw",
+  "webViewLink": "https://docs.google.com/document/d/1fp-bW_iBIzpfjVTrh9mL0XxpwXb2Ry-k5v3leLleUCw/edit?usp=drivesdk",
+  "tables": 1,
+  "expected": 1,
+  "status": "OK",
+  "export_problems": []
  }
 ]
