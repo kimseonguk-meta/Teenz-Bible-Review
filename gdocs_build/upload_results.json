@@ -248,5 +248,15 @@
   "expected": 1,
   "status": "OK",
   "export_problems": []
+ },
+ {
+  "key": "Haggai",
+  "title": "학개 (Haggai) — Final: MSG + Teen EN + KO",
+  "id": "1RWLSEl-afs-exYFJLuCMpukSoLRg1FCl3IxBI0JGFXk",
+  "webViewLink": "https://docs.google.com/document/d/1RWLSEl-afs-exYFJLuCMpukSoLRg1FCl3IxBI0JGFXk/edit?usp=drivesdk",
+  "tables": 2,
+  "expected": 2,
+  "status": "OK",
+  "export_problems": []
  }
 ]

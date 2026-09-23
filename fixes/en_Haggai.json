@@ -77,14 +77,14 @@
   "title": "God's Epic Temple Upgrade Is Coming",
   "paragraphs": [
    "§This Temple Will End Up Better Than It Started Out",
-   "On the 21st day of the 7th month, a message from God came through the prophet Haggai. He was told to say this to Governor Zerubbabel, High Priest Joshua, and all the people: \"Is anyone still around who saw the first Temple in all its glory? And what do you see now? Kinda pathetic, right?",
+   "On the 21st day of the 7th month, a message from God came through the prophet Haggai. He was told to say this to Governor Zerubbabel son of Shealtiel, High Priest Joshua son of Jehozadak, and all the people: \"Is anyone still around who saw the first Temple in all its glory? And what do you see now? Kinda pathetic, right?",
    "\"'So, get to work, Zerubbabel!'—this is God talking.",
    "\"'Get to work, Joshua, son of Jehozadak—the high priest!'",
    "\"'Get to work, all you people!'—God is saying.",
-   "\"'Yeah, get to work! Because I am with you.' The God of the Angel Armies is speaking! 'Live out the promise I made with you when you left Egypt. I am literally living and breathing among you right now. Don't be scared. Don't hold back.'",
+   "\"'Yeah, get to work! Because I am with you.' The God of the Angel Armies is speaking! 'Live out the covenant I made with you when you left Egypt. I am literally living and breathing among you right now. Don't be scared. Don't hold back.'",
    "\"This is what the God of the Angel Armies said: 'In a little while, I'm going to shake up the sky and the earth, the ocean and the land. I'll shake up all the nations that don't know me. They'll bring tons of wealth, and I will fill this Temple with splendor.' The God of the Angel Armies says so.",
    "\"'I own all the silver, and I own all the gold.' A decree from the God of the Angel Armies.",
-   "\"'This new Temple is going to be way better than the original. It had a glorious start, but the finish will be even more glorious. It will be a place where I give out peace and holiness.' A decree from the God of the Angel Armies.",
+   "\"'This new Temple is going to be way better than the original. It had a glorious start, but the finish will be even more glorious. It will be a place where I give out wholeness and holiness.' A decree from the God of the Angel Armies.",
    "On the 24th day of the 9th month (this was in the second year of King Darius's reign), God's message came to Haggai again: \"The God of the Angel Armies says: 'Ask the priests for a ruling. If someone is carrying a piece of holy meat in their pocket, and that pocket touches some bread, stew, wine, oil, or any other food, does that food become holy too?'\"",
    "The priests answered, \"No.\"",
    "Then Haggai asked, \"What if someone becomes unclean by touching a dead body, and then they touch one of these foods? Does the food become unclean?\"",
@@ -93,7 +93,7 @@
    "\"'Think about it. Before you started laying the foundation stones for my Temple again, how were things for you? Isn't it true that because you were dragging your feet and only giving a half-hearted effort to rebuild, your crops were also only giving you half of what you expected? I sent drought and disease and hail. Everything you tried to do got messed up. But it didn't even seem to bother you. You just kept ignoring me.' God's decree.",
    "\"'Now, think about what's going to happen starting today—this 24th day of the 9th month. From the day the Temple rebuilding started, has anything in your fields—your vines, fig trees, pomegranates, olive trees—failed to grow? From now on, you can expect a blessing.'\"",
    "God's message came to Haggai a second time on that same important day, the 24th day of the 9th month: \"Speak to Zerubbabel, the governor of Judah:",
-   "\"'I am about to shake everything up, turn it all upside down, and start over. I will overthrow governments, destroy foreign powers, and get rid of all weapons. I'll throw armies into chaos, and they'll end up fighting each other. And on that day'\"—this is God's message—\"'I will take you, Zerubbabel, my servant, and I will make you like a signet ring, a symbol of my authority. I've looked everywhere and I've chosen you for this job.'\" The message from the God of the Angel Armies."
+   "\"'I am about to shake everything up, turn it all upside down, and start over. I will overthrow governments, destroy foreign powers, and get rid of all weapons. I'll throw armies into chaos, and they'll end up fighting each other. And on that day'\"—this is God's message—\"'I will take you, Zerubbabel son of Shealtiel, my personal servant, and I will make you like a signet ring, a symbol of my authority. I've looked everywhere and I've chosen you for this job.'\" The message from the God of the Angel Armies."
   ],
   "verseRanges": [
    "1-3",
@@ -150,6 +150,12 @@
     ],
     "note": "MSG shares v21 across 20-21 intro and 21-23 quote"
    }
+  ],
+  "changes": [
+   "Ch2: restored 'son of Shealtiel' + 'son of Jehozadak' in v1-3 address (MSG; ch1 v1 already had them)",
+   "Ch2: restored MSG v5 'covenanted' (promise→covenant)",
+   "Ch2: restored MSG v9 'wholeness' (KO 완전함 보유; EN만 빠져 있었음)",
+   "Ch2: restored 'son of Shealtiel' + 'personal servant' (MSG 21-23; KO는 이미 보유)"
   ]
  }
 ]
