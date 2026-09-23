@@ -5,7 +5,7 @@ and the no-drop gate (every Teen EN/KO paragraph + every MSG unit present).
 
 Usage: python3 reupload.py Matthew Mark Luke John Romans
 """
-import json, subprocess, sys, time, os
+import json, re, subprocess, sys, time, os
 
 GDIR = '/home/hatch/workspace/teenz-bible-review/gdocs_build'
 REVIEW = '/home/hatch/workspace/teenz-bible-review'
@@ -20,6 +20,9 @@ BOOK_TABLES = {
     '1Timothy': 6, '2Timothy': 4, 'Titus': 3, 'Philemon': 1, 'Hebrews': 13,
     'James': 5, '1Peter': 5, '2Peter': 3, '1John': 5, '2John': 1, '3John': 1,
     'Jude': 1, 'Revelation': 22,
+    # OT (rebuilt after the inline-marker parser fix)
+    'Habakkuk': 3, 'Jonah': 4, 'Nahum': 3, 'Haggai': 2, 'Obadiah': 1,
+    'Zephaniah': 3,
 }
 
 def run(args):
@@ -39,6 +42,18 @@ def get_units(key):
 def cell_text(cell):
     return '\n'.join(p.text for p in cell.paragraphs).strip()
 
+
+BADGE_RE = re.compile(r'\d{1,2}(?:-\d{1,2})?(?:,\s*\d{1,2}(?:-\d{1,2})?)*')
+
+
+def msg_body(cell):
+    """MSG cell text with the badge first paragraph stripped. A badge-only
+    cell (the DOCX defect class) yields empty string -> hard FAIL."""
+    ps = [p.text for p in cell.paragraphs]
+    if ps and BADGE_RE.fullmatch(ps[0].strip()):
+        ps = ps[1:]
+    return '\n'.join(ps).strip()
+
 def cell_is_bold(cell):
     for p in cell.paragraphs:
         for r in p.runs:
@@ -55,25 +70,35 @@ def verify_exported(key, path):
     exp = BOOK_TABLES[key]
     if len(tables) != exp:
         problems.append(f'table count {len(tables)} != {exp}')
+    # load teen data first: needed both for header detection and the no-drop gate
+    en_chs = load_teen('en', key)
+    ko_chs = load_teen('ko', key)
     for ti, t in enumerate(tables):
         rows = t.rows
         if not rows:
             problems.append(f'table {ti}: no rows')
             continue
+        ce = en_chs[ti] if ti < len(en_chs) else None
+        n_teen = len(ce['paragraphs']) if ce else 0
         for ri, row in enumerate(rows[1:], start=1):  # skip header row
-            c0, c1, c2 = (cell_text(c) for c in row.cells)
-            if not c0:
-                # must be a § header row: Teen cells carry the header
+            c0 = msg_body(row.cells[0])
+            c1, c2 = (cell_text(c) for c in row.cells[1:])
+            is_header = ce and (ri - 1) < n_teen and ce['paragraphs'][ri - 1].startswith('§')
+            if is_header:
+                if c0:
+                    problems.append(f'table {ti} row {ri}: header row has MSG text')
                 if not c1 or not c2:
-                    problems.append(f'table {ti} row {ri}: empty MSG cell but Teen cells also empty')
+                    problems.append(f'table {ti} row {ri}: header row missing Teen text')
             else:
+                if not c0:
+                    # badge-only MSG cell: the DOCX defect class. Hard fail
+                    # even though the badge paragraph itself is non-empty.
+                    problems.append(f'table {ti} row {ri}: badge-only/empty MSG cell (DEFECT)')
                 if not c1:
                     problems.append(f'table {ti} row {ri}: MSG present but Teen EN empty')
                 if not c2:
                     problems.append(f'table {ti} row {ri}: MSG present but Teen KO empty')
-    # no-drop gate on the exported file
-    en_chs = load_teen('en', key)
-    ko_chs = load_teen('ko', key)
+    # no-drop gate on the exported file (en_chs/ko_chs already loaded above)
     missing = verify_no_drop(key, path, en_chs, ko_chs, get_units(key))
     for m in missing:
         problems.append(f'DROPPED {m[0]} ch{m[1]}: {m[2][:50]!r}')
