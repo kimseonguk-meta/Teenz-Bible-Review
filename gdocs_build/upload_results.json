@@ -258,5 +258,15 @@
   "expected": 2,
   "status": "OK",
   "export_problems": []
+ },
+ {
+  "key": "Ruth",
+  "title": "룻기 (Ruth) — Final: MSG + Teen EN + KO",
+  "id": "14tmrTTb1rGX0gatBv5khy4tBvEEopS9uD5m3kcEd_LY",
+  "webViewLink": "https://docs.google.com/document/d/14tmrTTb1rGX0gatBv5khy4tBvEEopS9uD5m3kcEd_LY/edit?usp=drivesdk",
+  "tables": 4,
+  "expected": 4,
+  "status": "OK",
+  "export_problems": []
  }
 ]

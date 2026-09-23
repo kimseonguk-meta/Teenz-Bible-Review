@@ -3,7 +3,7 @@
   "chapter": 1,
   "title": "Naomi and Ruth's Comeback Story",
   "paragraphs": [
-   "So, way back when judges were in charge of Israel, things got real tough. There was this massive famine, like, no food anywhere. This guy from Bethlehem named Elimelech, his wife Naomi, and their two sons, Mahlon and Kilion, decided to dip. They packed up and moved to a country called Moab to find a better life.",
+   "So, way back when judges were in charge of Israel, things got real tough. There was this massive famine, like, no food anywhere. This guy named Elimelech—an Ephrathite from Bethlehem in Judah—his wife Naomi, and their two sons, Mahlon and Kilion, decided to dip. They packed up and moved to a country called Moab to find a better life.",
    "But then, plot twist, Elimelech died, leaving Naomi with just her two sons. The sons ended up marrying local Moabite girls, Orpah and Ruth. They all lived in Moab for about ten years, but then tragedy struck again. Both Mahlon and Kilion died too. So now Naomi was all alone, no husband, no sons. It was rough.",
    "One day, Naomi and her two daughters-in-law decided they had to get out of Moab and go back home. She'd heard that God had finally blessed his people with food again. So she, along with her two daughters-in-law, started the journey back to Judah.",
    "After a bit on the road, Naomi turned to her daughters-in-law and was like, 'You guys should go back. Go home to your moms. I pray God is as good to you as you were to my sons and me. I hope God gives you both new homes and new husbands.' She kissed them, and they all just started bawling.",
@@ -60,7 +60,8 @@
   "changes": [
    "badges corrected to MSG ranges (para 2 '5-6'->'6-7', para 3 '7-8'->'8-9', para 4 '8-9'->'10', para 5 '10-13'->'11-13')",
    "split declared for MSG 18-19 across paras 9-10",
-   "title toned down ('Real MVP' removed)"
+   "title toned down ('Real MVP' removed)",
+   "Ch1: restored MSG 1-2 'Ephrathites from Bethlehem in Judah'"
   ],
   "confirmations_needed": [
    "Ruth1 split of MSG 18-19 across paras 9-10 — confirm split is OK"
@@ -78,7 +79,7 @@
    "The foreman was like, 'Oh, that's the girl from Moab who came back with Naomi. She was super polite and asked if she could just follow the crew and gather the leftovers. And lowkey, she's been grinding nonstop since this morning.'",
    "So Boaz went up to Ruth and said, 'Hey, listen. From now on, don't bother going to any other fields. Just stay here. Stick with my crew of girls, follow where they're working, and you'll be good. And don't even trip, I told my guys not to give you a hard time. If you get thirsty, just go help yourself to the water they brought.'",
    "She literally fell to her knees, face to the ground, and was like, 'Whoa, why are you being so nice to me? I'm not even from around here.'",
-   "Boaz told her, 'Nah, for real, I've heard all about you. I heard how you've been a real one to your mother-in-law since her husband died, and how you left your own family and country to come live with total strangers. May God bless you big time for what you've done. You came to God for protection, and He's got you covered.'",
+   "Boaz told her, 'Nah, for real, I've heard all about you. I heard how you've been a real one to your mother-in-law since her husband died, and how you left your own family and country to come live with total strangers. May God bless you big time for what you've done—and with a generous bonus besides. You came to God for protection under his wings, and he's got you covered.'",
    "She said, 'Wow, sir, you're being way too kind. I don't deserve this. You've seriously made my day, treating me like I'm one of your own people, even though I'm not.'",
    "When it was lunchtime, Boaz called her over, 'Come on, have some bread with us. You can dip it in the wine.'",
    "So she sat with the crew. Boaz passed her some roasted grain, and she ate until she was full and even had leftovers.",
@@ -171,7 +172,8 @@
   ],
   "changes": [
    "badges corrected to MSG ranges",
-   "splits declared for MSG 2, 14, 19, 20"
+   "splits declared for MSG 2, 14, 19, 20",
+   "Ch2: restored MSG 2:12 'a generous bonus besides' + 'under his wings' (KO는 이미 보유)"
   ],
   "confirmations_needed": [
    "Ruth2 splits of MSG 2, 14, 19, 20 — confirm splits are OK"
