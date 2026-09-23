@@ -113,6 +113,14 @@ SINGLE_NUM_TEXT_RE = re.compile(r'^(\d{1,3})\s+(?=' + TEXT_START + r')(.*)$')
 # The (?<!\d) guard keeps chapter:verse references like 'Mark 16:9-20'
 # (a textual note, not a marker) untouched.
 INLINE_MARKER_RE = re.compile(r'(?<!\d):\s*(\d{1,2}-\d{1,2})\s+(?=[A-Z"“‘(\[])')
+# Bare-number inline verse markers mid-line, e.g. BibleGateway-fetched files
+# put a whole chapter on one physical line:
+#   '...Nineveh! Preach to them. ... 3 But Jonah got up ... 4-6 But God sent ...'
+# Split ' N ' / ' N-M ' when followed by text start. NOT applied at line start:
+# a leading 'N M-...' is the chapter marker (handled by TWO_NUM_RE), and the
+# (?<=\S) guard keeps it intact. ':'-adjacent numbers ('16:9') need the
+# whitespace on both sides, so 'Mark 16:9-20' notes are untouched.
+MIDLINE_NUM_RE = re.compile(r'(?<=\S)\s+(\d{1,2}(?:-\d{1,2})?)\s+(?=[A-Z0-9"“‘(\[])')
 
 
 def expand_inline_markers(text):
@@ -134,6 +142,7 @@ def expand_inline_markers(text):
             out_lines.append(line)
             continue
         out_lines.append(INLINE_MARKER_RE.sub(r':\n\1 ', line))
+        out_lines.append(MIDLINE_NUM_RE.sub(r'\n\1 ', out_lines.pop()))
     return '\n'.join(out_lines)
 
 
