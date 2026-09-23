@@ -52,10 +52,54 @@ BOOKS = [
     ('3John', '요한삼서', '3 John'),
     ('Jude', '유다서', 'Jude'),
     ('Revelation', '요한계시록', 'Revelation'),
+    # --- Old Testament (39 books; canonical order) ---
+    ('Genesis', '창세기', 'Genesis'),
+    ('Exodus', '출애굽기', 'Exodus'),
+    ('Leviticus', '레위기', 'Leviticus'),
+    ('Numbers', '민수기', 'Numbers'),
+    ('Deuteronomy', '신명기', 'Deuteronomy'),
+    ('Joshua', '여호수아', 'Joshua'),
+    ('Judges', '사사기', 'Judges'),
+    ('Ruth', '룻기', 'Ruth'),
+    ('1Samuel', '사무엘상', '1 Samuel'),
+    ('2Samuel', '사무엘하', '2 Samuel'),
+    ('1Kings', '열왕기상', '1 Kings'),
+    ('2Kings', '열왕기하', '2 Kings'),
+    ('1Chronicles', '역대기상', '1 Chronicles'),
+    ('2Chronicles', '역대기하', '2 Chronicles'),
+    ('Ezra', '에스라', 'Ezra'),
+    ('Nehemiah', '느헤미야', 'Nehemiah'),
+    ('Esther', '에스더', 'Esther'),
+    ('Job', '욥기', 'Job'),
+    ('Psalms', '시편', 'Psalms'),
+    ('Proverbs', '잠언', 'Proverbs'),
+    ('Ecclesiastes', '전도서', 'Ecclesiastes'),
+    ('SongOfSongs', '아가', 'Song of Songs'),
+    ('Isaiah', '이사야', 'Isaiah'),
+    ('Jeremiah', '예레미야', 'Jeremiah'),
+    ('Lamentations', '예레미야애가', 'Lamentations'),
+    ('Ezekiel', '에스겔', 'Ezekiel'),
+    ('Daniel', '다니엘', 'Daniel'),
+    ('Hosea', '호세아', 'Hosea'),
+    ('Joel', '요엘', 'Joel'),
+    ('Amos', '아모스', 'Amos'),
+    ('Obadiah', '오바댜', 'Obadiah'),
+    ('Jonah', '요나', 'Jonah'),
+    ('Micah', '미가', 'Micah'),
+    ('Nahum', '나훔', 'Nahum'),
+    ('Habakkuk', '하박국', 'Habakkuk'),
+    ('Zephaniah', '스바냐', 'Zephaniah'),
+    ('Haggai', '학개', 'Haggai'),
+    ('Zechariah', '스가랴', 'Zechariah'),
+    ('Malachi', '말라기', 'Malachi'),
 ]
 BOOK_MAP = {k: (ko, en) for k, ko, en in BOOKS}
 
-TEXT_START = r'[A-Z"“‘(\[*]'
+TEXT_START = r'[A-Z0-9"“‘(\[*]'
+# 0-9 added 2026-09-23 (worker E): verse body text may begin with a digit,
+# e.g. Jer 52:28 "3,023 men of Judah...". Verified corpus-wide: the only
+# TEXT lines starting with a digit are Jer 52:28-30, so this changes no
+# other book's parse.
 VERSE_ATOM = r'\d{1,2}(?:-\d{1,2})?'
 VERSE_REF = VERSE_ATOM + r'(?:,\s*' + VERSE_ATOM + r')*'
 VERSE_RE = re.compile(r'^(' + VERSE_REF + r')\s+(?=' + TEXT_START + r')(.*)$')
