@@ -3,8 +3,8 @@
   "chapter": 1,
   "title": "Don't Get Played",
   "paragraphs": [
-   "§The Real Message",
    "What's up, Galatia! It's Paul, and my whole crew here in the faith is sending greetings to the Galatian churches. Just so we're clear, my authority for writing this doesn't come from some popularity contest or from getting appointed by some important human higher-up. It comes directly from Jesus the Messiah and God the Father, who raised him from the dead. I'm God-commissioned. So I'm greeting you with the great words — grace and peace! We know what those words mean, because Jesus Christ rescued us from this messed-up world by offering himself as a sacrifice for our sins. God's plan is that we all experience that rescue. Glory to God forever! Oh, yes!",
+   "§The Real Message",
    "I'm actually stunned right now. I can't believe how quickly you guys turned traitor on the One who called you by the grace of Christ, embracing a totally different message. And this isn't some minor remix, you know — it's completely other, an alien message, a no-message, a lie about God. The people stirring up all this agitation among you are turning the Message of Christ on its head, twisting it around. Let me be blunt: If one of us — even if an angel dropped down from heaven! — preached something different from what we preached originally, let him be cursed. I said it once, I'll say it again: If anyone, regardless of reputation or credentials, preaches something different from what you received originally, let him be cursed.",
    "Do you think I'm saying all this to manipulate crowds? Or to get on God's good side? Or to win popular applause? If my goal was popularity, I wouldn't bother being Christ's slave. Know this — I'm dead serious here, friends — this great Message I delivered to you is not mere human optimism. I didn't receive it through the traditions, and I wasn't taught it in some school. I got it straight from God — I received the Message directly from Jesus Christ.",
    "You've probably heard the story of my earlier life, back when I lived the Jewish way. In those days I went all out in persecuting God's church — I was systematically destroying it. I was so fired up about my ancestors' traditions that I shot head and shoulders above my peers in my career. But even back then, God had his eye on me. When I was still in my mother's womb, he chose me and called me out of sheer generosity! Then he stepped in and revealed his Son to me, so that I might joyfully tell the non-Jews about him.",
@@ -13,7 +13,7 @@
   ],
   "verseRanges": [
    "1-5",
-   "1-5",
+   "6-9",
    "6-9",
    "10-12",
    "13-16",
@@ -22,6 +22,7 @@
   ],
   "msg_ranges": [
    "1-5",
+   "6-9",
    "6-9",
    "10-12",
    "13-16",
@@ -47,7 +48,9 @@
    "Ch1: restored 16-20 — 'our Master's brother James' (was 'Jesus's brother'); 'what days they were!'",
    "Ch1: re-badged all to MSG ranges — removed null § badge (now shares '1-5'); fixed '1-3'/'3-5'->'1-5', '6-7'->'6-9', '8-9'->'6-9', '13-15'->'13-16', '16-19'->'16-20'",
    "Ch1: § header renamed '§The Real Message' (MSG's '### The Message')",
-   "Ch1: no merges needed; MSG-overlap v16 declared in splits"
+   "Ch1: no merges needed; MSG-overlap v16 declared in splits",
+   "Ch1: moved § header '§The Real Message' to head 6-9 (MSG's '### The Message' introduces 6-9, not 1-5); badge now '6-9'",
+   "Ch1: normalized msg_ranges == verseRanges (1Cor/2Cor/Acts convention)"
   ],
   "confirmations_needed": []
  },
@@ -78,6 +81,7 @@
   ],
   "msg_ranges": [
    "1-5",
+   "1-5",
    "6-10",
    "11-13",
    "14",
@@ -104,7 +108,8 @@
    "Ch2: SPLIT the previously merged final paragraph — 'Is it not clear to you...' (MSG's own v21 paragraph) now stands alone, no merge declared",
    "Ch2: re-badged all to MSG ranges — removed null § badge (now shares '1-5'); fixed '1-3'->'1-5', '4-5'->'1-5'",
    "Ch2: § header renamed '§What's Central?' (MSG's '### What Is Central?')",
-   "Ch2: no merges; MSG-overlap v21 declared in splits"
+   "Ch2: no merges; MSG-overlap v21 declared in splits",
+   "Ch2: normalized msg_ranges == verseRanges (1Cor/2Cor/Acts convention)"
   ],
   "confirmations_needed": []
  },
@@ -147,6 +152,7 @@
   ],
   "msg_ranges": [
    "1",
+   "1",
    "2-4",
    "5-6",
    "7-8",
@@ -158,6 +164,7 @@
    "21-22",
    "23-24",
    "25-27",
+   "28-29",
    "28-29"
   ],
   "merges": [],
@@ -179,15 +186,15 @@
    "Ch3: restored 18-20 — 'inheriting the promises and distributing them to us' (replaced 'cash in on the promises')",
    "Ch3: restored 23-24 — 'carefully surrounded and protected'",
    "Ch3: re-badged all to MSG ranges — removed null § badge (now shares '1'); fixed '5'->'5-6', '6-8'->'7-8', '9'->'9-10', '15-17'->'15-18', '19-21'->'18-20', '25-26'->'25-27', '27-29'->'28-29'",
-   "Ch3: no merges; MSG-overlap v18 declared in splits"
+   "Ch3: no merges; MSG-overlap v18 declared in splits",
+   "Ch3: normalized msg_ranges == verseRanges (1Cor/2Cor/Acts convention)"
   ],
   "confirmations_needed": []
  },
  {
   "chapter": 4,
-  "title": "From Kid to honored",
+  "title": "From Kid to Heir",
   "paragraphs": [
-   "§Children of God",
    "Let me show you what this means. As long as the heir is a minor, he's no better off than a slave. Legally he owns the entire inheritance, but he's under tutors and administrators until whatever date his father set for emancipation. That's how it was with us: when we were minors, we were like slaves, ordered around by simple instructions — the tutors and administrators of this world — with no say in how our own lives were run.",
    "But when the time set by God the Father arrived, God sent his Son — born among us of a woman, born under the conditions of the law — so he could redeem those of us kidnapped by the law. Now we've been set free to experience our rightful heritage. You can tell for sure you're fully adopted as his own children, because God sent the Spirit of his Son into our lives, crying out, \"Papa! Father!\" Doesn't that privilege of intimate conversation with God make it plain you're not a slave, but a child? And if you're a child, you're also an heir — with complete access to the inheritance.",
    "Earlier, before you knew God personally, you were enslaved to so-called gods that had nothing divine about them. But now that you know the real God — or rather, since God knows you — how can you possibly go back and subject yourselves to those tin gods? Because that's exactly what you're doing when you get intimidated into scrupulously observing all the traditions, taboos, and superstitions tied to special days and seasons and years. I'm afraid all my hard work among you is going up in a puff of smoke!",
@@ -198,7 +205,6 @@
    "Tell me, you who are so in love with the law: have you actually paid close attention to that law? Remember Abraham — he had *two* sons: one by the slave woman, one by the free woman. The son of the slave woman was born by human plotting; the son of the free woman was born by God's promise. This is a perfect picture of what we're dealing with now. The two births represent two ways of being in relationship with God. One is from Mount Sinai in Arabia — it matches what's going on in Jerusalem right now: a slave life, producing slaves as offspring. That's the way of Hagar. But there's an invisible Jerusalem, a free Jerusalem — and she is our mother. That's the way of Sarah. Remember what Isaiah wrote: \"Rejoice, barren woman who bears no children, shout and cry out, woman who has no birth pangs, because the children of the barren woman now surpass the children of the chosen woman.\" Isn't it clear, friends, that you — like Isaac — are children of promise? Back in the days of Hagar and Sarah, the child who came from faithless plotting (Ishmael) harassed the child who came, empowered by the Spirit, from the faithful promise (Isaac). Isn't it clear that the harassment you're getting now from the Jerusalem heretics follows that old pattern? Scripture tells us exactly what to do: \"Expel the slave mother with her son, for the slave son will not inherit with the free son.\" Isn't that conclusive? We are not children of the slave woman — we are children of the free woman."
   ],
   "verseRanges": [
-   "1-3",
    "1-3",
    "4-7",
    "8-11",
@@ -229,7 +235,10 @@
    "Ch4: restored 18-20 — 'Can't you keep the same concern for me and my message while I'm away that you had when I was with you?'",
    "Ch4: restored 21-31 — full Isaiah quote verbatim, 'a slave life, producing slaves as offspring', 'Isn't that conclusive?'",
    "Ch4: re-badged all to MSG ranges — removed null § badge (now shares '1-3'); fixed '21-24'->'21-31'",
-   "Ch4: no merges, no splits"
+   "Ch4: no merges, no splits",
+   "Ch4: removed invented § header '§Children of God' — MSG ch4 has no ### header; 1:1 MSG↔Teen header convention (Acts/1Cor/2Cor)",
+   "Ch4: fixed title typo 'From Kid to honored' -> 'From Kid to Heir' (heirship theme 4:1-7)",
+   "Ch4: normalized msg_ranges == verseRanges (1Cor/2Cor/Acts convention)"
   ],
   "confirmations_needed": []
  },
@@ -266,6 +275,7 @@
   ],
   "msg_ranges": [
    "1",
+   "1",
    "2-3",
    "4-6",
    "7-10",
@@ -299,7 +309,8 @@
    "Ch5: restored 22-23 — 'He brings gifts into our lives, the way fruit appears in an orchard', 'a conviction that a basic holiness permeates things and people', 'not needing to force our way in life', 'able to marshal and direct our energies wisely'",
    "Ch5: re-badged all to MSG ranges — removed null § badge (now shares '1'); fixed '1-3'->'1', '2-6'->'2-3'/'4-6', '7-9'->'7-10', '11'->'11-12', '22-23'+'24-26'->'22-23'/'23-24'/'25-26'",
    "Ch5: § header renamed '§The Free Life' (MSG's '### The Life of Freedom'); removed invented extra headers '§Set Free', '§크리스천의 자유' equivalents",
-   "Ch5: no merges; MSG-overlap v23 declared in splits"
+   "Ch5: no merges; MSG-overlap v23 declared in splits",
+   "Ch5: normalized msg_ranges == verseRanges (1Cor/2Cor/Acts convention)"
   ],
   "confirmations_needed": []
  },
@@ -310,7 +321,6 @@
    "§Nothing but the Cross",
    "Live creatively, friends. If someone falls into sin, forgivingly restore him — and save your critical comments for yourself. You might be needing forgiveness before the day is out! Stoop down and reach out to those who are oppressed. Share their burdens, and so complete Christ's law. If you think you're too good for that, you're badly deceived.",
    "Take a careful look at who you are and the work you've been given, and then sink yourself into that. Don't be impressed with yourself. Don't compare yourself with others. Each of you has to take responsibility for doing the creative best you can with your own life.",
-   "§Do Good to Everyone",
    "And be very sure about this: you who've been trained to a self-sufficient maturity — enter into a generous common life with those who trained you, sharing all the good things you have and experience.",
    "Don't be misled: no one makes a fool of God. What a person plants, that's what he'll harvest. The person who plants selfishness — ignoring the needs of others, ignoring God! — harvests a crop of weeds. All he'll have to show for his life is weeds! But the one who plants in response to God, letting God's Spirit do the growth work in him, harvests a crop of real life — eternal life.",
    "So let's not get fatigued doing good. At the right time we'll harvest a good crop if we don't give up or quit. Right now, then, every time we get the chance, let's work for the benefit of all — starting with the people closest to us in the community of faith.",
@@ -324,7 +334,6 @@
    "1-3",
    "4-5",
    "6",
-   "6",
    "7-8",
    "9-10",
    "11-13",
@@ -333,6 +342,7 @@
    "18"
   ],
   "msg_ranges": [
+   "1-3",
    "1-3",
    "4-5",
    "6",
@@ -351,7 +361,9 @@
    "Ch6: restored 14-16 — 'All who walk by this standard are the true Israel of God — his chosen people'",
    "Ch6: re-badged all to MSG ranges — removed both null § badges (now share '1-3' and '6'); fixed '14-15'->'14-16'",
    "Ch6: first § header renamed '§Nothing but the Cross' (MSG's '### Nothing but the Cross'); kept '§Do Good to Everyone' as teen structuring before v6",
-   "Ch6: no merges, no splits"
+   "Ch6: no merges, no splits",
+   "Ch6: removed invented § header '§Do Good to Everyone' — no MSG ### counterpart; overturns prior keep for 1:1 consistency (cf. ch5 header removals)",
+   "Ch6: normalized msg_ranges == verseRanges (1Cor/2Cor/Acts convention)"
   ],
   "confirmations_needed": []
  }
