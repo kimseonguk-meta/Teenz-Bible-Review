@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Teenz Bible 번역 검증 게이트 — 5대 원칙 자동 검사.
 
-사용법:
-  python3 validate_translation.py fixes/en_matthew_01-14.json fixes/ko_matthew_01-14.json
+사용법 (Matthew — 정본 chunk 기준):
+  python3 validate_translation.py fixes/en_matthew_01-03.json fixes/en_matthew_04-07.json fixes/en_matthew_08-10.json fixes/en_matthew_11-14.json fixes/en_matthew_15-28.json fixes/ko_matthew_01-14.json fixes/ko_matthew_15-28.json
+  (구버전 fixes/en_matthew_01-14.json은 fixes/retired/로 이동됨 — 사용 금지)
 
 검사 항목:
   1. 모든 문단에 null이 아닌 배지가 있는가 (원칙 2)

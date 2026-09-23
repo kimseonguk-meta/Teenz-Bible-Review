@@ -360,3 +360,39 @@
 | 26 | p1 | KO | ④ | 진짜 대박인 건, 온 세상에 | 정말 놀라운 건, 온 세상에 |
 
 **8개 게이트 결과 (2026-09-23)**: ① PASS ② PASS ③ PASS ④ PASS ⑤ PASS ⑥ PASS ⑦ PASS ⑧ PASS — 특이사항: ① 49건 모두 JSON에 반영(새 문자열 존재·옛 문자열 소멸). 단 chunk 파일(build_gdocs 입력: fixes/en_matthew_*.json, fixes/ko_matthew_*.json)에는 6건만 있고(EN ch7 p1×2 → en_matthew_04-07.json, KO ch16 p9#2·ch17 p3·ch19 p16·ch24 p1 → ko_matthew_15-28.json), 나머지 43건은 root en_matthew.json/ko_matthew.json에만 있음. ④ 재빌드된 Matthew.docx에는 6/49만 반영됨(43건 누락 확인). chunk와 root의 본문 내용 자체가 상이한 상태(HEAD부터 존재) — 43건을 docs에 반영하려면 chunk 파일 동기화 후속 조치 필요(본 작업에서는 JSON 미수정). ② 의미 있는 조합 2건 PASS(fixes/en_matthew_01-14+ko_matthew_01-14, fixes/en_matthew_15-28+ko_matthew_15-28). 하위 chunk 조합(en_01-03/04-07/08-10/11-14 vs ko_01-14)은 validator의 'EN 패치 없음' 범위 불일치 아티팩트로만 FAIL(EN 파일이 해당 장을 커버하지 않아서 발생하는 구조적 한계, 내용 이슈 아님). ③ FAIL 18건 모두 completeness_fp_Matthew.md 문서화 오탐과 1:1 일치. ⑤ verify_pairing_content.py는 Matthew MSG 소스 분기가 없어 그대로 실행 시 FileNotFoundError(스크립트 기존 한계) — 읽기 전용 런타임 패치(parse_msg_matthew 사용)로 실행, PAIRING CONTENT OK(454행/28테이블). ⑥ 재업로드 완료, ⑦ API 테이블 28/28, ⑧ export-back VERIFIED OK.
+
+---
+
+## 버전 단일화 (2026-09-23, 성욱 확정: "당연히 새로 작업한 버전으로 진행")
+
+**배경**: 루트 `en_matthew.json`/`ko_matthew.json`(구버전, production 동기화 계열)과 `fixes/` chunk(MSG 재감사 작업본)의 본문이 서로 달랐음(HEAD부터 존재). 2026-09-23 슬랭 수정 49건 중 43건이 root에만 들어가고 정본(chunk)에는 없어서, 성욱이 작업본을 정본으로 확정.
+
+**정본 확정 근거** (조각 파일이 구버전이라는 초기 가정과 달리, 증거상 조각이 최신):
+1. mtime: `en_matthew_01-14.json`(09-22 02:24) < `en_matthew_08-10.json`·`en_matthew_11-14.json`(09-22 08:44) < `en_matthew_01-03.json`(09-22 09:48) < `en_matthew_04-07.json`(09-23 05:33, 슬랭 수정 반영).
+2. `gdocs_build/build_gdocs.py`가 Matthew EN 입력으로 조각 파일들(01-03/04-07/08-10/11-14 + 15-28)을 직접 지정 — 01-14 통합본이 아님.
+3. 슬랭 수정 6건이 조각 파일(`en_matthew_04-07.json`, `ko_matthew_15-28.json`)에 적용됨.
+4. 조각 vs 01-14 동일 장 비교: 문단 수 동일, 본문은 조각이 개정판 (예: ch1 p0 "Jesus's ancestry report..." → "Jesus Christ's ancestry report...").
+
+**정본 chunk 목록**:
+- EN: `fixes/en_matthew_01-03.json`(1-3장) + `fixes/en_matthew_04-07.json`(4-7장) + `fixes/en_matthew_08-10.json`(8-10장) + `fixes/en_matthew_11-14.json`(11-14장) + `fixes/en_matthew_15-28.json`(15-28장)
+- KO: `fixes/ko_matthew_01-14.json`(1-14장) + `fixes/ko_matthew_15-28.json`(15-28장)
+
+**단일화 조치**:
+- `fixes/en_matthew_01-14.json` → `fixes/retired/`로 이동(git mv, history 유지) + README에 사유 기록. `validate_translation.py`·`completeness_check.py` docstring의 구버전 참조 갱신.
+- 루트 `en_matthew.json`/`ko_matthew.json`을 정본 chunk 내용으로 교체 (28장, EN/KO 각 519문단, chunk와 바이트 동일 검증). 기존 키 구조 유지(EN: num/title/paragraphs/verseRanges, KO: num/paragraphs/verseRanges). `.bak` 파일은 미수정.
+- 43건 root-only 슬랭 수정이 정본에 N/A인 이유: 해당 43개 문자열이 정본 chunk 본문에 원래부터 존재하지 않음(어제 coordinator가 chunk 파일 직접 확인). 정본은 어제 재검색에서 슬랭 0건이었고, 단일화 후 재검색에서도 잔여 0건 확인(아래).
+
+**슬랭 재검색 (단일화 후, Rule ①–⑤ 패턴 전수)**: 히트 5건 전부 오탐/유지로 판정, 수정 0건.
+- EN ch8 p18 "woke" → "woke him up" 일반 동사. EN ch11 p2·ch18 p4 "lame" → MSG 원문 그대로("the lame walk", "maimed or lame", 마태 11:5/18:8).
+- KO ch6 p2 "'좋아요'" → EN "cheers and likes"의 충실한 번역. 외식하는 자들이 받는 '사람들의 인정'을 가리키며, 같은 문단에서 하나님은 "상상하시고 깊이 사랑하시는" 것으로 경건하게 묘사됨. B16에서 교체한 '하나님이 좋아요를 누르신다' 유형(하나님을 SNS 사용자로 만듦)과 다름 → 유지.
+- KO ch24 p1 "좋아요, 말씀해 보세요" → EN "Okay, spill"의 "알았어요/자" interjection. 정상 용법 → 유지.
+
+**8개 게이트 재실행 (단일화 후, 2026-09-23)**:
+1. ① 의미: 본문 무변경(chunk와 바이트 동일 assert) — PASS.
+2. ② 이슈: retired 처리·root 교체 문서화 — PASS.
+3. ③ 수정: 슬랭 재검색 0건 — PASS(해당 없음).
+4. ④ validator(정본 7파일): PASS — 28개 장 모두 통과.
+5. ⑤ completeness_check(EN 정본 5파일): FAIL 18건 = `completeness_fp_Matthew.md` 문서화 오탐과 1:1 일치(신규 0건) — PASS(기존 기준).
+6. ⑥ build_gdocs.py Matthew: teen_ch=28, msg_chapters=28, rows=519, VERIFY_DROPPED=0 — PASS. PAIRING_MISMATCHES=8 [MSG_SUPERSET]은 선언된 split/merge의 정상 렌더링(ch15: MSG 3-9→paras 2,4 / ch25: para1이 MSG 1-5+6+7-8 merge / ch26: MSG 26-29→paras 4,5 / ch27: MSG 35-40→paras 6,7)이며, 단일화 전 빌드와 동일한 출력으로 이번 작업이 도입한 것 아님.
+7. ⑦ verify_pairing_content.py(런타임 패치 parse_msg_matthew): PAIRING CONTENT OK — 454행/28테이블.
+8. ⑧ Google Docs 재업로드: API 테이블 28/28, export-back VERIFIED OK.

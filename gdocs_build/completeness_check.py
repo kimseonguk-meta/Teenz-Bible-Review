@@ -21,7 +21,8 @@ Usage:
     python3 completeness_check.py <en_json> [<en_json> ...]
 
 <en_json> is a fixes/en_<Book>.json file (or a split file such as
-en_matthew_01-14.json). The book name is inferred from the file name; the
+en_matthew_01-03.json; the old fixes/en_matthew_01-14.json was retired to
+fixes/retired/ on 2026-09-23 — do not use it). The book name is inferred from the file name; the
 MSG source comes from ~/workspace/teenz-bible-review/ (msg_<Book>.txt,
 msg_matthew_raw.json for Matthew, msg_Romans.txt + msg_Romans_supplement.txt
 for Romans). Parser functions are reused from build_gdocs.py.
