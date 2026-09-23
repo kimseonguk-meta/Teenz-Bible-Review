@@ -30,7 +30,7 @@
     "title": "God Laughs at Haters & Crowns His King",
     "paragraphs": [
       "Yo, what's with all the drama, nations? Why are you all plotting shady stuff? World leaders are scrambling for power, politicians are having secret meetings, and all the people who hate God and the Messiah are like, 'Let's ditch God! We don't need a Messiah!'",
-      "God, chilling on his throne in heaven, just starts laughing. At first, he thinks it's kinda funny how bold they are, but then he gets seriously mad. He shuts them down real quick, like, 'Uh, have you forgotten who's in charge? There's a King in Zion, and we're throwing a huge party for his coronation on the holy mountain.'",
+      "God, chilling on his throne in heaven, just starts laughing. At first, he thinks it's kinda funny how bold they are, but then he gets seriously mad. Furiously, he shuts them down, like, 'Uh, have you forgotten who's in charge? There's a King in Zion, and we're throwing a huge party for his coronation on the holy mountain.'",
       "So then God says to me, 'You're my son, and today's your birthday. Seriously, what do you want? I'll give you whole nations as a gift, entire continents as a prize. You can make them do whatever you want, or just toss them out like old news.'",
       "So, all you rebel kings and wannabe judges, get a clue. Worship God with everything you've got, celebrate him with some serious respect. Show love to the Messiah! Your lives are on the line, for real. His anger is about to blow up, but if you run to God for safety, you won't regret it.."
     ],
@@ -47,14 +47,21 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "2:4-6",
+        "msg_basis": "MSG 'Furiously' dropped",
+        "type": "content-restore",
+        "note": "2:4-6 MSG 'Furiously' dropped; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 3,
     "title": "Haters Everywhere, But God's Got My Back",
     "paragraphs": [
-      "God, for real, look at this! I've got haters coming at me from all sides. They're popping up everywhere like mushrooms, and the whole mob is just laughing at me, saying, 'LOL, God's not gonna help him now.'",
+      "God, for real, look at this! I've got haters coming at me from all sides. They're popping up everywhere like mushrooms, and the whole mob is just laughing at me, saying, 'Ha, God's not gonna help him now.'",
       "But you, God, you're my shield, protecting me from everything. You keep me grounded and help me stand tall. When I yell out to you, you answer back like thunder from your holy mountain.",
       "I can just lie down and sleep, and then I wake up totally refreshed and ready to go. I'm not even scared of all these enemy mobs coming at me from every direction.",
       "Get up, God! My God, help me! Shut them down. Slap them in the face, first one cheek, then the other. Punch them right in the teeth!",
@@ -76,7 +83,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "3:1-2",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "3:1-2 slang 'LOL' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -118,7 +132,7 @@
     "title": "When Haters Are Loud, Pray Louder",
     "paragraphs": [
       "God, for real, please listen up! I know I'm just rambling and groaning, but can you hear me out? You're my King and my God, and I seriously need your help. I'll be hitting you up every single morning. I'm laying my whole life out for you, like a sacrifice, just waiting for you to show up and do something amazing.",
-      "You're not friends with bad people, and you definitely don't invite evil to hang out. People who are all talk just fall apart when they're around you. You're so done with troublemakers. God, you shut down liars, and people who are violent and twist the truth are just gross to you.",
+      "You're not friends with bad people, and you definitely don't invite evil to hang out. Hot-air boasters just collapse when they're around you. You're so done with troublemakers. God, you shut down liars, and people who are violent and twist the truth are just gross to you.",
       "And now I'm here, and you invited me! That's wild. I'm walking into your house, and I'm just bowing down in your most holy place, waiting for you to tell me how to get past all the people who are against me.",
       "Everything they say is like a trap, and their words are like poison. They're all about death and destruction, and their words are slippery and will make you fall. God, make them face the consequences. Let their own smarts be their downfall. Just kick them out, they've had enough chances.",
       "But for those of us who run to you for safety, you'll welcome us with open arms. Let's party all night! Watch over our celebration. God, you're famous for being good to those who look for you, for decking us out in pure joy."
@@ -139,7 +153,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "5:4-6",
+        "msg_basis": "MSG 'Hot-Air-Boaster' dropped",
+        "type": "content-restore",
+        "note": "5:4-6 MSG 'Hot-Air-Boaster' dropped; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -152,7 +173,7 @@
       "Jump in, God, and break this up. If you love me at all, you gotta get me out of here. I'm no good to you dead, right? I can't be in your praise team if I'm six feet under!",
       "I'm so over all of this—legit exhausted. My bed's been floating for like, 40 days and nights on my tears. My mattress is soaked.",
       "My eyes are just dark circles at this point, I'm basically blind and just feeling my way around.",
-      "Get out of here, all you haters. God finally heard me crying. He said yes to all my requests, my prayers got answered.",
+      "Get out of here, you Devil's crew. God finally heard me crying. He said yes to all my requests, my prayers got answered.",
       "My enemies are such cowards, they're just gone. They totally bailed, disgraced. Wild."
     ],
     "verseRanges": [
@@ -175,7 +196,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "6:8-9",
+        "msg_basis": "MSG 'Devil's crew' generalized",
+        "type": "content-restore",
+        "note": "6:8-9 MSG 'Devil's crew' generalized; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -220,11 +248,11 @@
     "chapter": 8,
     "title": "You're a BIG Deal (But So Are We?!)",
     "paragraphs": [
-      "God, our awesome Lord, your name is famous everywhere.",
+      "God, our brilliant Lord, your name is famous everywhere.",
       "Even babies and little kids are singing your praises, so loud that it shuts up all the haters and people who say you're not real.",
       "When I look up at the huge night sky you made—like, this massive, dark, handmade masterpiece, with the moon and stars like your personal jewelry collection—and then I look at tiny little me, I can't help but wonder: Why do you even bother with us? Why do you give us a second glance?",
       "And yet, it's wild that you made us just a little lower than angels, shining bright like we're straight out of Eden. You put us in charge of the whole world you created. You told us to take care of it, just like in Genesis. We're the managers of all the sheep and cows, and even the wild animals, the birds in the sky and the fish in the sea, and the whales singing way down deep.",
-      "God, our awesome Lord, your name echoes all over the planet."
+      "God, our brilliant Lord, your name echoes all over the planet."
     ],
     "verseRanges": [
       "1",
@@ -242,7 +270,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "8:1",
+        "msg_basis": "MSG 'brilliant Lord' dropped",
+        "type": "content-restore",
+        "note": "8:1 MSG 'brilliant Lord' dropped; restore 'brilliant'"
+      },
+      {
+        "ref": "8:9",
+        "msg_basis": "MSG 'brilliant Lord' dropped",
+        "type": "content-restore",
+        "note": "8:9 MSG 'brilliant Lord' dropped; restore 'brilliant'"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -255,7 +296,7 @@
       "God's the one in charge, he sees the whole world's mess and fixes it. He decides what's fair for all of us on earth and makes sure everyone gets what's coming to them.",
       "God is a total safe space for the broken, a sanctuary when times are rough. The second you show up, you can just chill. You'll never be sorry you came to him.",
       "Sing songs to God who lives in Zion, tell everyone you know about his story. He's the one who hunts down the bad guys but still keeps an eye on us, noticing every single time we're down.",
-      "Have my back, God. I've been getting beat up for way too long. Once you pull me back from the edge, I'll write a whole book of praise. I'll throw a party on the main street, I'll lead the songs, and we'll fill the air with songs about how you saved us.",
+      "Have my back, God. I've been getting beat up for way too long. Once you pull me back from the edge, I'll write a whole book of Hallelujahs. On the corner of Main and First, I'll hold a street meeting; I'll be the song leader, and we'll fill the air with songs about how you saved us.",
       "The godless countries are trapped in the very traps they set. Their own feet are tangled in the nets they laid out. They have no excuse; everyone knows how God works. The sneaky plans the wicked made ended up hurting themselves.",
       "The wicked are on a one-way trip to hell. The poor won't be forgotten anymore—no more being looked down on for the humble. Get up, God! Aren't you sick of their arrogant act? Expose them for who they really are! Shake them up, God! Show them how ridiculous they look."
     ],
@@ -283,7 +324,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "9:13-14",
+        "msg_basis": "MSG 'on the corner of Main and First' dropped",
+        "type": "content-restore",
+        "note": "9:13-14 MSG 'on the corner of Main and First' dropped; restore location"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -334,10 +382,10 @@
   },
   {
     "chapter": 11,
-    "title": "No Cap, God's Got Your Back",
+    "title": "God's Got Your Back",
     "paragraphs": [
       "I'm already all-in with God, so why are you telling me to run for the hills? You're like, \"Dude, get out of here! Bad guys are everywhere, hiding in the shadows, waiting to take down anyone who loves God. Society's a mess, and good people are getting wrecked.\"",
-      "But for real, God's not hiding on some mountain. He's still on His throne, watching everything. He sees it all, every single person, inside and out. He's checking everyone's hearts, both the good and the bad. And if you're a fake, He's not having it. If you fail His vibe check, you're gonna face some serious heat, like fiery rocks and scorching winds. It's gonna be rough.",
+      "But for real, God's not hiding on some mountain. He's still in His holy place, on His throne, watching everything. His eyes take it all in, unblinking, examining every single person inside and out, not missing a thing. He's checking everyone's hearts, both the good and the bad. And if you're a fake, He's not having it. If you fail His test, you're gonna face some serious heat, like fiery rocks and scorching winds. It's gonna be rough.",
       "But God's all about making things right. He loves justice and fairness. He's the one who helps us get our lives straight. And when we're living right, we can look at Him with confidence, no need to hide."
     ],
     "verseRanges": [
@@ -352,7 +400,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "11:4-5",
+        "msg_basis": "MSG 'holy address hasn't changed / eyelids unblinking' condensed",
+        "type": "content-restore",
+        "note": "11:4-5 MSG 'holy address hasn't changed / eyelids unblinking' condensed; restore"
+      },
+      {
+        "ref": "11:4-5",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "11:4-5 slang 'vibe check' removed"
+      },
+      {
+        "ref": "11",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "11 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -383,7 +450,7 @@
   },
   {
     "chapter": 13,
-    "title": "God, You There? Feeling Lowkey Ghosted",
+    "title": "God, You There? Feeling Ghosted",
     "paragraphs": [
       "Seriously God, how long are you gonna ignore me? Feels like I've been staring at the back of your head forever. I'm so over carrying all this stress and this pit in my stomach. And I'm sick of my enemies acting like they're all that.",
       "Please, God, my God, just look at me. I need to face this head-on, so my enemies don't get the win and laugh when I totally wipe out.",
@@ -401,16 +468,23 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "13",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "13 title 'Lowkey' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 14,
-    "title": "God's Got Your Back, No Cap",
+    "title": "God's Got Your Back",
     "paragraphs": [
       "These arrogant people are out here saying, \"God's not real.\" Seriously? Their words are toxic, like they're polluting everything. All they produce is negativity.",
       "So God looks down from heaven, searching for anyone with a clue, anyone who's actually looking for Him.",
-      "But He finds no one. It's a total bust. They're like a bunch of lost sheep trying to lead each other, just following the crowd.",
+      "But He finds no one. It's a total bust. They're like a bunch of useless, unshepherded sheep taking turns pretending to be the shepherd. And the ninety and nine just follow their fellow.",
       "Do these bullies even get it? They treat people like they're disposable, like a quick snack they can't even be bothered to be thankful for. They really think they can get away with that?",
       "Well, a storm is coming for them. God's on the side of the people they hurt. They think they can crush the dreams of the struggling? Nah, God's the one who makes those dreams happen.",
       "So, who's gonna save the day? God is. He's the one who turns everything around. Jacob will be dancing, and all of Israel will be celebrating."
@@ -433,7 +507,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "14:3",
+        "msg_basis": "MSG 'ninety and nine follow their fellow' dropped",
+        "type": "content-restore",
+        "note": "14:3 MSG 'ninety and nine follow their fellow' dropped; restore"
+      },
+      {
+        "ref": "14",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "14 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -466,12 +553,12 @@
   },
   {
     "chapter": 16,
-    "title": "God is My #1, No Cap",
+    "title": "God is My #1",
     "paragraphs": [
       "Yo God, for real, keep me safe. I'm running to you like my life's on the line. I'm telling you, \"You're my Lord!\" Without you, nothing even makes sense.",
-      "And all these people you've chosen? They're the best friends ever.",
+      "And these God-chosen lives all around—what splendid friends they make!",
       "Don't just go shopping for a god like they're on sale. You can't just buy a god. I swear I'll never treat God's name like it's just some brand.",
-      "My choice is you, God, first and only. And now I find out I'm your choice too! You hooked me up with a house and a yard. And then you made me your heir! That's goated.",
+      "My choice is you, God, first and only. And now I find out I'm your choice too! You hooked me up with a house and a yard. And then you made me your heir! That's legendary.",
       "The smart advice God gives me when I'm awake is the same stuff my heart tells me in my sleep. Day and night, I'm sticking with God. I've got a good thing going and I'm not letting go.",
       "I'm happy from the inside out, and from the outside in, I'm solid. You basically cancelled my ticket to hell—that's not where I'm going!",
       "Now you've got my feet on the path of life, and I'm glowing from your presence. Ever since you took my hand, I know I'm on the right track."
@@ -496,7 +583,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "16:3",
+        "msg_basis": "MSG 'God-chosen lives / splendid friends' weakened",
+        "type": "content-restore",
+        "note": "16:3 MSG 'God-chosen lives / splendid friends' weakened; restore"
+      },
+      {
+        "ref": "16",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "16 title 'No Cap' removed"
+      },
+      {
+        "ref": "16:5-6",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "16:5-6 slang 'goated' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -508,8 +614,8 @@
       "I'm not about that worldly hustle. I'm trying to live by your rules, your Word. I'm following your lead, one step at a time. I'm not quitting.",
       "I'm hitting you up, God, 'cause I know you'll answer. So... answer me! Hear me out, for real. Show your amazing grace, and protect your kids who are running from the haters straight to you.",
       "Keep an eye on me, protect me. Hide me from the evil people who are trying to take me down, from the enemies all around me.",
-      "These guys are ruthless, all talk and hate. They're chasing me, trying to bring me down like lions about to pounce. Get up, God! Face them, shut them down! Save me from them. Take down these people who only care about today and can't see the bigger picture.",
-      "I hope they get what's coming to them, a taste of their own medicine. Let them and their families feel the consequences of their actions.",
+      "These guys are ruthless, all talk and hate. They're chasing me, trying to bring me down like lions about to pounce. Get up, God! Face them, shut them down! By your sword, save me from their clutches. Barehanded, God, break these mortals, these people who can't think beyond today.",
+      "I'd like to see their bellies swollen with famine food, the weeds they've sown harvested and baked into famine bread, with second helpings for their children and crusts for their babies to chew on.",
       "But me? I'm gonna see you face-to-face. When I wake up, I'll see you in all your glory, and that'll be my heaven on earth."
     ],
     "verseRanges": [
@@ -533,7 +639,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "17:13-14",
+        "msg_basis": "MSG 'by your sword / barehanded' condensed",
+        "type": "content-restore",
+        "note": "17:13-14 MSG 'by your sword / barehanded' condensed; restore"
+      },
+      {
+        "ref": "17:13-14",
+        "msg_basis": "MSG famine-food/second-helpings/crusts imagery dropped",
+        "type": "content-restore",
+        "note": "17:13-14 MSG famine-food/second-helpings/crusts imagery dropped; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -594,7 +713,7 @@
   },
   {
     "chapter": 19,
-    "title": "God's Word is Fire, No Cap",
+    "title": "God's Word is Fire",
     "paragraphs": [
       "God’s glory is on a world tour across the skies, and the whole horizon is like a massive art show of His work. Every single morning, Day is holding class, and every night, Night is giving a lecture.",
       "You can't actually hear their words, and their voices aren't being recorded, but their silence is so loud it fills the entire planet. It's like this unspoken truth that's being shouted everywhere, you feel me?",
@@ -624,19 +743,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "19",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "19 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 20,
-    "title": "God's Got Your Back, No Cap",
+    "title": "God's Got Your Back",
     "paragraphs": [
       "When you're having a total meltdown, hope God answers your call. May the name of Jacob's God be your ultimate shield, keeping you safe from all the drama.",
       "Hope he sends backup from his holy place and hooks you up with fresh supplies from Zion. May he be super impressed with your efforts and totally hype about your sacrifices. Hope he gives you everything your heart wants and makes all your plans happen.",
-      "When you get that W, we're gonna go wild and party hard, waving our banners for our God. Seriously, may all your wishes come true!",
+      "When you win, we're gonna go wild and party hard, waving our banners for our God. Seriously, may all your wishes come true!",
       "I know help is on the way. An answer is coming, and everything's gonna be alright.",
       "Look at those people flexing with their fancy chariots and grooming their horses. But us? We're all about our God. Their chariots will end up as scrap metal and their horses will go lame, but we'll be standing strong, totally unfazed.",
-      "God, make our king a winner. The day we call out to you, please answer us. It's a vibe."
+      "God, make our king a winner. The day we call out to you, please answer us."
     ],
     "verseRanges": [
       "1",
@@ -655,14 +781,33 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "20",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "20 title 'No Cap' removed"
+      },
+      {
+        "ref": "20:5",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "20:5 slang 'W' removed"
+      },
+      {
+        "ref": "20:9",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "20:9 slang 'It's a vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 21,
     "title": "When God's Got Your Back",
     "paragraphs": [
-      "God, your strength is the king's strength, for real. With your help, he's shouting out your name. You gave him everything he asked for. You loaded him up with gifts and gave him the special treatment. He just wanted a good life, and you gave him that and a long one too, like a bonus level. You made him shine bright like a star and decked him out in all the best colors. You keep blessing him and make him happy when you smile. It's no wonder the king messes with you, God. He's sticking with the GOAT.",
+      "God, your strength is the king's strength, for real. With your help, he's shouting out your name. You gave him everything he asked for. You loaded him up with gifts and gave him the special treatment. He just wanted a good life, and you gave him that and a long one too, like a bonus level. You made him shine bright like a star and decked him out in all the best colors. You keep blessing him and make him happy when you smile. It's no wonder the king messes with you, God. He's sticking with the Best.",
       "You've got all his enemies and haters in your hands. You're so powerful, they can't even look at you, like they're staring into a furnace. Then, whoosh, the furnace swallows them up, and the fire burns them alive. You get rid of all their kids from the earth and wipe the slate clean. All their sneaky plans and evil plots? Total fails. You sent them running because they couldn't handle you.",
       "Flex on 'em, God, so everyone can see your power. We're out here singing about how awesome you are!"
     ],
@@ -678,7 +823,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "21:7",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "21:7 slang 'GOAT' removed; MSG 'sticking with the Best'"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -688,14 +840,14 @@
       "My God, my God... seriously, why did you just leave me out here in the middle of nowhere? I'm doubled over in pain, screaming for you all day long, but get no answer. Nothing. I keep going all night, just tossing and turning.",
       "And You! Are you just chilling, not caring about any of this, just kicking back while everyone in Israel sings your praises? We all know you came through for our ancestors; they cried out to you for help, and you delivered. They put their trust in you and lived their best lives.",
       "But look at me, I'm a total nobody—like a worm, something people step on without a second thought. Everyone makes fun of me; they pull faces and shake their heads, saying, 'Let's see how God gets him out of this one. If God likes him so much, let's see Him help him!'",
-      "And to think, you were the one who delivered me at birth, who made me feel safe with my own mom. From the moment I was born, you held me; you've been my God since day one. But then you felt so far away, and trouble moved in right next door. I really need a good neighbor right now.",
+      "And to think, you were the one who delivered me at birth, who made me feel safe with my own mom. From the moment I was born, you held me; you've been my God since the moment of birth. But then you felt so far away, and trouble moved in right next door. I really need a good neighbor right now.",
       "I've got whole herds of bulls coming at me, a full-on stampede of angry bulls, with their horns down and nostrils flaring, like a wild buffalo herd on the loose.",
       "I feel like a bucket that's been kicked over and spilled everywhere; every single joint in my body feels like it's been pulled apart. My heart has literally melted into a puddle in my stomach. I'm as dry as a bone, my tongue is black and swollen. They've basically laid me out in the dirt to be buried.",
       "Now there are packs of wild dogs coming after me; a whole gang of thugs is surrounding me. They've got me pinned down, hand and foot, and locked me in a cage. I'm just a bag of bones in a cage, with every person passing by just staring. They took my wallet and the shirt right off my back, and now they're gambling for my clothes.",
       "God, please don't wait to rescue me! Hurry up and help me out! Don't let them slit my throat; don't let those dogs eat me. If you don't show up soon, it's over for me—I'll be gored by the bulls, just meat for the lions.",
       "This is the story I'm going to tell my friends when they all come to worship, and I'll be shouting Hallelujah through it all: 'Shout Hallelujah, all you who worship God; give glory, all you sons of Jacob; worship Him, all you daughters of Israel. He has never, ever let you down, never looked the other way when you were getting kicked around. He never just wandered off to do His own thing; He was right there the whole time, listening.'",
       "Right here in this huge worship gathering, I've discovered this life of praise. And I'm going to do what I promised, right here in front of everyone who worships God. The people who have nothing will sit at God's table and eat until they're full. Everyone who's searching for God is here, praising Him. 'Live it up, for real. Don't ever stop!'",
-      "From every corner of the earth, people are starting to get it, they're all running back to God. Families that were lost for ages are now bowing down and worshiping Him. God has taken over; from now on, He gets the final say.",
+      "From the four corners of the earth, people are starting to get it, they're all running back to God. Families that were lost for ages are now bowing down and worshiping Him. God has taken over; from now on, He gets the final say.",
       "All the powerful people are bowing before Him—worshiping! And all the poor and powerless people are too—worshiping! Even those who could never get their life together—they're all worshiping!",
       "Our kids and their kids will be a part of this, as the story gets passed down from parent to child. Babies who haven't even been conceived yet will hear the good news—that God always does what He says He'll do."
     ],
@@ -731,18 +883,31 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "22:27",
+        "msg_basis": "MSG 'four corners of the earth' dropped",
+        "type": "content-restore",
+        "note": "22:27 MSG 'four corners of the earth' dropped; restore"
+      },
+      {
+        "ref": "22:9-11",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "22:9-11 slang 'day one' removed; MSG 'since the moment of birth'"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 23,
-    "title": "God's Got My Back, No Cap",
+    "title": "God's Got My Back",
     "paragraphs": [
       "God is my shepherd, so I'm totally set. I don't need a thing.",
       "He lets me chill in lush green fields and leads me to quiet streams to drink. He gets my life back on track and points me in the right direction, just like he promised.",
       "Even when I'm walking through the darkest valley, like, legit scary stuff, I'm not afraid because you're right there with me. Your shepherd's staff and rod make me feel super safe and protected.",
-      "You throw a massive feast for me right in front of my haters. You anoint my head with oil, and my cup is overflowing with blessings. It's a whole vibe.",
-      "For real, your goodness and love are gonna chase after me every single day of my life. And I'll be chilling in God's house forever.."
+      "You serve me a six-course dinner right in front of my enemies. You anoint my head with oil, and my cup is overflowing with blessings.",
+      "For real, your goodness and love are gonna chase after me every single day of my life. And I'll be chilling in God's house forever."
     ],
     "verseRanges": [
       "1",
@@ -759,12 +924,37 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "23:5",
+        "msg_basis": "MSG 'six-course dinner' dropped",
+        "type": "content-restore",
+        "note": "23:5 MSG 'six-course dinner' dropped; restore"
+      },
+      {
+        "ref": "23:5 drop slang 'It's a whole vibe'",
+        "msg_basis": "",
+        "type": "content-restore",
+        "note": "23:5 drop slang 'It's a whole vibe'"
+      },
+      {
+        "ref": "23",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "23 title 'No Cap' removed"
+      },
+      {
+        "ref": "23:6 fix double period only; 'chilling' kept per user rule",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "23:6 fix double period only; 'chilling' kept per user rule"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 24,
-    "title": "Who Gets to Vibe with God?",
+    "title": "Who Gets to Climb God's Mountain?",
     "paragraphs": [
       "God basically owns the Earth and everything in it, the whole world and every single person. He built it on top of the oceans and set it on the rivers, which is pretty wild.",
       "So, who gets to climb God's mountain? Who can even get into His holy place? It's the people with clean hands and a pure heart. The ones who don't chase after fake idols or lie just to get ahead.",
@@ -794,7 +984,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "24",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "24 title 'Vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -802,7 +999,7 @@
     "title": "God, You Got My Back, Right?",
     "paragraphs": [
       "I’m looking to you, God, keeping my head high. I’m done with feeling down and hiding.",
-      "I’m all in with you, so you won’t let me be embarrassed, right? You won’t let my enemies get the W?",
+      "I’m all in with you, so you won’t let me be embarrassed, right? You won’t let my enemies win?",
       "Don’t let any of us who are counting on you be embarrassed. The only ones who should be humiliated are the traitors.",
       "Show me how you operate, God; teach me your ways.",
       "Take my hand and lead me in your truth. You’re my Savior, after all, aren’t you?",
@@ -873,7 +1070,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "25:2",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "25:2 slang 'W' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1076,7 +1280,7 @@
       "You're my go-to hiding spot, my rock and my fortress. Lead the way and be my guide through all this. Get me out of the traps people have set for me; I just want to be safe with you. My life is in your hands. I know you've got me, you'll never let me fall.",
       "Honestly, I can't stand all the fake religious stuff, but you, God? You I trust. I'm so happy in your love it makes me want to dance. You saw I was hurting, you shut down my haters. You didn't just leave me there for them to get me, you gave me space to breathe. God, please be nice to me—I'm in some deep trouble again. I've cried so much my eyes are swollen shut, and I just feel empty. My life is just slipping away with every sad sigh. My problems have totally wrecked me, I feel like I'm turning to dust. My enemies act like I'm a freak, and the neighbors all make fun of me. My friends are scared of me; they literally cross the street to not have to see me. It's like they want to pretend I never existed, like I'm a dead body or a broken plate they can just throw away. The rumors going around are that I'm 'criminally insane'! They're all plotting behind my back to destroy me.",
       "I'm desperate, so I'm throwing myself at you: you are my God! Every hour of every day, I'm putting my life in your hands, keeping it safe from the people who are trying to get me. Look at me, your follower, and smile. Save me because you love me. Don't make me look stupid by not being there for me; I've told you over and over I need you. Make the wicked people look stupid, leave them speechless as they go down to hell. Shut those liars up who are always heckling me, your follower, with their insults and mean jokes.",
-      "It's wild how many good things you have stored up for the people who worship you, just waiting for anyone who runs to you to get away from this messed-up world. You hide them away from all the haters. You shut the door on all the fake, mocking people and silence their toxic gossip. God is goated! His love is the most amazing thing in the world. When I was trapped and surrounded, I totally freaked out. I was like, 'He's forgotten about me.' But you heard me, you were listening.",
+      "It's wild how many good things you have stored up for the people who worship you, just waiting for anyone who runs to you to get away from this messed-up world. You hide them away from all the haters. You shut the door on all the fake, mocking people and silence their toxic gossip. God is legendary! His love is the most amazing thing in the world. When I was trapped and surrounded, I totally freaked out. I was like, 'He's forgotten about me.' But you heard me, you were listening.",
       "Love God, all you who are close to him. God looks out for everyone who sticks with him, but he'll make sure those who are arrogant enough to do things on their own get what's coming to them.",
       "Be brave. Be strong. Don't give up. God will be here before you know it."
     ],
@@ -1100,7 +1304,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "31",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "31 slang 'goated' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1165,9 +1376,9 @@
   },
   {
     "chapter": 33,
-    "title": "God's Plan is Lowkey GOATED",
+    "title": "God's Plan Is the Greatest",
     "paragraphs": [
-      "Alright, all you good people, let's give it up for God! When you're living right, your praise just hits different. So grab your guitars and get on the piano, let's make some noise for Him! Write a whole new song for him; give him a trumpet fanfare.",
+      "Alright, all you good people, let's give it up for God! When you're living right, your praise is like nothing else. So grab your guitars and get on the piano, let's make some noise for Him! Write a whole new song for him; give him a trumpet fanfare.",
       "Because God's Word is legit. Everything He makes is solid, inside and out. He loves when things are fair and just, when His world is perfectly aligned. The whole Earth is soaked in God's love and approval.",
       "The skies were literally made by God's command. He just said the word, and boom, the stars appeared. He scooped up the Sea like it was nothing and stored the Ocean away.",
       "Everyone on Earth, you gotta respect God. All you people in the world, show some reverence! Here's the deal: He spoke, and it just happened. It was there the second He said it.",
@@ -1202,13 +1413,25 @@
     "merges": [],
     "splits": [],
     "changes": [
-      "Corrected [13-14] to [13-15]; content includes v15"
+      "Corrected [13-14] to [13-15]; content includes v15",
+      {
+        "ref": "33",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "33 title 'Lowkey/GOATED' removed"
+      },
+      {
+        "ref": "33:1-3",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "33:1-3 slang 'hits different' removed"
+      }
     ],
     "confirmations_needed": []
   },
   {
     "chapter": 34,
-    "title": "God's Got Your Back, No Cap",
+    "title": "God's Got Your Back",
     "paragraphs": [
       "I'm gonna praise God every chance I get; my lungs are basically overflowing with praise for him.",
       "I'm all about God; if you're going through it, listen up and get ready to be happy:",
@@ -1283,7 +1506,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "34",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "34 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1335,9 +1565,9 @@
   },
   {
     "chapter": 36,
-    "title": "Good Vibes vs. Bad Guys",
+    "title": "Goodness vs. Bad Guys",
     "paragraphs": [
-      "That person who turns away from God is all about that bad vibe life—always ready to mess up. They have zero respect for God, just straight-up defiant. They've hyped themselves up so much they actually think no one will ever catch their shady stuff. The words that come out of their mouth are just gross, like dirty dishwater. They probably can't even remember the last time they did something good. Every night, they're dreaming up new ways to be awful. When they're out and about, nobody is safe. They're playing with fire and couldn't care less who gets burned.",
+      "That person who turns away from God is all about doing bad things—always ready to mess up. They have zero respect for God, just straight-up defiant. They've hyped themselves up so much they actually think no one will ever catch their shady stuff. The words that come out of their mouth are just gross, like dirty dishwater. They probably can't even remember the last time they did something good. Every night, they're dreaming up new ways to be awful. When they're out and about, nobody is safe. They're playing with fire and couldn't care less who gets burned.",
       "God's love is wild, his loyalty is off the charts. His plans are huge, and his judgments are deep like the ocean. But even though he's so massive, nothing gets missed; not a single person, not even a mouse, falls through the cracks.",
       "Your love is unreal, O God! We're so ready to just run and hide under your wings, to get our fill at the feast you put out for us, while you top up our cups with water from Eden. You're like a fountain of crazy bright light, and you help us see the light too.",
       "Keep on loving your crew; do your thing in hearts that are open to you. Don't let the haters push me around, or let those small-minded people smack me down. Make those arrogant people fall flat on their faces in the mud."
@@ -1356,7 +1586,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "36",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "36 title 'Vibes' removed"
+      },
+      {
+        "ref": "36:1-4",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "36:1-4 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1364,7 +1607,7 @@
     "title": "Why Haters Never *Actually* Win",
     "paragraphs": [
       "Don't even sweat the show-offs or get jealous of the shady people who seem to be winning. They'll be totally irrelevant faster than a forgotten meme, wilting like cut flowers left in the sun.",
-      "Trust in God, do good things, and just live your life, staying true to yourself. Vibe with God, and you'll get the best things in life.",
+      "Trust in God, do good things, and just live your life, staying true to yourself. Delight in God, and you'll get the best things in life.",
       "Open up to God, be real with him; he'll handle whatever needs to be done. He'll make your goodness shine bright for everyone to see, and prove you're legit in the middle of the day.",
       "Chill out in God's presence, and be patient. Don't get worked up about people who are climbing the social ladder by stepping on others.",
       "Let go of your anger, ditch the rage, and cool down—it just makes everything a bigger mess. Sooner or later, the cheaters will go broke, but those who invest in God will basically own the place.",
@@ -1436,12 +1679,19 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "37:3-4",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "37:3-4 slang 'Vibe with God' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 38,
-    "title": "God, I'm Lowkey Spiraling RN",
+    "title": "God, I'm Spiraling",
     "paragraphs": [
       "Yo God, take a deep breath, chill out for a sec. Don't be so quick with the punishments. Your sharp words are hitting hard, and your discipline is no joke—it actually hurts.",
       "I'm so stressed from you calling me out that I've lost like twenty pounds in two months. My sin has left my bones feeling brittle, like dry sticks. I'm drowning in all the bad stuff I've done, totally crushed by an avalanche of guilt.",
@@ -1468,7 +1718,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "38",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "38 title 'Lowkey/RN' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1499,10 +1756,10 @@
   },
   {
     "chapter": 40,
-    "title": "God Pulled Me Out of the Mud, No Cap",
+    "title": "God Pulled Me Out of the Mud",
     "paragraphs": [
       "I waited forever for God. Like, I was patient, and finally, He looked my way and listened. He literally pulled me out of a ditch, out of some nasty, deep mud. He set me up on solid rock so I wouldn't slip again. And get this—He gave me a brand new song to sing, a praise song to our God. Now, more and more people are seeing what He did, and they're starting to trust in God too. It's wild.",
-      "You're seriously blessed if you just trust God, ignore all the stuff the world says is a 'sure thing,' and don't worship what everyone else does. God's wonders and thoughts are a huge stockpile. No one and nothing can even compare to Him. I start talking about Him, telling people what I know, and I just run out of words. You can't count or describe how goated He is.",
+      "You're seriously blessed if you just trust God, ignore all the stuff the world says is a 'sure thing,' and don't worship what everyone else does. God's wonders and thoughts are a huge stockpile. No one and nothing can even compare to Him. I start talking about Him, telling people what I know, and I just run out of words. You can't count or describe how amazing He is.",
       "It's not about just doing stuff for You, or bringing You things. Being super religious and acting all pious? That's not what You're asking for. You've opened my ears so I can actually listen.",
       "So I was like, 'I'm coming. I saw in Your book what You wrote about me, and I'm ready for the party You're throwing.' That's when God's Word really hit me and became a part of who I am.",
       "I've told everyone about You, God. I haven't held anything back, and You know it. I didn't keep the news about Your ways a secret. I told everyone how dependable and thorough You are. I didn't keep Your love and truth to myself. I spilled all the tea and let everyone know the whole story.",
@@ -1532,7 +1789,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "40",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "40 title 'No Cap' removed"
+      },
+      {
+        "ref": "40:4-5",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "40:4-5 slang 'goated' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1569,13 +1839,13 @@
   },
   {
     "chapter": 42,
-    "title": "When You're Lowkey Thirsty for God",
+    "title": "When You're Thirsty for God",
     "paragraphs": [
       "Just like a deer gets thirsty and finds a stream, I'm thirsty for God. Like, really thirsty. I'm desperate to feel God's presence for real. I keep wondering, 'Am I ever gonna get there? To just be with God?'",
       "I'm basically living on my own tears right now. Morning, noon, and night, that's all there is. And all day, people are bugging me, like, 'So, where's this God you're always talking about?'",
-      "I keep replaying the good old days in my head, you know? I used to lead the worship crew, right at the front. I was so hyped to get there and just praise God, shouting and singing, the whole squad celebrating together. It was a vibe.",
-      "So why am I so down now? Why all the sad vibes? I gotta focus on God. I know I'll be back to praising him soon. He's the one who makes me smile. He's my God, for real.",
-      "When I'm feeling depressed, I just run through everything I know about God. From the deepest valleys to the highest mountains. It feels like everything is just chaos, like I'm getting wrecked by giant waves. But then I remember God's promise to love me 24/7 and to sing over me all night. My whole life is basically a prayer to him.",
+      "I keep replaying the good old days in my head, you know? I used to lead the worship crew, right at the front. I was so hyped to get there and just praise God, shouting and singing, the whole squad celebrating together. It was beautiful.",
+      "So why am I so down now? Why am I so sad? I gotta focus on God. I know I'll be back to praising him soon. He's the one who makes me smile. He's my God, for real.",
+      "When I'm feeling depressed, I just run through everything I know about God. From Jordan depths to Hermon heights, including Mount Mizar. It feels like everything is just chaos, like I'm getting wrecked by giant waves. But then I remember God's promise to love me 24/7 and to sing over me all night. My whole life is basically a prayer to him.",
       "Sometimes I gotta ask God, my rock, 'Yo, why have you forgotten me? Why am I out here crying, getting bullied by my haters?' These guys are ruthless, they're just roasting me day after day, saying, 'Where's your God now, huh?'",
       "But for real, why am I so bummed out? Why am I so sad? I just need to focus on God. I know I'll be praising him again soon. He's the one who puts a smile on my face. He's my God."
     ],
@@ -1598,7 +1868,32 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "42:6-7",
+        "msg_basis": "MSG 'Jordan / Hermon / Mount Mizar' generalized",
+        "type": "content-restore",
+        "note": "42:6-7 MSG 'Jordan / Hermon / Mount Mizar' generalized; restore"
+      },
+      {
+        "ref": "42:5",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "42:5 slang 'vibes' removed"
+      },
+      {
+        "ref": "42",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "42 title 'Lowkey' removed"
+      },
+      {
+        "ref": "42:4",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "42:4 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1630,7 +1925,7 @@
     "paragraphs": [
       "God, we've heard the stories our whole lives. Our dads told us what their dads told them—about how you, by yourself, totally kicked out the people who didn't follow you and set us up here. You made them bounce and gave us a clean slate. We didn't earn this land by fighting or working for it; it was a straight-up gift from you. You gave it to us with a huge smile, like you were super happy to do it.",
       "You're my King, God—so give us the win! With you on our side, we'll crush our enemies. In your name, we'll turn them to dust. I'm not counting on weapons; my own skills won't save me. It's always been you who saved us from our haters and made them look like fools. We hype you up all day long, thanking you again and again.",
-      "But now, it feels like you've abandoned us. You've let us get embarrassed and you're not even fighting for us anymore. We had to retreat, and our enemies totally plundered us. It's like you handed us over to be slaughtered, and scattered us everywhere. You sold us out for cheap—like we were worthless.",
+      "But now, it feels like you've abandoned us. You've let us get embarrassed and you're not even fighting for us anymore. We had to retreat, and our enemies totally plundered us. It's like you handed us over to be slaughtered, and scattered us to the four winds. You sold us out for cheap—like we were worthless.",
       "Now everyone, even people we know, makes fun of us and calls us names. We're a running joke to those who don't believe in you. Every single day is a struggle, and I'm constantly reminded of our shame. All I hear is gossip and ridicule, and my enemies are everywhere.",
       "All this is happening to us, and we didn't even do anything to deserve it. We never broke our deal with you; our hearts have always been loyal, and we never strayed from your path. So why are we getting tortured like this? Why are we locked up in this dark place?",
       "If we had forgotten to pray to you, or started worshipping some fake, man-made gods, you would've known, right? You know everything about us. But no, it feels like you've decided to make us suffer, like we're just lambs being led to the slaughter every day.",
@@ -1656,12 +1951,19 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "44:11-12",
+        "msg_basis": "MSG 'four winds' generalized",
+        "type": "content-restore",
+        "note": "44:11-12 MSG 'four winds' generalized; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 45,
-    "title": "The GOAT King's Epic Wedding",
+    "title": "The Greatest King's Epic Wedding",
     "paragraphs": [
       "My heart is literally bursting with a beautiful and good song. I’m pouring it all out in this poem for the king, turning this river of feelings into words:",
       "“You’re legit the most handsome guy out there; every word you say is pure grace, and God has blessed you, like, big time. Strap on your sword, warrior! Soak up the praise! Accept the honor you’re due! Ride on like a legend! Ride for what’s true! Ride for the humble and the right!",
@@ -1694,14 +1996,21 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "45",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "45 title 'GOAT' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 46,
-    "title": "God's Got Your Back, No Cap",
+    "title": "God's Got Your Back",
     "paragraphs": [
-      "God is our ultimate safe spot, always ready to clutch up when we're in trouble. So we're not even sweating it, even if we're standing at the edge of total disaster. Bring on the crazy sea storms and earthquakes, the roaring oceans, and mountains literally shaking. We're fearless.",
+      "God is our ultimate safe spot, always ready to come through when we're in trouble. So we're not even sweating it, even if we're standing at the edge of total disaster. Bring on the crazy sea storms and earthquakes, the roaring oceans, and mountains literally shaking. We're fearless.",
       "There's this river that brings so much joy, making God's city super chill. It's the sacred hangout of the Most High. Since God lives here, the streets are totally safe. He's on duty 24/7, right from the crack of dawn. Other nations can throw their tantrums, and all the kings and kingdoms can make their threats, but the Earth literally does whatever God says. Period.",
       "The same God who wrestled with Jacob is on our team, and the God of the entire angel army has our back.",
       "Yo, everybody, check this out! Look at the amazing things God does! He's the one planting flowers and trees all over the planet. He literally puts a stop to wars everywhere, from the North Pole to the South Pole, and snaps all the weapons in half like it's nothing. He's like, 'Yo, chill out for a sec. Stop rushing around. Take a good, long look at me. I'm your God, and I'm way above all the drama and politics, above everything.'",
@@ -1724,16 +2033,28 @@
     "merges": [],
     "splits": [],
     "changes": [
-      "Reordered to verse order; fixed [1-2]->[1-3], [7-10]->[8-10]"
+      "Reordered to verse order; fixed [1-2]->[1-3], [7-10]->[8-10]",
+      {
+        "ref": "46",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "46 title 'No Cap' removed"
+      },
+      {
+        "ref": "46:1",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "46:1 slang 'clutch up' removed"
+      }
     ],
     "confirmations_needed": []
   },
   {
     "chapter": 47,
-    "title": "God is the GOAT, No Cap",
+    "title": "God Is the Greatest",
     "paragraphs": [
       "Yo, everybody, let's get wild! Clap your hands, go crazy! Shout out some awesome songs to God at the top of your lungs!",
-      "God, the Most High, is terrifying in the best way. He's the ultimate King, running the whole world, land and sea. He takes down anyone who comes against us and puts whole nations under our feet. He basically put us at the front of the line, his favorite, the honored ones he chose himself.",
+      "God, the Most High, is terrifying in the best way. He's the ultimate King, Lord over earth, Lord of the godless nations, running the whole world. He takes down anyone who comes against us and puts whole nations under our feet. He basically put us at the front of the line, his favorite, the honored ones he chose himself.",
       "Listen to that! The cheers are going up as God ascends his mountain, with a massive blast from a ram's horn at the top. So sing to God, just keep singing! Sing to our King, give him all the praise!",
       "He's the King of the whole planet, so you better bring your A-game and sing the best songs you've got. God is in charge of even the nations that don't know him. He's the sovereign King, sitting on his throne high above everything.",
       "All the leaders from everywhere are gathering, the people of Abraham's God. All the power in the world belongs to God—he's flying high above it all."
@@ -1750,12 +2071,25 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "47:2-4",
+        "msg_basis": "MSG 'Lord over earth / Lord of godless nations' replaced",
+        "type": "content-restore",
+        "note": "47:2-4 MSG 'Lord over earth / Lord of godless nations' replaced; restore"
+      },
+      {
+        "ref": "47",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "47 title 'GOAT/No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 48,
-    "title": "God's City is Lowkey Invincible",
+    "title": "God's City Is Invincible",
     "paragraphs": [
       "God is seriously awesome, and in His city, the praise is non-stop. His holy mountain is breathtakingly high—it’s a joy for the whole world. Mount Zion, up in the north, is the city of the ultimate King. God in His fortress is straight up undefeatable.",
       "So, these kings all teamed up and decided to attack. They took one look, and nope—they were out. They scattered and ran, totally bugging out. It hit them like intense cramps, the kind you get when you're having a baby.",
@@ -1782,7 +2116,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "48",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "48 title 'Lowkey' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1790,7 +2131,7 @@
     "title": "Why Flex? You Can't Take It With You",
     "paragraphs": [
       "Yo, world, listen up—every single person, don't miss this. Whether you're loaded or broke, you all need to hear this.",
-      "I'm about to drop some serious wisdom, stuff I've really thought through. I'm tuning in to the ancient secrets, and I'll spill the tea on life's biggest puzzle, all with my harp playing in the background.",
+      "I'm about to drop some serious wisdom, stuff I've really thought through. I'm tuning in to the ancient secrets, and I'll lay out life's biggest puzzle, all with my harp playing in the background.",
       "So why should I be scared when things go south, when my enemies are trying to trip me up? Why would I let the rich and arrogant bullies get to me?",
       "For real, you can't buy your way out of death. You can't just pull yourself up by your bootstraps. The price for eternal life is way out of our league, and even if you could pay it, there's no guarantee you'd dodge the grave forever.",
       "It's a no-brainer that even the smartest, most talented people die, right along with the clueless and the foolish. They have to leave all their stuff behind and move into their new forever home: a coffin. The cemetery is their permanent address. And to think they were so important they named cities after themselves!",
@@ -1823,12 +2164,19 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "49:4",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "49:4 slang 'spill the tea' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 50,
-    "title": "God Spills the Tea on Fake Worship",
+    "title": "God Exposes Fake Worship",
     "paragraphs": [
       "The God of all gods—yeah, THE God—is speaking up, shouting to the whole world, from where the sun rises to where it sets. From the epic glow of Zion, God just appears in a blaze of glory. Our God is making his entrance, and trust me, he's not being quiet about it. It's like a whole fireworks show is going off before him.",
       "He's calling on heaven and earth to be the jury, 'cause he's taking his own people to court. He's like, \"Go get my crew, the ones who made a deal with me and promised to be loyal.\"",
@@ -1857,16 +2205,23 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "50",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "50 title 'Spills the Tea' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 51,
-    "title": "A Sinner's Glow-Up",
+    "title": "A Sinner's Comeback",
     "paragraphs": [
       "God, you're so full of love, please show me some grace. You're incredibly merciful, so just erase my bad record. Seriously, scrub away my guilt, like a deep clean for my soul. I know I messed up big time; my mistakes are haunting me.",
-      "It's you I've wronged, and you saw everything, the whole ugly truth of what I did. You know the whole story, so whatever you decide is fair. I've been off-track with you for ages, basically since day one. You want real, deep-down honesty. So come in and start something new and real in me.",
-      "Give me a spiritual shower and I'll be sparkling clean. Scrub me down and my life will be like fresh snow. Let me hear some happy music again, let my broken self dance. Don't nitpick my flaws, just tell me I'm good to go. God, give me a total reset, turn the mess of my life into something amazing, like you did with creation. Don't just toss me aside, and please keep giving me that holy vibe. Rescue me from this bummer of an exile, get me excited about life again! Let me teach other screw-ups about you, so they can find their way back too. Save me from the death I deserve, my Savior God, and I'll be singing your praises 24/7. Open my mouth, dear God, and I'll shout out how awesome you are.",
+      "It's you I've wronged, and you saw everything, the whole ugly truth of what I did. You know the whole story, so whatever you decide is fair. I've been off-track with you for a long time. You want real, deep-down honesty. So come in and start something new and real in me.",
+      "Give me a spiritual shower and I'll be sparkling clean. Scrub me down and my life will be like fresh snow. Let me hear some happy music again, let my broken self dance. Don't nitpick my flaws, just tell me I'm good to go. God, give me a total reset, turn the mess of my life into something amazing, like you did with creation. Don't just toss me aside, and please don't take your Holy Spirit from me. Rescue me from this bummer of an exile, get me excited about life again! Let me teach other screw-ups about you, so they can find their way back too. Save me from the death I deserve, my Savior God, and I'll be singing your praises 24/7. Open my mouth, dear God, and I'll shout out how awesome you are.",
       "Just going through the motions doesn't impress you, and a perfect performance means nothing to you. I really started to get God-worship when my pride was totally crushed. God definitely notices when people have broken hearts and are ready for love.",
       "Make Zion your favorite place, and rebuild Jerusalem's broken walls. Then we'll give you real worship, not just faking it. We'll offer up everything, big and small, even all the bulls we can fit on your altar!"
     ],
@@ -1886,7 +2241,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "51",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "51 title 'Glow-Up' removed"
+      },
+      {
+        "ref": "51:11",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "51:11 slang 'holy vibe' removed; MSG 'don't take your Holy Spirit from me'"
+      },
+      {
+        "ref": "51:5",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "51:5 slang 'day one' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -1922,8 +2296,8 @@
     "chapter": 53,
     "title": "Godless Fools Get Wrecked",
     "paragraphs": [
-      "These arrogant fools are running around saying, \"God's not real.\" That's some toxic thinking, for real. They're corrupting themselves and everything around them; their whole vibe is just negativity and chaos. God's up in heaven, taking a look around. He's searching for anyone, even just one person, who isn't a total idiot—someone who's actually looking for Him, someone who's ready for God.",
-      "But He finds no one. It's a big fat zero. They're all useless, like a bunch of lost sheep trying to act like they're the shepherd. And everyone else just follows along like it's normal.",
+      "These arrogant fools are running around saying, \"God's not real.\" That's some toxic thinking, for real. They're corrupting themselves and everything around them; their whole attitude is just negativity and chaos. God's up in heaven, taking a look around. He's searching for anyone, even just one person, who isn't a total idiot—someone who's actually looking for Him, someone who's ready for God.",
+      "But He finds no one. It's a big fat zero. They're all useless, like a bunch of lost sheep taking turns pretending to be the shepherd. And the ninety and nine just follow their fellow.",
       "Do these predators even have a clue? Do they seriously think they can get away with treating people like a disposable fast-food meal, without even a moment of gratitude or prayer?",
       "But a dark night is coming for them, a total nightmare they'll never wake up from. God is going to completely destroy these people who've taken over, and they'll be gone for good.",
       "So who's gonna step up and save Israel? It's God who turns everything around. When He does, Jacob's crew will be jumping for joy, and all of Israel will be singing and laughing."
@@ -1944,7 +2318,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "53:3",
+        "msg_basis": "MSG 'ninety and nine follow their fellow' dropped",
+        "type": "content-restore",
+        "note": "53:3 MSG 'ninety and nine follow their fellow' dropped; restore"
+      },
+      {
+        "ref": "53:1",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "53:1 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -2070,7 +2457,7 @@
       "God, please be good to me, like, right now! I'm running to you for my life. I'm just gonna hide under your wings 'til this whole storm passes. I'm calling out to the Most High God, the one who's got my back. He'll send help from heaven and save me, and totally own the people who are trying to bring me down. God's love is legit, and He always keeps His promises.",
       "I'm in a really tight spot, surrounded by haters who are just waiting for me to fail. They're talking trash, and their words are like weapons.",
       "Show them how great you are, God! Let your glory cover the whole world!",
-      "They set a trap for me, and I almost fell for it. They dug a pit to catch me, but they fell into it themselves. LOL.",
+      "They set a trap for me, and I almost fell for it. They dug a pit to catch me, but they fell into it themselves.",
       "I'm ready, God, like, so ready. I'm ready to sing and make some music. Wake up, my soul! Let's get this praise party started!",
       "I'm gonna thank you, God, right out in public. I'll sing your praises everywhere I go. Your love is so huge, it's higher than the sky. Your faithfulness is on display for everyone to see.",
       "Show them how great you are, God! Let your glory cover the whole world!"
@@ -2106,7 +2493,13 @@
     ],
     "changes": [
       "Declared MSG 1-4 split",
-      "Corrected [5] to [5-6] for v6 coverage"
+      "Corrected [5] to [5-6] for v6 coverage",
+      {
+        "ref": "57:6",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "57:6 slang 'LOL' removed"
+      }
     ],
     "confirmations_needed": []
   },
@@ -2180,7 +2573,7 @@
     "paragraphs": [
       "Oh God, you've abandoned us. You wrecked our defenses and then just stormed off mad. Please, please come back.",
       "You shook the whole world, like, literally. It's cracking open everywhere. You gotta fix this! Everything is falling apart.",
-      "You put us through some seriously tough times, and then just gave us cheap stuff to forget our problems. But then you gave us a sign of hope, something to rally around. So, please, do something, like, right now. Answer us, so the people you love can be saved.",
+      "You put us through some seriously tough times, and then just gave us cheap wine to drown our troubles. But then you gave us a sign of hope, something to rally around. So, please, do something, like, right now. Answer us, so the people you love can be saved.",
       "And then God, in all his glory, said, 'I'm so stoked, I'm giving you Shechem as a gift, and I'm handing out Succoth Valley too. Gilead and Manasseh? They're mine. Ephraim is my helmet, Judah is my weapon. Moab is just my wash bucket, I'll totally own them. I'll diss Edom and flex on Philistia.'",
       "Who's gonna lead me into the battle? Who's gonna show me the way to Edom? You're not giving up on us, are you, God? You're not gonna ditch our squad, right?",
       "Help us out with this mission, 'cause human help is useless. With God on our side, we'll go all out and crush the enemy for good."
@@ -2202,7 +2595,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "60:3-5",
+        "msg_basis": "MSG 'cheap wine' generalized",
+        "type": "content-restore",
+        "note": "60:3-5 MSG 'cheap wine' generalized; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -2230,7 +2630,7 @@
   },
   {
     "chapter": 62,
-    "title": "Lowkey, God's Got Your Back",
+    "title": "God's Got Your Back",
     "paragraphs": [
       "God's the only one I'm waiting on, for real. Everything good in my life comes from him, so why would I look anywhere else? He's like the solid ground I can always count on, giving me space to breathe and feel safe. He's my fortress. I'm good for life.",
       "Why are y'all always trying to jump me? Why do you roll with a crew of haters? You've got nothing on me, none of you. You're like a bunch of termites trying to take down a mountain. You talk a big game, but it's all fake. Every time you say 'bless you,' it's a curse.",
@@ -2263,17 +2663,24 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "62",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "62 title 'Lowkey' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 63,
-    "title": "God is My Day One, No Cap",
+    "title": "God Is With Me from the Start",
     "paragraphs": [
       "God, You're my God, for real. I'm just so thirsty for You, like I've been trekking through a desert with no Wi-Fi. I just can't get enough.",
       "So I'm here at church, just trying to soak it all in—Your power and Your awesomeness. Your love is insane, it's like I'm actually *living* now. I can't stop talking about how great You are; it just spills out. Every breath I take is to praise You, my hands are up like I'm at a concert for You.",
       "I'm feasting on Your goodness, like the best meal ever, and I can't help but shout out how amazing You are. When I can't sleep at night, I just lie there thinking about how You've always had my back. It makes me feel so safe and free. I'm holding on to You tight, and You're my rock, keeping me steady.",
-      "Those haters trying to bring me down? They're basically toast. They're heading for a major L. They'll get what's coming to them, a super violent ending. But the king is chilling, happy in God. All his true friends are celebrating with him, while the petty gossipers finally get silenced for good."
+      "Those haters trying to bring me down? They're basically toast. They're heading for total ruin. They'll get what's coming to them, a super violent ending. But the king is chilling, happy in God. All his true friends are celebrating with him, while the petty gossipers finally get silenced for good."
     ],
     "verseRanges": [
       "1",
@@ -2289,7 +2696,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "63",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "63 title 'Day One/No Cap' removed"
+      },
+      {
+        "ref": "63:9",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "63:9 slang 'major L' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -2320,7 +2740,7 @@
   },
   {
     "chapter": 65,
-    "title": "God's Glow Up is Next Level",
+    "title": "God's Greatness Is Next Level",
     "paragraphs": [
       "Sometimes, the best way to praise you, God who lives in Zion, is just to be quiet and listen. And to actually do what you say. You hear our prayers, even the silent ones.",
       "Eventually, every single one of us shows up at your door feeling super guilty, with all our mistakes weighing us down. It's too much for us to handle, but you just wipe the slate clean, once and for all. It's insane how blessed the people you choose are! Like, being a guest in your house is the most honored experience ever. We're just waiting to get all the good stuff from your place, your heavenly mansion. All the amazing ways you've saved people are like trophies in your room. You're the one who tamed the earth, poured the oceans, made the mountains, and styled the hills. You can quiet a crazy ocean storm or a huge, loud crowd just like that. People from all over will just stop and stare, totally in awe. The sunrise and sunset are basically shouting, 'Come and worship!'",
@@ -2338,14 +2758,21 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "65",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "65 title 'Glow Up' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 66,
-    "title": "God's Glow Up is Real",
+    "title": "God's Greatness Is Real",
     "paragraphs": [
-      "Alright, everyone, let's give it up for God! Seriously, put your hands together! Let's sing some bangers about how awesome he is, and make his praise go viral. Be like, 'Yo, God is on another level!' When his haters see him work, they just dip like they got caught doing something cringe. The whole world just bows down, worships him, sings to him... they're obsessed with his name and his whole vibe.",
+      "Alright, everyone, let's give it up for God! Seriously, put your hands together! Let's sing some bangers about how awesome he is, and make his praise go viral. Be like, 'Yo, God is on another level!' When his haters see him work, they just dip like they got caught doing something cringe. The whole world just bows down, worships him, sings to him... they're obsessed with his name and everything about him.",
       "Just check out the wild stuff God does—it's mind-blowing. He literally turned the sea into dry land, and people just walked across the river. Like, for real. If that's not a reason to drop a track, I don't know what is.",
       "He's the forever king, watching over all the nations that don't mess with him. Anyone who tries to rebel against him gets shut down.",
       "Yo, everyone, praise our God! Give him a massive shout-out! Didn't he put us on the path to real life? Didn't he save us from totally wrecking ourselves? He put us through the wringer first, like testing silver with fire. He led us through some rough times, pushed us to our absolute limit, tested us in every way possible, and we basically went to hell and back. But in the end, he brought us to a place where we can chill and thrive.",
@@ -2370,19 +2797,32 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "66",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "66 title 'Glow Up' removed"
+      },
+      {
+        "ref": "66",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "66 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 67,
-    "title": "God's Global Glow Up",
+    "title": "God's Global Greatness",
     "paragraphs": [
       "God, show us some love and bless us! Give us a smile! Then everyone in the country will see your ways, and all the nations who don't even know you will see how you rescue people.",
       "Yo, God! Let everyone give you a shout-out and just be stoked about you. Seriously, let everyone be thankful.",
       "Let people from all over the world be super happy and shout it out, because you're a totally fair judge. You take care of people everywhere, no matter how far away they are.",
       "God, for real, let everyone thank you and be hyped about you. Let all the people give you props.",
       "Earth, show your wild energy! You bless us, God, our God. You keep on blessing us, God.",
-      "Everyone, from every corner of the planet—honor him!"
+      "Everyone—earth's four corners—honor him!"
     ],
     "verseRanges": [
       "1-2",
@@ -2397,20 +2837,33 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "67:7",
+        "msg_basis": "MSG 'Earth's four corners' weakened",
+        "type": "content-restore",
+        "note": "67:7 MSG 'Earth's four corners' weakened; restore"
+      },
+      {
+        "ref": "67",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "67 title 'Glow Up' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 68,
-    "title": "God's Victory March is Actually GOATED",
+    "title": "God's Victory March Is Legendary",
     "paragraphs": [
       "Let's go, God! His enemies are toast. They're outta here, running for their lives! They disappear like a puff of smoke, like a blob of wax melting in the fire—one look at God and the wicked just vanish. But when the good guys see God in action, they'll be laughing and singing, just totally stoked.",
       "Sing to God, y'all! Get the hype train going for the one who rides on the clouds. His name is the LORD, so cheer like crazy when you see him!",
       "He's a dad to the fatherless and a defender of widows, that's God for you, right in his holy home. God gives the lonely a family, he breaks prisoners out and leads them to freedom, but he leaves the rebels to dry up in the desert.",
       "Okay, so get this. God, when you led your people out, when you were marching through the wilderness, the earth literally shook and the sky started pouring rain. It was because God was on the move. Even Mount Sinai was trembling when it saw the God of Israel making his entrance. You sent down tons of rain, O God, and the dry, thorny ground turned into a beautiful oasis for your people to live in. You basically took them from zero to hero, from rags to riches.",
-      "The Lord gave the command, and a huge crowd of people spread the good news: \"The kings and their armies are running away, they're totally retreating!\" And the women who stayed home got to divide all the awesome loot, like silver and gold treasures from the Canaanites. The day the Almighty scattered those kings, it was like snow falling on Black Mountain—a fresh start.",
+      "The Lord gave the command, and a huge crowd of people spread the good news: \"The kings and their armies are running away, they're totally retreating!\" And the women who stayed home got to divide all the awesome loot, like silver and gold treasures from the Canaanites. The day Shaddai scattered those kings, it was like snow falling on Black Mountain—a fresh start.",
       "Why are you other mountains, you big, beefy mountains of Bashan, so jealous? You can be salty all you want, but this is the mountain God chose to live on. He's going to rule from here forever.",
-      "God's chariots are insane—like, tens of thousands of them, and then thousands more. The Lord is leading the charge, coming down from Sinai right into his holy place. You climbed up to the high place, leading a train of captives, with your arms full of gifts you took from the rebels. And now you're sitting there, ruling like a king, O LORD God!",
+      "God's chariots are insane—twice ten thousand of them, and thousands more besides. The Lord is leading the charge, coming down from Sinai right into his holy place. You climbed up to the high place, leading a train of captives, with your arms full of gifts you took from the rebels. And now you're sitting there, ruling like a king, O LORD God!",
       "Shoutout to the Lord! Day after day, he carries our burdens. He's our Savior, our God, for real! He's the God who is there for us, the God who saves us. The Sovereign LORD is the one who can even save us from death. And get this, he crushes the heads of his enemies, splitting the skulls of those who keep doing wrong. He said, \"I'm gonna bring them back from Bashan, I'll drag them up from the deep sea, so you can walk through your enemies' blood and your dogs can get a taste too.\" Wild.",
       "Yo, check out God's parade, everyone's seeing it! My God, my King, marching into the sanctuary. The singers are in front, the musicians are behind them, and in the middle are young women playing tambourines. The whole crowd is blessing God. Israel is like a fountain of praise for the LORD. Look! Little Benjamin is leading the way, then the princes of Judah in their fancy robes, and the princes of Zebulun and Naphtali. Show them your power, O God; show them the strength you've used for us. Because of your temple in Jerusalem, kings will bring you gifts. Tell that old crocodile, Egypt, to back off, with its herd of bulls and calves. They're so greedy for money, always starting fights. Let traders from Egypt bring their expensive goods, and let Cush come running to God with hands wide open.",
       "So sing, all you kingdoms of the earth! Sing praises to the Lord! There he is, riding on the ancient skies. Listen! He's speaking, and his voice is like thunder. Tell everyone how awesome God is! His majesty is over Israel, and his power is in the clouds.",
@@ -2443,7 +2896,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "68:17",
+        "msg_basis": "MSG 'twice ten thousand' weakened",
+        "type": "content-restore",
+        "note": "68:17 MSG 'twice ten thousand' weakened; restore"
+      },
+      {
+        "ref": "68",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "68 title 'GOATED' removed"
+      },
+      {
+        "ref": "68:14",
+        "msg_basis": "",
+        "type": "content-restore",
+        "note": "68:14 MSG 'Shaddai'; restore divine name"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -2451,7 +2923,7 @@
     "title": "Help, I'm Drowning & Everyone Hates Me",
     "paragraphs": [
       "God, you gotta save me! I'm literally drowning here.",
-      "It's like I'm in quicksand and the water's up to my neck. I feel like I'm going under for the last time.",
+      "It's like I'm in quicksand and the water's up to my neck. I feel like I'm going down for the third time.",
       "My throat is raw from screaming for help, and my eyes are shot from staring at the sky, looking for you, God.",
       "I have more haters than I can count, for real. They're all liars and snakes, just waiting to stab me in the back.",
       "Now I'm being forced to pay for stuff I never even took. How is that fair?",
@@ -2632,7 +3104,13 @@
       "Declared MSG 13 split into 2 paragraphs",
       "Declared MSG 15 split into 2 paragraphs",
       "Declared MSG 20 split into 2 paragraphs",
-      "Declared MSG 36 split into 2 paragraphs"
+      "Declared MSG 36 split into 2 paragraphs",
+      {
+        "ref": "69:2",
+        "msg_basis": "MSG 'going down for the third time' dropped",
+        "type": "content-restore",
+        "note": "69:2 MSG 'going down for the third time' dropped; restore"
+      }
     ],
     "confirmations_needed": []
   },
@@ -2642,7 +3120,7 @@
     "paragraphs": [
       "God, for real, you gotta hurry and rescue me! God, get to my side, like, ASAP!",
       "All those people trying to ruin my life—let them totally fail and get embarrassed. Everyone who loves seeing me fail—let them get lost and confused. Let them get a taste of their own medicine, all those haters gossiping and shaking their heads at me.",
-      "But for everyone looking for you, let them sing and have a blast. Let everyone who loves how you save people keep saying, “God is the GOAT!”",
+      "But for everyone looking for you, let them sing and have a blast. Let everyone who loves how you save people keep saying, “God is the greatest!”",
       "But me? I'm struggling. I'm completely wiped out. God—please, hurry up! Come help me, come rescue me! God, don't waste a single second."
     ],
     "verseRanges": [
@@ -2658,12 +3136,19 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "70:4",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "70:4 slang 'GOAT' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 71,
-    "title": "God's Got My Back, No Cap",
+    "title": "God's Got My Back",
     "paragraphs": [
       "God, I'm running to you for my life, and I know I won't regret it. You're so good at what you do, so get me out of this mess and back on my feet. Please listen to me and give me a safe place to be. Be like a guest room where I can always go, because you said your door is always open. You are my salvation, my huge, strong fortress.",
       "My God, please save me from the hands of wicked people, from the grip of those who are bad and mean. You're the one who keeps me going when things are tough. You've been my rock, God, since I was a kid. I've depended on you since the day I was born, the day you took me from my mother's womb. I will never stop praising you. Many people are shocked when they see me, but you accept me as I am.",
@@ -2687,15 +3172,22 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "71",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "71 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 72,
-    "title": "The GOAT King's Prayer",
+    "title": "The Greatest King's Prayer",
     "paragraphs": [
       "God, give the king your wisdom to rule, and make the prince a just leader. Help him judge your people fairly and be a good dude to the humble and the poor. Let the mountains shout out your justice, and the hills show what it means to live right. Stand up for the poor, save the kids of the needy, and crush anyone who's a tyrant. May he last longer than the sun and the moon, like, forever and ever. Be like rain on a freshly mowed lawn, a total refresh for the earth. Let goodness bloom and peace be everywhere until the moon is gone. Let him rule from sea to sea, from the big river to the ends of the earth.",
-      "His enemies will have to bow down to him, and his haters will be eating dust. Kings from faraway, legendary places will bring him gifts, and the super-rich kings will hand over their cash. All the kings will bow down and worship him, and every nation will serve him. That's because he rescues the poor when they cry out, and helps the helpless who have nowhere else to turn. He has a soft spot for the weak and the needy; he saves their lives. He frees them from being bullied and hurt—their lives are precious to him.",
+      "His enemies will have to bow down to him, and his haters will be eating dust. Kings from faraway, legendary places will bring him gifts, and the super-rich kings will hand over their cash. All the kings will bow down and worship him, and every nation will serve him. That's because he rescues the poor when they cry out, and helps the helpless who have nowhere else to turn. He has a soft spot for the weak and the needy; he saves their lives. He frees them from being bullied and hurt—When they bleed, he bleeds; when they die, he dies. Their lives are precious to him.",
       "Long live the king! May he be showered with the finest gold. Let people pray for him 24/7 and bless him all day long. Let the fields be overflowing with grain, so much that it's like a party on the mountaintops. Let the cities be full of praise, popping up like fresh grass. May his name be famous forever, shining as bright as the sun. May all nations be blessed through him, and may they all give a shout-out to the One who blessed them.",
       "Shout out to the Lord God, the God of Israel, who does amazing things that no one else can. Blessed be his glorious name forever! Let the whole earth be filled with his glory. Amen and Amen!"
     ],
@@ -2713,7 +3205,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "72:9-14",
+        "msg_basis": "MSG 'when they bleed, he bleeds",
+        "type": "content-restore",
+        "note": "72:9-14 MSG 'when they bleed, he bleeds; when they die, he dies' condensed; restore"
+      },
+      {
+        "ref": "72",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "72 title 'GOAT' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -2721,7 +3226,7 @@
     "title": "When Life's Unfair & God Seems AFK",
     "paragraphs": [
       "God is good. He's good to people with a good heart. But I almost missed it, I was so close to not seeing His goodness. I was looking at all the wrong things, envying the wicked people who seem to have it all made, without a single worry in the world.",
-      "They're so arrogant, their whole vibe is just violence. They're spoiled and overfed, and their ideas are just silly. They mock people, using their words to tear others down; they just bully their way through everything. They're all talk, just loudmouths making a scene. And what's wild is that people actually listen to them, lapping up their every word like they're dying of thirst.",
+      "They're so arrogant, they're all about violence. They're spoiled and overfed, and their ideas are just silly. They mock people, using their words to tear others down; they just bully their way through everything. They're all talk, just loudmouths making a scene. And what's wild is that people actually listen to them, lapping up their every word like they're dying of thirst.",
       "So I'm like, what's the deal? Is God on lunch break? Is anyone even running the show? The wicked get away with everything, they're just stacking up cash and living the good life. I feel like a total idiot for trying to play by the rules. And what did it get me? Just a whole lot of bad luck, like getting slapped in the face every time I step outside.",
       "If I had actually said all this out loud, I would've been a bad influence on your kids. Still, trying to make sense of it all just gave me a massive headache... until I went into God's sanctuary. That's when it all clicked. I saw the whole picture: you've put them on a slippery path that ends in a total crash. In just a second, it's a disaster. A blind turn in the dark, and it's a complete nightmare. Then we wake up and... nothing. They're nothing. They never were.",
       "When I was all stressed and bitter, completely eaten up by envy, I was being so ignorant, like a dumb animal right in front of you. But I'm still here with you, and you've taken my hand. You lead me with wisdom and care, and then you bless me.",
@@ -2745,7 +3250,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "73:6",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "73:6 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -2756,7 +3268,7 @@
       "Yo, remember us? You literally bought us ages ago. We're your special tribe—you paid a lot for us! And Mount Zion? You actually lived here! You gotta come see this disaster. They totally wrecked the sanctuary.",
       "While your people were trying to worship, the enemies just barged in, starting fights and spray-painting graffiti everywhere. They torched the porch, swung axes and chopped up all the cool woodwork. They smashed the doors with sledgehammers and then used the pieces for a bonfire. They burned your holy place to the ground, totally disrespecting the place where we worship you. They were like, 'We're gonna wipe them out,' and then burned down every single place of worship.",
       "There's literally nothing left that points to you, God. No signs, no symbols, nobody to speak for you. No one has a clue what's even happening. How long, God, are these haters gonna get away with dissing you? Are you just gonna let them keep cursing you out? Why aren't you doing anything? You just gonna sit there with your hands in your pockets?",
-      "But for real, God is my King, and he's been in charge from the very beginning. He's the one who brings salvation to the whole world. With just one move, you split the sea. You totally wrecked that dragon, Tannin. You chopped off the heads of Leviathan and served them up as a snack for the wild animals. You made springs and creeks with just a touch of your finger, and you dried up massive floods. You own the day and the night; you put the sun and stars in their place. You set up the whole earth, and you made summer and winter.",
+      "But for real, God is my King, and he's been in charge from the very beginning. He's the one who brings salvation to the whole world. With just one move, you split the sea. You totally wrecked that dragon, Tannin. You chopped off the heads of Leviathan and served them up as a snack for the wild animals. You made springs and creeks with just a touch of your finger, and you dried up massive floods. You own the day and the night; you put the sun and stars in their place. You laid out the four corners of the earth, and you made summer and winter.",
       "God, you gotta see this. Remember all the trash the enemy is talking, all the dumb stuff they're doing to disrespect you. Don't just leave us, your flock, to be eaten by wolves. After everything we've been through, don't forget us. Remember what you promised. The city is super dark and the countryside is crazy violent. Don't just leave the victims on the street; turn them into a choir that sings your praises.",
       "Get up, God! Stand up for yourself! Do you hear what they're saying about you? All the nasty things they're saying? Don't ignore their evil words, the constant fighting and insults that never stop."
     ],
@@ -2779,12 +3291,19 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "74:13-17",
+        "msg_basis": "MSG 'four corners of earth' dropped",
+        "type": "content-restore",
+        "note": "74:13-17 MSG 'four corners of earth' dropped; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 75,
-    "title": "God's the Ultimate Judge, No Cap",
+    "title": "God's the Ultimate Judge",
     "paragraphs": [
       "We're so grateful, God, seriously. Your name is like, our favorite thing to say. We can't stop talking about all the amazing things you do.",
       "You're like, 'Alright everyone, settle down. I'm here to fix things.' When the world is a total mess and no one knows what's going on, you're the one who holds it all together and puts it back in place. You tell the know-it-alls to chill and the bullies to back off.",
@@ -2808,7 +3327,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "75",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "75 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -2816,7 +3342,7 @@
     "title": "God's Ultimate Flex",
     "paragraphs": [
       "Yo, God's a big deal in Judah, like, everyone in Israel knows who He is. He's got a place in Salem, a whole setup in Zion. That's where He literally made a bonfire out of war weapons, using arrows as firewood. Wild.",
-      "You're shining so bright, way brighter than all the stuff they stole. Those tough warriors? They got wrecked and left with nothing. All their big talk and threats mean zero now. When you roared, God of Jacob, it was game over for them and their horses.",
+      "You're shining so bright, outshining their huge piles of loot. Those tough warriors? They got wrecked and left with nothing. All their big talk and threats mean zero now. When you roared, God of Jacob, it was game over for them and their horses.",
       "you're fierce. Who could possibly stand against you when you're angry? You drop justice like thunder from the sky, and the whole world just goes silent and kneels. God steps up, fixes things, and saves everyone who's struggling. All that anger people had? It just turns into praise for God. Their pointless rage is now like a trophy for Him.",
       "So, keep your promises to God. He's your God, after all. Everyone should bring their gifts to the One who sees everything we do. You can't get away with anything; you can't mess with Him."
     ],
@@ -2834,7 +3360,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "76:4-6",
+        "msg_basis": "MSG 'huge piles of loot' weakened",
+        "type": "content-restore",
+        "note": "76:4-6 MSG 'huge piles of loot' weakened; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -2919,8 +3452,8 @@
     "paragraphs": [
       "God, for real? Some thugs just rolled into Your place, totally trashed Your holy temple, and left Jerusalem looking like a disaster zone. They fed Your faithful followers to the birds and left their bodies out for wild animals to snack on. They spilled their blood all over Jerusalem like it was nothing, and didn't even bother to bury them. Now, our neighbors are laughing at us, treating us like a total joke.",
       "How long is this gonna last, God? Are You gonna be mad at us forever? Is Your anger ever going to chill? If You're gonna be mad, be mad at the people who don't even know You, the other kingdoms that ignore You. They're the ones who messed up Jacob's crew and wrecked their homes.",
-      "Don't punish us for our ancestors' screw-ups. Hurry up and help us out; we're seriously at our limit. You're known for being a helper, God, so give us a break. Your whole reputation is on the line here. Get us out of this mess and forgive our sins—do what You're famous for! Don't let these other nations get away with saying, 'LOL, where's their God now?' Show them all, right now, that they can't just take out Your people and get away with it.",
-      "Listen to the prisoners who are hurting. You have the power to save those who are about to be executed, so do it! And as for our neighbors who've been mocking us, give them a taste of their own medicine. Let their insults come right back and hit them hard. Then we, Your people, the flock You take care of, will thank You forever and ever. We'll tell everyone we meet how awesome and praiseworthy You are!"
+      "Don't punish us for our ancestors' screw-ups. Hurry up and help us out; we're seriously at our limit. You're known for being a helper, God, so give us a break. Your whole reputation is on the line here. Get us out of this mess and forgive our sins—do what You're famous for! Don't let these other nations get away with saying, 'Ha, where's their God now?' Show them all, right now, that they can't just take out Your people and get away with it.",
+      "Listen to the prisoners who are hurting. You have the power to save those who are about to be executed, so do it! And as for our neighbors who've been mocking us, give them a taste of their own medicine. Let their God-taunts boomerang and knock them flat. Then we, Your people, the flock You take care of, will thank You forever and ever. We'll tell everyone we meet how awesome and praiseworthy You are!"
     ],
     "verseRanges": [
       "1-3",
@@ -2936,7 +3469,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "79:10-13",
+        "msg_basis": "MSG 'God-taunts boomerang' weakened",
+        "type": "content-restore",
+        "note": "79:10-13 MSG 'God-taunts boomerang' weakened; restore"
+      },
+      {
+        "ref": "79:10",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "79:10 slang 'LOL' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3088,7 +3634,7 @@
   },
   {
     "chapter": 85,
-    "title": "God's Epic Comeback & The Ultimate Glow-Up",
+    "title": "God's Epic Comeback",
     "paragraphs": [
       "God, you were totally cool with our country and brought back the good times for Jacob's family. You forgave everyone and wiped our slates clean, basically pretending our sins never even happened. You stopped being angry with us and totally chilled out.",
       "So, God our Savior, please get us back on track and don't be mad at us forever. You're not gonna stay angry for years and years, are you? Why not give us a fresh start, a whole new life? Then we, your people, can be happy and celebrate you. Show us your love, God, and save us like you promised!",
@@ -3109,7 +3655,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "85",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "85 title 'Glow-Up' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3137,13 +3690,13 @@
   },
   {
     "chapter": 87,
-    "title": "Zion: God's Favorite City is Lowkey Famous",
+    "title": "Zion: God's Favorite City",
     "paragraphs": [
       "God built his city, Zion, on the holy mountain, and He loves it. He loves it way more than all the other places in Jacob combined. It's literally God's hometown, and yo, everyone's talking about you, Zion!",
       "I'm calling out all the places where I'm famous: Egypt and Babylon, Philistia, even Tyre, and Cush too. The word is spreading, and people are pointing them out like, \"Yo, that one was born again here!\"",
       "The hype about Zion is getting out there: guys and girls, left and right, are getting a fresh start, being born again in her.",
       "God's literally keeping a list, writing down their names in his book: \"This one, that one, and this one too—all born again, right here.\"",
-      "All the singers and dancers are giving a huge shout-out to Zion, saying, \"All my creative juices, all my good vibes, they all come from you!\""
+      "All the singers and dancers are giving a huge shout-out to Zion, saying, \"All my creative juices, all my springs of joy, they all come from you!\""
     ],
     "verseRanges": [
       "1-2",
@@ -3161,7 +3714,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "87",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "87 title 'Lowkey' removed"
+      },
+      {
+        "ref": "87:7",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "87:7 slang 'good vibes' removed; MSG 'All my springs are in you'"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3192,7 +3758,7 @@
     "title": "God's Unbreakable Promise... Or Is It? 😬",
     "paragraphs": [
       "God, your love is my ultimate jam, and I'll sing about it forever! I'm always telling everyone how faithful you are. I'll never get tired of sharing the story of your love—how you built the entire universe and made sure everything in it was solid. Your love has always been the foundation of our lives, and your faithfulness has been the roof over our world. You once said, \"I've teamed up with my chosen leader, I gave my word to my servant, David, saying, 'Everyone who comes from you is guaranteed a future; I'll make your rule as solid and lasting as a rock.'\"",
-      "Yo, God! Let the whole universe praise your amazing ways, and let the choir of holy angels sing about how you always keep your promises! Look high, look low, search the skies and the earth, you won't find anyone or anything quite like God. The holy angels are totally in awe of him; he's so immense and majestic to everyone around him. God of the Angel Armies, who is like you? You're powerful and faithful from every single angle. You put the arrogant ocean in its place and chill out its waves when they get wild. You completely owned that old hag Egypt, you brushed off your enemies with a flick of your wrist. You own the cosmos—you made everything in it, from the tiniest atom to the mightiest archangel. You set up the North and South Poles; mountains like Tabor and Hermon are basically singing duets to you. With your super-strong arm and your iron grip—nobody messes with you! What's Right and Just are the roots of your kingdom; Love and Truth are the fruit. Blessed are the people who know the cheat codes to praising you, who get to march in the bright light of your presence. They're so stoked, they dance all day long; they know who you are and what you do—they can't keep it a secret! Your awesome vibe has gotten into us—you've been so good to us! We're walking on air! Everything we are and everything we have, we owe to God, the Holy God of Israel, our King!",
+      "Yo, God! Let the whole universe praise your amazing ways, and let the choir of holy angels sing about how you always keep your promises! Look high, look low, search the skies and the earth, you won't find anyone or anything quite like God. The holy angels are totally in awe of him; he's so immense and majestic to everyone around him. God of the Angel Armies, who is like you? You're powerful and faithful from every single angle. You put the arrogant ocean in its place and chill out its waves when they get wild. You crushed that old hag Egypt, you brushed off your enemies with a flick of your wrist. You own the cosmos—you made everything in it, from the tiniest atom to the mightiest archangel. You set up the North and South Poles; mountains like Tabor and Hermon are basically singing duets to you. With your super-strong arm and your iron grip—nobody messes with you! What's Right and Just are the roots of your kingdom; Love and Truth are the fruit. Blessed are the people who know the secrets to praising you, who get to march in the bright light of your presence. They're so stoked, they dance all day long; they know who you are and what you do—they can't keep it a secret! Your awesome presence has filled us—you've been so good to us! We're walking on air! Everything we are and everything we have, we owe to God, the Holy God of Israel, our King!",
       "A long time ago, you spoke in a vision to your faithful and beloved friend: \"I've crowned a hero, I chose the best person I could find; I found David, my servant, and poured holy oil on his head. And I'll keep my hand on him, for sure, I'll stick with him through thick and thin. No enemy will get the best of him, no scoundrel will ever do him in. I'll get rid of everyone who opposes him, I'll clear out everyone who hates him. I'm with him for good and I'll love him forever; I've put him on a pedestal—he's riding high! I've put the Ocean in one of his hands, and the River in the other; he'll call out to me, 'Oh, my Father—my God, my Rock of Salvation!' Yes, I'm setting him apart as the first in the royal line, the High King over all the kings of the earth. I'll keep him forever in my love, I'll faithfully do everything I so seriously promised. I'll guarantee his family line and I'll back up his rule. If his kids refuse to do what I say, if they refuse to walk the path I show them, if they diss the directions I give them and tear up the rules I post—I'll rub their faces in the dirt of their rebellion and make them face the consequences. But I'll never throw them out, never abandon or disown them. Do you really think I'd take back my holy promise? Or go back on words I've already said? I've given my word, my whole and holy word; do you think I would lie to David? His family line is here for good, his kingdom is as sure as the sun, as dependable as the phases of the moon, as inescapable as the weather.\"",
       "But God, you actually did walk off and leave us. You lost your temper with the king you chose. You tore up the promise you made to your servant, you stomped his crown right into the mud. You blew up his home, reduced his city to a pile of rubble. Now he's getting robbed by strangers passing by, and he's a joke to all his neighbors. You threw a party for all his enemies, and they're celebrating like crazy. You got angry and turned against him in battle, you refused to fight on his side. You took away his shine, humiliated this warrior, and ground his royal honor into the dirt. You stole the best years of his life and left him as a weak, ruined mess. How long do we have to put up with this, God? Are you gone for good? Are you going to hold this grudge forever? Remember how sad I am and how short life is. Did you create people for nothing but this? We're all going to die soon enough. Everyone does. And there's no escape hatch out of the grave. So where is that love you're so famous for, Lord? What happened to the promise you made to David? Take a good look at your servant, dear Lord; I'm the butt of jokes from every nation, the taunting jokes of your enemies, God, as they follow every step of your chosen king.",
       "Blessed be God forever and always! Yes. Oh, yes."
@@ -3212,7 +3778,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "89:15-16",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "89:15-16 slang 'vibe' removed"
+      },
+      {
+        "ref": "89:15",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "89:15 slang 'cheat codes' removed"
+      },
+      {
+        "ref": "89:10",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "89:10 slang 'owned' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3240,9 +3825,9 @@
   },
   {
     "chapter": 91,
-    "title": "God's Got Your Back, No Cap",
+    "title": "God's Got Your Back",
     "paragraphs": [
-      "Yo, if you're chilling in the presence of the Most High God, basically having a sleepover in the shadow of the Almighty, you can straight up say this: 'God, you're my safe space. I trust you completely, so I know I'm secure.'",
+      "Yo, if you're chilling in the presence of the Most High God, spending the night in Shaddai's shadow, you can straight up say this: 'God, you're my safe space. I trust you completely, so I know I'm secure.'",
       "And that's a fact. He'll rescue you from hidden traps and shield you from deadly stuff. His huge, outstretched arms will protect you—under them, you're totally safe; His arms block all harm. Don't be scared of anything—not wild animals in the night, not attacks in broad daylight, not sickness that sneaks around in the dark, and not disasters that happen at noon. Even if thousands of people are falling all around you, you won't get a single scratch. You'll just stand there, untouched, and watch from a distance as the wicked get what they deserve. Yeah, because God is your refuge, the High God is your home, so evil can't get close to you, and harm can't even get through the door. He's ordered His angels to guard you wherever you go. If you stumble, they'll catch you; their job is to keep you from falling. You'll walk right over lions and snakes, and kick young lions and serpents out of your way.",
       "God says, 'If you hold on to me for dear life, I'll get you out of any trouble. I'll take the best care of you if you just get to know and trust me. Call me and I'll answer. I'll be right there with you in tough times. I'll rescue you and then we'll celebrate. I'll give you a long life and a big drink of salvation!'"
     ],
@@ -3257,12 +3842,25 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "91",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "91 title 'No Cap' removed"
+      },
+      {
+        "ref": "91:1",
+        "msg_basis": "",
+        "type": "content-restore",
+        "note": "91:1 MSG \"spend the night in Shaddai's shadow\"; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 92,
-    "title": "Why Giving Thanks is a Vibe",
+    "title": "Why Giving Thanks Matters",
     "paragraphs": [
       "What a beautiful thing, God, to give thanks, to sing an anthem to you, the High God! To announce your love each daybreak, sing your faithful presence all through the night, Accompanied by dulcimer and harp, the full-bodied music of strings.",
       "You made me so happy, God. I saw your work and I shouted for joy. How magnificent your work, God! How profound your thoughts! Dullards never notice what you do; fools never do get it. When the wicked popped up like weeds and all the evil men and women took over, You mowed them down, finished them off once and for all. You, God, are High and Eternal. Look at your enemies, God! Look at your enemies—ruined! Scattered to the winds, all those hirelings of evil!",
@@ -3283,7 +3881,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "92",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "92 title 'Vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3321,7 +3926,7 @@
       "God, how long are you gonna let these wicked people get away with literally everything? They're out here bragging about all the messed-up stuff they do.",
       "They're treating your people like doormats, God, just using and abusing them. They'll get rid of anyone who stands in their way. And they have the nerve to think you're not even watching, like you've clocked out for lunch or something.",
       "Seriously? You guys are such idiots. When are you going to get a clue? You think the one who made ears can't hear? The one who made eyes can't see? You think the one who coaches nations doesn't know how to discipline, or that the teacher of all humanity doesn't know what's up? God sees right through you. He knows how dumb your plans are and how shallow you are..",
-      "It's a major glow-up for the person you teach, God. You give them your playbook, and it's like a chill zone in the middle of all the chaos, while the bad guys are basically getting their jail cell ready. God's not gonna abandon his people. He'll never ignore them. Justice is coming, for real, and things are gonna be made right for everyone who's been trying to do good.",
+      "Blessed is the man you train, God, the woman you instruct in your Word. You give them your playbook, and it's like a chill zone in the middle of all the chaos, while the bad guys are basically getting their jail cell ready. God's not gonna abandon his people. He'll never ignore them. Justice is coming, for real, and things are gonna be made right for everyone who's been trying to do good.",
       "Who had my back against all the haters and bullies? Who was on my team? Honestly, if God hadn't been there, I would've been toast. The second I felt like I was about to lose it, like 'I'm slipping!', your love caught me, God. When I was totally freaking out, you were the one who calmed me down and made me feel okay again.",
       "Do you really think corrupt leaders can be on your team? Can the guys who cause trouble pretend they're your friends? They ganged up on good people and schemed against the innocent. But God was my safe space, my ultimate fortress. And then, plot twist, he flipped their evil plans right back on them. He wiped them out because of their own wickedness. Our God totally cleaned house."
     ],
@@ -3345,7 +3950,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "94:12-15",
+        "msg_basis": "MSG 'the man you train / the woman you instruct' neutralized",
+        "type": "content-restore",
+        "note": "94:12-15 MSG 'the man you train / the woman you instruct' neutralized; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3354,7 +3966,7 @@
     "paragraphs": [
       "Yo, let's get hyped and scream praises to God! Let's make some noise for the Rock who's got our backs!",
       "Let's roll up to him with thank-you songs and just blast our hymns like we're at a concert.",
-      "And here's the tea: it's because God is the GOAT, the High King over any other so-called gods. He's got the whole world in His hands—from the deepest caves to the highest mountains. He literally made the ocean; He owns it! His own hands sculpted the whole Earth!",
+      "And here's the truth: it's because God is the greatest, the High King over any other so-called gods. He's got the whole world in His hands—from the deepest caves to the highest mountains. He literally made the ocean; He owns it! His own hands sculpted the whole Earth!",
       "So for real, let's worship Him. Bow down, get on your knees before God, the one who made us! Yup, He's our God, and we're the squad He looks after, the flock He feeds.",
       "So drop everything and listen up, for real, listen to what He's saying: “Don’t be stubborn and tune me out like your ancestors did back at Meribah, that day they tested me in the desert. For forty years, they saw all the crazy stuff I did for them, but they still kept trying my patience. And I was so over it—like, seriously provoked! I was like, ‘Can they not think about God for even five minutes? Are they just allergic to following my path?’ I was so fed up I just blew up, ‘Fine, they’re never gonna get to where they’re going. They’ll never find that place of rest.’”"
     ],
@@ -3373,12 +3985,19 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "95:3",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "95:3 slang 'tea/GOAT' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 96,
-    "title": "God's Victory Tour is GOATED",
+    "title": "God's Victory Tour Is Legendary",
     "paragraphs": [
       "Hey, sing a brand-new song for God! The whole world, every single person, sing out! Sing to God—give Him the props He deserves!",
       "Spread the news of His win from coast to coast. Tell the people who are lost about His glory, and share His amazing stories with everyone!",
@@ -3417,7 +4036,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "96",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "96 title 'GOATED' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3487,10 +4113,10 @@
     "chapter": 98,
     "title": "The World's Biggest Encore",
     "paragraphs": [
-      "Yo, let's drop a fresh new track for God, because He's done some seriously wild things!",
+      "Yo, let's drop a fresh new track for God, because He's done some seriously wild things! He rolled up His sleeves and set everything right.",
       "He literally just rolled up His sleeves and made everything right..",
       "God showed the whole world His salvation, like a massive global reveal of what He can do.",
-      "He didn't forget to show love to His fam, Israel. That's some ride-or-die love right there.",
+      "He didn't forget to show love to his people, Israel. That's faithful love right there.",
       "The entire planet needs to pay attention. Look! God's salvation is happening right now!",
       "So, everyone, let's get loud for God! Just let it all out and sing! Let's get the music going!",
       "We need a whole orchestra for God, and maybe a 100-person choir to back it up.",
@@ -3555,13 +4181,25 @@
     "changes": [
       "Declared MSG 1 split into 2 paragraphs",
       "Declared MSG 3 split into 2 paragraphs",
-      "Declared MSG 9 split into 2 paragraphs"
+      "Declared MSG 9 split into 2 paragraphs",
+      {
+        "ref": "98:1",
+        "msg_basis": "MSG 'rolled up his sleeves / set things right' dropped",
+        "type": "content-restore",
+        "note": "98:1 MSG 'rolled up his sleeves / set things right' dropped; restore"
+      },
+      {
+        "ref": "98:3",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "98:3 slang 'fam/ride-or-die' removed"
+      }
     ],
     "confirmations_needed": []
   },
   {
     "chapter": 99,
-    "title": "God's Holy, That's the Vibe",
+    "title": "God Is Holy",
     "paragraphs": [
       "God is in charge, for real. So, everyone, pay attention! He's ruling from his throne with angels all around—you better believe it. God is a huge deal in Zion; he's way more awesome than any celebrity. Your power and awesomeness are insane, God. Everyone should be praising you! You're holy. Seriously, so holy.",
       "Strong King, who's all about justice. You made everything fair and right from the start. You set up the rules for Jacob, and they're all about being just and doing the right thing. So, give it up for God, our God. Worship him because he's in control! He's holy. Yeah, holy.",
@@ -3579,7 +4217,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "99",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "99 title 'Vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3612,7 +4257,7 @@
     "chapter": 101,
     "title": "How to Live a Legendary Life",
     "paragraphs": [
-      "My whole vibe is about God's love and justice, and this song's for you, God. I'm trying to live right, but for real, when are you gonna pull up? I'm giving it my all, especially at home where it really matters.",
+      "My whole song is about God's love and justice, and this song's for you, God. I'm trying to live right, but for real, when are you gonna pull up? I'm giving it my all, especially at home where it really matters.",
       "I'm not even gonna look twice at sketchy people or messed-up stuff. All those fake gods? Hard pass. I'm keeping my life clean. People with shady hearts can stay away; I'm not messing with anyone who's plotting bad stuff. I'll straight up mute anyone who trash-talks their neighbor; I just can't with that arrogant energy.",
       "But I'm always looking for the real ones, the salt-of-the-earth people—they're the ones I want on my team. The guys and girls who are on the straight and narrow, those are the ones I want by my side. But if you're all about lies, you're not getting a job with me; I have zero patience for liars. I've rounded up all the wicked people and kicked them out of the country. I'm cleaning up God's city from everyone who makes a business out of doing evil."
     ],
@@ -3626,7 +4271,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "101:1",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "101:1 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3660,7 +4312,7 @@
   },
   {
     "chapter": 103,
-    "title": "God's Love is Lowkey GOATED",
+    "title": "God's Love Is the Greatest",
     "paragraphs": [
       "Yo, my soul, praise God! Like, from my head to my toes, I'm gonna praise His holy name. Seriously, my soul, praise God and don't you forget a single good thing He's done.",
       "He forgives all your screw-ups—every single one. He heals all your sicknesses—every single one. He pulls you back from the brink of disaster—He saves your life! He showers you with love and compassion, like a king giving you a crown. He surrounds you with good things, making you feel brand new. He gives you back your energy, so you feel young and fresh whenever you're with Him.",
@@ -3683,7 +4335,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "103",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "103 title 'Lowkey/GOATED' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3778,9 +4437,9 @@
   },
   {
     "chapter": 106,
-    "title": "Israel's Epic Fail Compilation (God's Patience is GOATED)",
+    "title": "Israel's Epic Fail Compilation (God's Patience Is Legendary)",
     "paragraphs": [
-      "Hey, let's go! Give it up for God! Why? 'Cause He's good and His love is, like, forever. But for real, who can even list all the epic stuff God's done? Who can shout out all His praises? You're legit happy when you do the right thing, when you make a habit of being fair.",
+      "Hey, let's go! Give it up for God! Why? 'Cause He's good and His love is, like, forever. But for real, who can even list all the epic stuff God's done? Who can shout out all His praises? You're one happy man when you do what's right, one happy woman when you form the habit of justice.",
       "Hey God, remember me when You're blessing Your people. Count me in when You save them. I wanna see Your chosen crew win, celebrate with Your nation, and join in the hype when everyone's cheering for You!",
       "We messed up, big time. Us and our ancestors. We fell short and hurt a lot of people. After our parents bounced from Egypt, they totally forgot about all the miracles You did. They forgot how incredibly loving You were. They were barely past the Red Sea and they were already defying the Most High God. Right at the spot where He saved them! Where He showed off His amazing power! He just told the Red Sea to dry up, and it did. He walked them right through it, and nobody even got their feet wet. He saved them from being oppressed and rescued them from the enemy. Then the water came crashing back down on their enemies, and not a single one survived. That's when they finally believed what He said and started singing His praises.",
       "But it didn't take long for them to forget the whole thing. They wouldn't even wait for instructions. They were only thinking about themselves out there in the desert, pushing God's buttons with their non-stop demands. So He gave them what they wanted, but it came with a side of emptiness in their hearts. Then one day in camp, some people got jealous of Moses, and also of Aaron, God's holy priest. The ground literally opened up and swallowed one guy, Dathan, and then buried another guy's crew, Abiram's. Fire just flared up and torched that whole rebel squad.",
@@ -3825,15 +4484,28 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "106:1-3",
+        "msg_basis": "MSG 'one happy man / one happy woman' merged",
+        "type": "content-restore",
+        "note": "106:1-3 MSG 'one happy man / one happy woman' merged; restore both"
+      },
+      {
+        "ref": "106",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "106 title 'GOATED' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 107,
-    "title": "God's Rescue Mission is GOATED",
+    "title": "God's Rescue Mission Is Legendary",
     "paragraphs": [
-      "Yo, give a massive shoutout to God—He's legit so good! His love is, like, endless. For real. All you guys who God set free, you gotta tell everyone! Spread the word about how He rescued you from all the bad vibes and brought you all together from, like, literally everywhere—east, west, north, south.",
-      "Some of y'all were basically lost in the desert for ages, searching for a place to crash but finding nothing. You were starving, super thirsty, just stumbling around, about to totally collapse. Then, when you were at your absolute lowest, you hit up God. And boom, He came in clutch, saving you just in time. He set you on a straight path to a solid place to live. So, you gotta thank God for His insane love, for the wild miracles He does for His kids. He gave water to the thirsty and fed the hungry until they were stuffed.",
+      "Yo, give a massive shoutout to God—He's legit so good! His love is, like, endless. For real. All you guys who God set free, you gotta tell everyone! Spread the word about how He rescued you from oppression and rounded you all up from all over the place—from the four winds, from the seven seas.",
+      "Some of y'all were basically lost in the desert for ages, searching for a place to crash but finding nothing. You were starving, super thirsty, just stumbling around, about to totally collapse. Then, when you were at your absolute lowest, you hit up God. And boom, He came through, saving you just in time. He set you on a straight path to a solid place to live. So, you gotta thank God for His insane love, for the wild miracles He does for His kids. He gave water to the thirsty and fed the hungry until they were stuffed.",
       "Others of you were locked up in a dark prison, trapped and feeling hopeless. You were there because you ignored what God said and thought you knew better. It was a tough time, your heart felt heavy, and there was no one to help. Then, in that mess, you cried out to God. And just like that, He got you out. He busted you out of that dark cell, broke the chains, and led you to freedom. So, thank God for His mind-blowing love and all the awesome things He does. He smashed through heavy prison doors and snapped the bars like they were nothing.",
       "Some of you got super sick because you were living a wild life, and your body was paying the price for your choices. You couldn't even look at food, and you felt so miserable you wished it was all over. Then, at rock bottom, you called out to God. And He pulled through, saving you right when you needed it most. He said the word and you were healed, pulling you back from the edge. So, thank God for His amazing love and the incredible things He does for His people. Give thanks, tell the world what He's done—sing it loud!",
       "And for those of you who were sailors, doing business across the sea. You saw God's power firsthand, the crazy things He can do with the ocean. He'd just say the word and a massive storm would hit, with waves as tall as buildings! You'd be tossed up to the sky and then dropped down low, your stomach in your throat. You were spinning around, totally lost and confused. Then, in the middle of that chaos, you cried out to God. And He saved you. He calmed the wind down to a whisper and silenced the huge waves. You were so relieved when the storm passed, and He guided you safely back to the shore. So, thank God for His incredible love and the miraculous things He does. Praise Him in front of everyone, shout 'Hallelujah' when the leaders get together!",
@@ -3860,7 +4532,32 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "107:1-3",
+        "msg_basis": "MSG 'four winds / seven seas' generalized",
+        "type": "content-restore",
+        "note": "107:1-3 MSG 'four winds / seven seas' generalized; restore"
+      },
+      {
+        "ref": "107",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "107 title 'GOATED' removed"
+      },
+      {
+        "ref": "107:1-3",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "107:1-3 slang 'bad vibes' removed"
+      },
+      {
+        "ref": "107:5-10",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "107:5-10 slang 'came in clutch' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3869,7 +4566,7 @@
     "paragraphs": [
       "I’m so ready, God, like, 100% all in. Ready to sing my heart out and write a song for You. Let's go, soul! Wake up, guitar! Rise and shine, sleepy sun!",
       "I’m shouting you out, God, on every street, singing your praises everywhere I go. Your love is, like, crazy deep and reaches way high; every cloud is basically a billboard for how faithful you are. Soar high, God! Let your glory cover the whole world! And because you love me so much, please reach down and help me out—answer me!",
-      "Then God said something epic from his holy place: “I’m so stoked, I’m giving away Shechem as a present and handing out the Succoth Valley like it’s nothing. Gilead is mine, and so is Manasseh. Ephraim is my helmet, and Judah is my gavel. Moab is just a bucket I use to clean the floors, I’ll diss Edom, and set off fireworks all over Philistia.”",
+      "Then God spoke in holy splendor: “Brimming over with joy, I’m giving away Shechem as a present and handing out the Succoth Valley like it’s nothing. Gilead is mine, and so is Manasseh. Ephraim is my helmet, and Judah is my gavel. Moab is just a bucket I use to clean the floors, I’ll diss Edom, and set off fireworks all over Philistia.”",
       "Who’s gonna get me into the middle of the action? Who’s gonna show me the way to Edom? You’re not ditching us, are you, God? You’re not gonna sit on the sidelines while our crew goes out?",
       "Please help us with this tough mission; getting help from people is pretty useless. With God, we’ll do amazing things; He’ll totally crush the opposition for good."
     ],
@@ -3889,7 +4586,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "108:7-9",
+        "msg_basis": "MSG 'spoke in holy splendor / Brimming over with joy' replaced",
+        "type": "content-restore",
+        "note": "108:7-9 MSG 'spoke in holy splendor / Brimming over with joy' replaced; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -3925,7 +4629,7 @@
     "chapter": 110,
     "title": "Level Up: The King's Forever Reign",
     "paragraphs": [
-      "God's message to my main man, the King: 'Yo, come chill with me on my throne. I'm gonna make your haters your footstool.' God basically handed you this super strong scepter from Zion, so now you're in charge, even with enemies all around. Your crew will totally have your back, decked out in holy gear on the day you win big. They'll be with you from the crack of dawn, full of energy like they just woke up.",
+      "The word of God to my Lord: 'Sit alongside me here on my throne until I make your enemies a stool for your feet.' God basically handed you this super strong scepter from Zion, so now you're in charge, even with enemies all around. Your crew will totally have your back, decked out in holy gear on the day you win big. They'll be with you from the crack of dawn, full of energy like they just woke up.",
       "God made a promise and He's not backing down: you're a priest forever, in the same way Melchizedek was. The Lord is right there with you, taking down kings when He gets seriously mad. He's bringing justice to all the nations, no holding back, and shutting down anyone who stands against Him. The one who makes kings put *this* King on the throne, and He's ruling with total confidence."
     ],
     "verseRanges": [
@@ -3938,12 +4642,19 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "110:1",
+        "msg_basis": "MSG 'word of God to my Lord' replaced by slang",
+        "type": "content-restore",
+        "note": "110:1 MSG 'word of God to my Lord' replaced by slang; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 111,
-    "title": "God's Work is GOATED, No Cap",
+    "title": "God's Work Is Legendary",
     "paragraphs": [
       "Hallelujah! I'm giving God a massive shout-out with everything I have—doesn't matter if I'm just with my friends or in front of a huge crowd.",
       "God's works are mind-blowing, you could literally spend your whole life studying them and never get bored. It's endless entertainment!",
@@ -3982,15 +4693,21 @@
       }
     ],
     "changes": [
-      "Declared MSG 7-10 split"
+      "Declared MSG 7-10 split",
+      {
+        "ref": "111",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "111 title 'GOATED/No Cap' removed"
+      }
     ],
     "confirmations_needed": []
   },
   {
     "chapter": 112,
-    "title": "How to Live a Blessed Life, No Cap",
+    "title": "How to Live a Blessed Life",
     "paragraphs": [
-      "Hallelujah! Shout out to the person who has major respect for God and is actually super into His commands.",
+      "Hallelujah! Blessed man, blessed woman—shout out to those who truly respect God and are actually super into His commands.",
       "Their kids will be legends in the land, and the family of the upright will be totally blessed. Their house will be full of riches, and their good deeds will last forever.",
       "Even when it's dark, a light shines for the good people—because God is gracious, merciful, and just. It's a good thing when a person is generous and lends freely; they handle their business with fairness. For real, they will never be shaken. A good person will be remembered forever.",
       "They're not fazed by bad news; their heart is steady, trusting in God. Their mind is secure, they're not afraid; in the end, they'll see their enemies go down. They've given generously to the poor; their righteousness lasts forever. They will be honored and respected.",
@@ -4008,14 +4725,27 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "112:1",
+        "msg_basis": "MSG 'Blessed man, blessed woman' merged",
+        "type": "content-restore",
+        "note": "112:1 MSG 'Blessed man, blessed woman' merged; restore both"
+      },
+      {
+        "ref": "112",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "112 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 113,
-    "title": "From Zero to Hero: God's Ultimate Glow-Up",
+    "title": "From Zero to Hero",
     "paragraphs": [
-      "Yooo, let's go! If you're on Team God, you better be hyping Him up! Seriously, just saying His name is a whole vibe. Thinking about Him is a total win, like, forever and ever. From sunrise to sunset, east to west, make sure you're sending up praises to God!",
+      "Yooo, let's go! If you're on Team God, you better be hyping Him up! Seriously, just saying His name is amazing. Thinking about Him is a total win, like, forever and ever. From sunrise to sunset, east to west, make sure you're sending up praises to God!",
       "God is on a whole other level, literally higher than anyone or anything. He outshines everything in the sky. Like, for real, who can even compare to our God? He's sitting on His throne, looking over all of heaven and earth. He sees the people who are struggling, the ones who feel like they've been thrown away, and He picks them right up. He doesn't just rescue them, He gives them a best seat with the most important people. And for couples who can't have kids, He gives them a family and the crazy joy of being parents. Let's go, God! Hallelujah!"
     ],
     "verseRanges": [
@@ -4028,7 +4758,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "113",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "113 title 'Glow-Up' removed"
+      },
+      {
+        "ref": "113",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "113 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4132,10 +4875,10 @@
   },
   {
     "chapter": 118,
-    "title": "God's Got My Back, No Cap",
+    "title": "God's Got My Back",
     "paragraphs": [
       "Give it up for God, because he's so good. His love is, like, eternal. For real, Israel, tell everyone: 'His love never quits.' And you, Aaron's crew, you say it too: 'His love never quits.' And anyone who respects God, you get in on this: 'His love never quits.'",
-      "I was in a tight spot, seriously cornered, so I hit up God. And from this huge, open place, he answered me. Now God's on my side, so I'm not even scared. Like, who would even try to mess with me? God's my ultimate champion, so I can just brush off my haters like they're nothing. It's way better to trust God than to count on people, and it's definitely better to trust God than to rely on famous people. I was surrounded by enemies, but in God's name, I totally owned them. I was trapped with no way out, but in God's name, I showed them who's boss. They came at me like a swarm of bees, like a wildfire, but in God's name, I shut them down. I was literally about to fall off a cliff, and God just grabbed me and held on. God is my strength, he's my favorite song, and now, he's the one who saves me. You can hear the cheering, the victory songs from everyone who's been saved, right? 'God's hand just changed everything! God's hand is lifted up, we won! God's hand just turned it all around!'",
+      "I was in a tight spot, seriously cornered, so I hit up God. And from this huge, open place, he answered me. Now God's on my side, so I'm not even scared. Like, who would even try to mess with me? God's my ultimate champion, so I can just brush off my haters like they're nothing. It's way better to trust God than to count on people, and it's definitely better to trust God than to rely on famous people. I was hemmed in by barbarians, but in God's name, I rubbed their faces in the dirt. Hemmed in with no way out, but in God's name, I rubbed their faces in the dirt. They swarmed me like bees, like a wild prairie fire, but in God's name, I rubbed their faces in the dirt. I was literally about to fall off a cliff, and God just grabbed me and held on. God is my strength, he's my favorite song, and now, he's the one who saves me. You can hear the cheering, the victory songs from everyone who's been saved, right? 'God's hand just changed everything! God's hand is lifted up, we won! God's hand just turned it all around!'",
       "I didn't die. I'm alive! And now I'm telling everyone what God did. God really put me to the test, he pushed me to my limit, but he never let me actually die. So open up the city gates—the gates for the good guys! I'm gonna walk right in and thank God! This Temple Gate is God's, so all the winners can come in and give him praise.",
       "Thanks for answering me; you've seriously saved me! The stone that the builders thought was useless is now the most important one! This is all God's doing. We can't even believe our eyes—it's that amazing! This is the day God made happen—so let's party and have a good time! Save us now, God. Save us now! Oh yeah, God—give us a free and awesome life!",
       "Big ups to you who come in God's name—we're blessing you from God's house! God is God, and he's lit up our lives. Let's decorate the place with cool garlands and hang colorful banners over the altar! You're my God, and I'm so thankful for you. Oh my God, I'm gonna shout your praise. Thank God—he's just so good. His love is for real, it never stops!"
@@ -4156,7 +4899,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "118:5-16",
+        "msg_basis": "MSG 'hemmed in by barbarians / rubbed their faces in the dirt' x3 condensed",
+        "type": "content-restore",
+        "note": "118:5-16 MSG 'hemmed in by barbarians / rubbed their faces in the dirt' x3 condensed; restore"
+      },
+      {
+        "ref": "118",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "118 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4167,7 +4923,7 @@
       "So, how can a young person live a clean life? By actually reading the map—your Word. I’m all in on chasing after you; don’t let me miss the signs you’ve put up. I’ve locked your promises in the vault of my heart so I don’t mess up and go spiritually broke. You are blessed, God; teach me your ways of wise living. I’ll tell everyone all the advice that comes from your mouth; for real, I get more joy from what you teach me about life than from stacking up a ton of cash. I think about every piece of wisdom from you, and I pay close attention to how you do things. I love everything you’ve told me about life; I won’t forget a single word of it.",
       "Be generous with me and I’ll live my best life; I won’t take my eyes off your path for a second. Open my eyes so I can see the amazing, miraculous things you show me. I feel like a foreigner here; give me clear directions. My soul is starving, absolutely ravenous—always hungry for your life-giving commands. And those people who act like they know everything, ignoring what you say—put them in their place! Don’t let them clown on me; I’ve been careful to do exactly what you said. While the haters are gossiping about me, I’m just focused on your wise advice. Yep, your words on life are what bring me joy; I listen to them like good friends.",
       "I’m feeling terrible—like, I couldn’t feel worse. Get me back on my feet again. You promised, remember? When I laid it all out for you, you answered; train me in your deep wisdom. Help me get it, inside and out, so I can really think about your amazing wonders. My sad life feels like a wreck, a total mess; build me up again with your Word. Block off the road that leads to nowhere; grace me with your clear truth. I’m choosing the true road, the one that goes somewhere, and I’m posting your signs at every turn. I’m holding on tight to everything you tell me; God, don’t let me down! I’ll run the race you’ve set for me if you’ll just show me how.",
-      "God, teach me the rules for living so I can stay on track. Give me the insight to follow what you say—my whole life just one long, obedient vibe. Guide me down the path of your commands; I love cruising on this freeway! Give me a hunger for your words of wisdom, not for just getting more stuff. Keep my eyes off of useless distractions; give me life on this journey with you. Confirm your promises to me—the ones you made to everyone who respects you. Block out the harsh words from my critics—what you say is always so good. See how hungry I am for your guidance; keep me alive through your righteous ways.",
+      "God, teach me the rules for living so I can stay on track. Give me the insight to follow what you say—my whole life just one long act of obedience. Guide me down the path of your commands; I love cruising on this freeway! Give me a hunger for your words of wisdom, not for just getting more stuff. Keep my eyes off of useless distractions; give me life on this journey with you. Confirm your promises to me—the ones you made to everyone who respects you. Block out the harsh words from my critics—what you say is always so good. See how hungry I am for your guidance; keep me alive through your righteous ways.",
       "Let your love, God, shape my life with salvation, exactly like you promised. Then I’ll have a comeback for anyone who makes fun of me, because I trusted your Word. Don’t ever take your truth away from me—your commands are what I count on. Oh, I’ll protect what you’ve revealed to me with my life, now and forever. And I’ll walk freely in wide-open spaces as I search for your truth and wisdom. Then I’ll tell the world what I find, speak out boldly in public, with no shame. I treasure your commandments—man, I love them!—savoring every piece of your advice.",
       "Remember what you said to me, your servant—I’m hanging on to those words for dear life. They keep me going in tough times; for real, your promises give me new life. The haters despise me like crazy, but I don’t move an inch from your truth. I look for your timeless words and know I’m on the right track. But when I see wicked people ignore your directions, I get so angry. I turn your instructions into songs and sing them as I walk this journey of life. I think about your name all night, God, treasuring your truth. Still, I get a lot of hate because I live by your Word and advice.",
       "Because you’re all I need, God, I promise to do everything you say. I’m begging you from the bottom of my heart: smile and be gracious to me, just like you promised. When I took a long, hard look at my life, I got my feet back on the path you laid out. I got up right away, no hesitation, and was quick to follow your orders. The wicked had me trapped—there was no way out—but I didn’t forget your plan for me for a second. I get up in the middle of the night to thank you; your decisions are so right, so true—I can’t wait till morning! I’m a friend to everyone who respects you, to those who are committed to living by your rules. Your love, God, fills the whole earth! Teach me how to live by your guidance.",
@@ -4236,7 +4992,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "119",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "119 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4290,11 +5053,11 @@
   },
   {
     "chapter": 122,
-    "title": "Jerusalem Trip Was GOATED",
+    "title": "The Jerusalem Trip",
     "paragraphs": [
       "When everyone was like, “Let’s go to God’s house,” I was so hyped. And now we’re actually here, inside Jerusalem’s walls! It’s unreal.",
-      "Jerusalem is such a vibe, literally built for worship. It’s the place where all the tribes of God come to give thanks, which is basically what being Israel is all about. They’ve even got thrones set up for making fair calls, the legendary thrones of David’s line.",
-      "Yo, pray for peace in Jerusalem! Good vibes to everyone who loves this city. To all my people inside, let’s all get along. And to anyone trying to start drama, stay away. For my family and friends, I’m saying it again: Peace. For God’s house, I’ll always give it my all."
+      "Jerusalem is amazing, literally built for worship. It’s the place where all the tribes of God come to give thanks, which is basically what being Israel is all about. They’ve even got thrones set up for making fair calls, the legendary thrones of David’s line.",
+      "Yo, pray for peace in Jerusalem! Peace to everyone who loves this city. To all my people inside, let’s all get along. And to anyone trying to start drama, stay away. For my family and friends, I’m saying it again: Peace. For God’s house, I’ll always give it my all."
     ],
     "verseRanges": [
       "1-2",
@@ -4308,7 +5071,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "122",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "122 title 'GOATED' removed"
+      },
+      {
+        "ref": "122",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "122 slang 'vibe' removed"
+      },
+      {
+        "ref": "122",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "122 slang 'Good vibes' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4360,7 +5142,7 @@
   },
   {
     "chapter": 125,
-    "title": "God's Got Your Back, No Cap",
+    "title": "God's Got Your Back",
     "paragraphs": [
       "Anyone who trusts in God is like Mount Zion—totally unshakable. Seriously, it's a rock-solid mountain you can always depend on.",
       "Just like mountains surround Jerusalem, God surrounds his people. He always has, and he always will. That's a forever thing.",
@@ -4380,7 +5162,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "125",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "125 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4428,7 +5217,7 @@
     "title": "The Ultimate Guide to a Blessed Life",
     "paragraphs": [
       "Seriously, if you respect God, you're set. Life's like a smooth, straight road when you're on His path. All your hard work? It's paying off, for real. Enjoy every bit of it, soak in all that goodness.",
-      "Your wife will be like a grapevine, popping out kids left and right, making your home feel like a whole vineyard. And your kids around the dinner table? They're like fresh olive shoots, full of potential. Just be amazed at how God says 'yes' to you. It's wild how much He blesses those who respect Him.",
+      "Your wife will be like a grapevine, popping out kids left and right, making your home feel like a whole vineyard. And your kids around the dinner table? They're like fresh olive shoots, full of potential. Just be amazed at how God says 'yes' to you. Oh, how He blesses the one who fears God!",
       "Live it up in Jerusalem, every single day. Get to see your grandkids, too. Peace out, Israel!"
     ],
     "verseRanges": [
@@ -4443,14 +5232,21 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "128:3-5",
+        "msg_basis": "MSG 'the one who fears God' generalized",
+        "type": "content-restore",
+        "note": "128:3-5 MSG 'the one who fears God' generalized; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 129,
     "title": "They Tried to Break Us, But God Had Other Plans",
     "paragraphs": [
-      "\"Man, they've been messing with us since day one,\" that's Israel's story. \"They've been on our case forever, but they could never actually take us down. It felt like their haters were dragging sharp plows right across our backs, leaving deep cuts. But God was like, 'Nah, not happening.' He's always on our side. Then He just snapped the ropes of those evil plow-guys to pieces.\"",
+      "\"Man, they've been on our backs from the day we were born,\" that's Israel's story. \"They've been on our case forever, but they could never actually take us down. Their plowmen plowed long furrows up and down our backs. But God was like, 'Nah, not happening.' He's always on our side. Then God ripped the harnesses of the evil plowmen to shreds.\"",
       "Seriously, may everyone who hates Zion just face-plant in total embarrassment. Let them be like that weak grass growing on a roof that dries up before you can even cut it, before the workers can even bundle it up, before anyone can even say, \"Yo, nice harvest! God bless you guys!\""
     ],
     "verseRanges": [
@@ -4463,7 +5259,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "129:1-4",
+        "msg_basis": "MSG 'plowmen plowed long furrows up and down my back' weakened",
+        "type": "content-restore",
+        "note": "129:1-4 MSG 'plowmen plowed long furrows up and down my back' weakened; restore"
+      },
+      {
+        "ref": "129:1-4",
+        "msg_basis": "MSG 'ripped the harnesses of the evil plowmen to shreds' weakened",
+        "type": "content-restore",
+        "note": "129:1-4 MSG 'ripped the harnesses of the evil plowmen to shreds' weakened; restore"
+      },
+      {
+        "ref": "129:1",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "129:1 slang 'day one' removed; MSG 'from the day I was born'"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4494,7 +5309,7 @@
     "chapter": 131,
     "title": "Just Chillin': A Guide to Staying Humble",
     "paragraphs": [
-      "God, for real, I'm not trying to be the main character or act like I'm all that. I haven't been sticking my nose in stuff that's not my business or dreaming up some huge, crazy plans.",
+      "God, for real, I'm not trying to rule the roost or act like I'm all that. I haven't been sticking my nose in stuff that's not my business or dreaming up some huge, crazy plans.",
       "I've actually just been chilling, keeping my heart quiet and humble. My soul is literally as content as a baby snuggled up in its mom's arms.",
       "So yeah, Israel, just wait for God. Wait with hope. Hope now, and hope always!"
     ],
@@ -4510,7 +5325,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "131:1",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "131:1 slang 'main character' removed; MSG 'not trying to rule the roost'"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4541,7 +5363,7 @@
   },
   {
     "chapter": 133,
-    "title": "When the Whole Squad Vibes",
+    "title": "When the Whole Squad Comes Together",
     "paragraphs": [
       "Yo, it's seriously amazing and just plain beautiful when people get along.",
       "It's like that super expensive anointing oil being poured over your head, running down your beard—yeah, like Aaron the priest's beard—and dripping all the way down to the collar of your robes. It's that special.",
@@ -4569,7 +5391,13 @@
       }
     ],
     "changes": [
-      "Declared MSG 3 split into 2 paragraphs"
+      "Declared MSG 3 split into 2 paragraphs",
+      {
+        "ref": "133",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "133 title 'Vibes' removed"
+      }
     ],
     "confirmations_needed": []
   },
@@ -4595,8 +5423,8 @@
     "title": "The OG God vs. Fake Idols",
     "paragraphs": [
       "Hey, praise God's name! Praise everything God does. All you priests on duty in God's temple, serving in the holy halls of our God, shout 'Hallelujah!' because God is so good. Sing some bangers to His awesome name. And why? Because God chose Jacob's family and claimed Israel as His special treasure.",
-      "I'm telling you, I've seen how great God is. Our Lord is way above all other so-called gods. He does whatever He wants, wherever and whenever. He controls the weather—making clouds, thunder, lightning, and rain, and even the wind. He took down the firstborn of Egypt, both people and animals. He really made Egypt pay attention, showing Pharaoh and his crew some insane miracles. Yeah, He defeated powerful nations and took out mighty kings—like Sihon, king of the Amorites, and Og of Bashan, and all the kings in Canaan. Then He gave their land to Israel, a sweet piece of land for His people.",
-      "God, Your name is forever. God, You'll never be outdated. God always has His people's back; He's always there for them. The 'gods' of other nations are just cheap trinkets, like stuff made to be sold at a flea market. They have mouths but can't talk, eyes but can't see, and ears but can't hear. They're just dead wood and cold metal! And the people who make them and trust them end up just as lifeless.",
+      "I'm telling you, I've seen how great God is. Our Lord is way above all other so-called gods. He does whatever He wants, wherever and whenever. He controls the weather—making clouds, thunder, lightning, and rain, and even the wind. He took down the firstborn of Egypt, both people and animals. He really made Egypt pay attention, showing Pharaoh and his crew some insane miracles. Yeah, He defeated powerful nations and took out mighty kings—like Sihon, king of the Amorites, and Og of Bashan, every last one of the Canaanite kings! Then He gave their land to Israel, a sweet piece of land for His people.",
+      "God, Your name is forever. God, You'll never be outdated. God always has His people's back; He's always there for them. The 'gods' of other nations are just cheap trinkets, like stuff made to be sold at a flea market. They have chiseled mouths but can't talk, painted eyes but can't see, carved ears but can't hear. They're just dead wood and cold metal! And the people who make them and trust them end up just as lifeless.",
       "Family of Israel, bless God! Family of Aaron, bless God! Family of Levi, bless God! All you who respect God, bless God! Shout out to God from Zion, the number one citizen of Jerusalem! Hallelujah!"
     ],
     "verseRanges": [
@@ -4613,7 +5441,20 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "135:13-18",
+        "msg_basis": "MSG 'chiseled/painted/carved' dropped",
+        "type": "content-restore",
+        "note": "135:13-18 MSG 'chiseled/painted/carved' dropped; restore"
+      },
+      {
+        "ref": "135:11",
+        "msg_basis": "",
+        "type": "content-restore",
+        "note": "135:11 MSG 'every last one of the Canaanite kings'; exact"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4621,7 +5462,7 @@
     "title": "God's Love is Legit Forever",
     "paragraphs": [
       "Give a huge shoutout to God! He totally deserves it.\nHis love is legit forever.\nGive props to the God of all gods,\nHis love is legit forever.\nThank the Lord of all lords.\nHis love is legit forever.",
-      "Thank the God who works miracles,\nHis love is legit forever.\nThe God whose genius made the whole universe,\nHis love is legit forever.\nThe God who set the earth on top of the ocean,\nHis love is legit forever.\nThe God who lit up the sky with lights,\nHis love is legit forever.\nThe sun to rule the day,\nHis love is legit forever.\nThe moon and stars to watch over the night,\nHis love is legit forever.\nThe God who took out the firstborns in Egypt,\nHis love is legit forever.\nAnd got Israel out from under their thumb,\nHis love is legit forever.\nHe took Israel by the hand with his mighty power,\nHis love is legit forever.\nHe split the Red Sea right down the middle,\nHis love is legit forever.\nAnd led Israel straight through it,\nHis love is legit forever.\nHe totally wrecked Pharaoh and his army in the sea,\nHis love is legit forever.\nThe God who led his people through the desert,\nHis love is legit forever.\nHe crushed huge kingdoms left and right,\nHis love is legit forever.\nHe took down famous kings,\nHis love is legit forever.\nHe struck down Sihon, the Amorite king,\nHis love is legit forever.\nAnd Og, the king of Bashan,\nHis love is legit forever.\nThen he gave away their land like it was nothing,\nHis love is legit forever.\nHe handed it over to Israel.\nHis love is legit forever.",
+      "Thank the God who works miracles,\nHis love is legit forever.\nThe God whose genius made the whole universe,\nHis love is legit forever.\nThe God who set the earth on top of the ocean,\nHis love is legit forever.\nThe God who lit up the sky with lights,\nHis love is legit forever.\nThe sun to rule the day,\nHis love is legit forever.\nThe moon and stars to watch over the night,\nHis love is legit forever.\nThe God who took out the firstborns in Egypt,\nHis love is legit forever.\nAnd got Israel out from under their thumb,\nHis love is legit forever.\nHe took Israel by the hand with his mighty power,\nHis love is legit forever.\nHe split the Red Sea right down the middle,\nHis love is legit forever.\nAnd led Israel straight through it,\nHis love is legit forever.\nHe totally wrecked Pharaoh and his army in the sea,\nHis love is legit forever.\nThe God who led his people through the desert,\nHis love is legit forever.\nHe crushed huge kingdoms left and right,\nHis love is legit forever.\nHe took down famous kings,\nHis love is legit forever.\nHe struck down Sihon, the Amorite king,\nHis love is legit forever.\nStruck Og the Bashanite king,\nHis love is legit forever.\nThen he gave away their land like it was nothing,\nHis love is legit forever.\nHe handed it over to Israel.\nHis love is legit forever.",
       "God remembered us when we were at our lowest,\nHis love is legit forever.\nHe saved us from getting stepped on,\nHis love is legit forever.\nHe takes care of everyone when they need it.\nHis love is legit forever.\nThank God, who did all of it!\nHis love is legit forever!"
     ],
     "verseRanges": [
@@ -4636,7 +5477,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "136",
+        "msg_basis": "",
+        "type": "content-restore",
+        "note": "136 MSG 'Struck Og the Bashanite king'; exact term"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4645,7 +5493,7 @@
     "paragraphs": [
       "We were just sitting by the rivers in Babylon, crying our eyes out, thinking about the good old days in Zion. We hung up our harps on the trees, not even wanting to play them. That's when the people who captured us started demanding we sing for them, totally mocking us, like, 'Sing us one of your happy Zion songs!'",
       "But for real, how could we sing a song for God in a foreign land? If I ever forget you, Jerusalem, may my fingers literally shrivel up and become useless. May my tongue get stuck to the roof of my mouth if I don't remember you, if I don't consider you my greatest joy.",
-      "God, don't forget what the Edomites did on the day Jerusalem fell. They were shouting, 'Tear it down! Tear it down to its foundations!' And you, Babylon, you're doomed to destruction. Happy is the one who repays you for what you have done to us. Seriously, happy is the one who grabs your infants and smashes them against the rocks."
+      "God, don't forget what the Edomites did on the day Jerusalem fell. They were shouting, 'Tear it down! Tear it down to its foundations!' And you Babylonians—ravagers! You're doomed to destruction. Happy is the one who repays you for what you have done to us. Seriously, happy is the one who grabs your infants and smashes them against the rocks."
     ],
     "verseRanges": [
       "1-3",
@@ -4659,12 +5507,25 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "137:7-9",
+        "msg_basis": "MSG 'Babylonians—ravagers' weakened",
+        "type": "content-restore",
+        "note": "137:7-9 MSG 'Babylonians—ravagers' weakened; restore"
+      },
+      {
+        "ref": "137:8",
+        "msg_basis": "",
+        "type": "content-restore",
+        "note": "137:8 MSG plural 'Babylonians—ravagers'; correct to plural"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 138,
-    "title": "God's Got My Back, No Cap",
+    "title": "God's Got My Back",
     "paragraphs": [
       "Thank you! Seriously, my whole heart is screaming, \"Thank you!\" All the angels are listening as I sing my thanks. I'm on my knees facing your holy temple, and I'll say it again: \"Thank you!\" Thank you for your love and for always being so real. Your name and your word are the most legit things ever. The second I called out to you, you were right there. You gave me a huge boost of strength and confidence.",
       "When all the leaders on earth hear what you have to say, God, they'll all say, \"Thank you.\" They'll sing about all the amazing things you've done, like, \"God's glory is seriously next level!\" And here's the thing: God is way up high, but he sees everything down below. It doesn't matter how far away we are, he knows every little thing about us.",
@@ -4682,14 +5543,21 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "138",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "138 title 'No Cap' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 139,
     "title": "God's Got Me Covered 24/7",
     "paragraphs": [
-      "God, seriously, check out my life; get the real story firsthand. I'm a total open book to you; even from way off, you know what's on my mind. You know when I'm heading out and when I'm coming back; I'm literally never out of your sight. You know everything I'm about to say before I even get the first word out. I look over my shoulder and you're there, then I look ahead and you're there too—your comforting vibe, always with me. This is honestly too much, too amazing—I can't even wrap my head around it!",
+      "God, seriously, check out my life; get the real story firsthand. I'm a total open book to you; even from way off, you know what's on my mind. You know when I'm heading out and when I'm coming back; I'm literally never out of your sight. You know everything I'm about to say before I even get the first word out. I look over my shoulder and you're there, then I look ahead and you're there too—your comforting presence, always with me. This is honestly too much, too amazing—I can't even wrap my head around it!",
       "Is there anywhere I can go to ditch your Spirit? To get out of your sight? If I shoot up to the sky, you're there! If I go deep underground, you're there! If I took off on the fastest flight to the other side of the world, you'd find me in a second—you're already there waiting! Then I thought to myself, 'Whoa, he even sees me in the dark! At night, I'm basically surrounded by light!' It's true: darkness isn't even dark to you; night and day, dark and light, they're all the same to you.",
       "Oh yeah, you made me from the inside out; you put me together in my mom's womb. I gotta thank you, High God—you're just breathtaking! Body and soul, I'm amazingly made! I'm in awe just thinking about it—what a masterpiece! You know me completely, every single bone in my body; you know exactly how I was made, piece by piece, how I was created from nothing into something. Like an open book, you watched me grow from the very beginning to birth; all the parts of my life were laid out in front of you, the days of my life all planned out before I'd even lived one.",
       "Your thoughts—they're so rare, so beautiful! God, I'll never get them completely! I couldn't even start to count them—no more than I could count the grains of sand on the beach. Oh, let me wake up in the morning and just be with you always! And please, God, get rid of all the evil for good! And you murderers—get out of here!—all the guys and girls who disrespect you, God, obsessed with cheap knock-off gods. See how much I hate those who hate you, God, see how I can't stand all this godless pride; I hate it with a pure, intense hatred. Your enemies are my enemies!",
@@ -4711,7 +5579,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "139",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "139 slang 'vibe' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4719,9 +5594,9 @@
     "title": "My Prayer Against the Haters",
     "paragraphs": [
       "God, for real, get me out of this mess. Protect me from these genuinely bad people. All they do is scheme up new ways to be awful; they literally spend all day plotting drama and conflict. Their words are like weapons, sharp and designed to hurt, totally venomous stuff that could ruin someone.",
-      "God, keep me away from the grip of these wicked people, protect me from their vicious vibes. They're all talk and ego, constantly plotting to trip me up and determined to see me fail. These haters are setting up traps to catch me and trying their best to frame me.",
+      "God, keep me away from the grip of these wicked people, protect me from their vicious schemes. They're all talk and ego, constantly plotting to trip me up and determined to see me fail. These haters are setting up traps to catch me and trying their best to frame me.",
       "I prayed, \"God, you're my God! Please, listen to me! Have mercy! God, my Lord, my strong Savior, protect me when the fighting starts! Don't let the wicked get what they want, God, don't give them even an inch!\"",
-      "These troublemakers all around me—let them get tangled up in their own toxic talk. Let God hit them with some serious consequences, like fire from the sky, and let them fall into a pit they can't climb out of! Don't let anyone take these loudmouths seriously; let their own savagery come back to bite them.",
+      "These troublemakers all around me—let them drown in their own verbal poison. Let God hit them with some serious consequences, like fire from the sky, and let them fall into a pit they can't climb out of! Don't let anyone take these loudmouths seriously; let the Devil hunt them down.",
       "I know that you, God, are on the side of the victims, that you fight for the rights of the poor. And I know that the good people will give you a personal shout-out, that they are secure and can chill in your presence."
     ],
     "verseRanges": [
@@ -4739,7 +5614,26 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "140:9-11",
+        "msg_basis": "MSG 'drown in their own verbal poison' weakened",
+        "type": "content-restore",
+        "note": "140:9-11 MSG 'drown in their own verbal poison' weakened; restore"
+      },
+      {
+        "ref": "140:9-11",
+        "msg_basis": "MSG 'let the Devil hunt them down' removed",
+        "type": "content-restore",
+        "note": "140:9-11 MSG 'let the Devil hunt them down' removed; restore"
+      },
+      {
+        "ref": "140:4-6",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "140:4-6 slang 'vibes' removed"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4747,7 +5641,7 @@
     "title": "Keep Me Safe From the Bad Guys",
     "paragraphs": [
       "Yo God, get over here, ASAP! Can you hear me? I'm shouting you out. Hope my prayer is like that good-smelling incense, and when I lift my hands, it's like my nightly sign-off to you.",
-      "God, for real, put a filter on my mouth. Like, a security guard for my lips. Don't let me even think about messing up or accidentally slide in with the wrong crowd. And those people who are always up to no good—don't let their smooth talk get to me. I need the real one to check me, the kind one to put me right. Don't let bad vibes be my crown. I'm seriously praying against all their messed-up plans. Yo, let their leaders get tossed off a cliff; it's time for them to face the consequences. Like a rock pulverized by a maul, let their bones be scattered at the gates of hell.",
+      "God, for real, put a filter on my mouth. Like, a security guard for my lips. Don't let me even think about messing up or accidentally slide in with the wrong crowd. And those people who are always up to no good—don't let their smooth talk get to me. I need the real one to check me, the kind one to put me right. Don't let sin anoint my head. I'm seriously praying against all their messed-up plans. Yo, let their leaders get tossed off a cliff; it's time for them to face the consequences. Like a rock pulverized by a maul, let their bones be scattered at the gates of hell.",
       "But for real, God, my Lord, you're the only one I'm looking at. I'm running to you like my life depends on it, so please, have my back. Keep me safe from their shady plots and all their sneaky traps. Let the bad guys totally fail, while I just walk away, not even a scratch on me."
     ],
     "verseRanges": [
@@ -4762,7 +5656,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "141:3-7",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "141:3-7 slang 'bad vibes' removed; MSG 'Don't let sin anoint my head'"
+      }
+    ],
     "confirmations_needed": []
   },
   {
@@ -4820,7 +5721,7 @@
       "Shoutout to God, my rock, who trains me to face my battles head-on and with integrity. He's my foundation, my safe house, my knight in shining armor. He's the high ground I run to for safety, and he takes down my enemies for me.",
       "Honestly, God, it's wild that you even care about us. Why do you bother with us at all? We're just like a puff of smoke, like shadows from a bonfire that disappear in a second.",
       "God, come down from heaven and show your power. Make the mountains tremble. Unleash your lightning everywhere; send your arrows flying. Reach down from the sky and pull me out of this sea of hatred, away from these toxic people who lie to my face and stab me in the back after a handshake.",
-      "O God, I'm going to write a new song for you, and I'll play it on my guitar. It's a song for the God who saves leaders, the God who rescued his boy David.",
+      "O God, let me sing a new song to you, let me play it on a twelve-string guitar. It's a song for the God who saves leaders, the God who rescued his boy David.",
       "Save me from my enemies, and get me away from these fake people who lie straight to your face and then betray you.",
       "Let our sons grow up strong and dependable, like sturdy oak trees. Let our daughters be as beautiful and vibrant as a field of wildflowers. Let our storage be full of food, and our fields be full of animals. Keep us safe from attacks and from being kicked out of our homes. Get rid of the crime in our neighborhoods.",
       "Man, the people who have all this are so blessed. The people who have God as their God are truly blessed."
@@ -4845,12 +5746,19 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "144:9-10",
+        "msg_basis": "MSG 'twelve-string guitar' dropped",
+        "type": "content-restore",
+        "note": "144:9-10 MSG 'twelve-string guitar' dropped; restore"
+      }
+    ],
     "confirmations_needed": []
   },
   {
     "chapter": 145,
-    "title": "God is ALWAYS on Your Side (No Cap)",
+    "title": "God Is Always on Your Side",
     "paragraphs": [
       "My God, my King, I'm gonna hype you up forever! Seriously, I'll praise your name for all of time.",
       "I'll thank you every single day, like, forever and ever.",
@@ -4933,7 +5841,13 @@
       }
     ],
     "changes": [
-      "Declared MSG 13 split into 2 paragraphs"
+      "Declared MSG 13 split into 2 paragraphs",
+      {
+        "ref": "145",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "145 title 'No Cap' removed"
+      }
     ],
     "confirmations_needed": []
   },
@@ -5039,7 +5953,7 @@
     "chapter": 150,
     "title": "The Ultimate Praise Sesh",
     "paragraphs": [
-      "Let's gooo! Give it up for God in His house, and even when you're just chilling outside. Praise Him for all the powerful things He's done, and for how mind-blowingly great He is. Praise Him with a loud trumpet, and with some chill guitar vibes. Praise Him with castanets and dancing, and with the banjo and flute. Praise Him with crashing cymbals and a booming bass drum, and with fiddles and mandolins. Basically, if you're breathing, you should be praising God! Let's gooo!"
+      "Let's gooo! Give it up for God in His house, and even when you're just chilling outside. Praise Him for all the powerful things He's done, and for how mind-blowingly great He is. Praise Him with a loud trumpet, and with a chill guitar. Praise Him with castanets and dancing, and with the banjo and flute. Praise Him with crashing cymbals and a booming bass drum, and with fiddles and mandolins. Basically, if you're breathing, you should be praising God! Let's gooo!"
     ],
     "verseRanges": [
       "1-6"
@@ -5049,7 +5963,14 @@
     ],
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "ref": "150",
+        "msg_basis": "",
+        "type": "slang-cleanup",
+        "note": "150 slang 'vibes' removed; 'chill' kept per user rule"
+      }
+    ],
     "confirmations_needed": []
   }
 ]
