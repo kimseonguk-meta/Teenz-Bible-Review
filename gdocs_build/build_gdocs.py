@@ -244,6 +244,21 @@ def next_single_num(classified, i):
     return None
 
 
+def next_opens_chapter(classified, i, nn):
+    """True when the next verse-bearing line after index i opens chapter nn
+    as a 'NN v-v <text>' two-number line (e.g. '9 1-2 ...')."""
+    for j in range(i + 1, len(classified)):
+        kind, pay = classified[j]
+        if kind in ('BLANK', 'SKIP', 'TEXT'):
+            continue
+        if kind == 'LONE_NUM':
+            return pay == nn
+        if kind == 'TWO_NUM':
+            return pay[0] == nn
+        return False
+    return False
+
+
 def parse_msg_lines(text, initial_ch=0):
     """Pass 2: build MSG units [{chapter, verses:set, blocks:[str]}]."""
     text = expand_inline_markers(text)
@@ -336,6 +351,16 @@ def parse_msg_lines(text, initial_ch=0):
                         # this, the first line is misfiled as chapter N
                         # verse 1 and the doc pairs it with the wrong Teen
                         # paragraph.
+                        new_unit(cur_ch, vset, rest.strip())
+                    elif next_opens_chapter(classified, i, nn):
+                        # last verse of cur_ch whose number equals the next
+                        # chapter number (e.g. Psalm 8:9 'God, brilliant
+                        # Lord, ...' directly before chapter 9's '9 1-2 ...'
+                        # opening). The next line opens chapter nn, so this
+                        # line cannot be its marker — it must be verse nn of
+                        # cur_ch. Without this, the verse text is misfiled
+                        # as chapter nn verse 1 and the doc renders a
+                        # badge-only MSG cell (empty text).
                         new_unit(cur_ch, vset, rest.strip())
                     elif nxt[i] is None:
                         # last verse line of the file: a chapter marker
