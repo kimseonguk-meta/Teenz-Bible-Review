@@ -175,3 +175,19 @@
 - EN: [18-21] 기도 요청 / [18-21] 축복기도 ("May God — who puts all things together and makes all things whole... All glory to Jesus, forever and always! Oh, yes, yes, yes."). 두 문단 모두 배지 18-21 공유.
 - KO: 동일하게 2문단.
 - 근거: 간청 → 축복 선포로 담화 전환. 내용 손실 없음. (성욱 컨펌 전 구조 변경 없음)
+
+---
+
+## Revelation (감사: 2026-09-23)
+
+### R1. ch5 — MSG 찬양 3문단 → teen 문단 내 인라인 병합 (undeclared merge ×3) — 상태: pending
+- MSG: 6-10 유닛("And they sang a new song:"로 끝남) + 별도 찬양 문단 "Worthy! Take the scroll..." / 11-14 유닛("in full song:"로 끝남) + 별도 찬양 문단 "The slain Lamb is worthy!..." + 별도 찬양 문단 "To the One on the Throne!...".
+- EN/KO: 찬양 3개가 앞 문단에 인라인으로 합쳐짐 — [6-10] 새 노래 본문 포함 / [11-14] 어린 양 찬양 포함 / [11-14] 보좌+어린 양 찬양 포함. splits 선언 없음 (미선언).
+- 근거: 찬양 블록이 화자 전환 없이 직전 서술에 바로 이어지는 구조. 내용 손실 없음 (찬양 전문이 teen 문단 안에 인용 형태로 보존됨).
+- ⚠ 성욱 컨펌 전 구조 변경 없음. 컨펌 시 splits 메타로 선언하거나 현재 구조 유지 결정 필요.
+
+### R2. ch16 — MSG 4-7 (4문단) → EN/KO 2문단 (undeclared merge) — 상태: pending
+- MSG: 4개 문단 — "4-7 The third Angel poured his bowl on rivers and springs..." / "Righteous you are, and your judgments are righteous..." / "Just then I heard the Altar chime in," / "Yes, O God, the Sovereign-Strong! Your judgments are true and just!".
+- EN/KO: 2문단 (idx 4, 5, 배지 4-7 공유). splits 메타는 "MSG prints 4-7 as two paragraphs (Angel of Waters + Altar); Split approved 2026-09-22 (Seonguk)"로 기록되어 있으나 MSG 실제는 4문단 — 메타 설명이 사실과 다름.
+- 근거: 물의 천사 찬양 + 제단 응답이 하나의 심판-응답 담화로 이어짐. 내용 손실 없음.
+- ⚠ 성욱 컨펌 전 구조 변경 없음. 컨펌 시 splits 메타 노트를 실제(MSG 4문단→2문단 병합)에 맞게 정정 필요.
