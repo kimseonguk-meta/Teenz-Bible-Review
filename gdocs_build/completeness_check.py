@@ -403,24 +403,34 @@ def check_file(path):
     for ch in data:
         chno = ch.get('chapter')
         paras = ch.get('paragraphs', [])
-        badges = ch.get('msg_ranges') or ch.get('verseRanges') or []
         # Pair badges with checkable (non-header, non-empty) paragraphs.
         # Some files give § headers no badge (len(badges) == len(checkable));
         # others give every paragraph a badge (len(badges) == len(paras)).
+        # Try msg_ranges first, then verseRanges: a teen-side split (e.g.
+        # one MSG paragraph rendered as two) makes msg_ranges shorter than
+        # the checkable list while verseRanges still aligns per paragraph.
         checkable = []
         for i, p in enumerate(paras):
             t = p if isinstance(p, str) else p.get('text', '')
             if not t or not t.strip() or t.lstrip().startswith('§'):
                 continue  # headers and empties are not checked
             checkable.append((i, t))
-        if len(badges) == len(checkable):
-            pairs = [(i, t, badges[k]) for k, (i, t) in enumerate(checkable)]
-        elif len(badges) == len(paras):
-            pairs = [(i, t, badges[i]) for (i, t) in checkable]
-        else:
+        pairs = None
+        tried = []
+        for badges in (ch.get('msg_ranges'), ch.get('verseRanges')):
+            if not badges:
+                continue
+            tried.append(len(badges))
+            if len(badges) == len(checkable):
+                pairs = [(i, t, badges[k]) for k, (i, t) in enumerate(checkable)]
+                break
+            if len(badges) == len(paras):
+                pairs = [(i, t, badges[i]) for (i, t) in checkable]
+                break
+        if pairs is None:
             warnings.append(
-                f'ch{chno}: STRUCTURAL -- {len(paras)} paragraphs but '
-                f'{len(badges)} badges; cannot align, chapter skipped')
+                f'ch{chno}: STRUCTURAL -- {len(paras)} paragraphs, '
+                f'badge lists tried {tried}; cannot align, chapter skipped')
             continue
         pinfos = []
         for i, t, vr in pairs:

@@ -141,3 +141,13 @@
 ### COL2. ch1 — MSG 18 → (15-18)/(18-20) split — 상태: applied-pre
 - MSG 원문이 18절을 15-18과 18-20 두 문단에 걸쳐 사용. EN도 MSG 문단 구분 그대로 따름 (splits 선언됨).
 - KO: 동일. 내용 손실 없음.
+
+---
+
+## 2Thessalonians (감사: 2026-09-23)
+
+### T1. ch3 — MSG 10-13 → (10-12)/(13) split — 상태: pending
+- MSG: 10-13이 하나의 문단 ("Don't you remember the rule…?" 인용 + 게으른 자 보고 + 일 명령 + "don't slack off").
+- EN: [10-12] 규칙 인용/보고/일 명령 / [13] "Friends, don't slack off in doing your duty. Don't burn out doing the right thing — keep going." (splits 선언됨, 문단 경계가 v13 절 경계와 일치).
+- KO: 동일하게 2문단.
+- 근거: 명령 집행부 → 격려/마무리 호소로 담화 전환. 내용 손실 없음. (1차 감사에서 이미 적용된 상태로 발견 — 이번 감사에서 컨펌 대상으로 기록만 하고 구조 변경 없음)
