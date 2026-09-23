@@ -565,18 +565,13 @@ def build_docx(key):
             ridx = len(table.rows) - 1
             if ti['is_header']:
                 # § section header: not MSG content; Teen carries the header.
-                # Principle 2: the header shows the same badge as the
-                # following body paragraph.
-                hdr_badge = None
-                for j in range(idx + 1, n):
-                    if not teen_infos[j]['is_header']:
-                        hdr_badge = teen_infos[j]['vr']
-                        break
+                # Rendering (2026-09-23 성욱 지시): § 소제목 행은 Docs에서
+                # 배지 없이 제목만 표시. 배지는 verseRanges 데이터에만 유지되어
+                # pairing/validation 로직은 "§ 헤더는 뒤따르는 본문과 배지 공유"
+                # (원칙 2) 그대로 동작한다.
                 set_cell(row[0], '')
-                set_cell(row[1], pe.lstrip('§').strip(), bold=True,
-                         badge=hdr_badge)
-                set_cell(row[2], pk.lstrip('§').strip(), bold=True,
-                         badge=hdr_badge)
+                set_cell(row[1], pe.lstrip('§').strip(), bold=True)
+                set_cell(row[2], pk.lstrip('§').strip(), bold=True)
             else:
                 units = match[idx]
                 msg_text = '\n\n'.join('\n'.join(u['blocks'])
