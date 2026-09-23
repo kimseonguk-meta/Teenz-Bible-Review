@@ -100,8 +100,13 @@ def main():
                             f'ch{chn} idx{idx}: MSG cell does not contain expected unit text. '
                             f'expected head={head!r} got={c0[:60]!r}')
                     if c0.startswith('↑ 위 MSG'):
-                        # continued reference: previous data row must hold the full block
-                        prev_c0 = norm(body_text(rows[data_row - 1].cells[0]))
+                        # continued reference: walk back through chained
+                        # continued-ref rows to the row holding the full block
+                        pr = data_row - 1
+                        prev_c0 = norm(body_text(rows[pr].cells[0]))
+                        while prev_c0.startswith('↑ 위 MSG') and pr > 1:
+                            pr -= 1
+                            prev_c0 = norm(body_text(rows[pr].cells[0]))
                         if head not in prev_c0:
                             problems.append(
                                 f'ch{chn} idx{idx}: continued-ref but prev row lacks the block')

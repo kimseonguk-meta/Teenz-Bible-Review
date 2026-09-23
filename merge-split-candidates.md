@@ -151,3 +151,17 @@
 - EN: [10-12] 규칙 인용/보고/일 명령 / [13] "Friends, don't slack off in doing your duty. Don't burn out doing the right thing — keep going." (splits 선언됨, 문단 경계가 v13 절 경계와 일치).
 - KO: 동일하게 2문단.
 - 근거: 명령 집행부 → 격려/마무리 호소로 담화 전환. 내용 손실 없음. (1차 감사에서 이미 적용된 상태로 발견 — 이번 감사에서 컨펌 대상으로 기록만 하고 구조 변경 없음)
+
+---
+
+## 1Timothy (감사: 2026-09-23)
+
+### I1. ch1 — MSG 15-19 → 3문단 split — 상태: applied-pre
+- MSG: 15-19 하나의 문단 ("Here’s a word you can take to heart..." → 바울 자서전 + "To the King of All Time" 송영 + 디모데에게 지시 위임).
+- EN: [15-19] 바울 자서전(guilty/merciful) / [15-19] 송영(King of all time) / [15-19] 디모데 위임(You have what it takes). 세 문단 모두 배지 15-19 공유, splits 선언됨.
+- KO: 동일하게 3문단.
+- 근거: 간증 → 송영 → 위임으로 담화 전환. 내용 손실 없음. DOCX는 첫 행에 MSG 전체 블록, 이후 행에 "↑ 위 MSG(15-19) 계속" 계속 표기로 렌더링 (2026-09-23 verifier가 3연속 계속 표기 체인을 추적하도록 패치).
+
+### I2. ch6 — MSG 문단 번호 겹침 (teen 배지 조정) — 상태: applied-pre
+- MSG 6장 유닛 번호에 겹침/연속 문제가 있었고, 1차 감사에서 teen 배지를 조정해 해결한 상태로 발견 (verseRanges == msg_ranges 6장 전부 일치 확인).
+- 내용 손실 없음. 구조 변경 없음.
