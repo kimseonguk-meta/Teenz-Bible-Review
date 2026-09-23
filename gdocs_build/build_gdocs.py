@@ -121,6 +121,13 @@ INLINE_MARKER_RE = re.compile(r'(?<!\d):\s*(\d{1,2}-\d{1,2})\s+(?=[A-Z"“‘(\[
 # (?<=\S) guard keeps it intact. ':'-adjacent numbers ('16:9') need the
 # whitespace on both sides, so 'Mark 16:9-20' notes are untouched.
 MIDLINE_NUM_RE = re.compile(r'(?<=\S)\s+(\d{1,2}(?:-\d{1,2})?)\s+(?=[A-Z0-9"“‘(\[])')
+# Markers glued to preceding punctuation with no whitespace, as produced by
+# BibleGateway scraping: '...nothing to it.9-11 "And why?"' or the verse
+# separator artifact 'locusts.* * *15-17 Yes, as if...'. The lookbehind is
+# punctuation-only (never '-' which would shred ranges like '4-6', never ','
+# which would shred compound refs like '12,11', never ':' for '16:9',
+# never a digit so decimals/years can't match).
+GLUED_MARKER_RE = re.compile(r'(?<=[\'"“”’‘.*!?—–])(\d{1,2}(?:-\d{1,2})?)\s+(?=[A-Z0-9"“‘(\[])')
 
 
 def expand_inline_markers(text):
@@ -143,6 +150,7 @@ def expand_inline_markers(text):
             continue
         out_lines.append(INLINE_MARKER_RE.sub(r':\n\1 ', line))
         out_lines.append(MIDLINE_NUM_RE.sub(r'\n\1 ', out_lines.pop()))
+        out_lines.append(GLUED_MARKER_RE.sub(r'\n\1 ', out_lines.pop()))
     return '\n'.join(out_lines)
 
 

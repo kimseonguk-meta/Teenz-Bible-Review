@@ -93,7 +93,20 @@ def main():
                     problems.append(f'ch{chn} idx{idx}: header KO text mismatch')
             else:
                 em = norm(exp_msg[idx])
-                if em:
+                if not c0:
+                    # Independent gate: a non-header teen row must always
+                    # show MSG text. A badge-only MSG cell is a defect even
+                    # when the parser itself produced no expected unit
+                    # (that parser gap is what let this defect pass before).
+                    problems.append(
+                        f'ch{chn} idx{idx}: empty MSG cell (badge-only). '
+                        f'teen vr={teen_infos[idx]["vr"]!r} '
+                        f'parser_unit_empty={not em}')
+                elif not em:
+                    problems.append(
+                        f'ch{chn} idx{idx}: MSG cell text not accounted for by parser '
+                        f'(cell head={c0[:60]!r}) — pairing unverified')
+                else:
                     head = em[:60]
                     if head not in c0 and not c0.startswith('↑ 위 MSG'):
                         problems.append(
