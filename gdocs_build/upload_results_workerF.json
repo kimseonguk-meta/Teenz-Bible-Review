@@ -1,0 +1,35 @@
+[
+ {
+  "key": "Ecclesiastes",
+  "title": "전도서 (Ecclesiastes): MSG + Teen EN + KO",
+  "id": "1CzWMUfRDjlY-7qG_uE2f029lOU4K1woKa3taHpujlS0",
+  "webViewLink": "https://docs.google.com/document/d/1CzWMUfRDjlY-7qG_uE2f029lOU4K1woKa3taHpujlS0/edit?usp=drivesdk",
+  "tables": 12,
+  "expected": 12,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "Proverbs",
+  "title": "잠언 (Proverbs): MSG + Teen EN + KO",
+  "id": "1T-Gg7KS6-knAKKyoh20-sXaadzp8_3j18SIaR_mqbk0",
+  "webViewLink": "https://docs.google.com/document/d/1T-Gg7KS6-knAKKyoh20-sXaadzp8_3j18SIaR_mqbk0/edit?usp=drivesdk",
+  "tables": 31,
+  "expected": 31,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "Joshua",
+  "title": null,
+  "id": "1Cex7fB4AK1AikruhfcpyTdG06Sz0qnSG8metjJx8PyE",
+  "webViewLink": null,
+  "tables": 24,
+  "expected": 24,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
+ }
+]
