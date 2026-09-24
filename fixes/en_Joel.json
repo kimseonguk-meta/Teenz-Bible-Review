@@ -2,21 +2,22 @@
  {
   "chapter": 1,
   "title": "The Locust Invasion is Lowkey Terrifying",
+  "merges": [],
+  "splits": [],
+  "changes": [],
+  "confirmations_needed": [],
   "paragraphs": [
-   "§ Get in Touch with Reality—and Weep!",
    "Alright, this is a message from God to Joel, son of Pethuel.",
    "Yo, all you leaders and everyone, listen up! This is major. Has anything this wild ever happened in your lifetime? Or your parents' lifetime? Make sure you pass this story down to your kids, and they tell their kids, and so on. This has to be remembered.",
-   "Whatever one type of locust didn't eat, another type did. It was a whole swarm, one after another, just wiping everything out.",
-   "Wake up, all you who are drunk! Time to face reality and cry. Your party's over, no more booze for you. An unstoppable army is invading our country, more than you can count. They're fierce, like lions or tigers. They've wrecked our vineyards and orchards, basically turning the whole country into a wasteland. It's a total disaster zone.",
-   "Weep like a young virgin dressed in black, mourning the loss of her fiancé. With no grain or grapes, worship at God's place has completely stopped. The priests are freaking out. God's crew doesn't know what to do. The fields are dead, the ground itself is sad. The wheat fields are empty, the vineyards are dried up, and there's no olive oil left.",
+   "Whatever the chewing locust left, the gobbling locust ate. What the gobbling locust left, the munching locust ate. What the munching locust left, the chomping locust ate—wave after wave, they wiped everything clean.",
+   "Wake up, all you who are drunk! Time to face reality and cry. Your party's over—no more booze for you, like it or not. An unstoppable army is invading our country, more than you can count. They're fierce, like lions or tigers. They've wrecked our vineyards and orchards, basically turning the whole country into a wasteland. It's a total disaster zone.",
+   "Cry like a girl in black mourning her fiancé. With no grain or grapes, worship at God's place has completely stopped. The priests are freaking out. God's crew doesn't know what to do. The fields are dead, the ground itself is sad. The wheat fields are empty, the vineyards are dried up, and there's no olive oil left.",
    "Farmers, it's over. Grape growers, just cry. Mourn for the wheat and barley because all the crops are gone. The vineyards are dried up, the fig trees are dead, and so are the pomegranates, date palms, and apple trees—everything is dead. And all the joy is gone from people's hearts.",
-   "§ Nothing's Going On in the Place of Worship",
    "And you priests, get your robes on and start crying too. You're supposed to lead people in worship, so lead them in mourning. Spend the night in rough clothes, you servants of my God. Nothing is happening at the church, no offerings, no prayers—nothing. Call for a fast, get a special meeting together, and bring all the leaders and everyone in the country to God's house to seriously pray.",
-   "What a day! It's doomsday! God's judgment is here. The Almighty has arrived, and this is serious. We're all out of food, and there's no more joy or singing at God's place. The seeds are dead in the ground, the barns are empty, and the grain silos are abandoned. The crops have failed! The farm animals are groaning, the cattle are just wandering around with nothing to eat. Even the sheep can't find anything.",
+   "What a day! It's doomsday! God's judgment is here. The Almighty has arrived, and this is serious. We're all out of food, and there's no more joy or singing at God's place. The seeds are dead in the ground, the barns are empty, and the grain silos are abandoned. Who needs 'em? The crops have failed! The farm animals are groaning, the cattle are just wandering around with nothing to eat. Even the sheep can't find anything.",
    "God! I'm praying, I'm crying out to you! The fields are on fire, the whole country is a dust bowl, and fires are raging everywhere. The wild animals are dying of thirst and looking to you for water. The springs and streams are all dried up. The whole country is burning."
   ],
   "verseRanges": [
-   "1",
    "1",
    "2-3",
    "4",
@@ -24,82 +25,83 @@
    "8-10",
    "11-12",
    "13-14",
-   "13-14",
    "15-18",
    "19-20"
   ],
-  "splits": [
-   {
-    "msg_range": "1-3",
-    "paras": [
-     1,
-     2
-    ],
-    "note": "MSG's opening paragraph (1-3) kept as two Teenz paras"
-   }
-  ],
-  "changes": [
-   "Ch1: added missing MSG § headers 'Get in Touch with Reality—and Weep!' + 'Nothing's Going On in the Place of Worship'",
-   "Ch1: restored MSG 8-10 'young virgin dressed in black, mourning the loss of her fiancé' (was 'girl who just lost her fiancé')"
+  "msg_ranges": [
+   "1",
+   "2-3",
+   "4",
+   "5-7",
+   "8-10",
+   "11-12",
+   "13-14",
+   "15-18",
+   "19-20"
   ]
  },
  {
   "chapter": 2,
   "title": "The Locust Army vs. God's Comeback",
+  "merges": [],
+  "splits": [],
+  "changes": [],
+  "confirmations_needed": [],
   "paragraphs": [
-   "§ The Locust Army",
-   "Yo, sound the alarm in Zion! Blast the trumpets on God's holy mountain! Let everyone know what's up, 'cause God's Judgment Day is coming, and it's coming in hot. It's gonna be a dark, gloomy, straight-up doomsday. Picture this: a massive army spreading over the mountains like the morning light. There's never been anything like it, and there never will be again. It's like a wildfire that burns everything in front of it, and leaves nothing but scorched earth behind. Before this army shows up, the place is like a paradise, a real Garden of Eden. After it passes through? Total Death Valley. Nothing gets away.",
+   "Yo, sound the alarm in Zion! Blast the trumpets on God's holy mountain! Let everyone know what's up, 'cause God's Judgment Day is coming, and it's coming in hot. It's gonna be a dark, gloomy, straight-up doomsday—clouds with no silver lining. Picture this: a massive army spreading over the mountains like the morning light. There's never been anything like it, and there never will be again. It's like a wildfire that burns everything in front of it, and leaves nothing but scorched earth behind. Before this army shows up, the place is like a paradise, a real Garden of Eden. After it passes through? Total Death Valley. Nothing gets away.",
    "This locust army looks like a huge cavalry of galloping horses. The sound is insane—like thunder booming over the mountains, or a wildfire roaring through dry grass. It's like an unstoppable army screaming for a fight, totally battle-ready. When people see them, they're just terrified, their faces completely pale with fear.",
    "These invaders just charge. They scale walls. Nothing stops them. Every soldier is so disciplined, staying in their own lane and doing their job perfectly. They're fearless, unstoppable, and they just keep coming. They storm the city, get past all the defenses, and raid the houses, breaking in through doors and windows. It's like an earthquake and a tornado all at once. The sun and moon go dark, and the stars disappear. Then God himself, in a voice like thunder, commands his forces. Just look at the size of that army! And look how strong his followers are! God's Judgment Day is huge and terrifying. Who could possibly survive it?",
-   "§ Change Your Life",
    "But listen up, God's dropping a personal message, and it's not too late. He's saying, “Come back to me, and be real about it. Come back fasting, crying, and being genuinely sorry for messing up.”",
    "Change your heart, not just your outfit. Come back to your God. And here's the deal: God is super kind and merciful. He's patient, puts up with a lot, and his love is extravagant. He's always ready to call off a disaster. Who knows? Maybe he'll change his mind right now and show some pity. Maybe after all this, there will be some massive blessings left over for your God!",
-   "So sound the alarm in Zion! Call for a day of repentance, a holy fast. Get everyone together for a big meeting. The whole community needs to be there. Make sure the elders come, but also the kids, even the babies. And yeah, even the newlyweds—tell them to pause the honeymoon and get over here. Right there between the Temple entrance and the altar, the priests, God's servants, need to be crying, begging for forgiveness. They should pray, “God, have mercy on your people! Don't let us become a joke. Don't let other nations take over and mock us, asking, ‘So where is your God now?’”",
+   "So sound the alarm in Zion! Call for a day of repentance, a holy fast. Get everyone together for a big meeting. The whole community needs to be there—consecrated, set apart for this. Make sure the elders come, but also the kids, even the babies. And yeah, even the newlyweds—tell them to pause the honeymoon and get over here. Right there between the Temple entrance and the altar, the priests, God's servants, need to be crying, begging for forgiveness. They should pray, \"God, have mercy on your people! Don't let us become a joke. Don't let other nations take over and mock us, asking, 'So where is your God now?'\"",
    "And just like that, God jumped into action to take back his land. He felt sorry for his people. God answered them, “Look, I'm sending you a gift: grain, wine, and olive oil. The famine is over—eat until you're full! I won't let you be disrespected by other nations anymore. I'll stop that enemy from the north and throw them into a wasteland. Half will end up in the Dead Sea, the other half in the Mediterranean. They'll rot there, and the stench will be legendary. The bigger the enemy, the bigger the smell!”",
-   "§ The Trees Are Bearing Fruit Again",
    "Don't be afraid, Earth! Be happy and celebrate! God has done amazing things. Don't worry, wild animals! The fields are green again. The trees are full of fruit—figs and vines are having a bumper crop! People of Zion, celebrate! Be happy in your God. He's giving you a guide to teach you how to live right. His teaching is like rain from heaven, refreshing your soul, just like in the old days. And you'll have plenty of food—storage full of grain, and barrels overflowing with wine and oil.",
-   "“I'll pay you back for the years the locusts ate—that massive locust invasion I sent. The swarming locusts, the hopping locusts, the stripping locusts, and the cutting locusts. You'll have plenty of good food to eat, and you'll be praising your God, the one who has done such amazing things for you. My people will never be ashamed again. You'll know for sure that I am right there with Israel, that I am your God, the one and only true God. My people will never be ashamed again.",
-   "§ The Sun Turning Black and the Moon Blood-Red",
+   "\"I'll pay you back for the years the locusts ate—that massive locust invasion I sent. The savage locusts, the deadly locusts, the fierce locusts, and the locusts of doom. You'll have plenty of good food to eat, and you'll be praising your God, the one who has done such amazing things for you. My people will never be ashamed again. You'll know for sure that I am right there with Israel, that I am your God, the one and only true God. My people will never be ashamed again.",
    "“And that's just the start. After that, I will pour out my Spirit on everyone. Your sons and daughters will prophesy. Your old men will have prophetic dreams, and your young men will see visions. I'll even pour out my Spirit on the servants, both men and women. I'll show amazing things in the sky and on the earth: blood, fire, and clouds of smoke. The sun will turn dark, and the moon will turn blood-red before the great and awesome Day of the Lord arrives. And anyone who calls on the name of the Lord will be saved. On Mount Zion and in Jerusalem, there will be a great rescue—just as God promised. The survivors will be the ones God calls.”"
   ],
   "verseRanges": [
    "1-3",
-   "1-3",
    "4-6",
    "7-11",
-   "12",
    "12",
    "13-14",
    "15-17",
    "18-20",
    "21-24",
-   "21-24",
    "25-27",
-   "28-32",
    "28-32"
   ],
-  "changes": [
-   "Ch2: added missing MSG § headers 'The Locust Army' + 'Change Your Life' + 'The Trees Are Bearing Fruit Again' + 'The Sun Turning Black and the Moon Blood-Red'",
-   "Ch2: FIXED badge — v4 content was present but badged '5-6'; re-badged to MSG '4-6'"
+  "msg_ranges": [
+   "1-3",
+   "5-6",
+   "7-11",
+   "12",
+   "13-14",
+   "15-17",
+   "18-20",
+   "21-24",
+   "25-27",
+   "28-32"
   ]
  },
  {
   "chapter": 3,
   "title": "God's Ultimate Comeback is No Joke",
+  "merges": [],
+  "splits": [],
+  "changes": [],
+  "confirmations_needed": [],
   "paragraphs": [
-   "§ God Is a Safe Hiding Place",
-   "Alright, so check it. When I get Judah and Jerusalem back on their feet, I'm gonna round up all the nations that don't mess with me. I'm taking them straight to a place called Judgment Valley. It's going down. I'm putting them on trial for what they did to my people, Israel. They scattered them everywhere and just took my land. They literally gambled for my people and traded them like objects. A boy for a prostitute, a girl for a bottle of wine just to get their drink on. Wild.",
-   "And you guys—Tyre, Sidon, Philistia—what's your deal? You trying to get revenge on me or something? If you are, just stop. It's gonna come right back at you, no cap. You stole my silver and gold, took all my valuable stuff for your own temples. You sold the people of Judah and Jerusalem to the Greeks, sending them super far away. But I'm about to flip the script. I'm freeing them. And what you did? It's happening to you. I'm gonna have your kids sold as slaves to your neighbors, and they'll sell them to the Sabeans way out there. That's God's final word.",
-   "Tell all the nations that don't follow God: Get ready for a fight! Soldiers, get in formation! Grab your weapons! Let's go! Turn your farming tools into swords and spears. Even the weakest person should be hyping themselves up, saying, 'I'm a beast!' Hurry up, you pagans! Wherever you are, get over here! Get ready to be totally wrecked by God!",
+   "Alright, so check it. When I get Judah and Jerusalem back on their feet, I'm gonna round up all the godless nations. I'm taking them straight to a place called Judgment Valley. It's going down. I'm putting them on trial for what they did to my people, Israel. They scattered them everywhere and just took my land. They literally gambled for my people and traded them like objects. A boy for a prostitute, a girl for a bottle of wine just to get their drink on. Wild.",
+   "And you guys—Tyre, Sidon, Philistia—what's your deal? You trying to get revenge on me or something? If you are, just stop. It's gonna come right back at you, guaranteed. You stole my silver and gold, took all my valuable stuff for your own temples. You sold the people of Judah and Jerusalem to the Greeks, sending them super far away. But I'm about to flip the script. I'm freeing them. And what you did? It's happening to you. I'm gonna have your kids sold as slaves to your neighbors, and they'll sell them to the Sabeans way out there. That's God's final word.",
+   "Tell all the nations that don't follow God: Get ready for a fight! Soldiers, get in formation! Grab your weapons! Let's go! Turn your farming tools into swords and spears. Even the weakest person should be hyping themselves up, saying, 'I'm a beast!' Hurry up, you pagans! Wherever you are, get over here! Get your act together—you're about to be totally wrecked by God!",
    "Let all those nations head to Judgment Valley. I'll be there, sitting on the judge's bench, and I'll judge every single one of them.",
    "Get the sickles out—it's harvest time. Stomp those grapes—the winepress is overflowing. The vats are full, spilling over with all their evil.",
    "It's total chaos, a massive crowd in Decision Valley! God's Judgment Day is officially here in Decision Valley.",
-   "The sky's going black, the sun and moon are gone, and the stars are out. God's voice booms from Zion, a shout from Jerusalem. The whole earth and sky are shaking. But for the people of Israel, God is their safe spot, a super-secure fortress. Then you'll know for sure that I'm your God, living in Zion, my holy mountain. Jerusalem will be a holy city, with a big 'No Trespassing' sign for enemies.",
-   "§ Milk Rivering out of the Hills",
-   "What a time that'll be! Wine will be flowing down the mountains, milk will be like a river from the hills, and water will be everywhere in Judah. A fountain will even flow from God's Temple, watering everything. But Egypt will be reduced to weeds in a vacant lot, Edom turned into barren badlands, all because of the messed-up things they did to the people of Judah, killing innocent people. But Judah will be full of people, and Jerusalem will be lived in forever. Any sins I haven't forgiven yet, I will. God is moving into Zion for good."
+   "The sky's going black, the sun and moon go dark, and the stars burn out. God's voice booms from Zion, a shout from Jerusalem. The whole earth and sky are shaking. But for the people of Israel, God is their safe spot, a super-secure fortress. Then you'll know for sure that I'm your God, living in Zion, my holy mountain. Jerusalem will be a holy city, with a big 'No Trespassing' sign for enemies.",
+   "What a time that'll be! Wine will be flowing down the mountains, milk will be like a river from the hills, and water will be everywhere in Judah. A fountain will even flow from God's Temple, watering everything. But Egypt will end up a vacant lot full of weeds, and Edom will be barren badlands, all because of the messed-up things they did to the people of Judah, killing innocent people. But Judah will be full of people, and Jerusalem will be lived in forever. Any sins I haven't forgiven yet, I will. God is moving into Zion for good."
   ],
   "verseRanges": [
-   "1-3",
    "1-3",
    "4-8",
    "9-11",
@@ -107,12 +109,17 @@
    "13",
    "14",
    "15-17",
-   "18-21",
    "18-21"
   ],
-  "changes": [
-   "Ch3: added missing MSG § headers 'God Is a Safe Hiding Place' + 'Milk Rivering out of the Hills'",
-   "Ch3: restored MSG 18-21 'Egypt reduced to weeds in a vacant lot, Edom turned into barren badlands'"
+  "msg_ranges": [
+   "1-3",
+   "4-8",
+   "9-11",
+   "12",
+   "13",
+   "14",
+   "15-17",
+   "18-21"
   ]
  }
 ]
