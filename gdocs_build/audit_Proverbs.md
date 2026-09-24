@@ -96,3 +96,15 @@
 - completeness_check 잔여 29건은 전부 검사기 오탐(관용구 "a second look/a thing or two", 서수 "first", 대문자 호칭 "Temptress/Indolence" 등)으로 MSG와 대조해 확인함. 실제 누락은 없음.
 - ch7:1-5 "who's always trying to come to you secretly"는 MSG에 없는 소규모 부가 표현. 의미 왜곡은 없으나 참고용으로 기록.
 - merge/split: 본문에 새로 적용한 것 없음. 기존 split(6:16-19, 30:15-16·18-19·21-23·24-28·29-31)은 pending으로 `fixes/merge_split_Proverbs.md`에 기록.
+
+## 2차 심층 재검토 (2026-09-25)
+- 범위: MSG 609 유닛 ↔ EN 616 문단 ↔ KO 616 문단 전수 문장 단위 대조 (1~31장).
+- EN 복원 5건 (전부 비대칭 누락 — KO는 이미 MSG 내용 보유):
+  - 2:16-19 "every step she takes is one step closer to hell" — 'disaster' → 'hell' (KO 지옥 보유, MSG hell; 9:18·14:12·16:25·27:18에서 EN도 hell 유지 중)
+  - 8:1-11 "My mouth chews and savors and relishes the truth—I can't stand even the taste of evil." — KO "진리만 씹고 맛보고 즐김" 보유, EN은 법률식 의역으로 희석돼 있었음
+  - 19:12 "the good-natured ones are like fresh morning dew" — 'a refreshing morning' → 'fresh morning dew' (KO "아침 이슬" 보유)
+  - 5:15-16 "draw water from your own spring-fed well" — 'well' → 'spring-fed well' (KO "네 샘에서 흐르는 물" 보유)
+  - 2:9-15 "can't even tell a road from a tumbleweed" — EN·KO 둘 다 빠진 MSG 비유 복원 (EN "so lost they can't even tell a road from a tumbleweed", KO "길인지 덤불인지도 못 가리는")
+- KO 복원 1건: 2:9-15 tumbleweed 비유 (위).
+- 게이트: validate PASS 31/31, build 31 tables / VERIFY_DROPPED=0 / msg_orphans=0 / teen_without_msg=0, verify_pairing PAIRING CONTENT OK, completeness 29건 전수 분류 완료 (전부 의인화 호칭·관용구 오탐 — Lady Wisdom/Indolence/Slowness/Calloused climbers/Brash·Impudent·Blasphemer 등 의역 동등).
+- GDocs: doc ID 1T-Gg7KS6-knAKKyoh20-sXaadzp8_3j18SIaR_mqbk0, API 31/31 tables, export-back VERIFIED OK.
