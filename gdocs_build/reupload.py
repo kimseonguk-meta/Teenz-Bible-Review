@@ -126,6 +126,12 @@ def main():
         wf = json.load(open(wf_path, encoding='utf-8'))
         seen = {r.get('key') for r in results}
         results += [r for r in wf if r.get('key') not in seen]
+    # OT worker-A wave books live in yet another registry; fall back to it too.
+    wa_path = os.path.join(GDIR, 'upload_results_workerA.json')
+    if os.path.exists(wa_path):
+        wa = json.load(open(wa_path, encoding='utf-8'))
+        seen = {r.get('key') for r in results}
+        results += [r for r in wa if r.get('key') not in seen]
     id_by_key = {r['key']: r['id'] for r in results if r.get('id')}
     summary = []
     for key in keys:
