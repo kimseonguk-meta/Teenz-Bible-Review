@@ -1,325 +1,27 @@
-# Amos MSG — cached 2026-09-22 from BibleGateway
+# Amos MSG (Eugene Peterson, The Message) — cached 2026-09-22 from BibleGateway
 # URL: https://www.biblegateway.com/passage/?search=Amos+1-9&version=MSG
-# "###" = section header (§)
+# "###" = section header (§), "* * *" = paragraph break marker in print
 
- Amos 1-9 MSG - The Message of Amos, one of the - Bible Gateway
- (function() { var apis = [window.fetch, Object.assign, Array.prototype.includes, NodeList.prototype.forEach, Array.from]; apis.every(function(api) { return api }) || document.write(''); window.assetsVersion = "06958bbd"; })();
- BG.appData({"eu_country":false,"recaptcha_key":"6LdMkEkUAAAAAGd5aGH1cwku1OFyHwKYW_QUDZxm","recaptchav3_key":"6LcVUS8pAAAAAO0n_gVAwPItyOzybBRwrXayEvab","plus_info":{"amount":699,"amount_string":"$6.99","yearly_amount":6999,"yearly_amount_string":"$69.99","discount_percentage":"16%","pricing":{"monthly":{"id":"monthly","full":699,"discount":0,"divider":1,"multiplier":12,"showBestValue":false,"showPricePerYear":true},"yearly":{"id":"yearly","full":6999,"discount":0,"divider":12,"multiplier":1,"showBestValue":true,"showPricePerYear":true}},"sale":{"active":false,"start":null,"end":null,"promo":null,"scope":null},"plans":{"monthly":{"label":"Monthly","hasDiscount":false,"subtotal":{"monthly":6.99,"yearly":83.88},"discount":{"monthly":0,"yearly":0},"total":{"monthly":6.99,"yearly":83.88}},"yearly":{"label":"Yearly","hasDiscount":false,"subtotal":{"monthly":5.83,"yearly":69.99},"discount":{"monthly":0,"yearly":0},"total":{"monthly":5.83,"yearly":69.99}}}},"assets_version":"06958bbd","locale":"en","cdn_host":"","fs_p_country":true,"version0":{"version_id":"MSG"},"il_versions":[],"il_option":false,"books":{"MSG":[{"display":"Genesis","osis":"Gen","testament":"OT","num_chapters":50,"chapters":null,"intro":false},{"display":"Exodus","osis":"Exod","testament":"OT","num_chapters":40,"chapters":null,"intro":false},{"display":"Leviticus","osis":"Lev","testament":"OT","num_chapters":27,"chapters":null,"intro":false},{"display":"Numbers","osis":"Num","testament":"OT","num_chapters":36,"chapters":null,"intro":false},{"display":"Deuteronomy","osis":"Deut","testament":"OT","num_chapters":34,"chapters":null,"intro":false},{"display":"Joshua","osis":"Josh","testament":"OT","num_chapters":24,"chapters":null,"intro":false},{"display":"Judges","osis":"Judg","testament":"OT","num_chapters":21,"chapters":null,"intro":false},{"display":"Ruth","osis":"Ruth","testament":"OT","num_chapters":4,"chapters":null,"intro":false},{"display":"1 Samuel","osis":"1Sam","testament":"OT","num_chapters":31,"chapters":null,"intro":false},{"display":"2 Samuel","osis":"2Sam","testament":"OT","num_chapters":24,"chapters":null,"intro":false},{"display":"1 Kings","osis":"1Kgs","testament":"OT","num_chapters":22,"chapters":null,"intro":false},{"display":"2 Kings","osis":"2Kgs","testament":"OT","num_chapters":25,"chapters":null,"intro":false},{"display":"1 Chronicles","osis":"1Chr","testament":"OT","num_chapters":29,"chapters":null,"intro":false},{"display":"2 Chronicles","osis":"2Chr","testament":"OT","num_chapters":36,"chapters":null,"intro":false},{"display":"Ezra","osis":"Ezra","testament":"OT","num_chapters":10,"chapters":null,"intro":false},{"display":"Nehemiah","osis":"Neh","testament":"OT","num_chapters":13,"chapters":null,"intro":false},{"display":"Esther","osis":"Esth","testament":"OT","num_chapters":10,"chapters":null,"intro":false},{"display":"Job","osis":"Job","testament":"OT","num_chapters":42,"chapters":null,"intro":false},{"display":"Psalm","osis":"Ps","testament":"OT","num_chapters":150,"chapters":null,"intro":false},{"display":"Proverbs","osis":"Prov","testament":"OT","num_chapters":31,"chapters":null,"intro":false},{"display":"Ecclesiastes","osis":"Eccl","testament":"OT","num_chapters":12,"chapters":null,"intro":false},{"display":"Song of Solomon","osis":"Song","testament":"OT","num_chapters":8,"chapters":null,"intro":false},{"display":"Isaiah","osis":"Isa","testament":"OT","num_chapters":66,"chapters":null,"intro":false},{"display":"Jeremiah","osis":"Jer","testament":"OT","num_chapters":52,"chapters":null,"intro":false},{"display":"Lamentations","osis":"Lam","testament":"OT","num_chapters":5,"chapters":null,"intro":false},{"display":"Ezekiel","osis":"Ezek","testament":"OT","num_chapters":48,"chapters":null,"intro":false},{"display":"Daniel","osis":"Dan","testament":"OT","num_chapters":12,"chapters":null,"intro":false},{"display":"Hosea","osis":"Hos","testament":"OT","num_chapters":14,"chapters":null,"intro":false},{"display":"Joel","osis":"Joel","testament":"OT","num_chapters":3,"chapters":null,"intro":false},{"display":"Amos","osis":"Amos","testament":"OT","num_chapters":9,"chapters":[{"chapter":1,"type":"heading","content":["Swallowing the Same Old Lies"]},{"chapter":2,"type":"heading","content":["Destroyed from the Roots Up"]},{"chapter":3,"type":"heading","content":["The Lion Has Roared"]},{"chapter":4,"type":"heading","content":["You Never Got Hungry for God"]},{"chapter":5,"type":"heading","content":["All Show, No Substance","Raw Truth Is Never Popular","Time to Face Hard Reality, Not Fantasy"]},{"chapter":6,"type":"heading","content":["Those Who Live Only for Today","You\u2019ve Made a Shambles of Justice"]},{"chapter":7,"type":"heading","content":["To Die Homeless and Friendless"]},{"chapter":8,"type":"heading","content":["You Who Give Little and Take Much"]},{"chapter":9,"type":"heading","content":["Israel Thrown into a Sieve","Blessings Like Wine Pouring off the Mountains"]}],"intro":false},{"display":"Obadiah","osis":"Obad","testament":"OT","num_chapters":1,"chapters":null,"intro":false},{"display":"Jonah","osis":"Jonah","testament":"OT","num_chapters":4,"chapters":null,"intro":false},{"display":"Micah","osis":"Mic","testament":"OT","num_chapters":7,"chapters":null,"intro":false},{"display":"Nahum","osis":"Nah","testament":"OT","num_chapters":3,"chapters":null,"intro":false},{"display":"Habakkuk","osis":"Hab","testament":"OT","num_chapters":3,"chapters":null,"intro":false},{"display":"Zephaniah","osis":"Zeph","testament":"OT","num_chapters":3,"chapters":null,"intro":false},{"display":"Haggai","osis":"Hag","testament":"OT","num_chapters":2,"chapters":null,"intro":false},{"display":"Zechariah","osis":"Zech","testament":"OT","num_chapters":14,"chapters":null,"intro":false},{"display":"Malachi","osis":"Mal","testament":"OT","num_chapters":4,"chapters":null,"intro":false},{"display":"Matthew","osis":"Matt","testament":"NT","num_chapters":28,"chapters":null,"intro":false},{"display":"Mark","osis":"Mark","testament":"NT","num_chapters":16,"chapters":null,"intro":false},{"display":"Luke","osis":"Luke","testament":"NT","num_chapters":24,"chapters":null,"intro":false},{"display":"John","osis":"John","testament":"NT","num_chapters":21,"chapters":null,"intro":false},{"display":"Acts","osis":"Acts","testament":"NT","num_chapters":28,"chapters":null,"intro":false},{"display":"Romans","osis":"Rom","testament":"NT","num_chapters":16,"chapters":null,"intro":false},{"display":"1 Corinthians","osis":"1Cor","testament":"NT","num_chapters":16,"chapters":null,"intro":false},{"display":"2 Corinthians","osis":"2Cor","testament":"NT","num_chapters":13,"chapters":null,"intro":false},{"display":"Galatians","osis":"Gal","testament":"NT","num_chapters":6,"chapters":null,"intro":false},{"display":"Ephesians","osis":"Eph","testament":"NT","num_chapters":6,"chapters":null,"intro":false},{"display":"Philippians","osis":"Phil","testament":"NT","num_chapters":4,"chapters":null,"intro":false},{"display":"Colossians","osis":"Col","testament":"NT","num_chapters":4,"chapters":null,"intro":false},{"display":"1 Thessalonians","osis":"1Thess","testament":"NT","num_chapters":5,"chapters":null,"intro":false},{"display":"2 Thessalonians","osis":"2Thess","testament":"NT","num_chapters":3,"chapters":null,"intro":false},{"display":"1 Timothy","osis":"1Tim","testament":"NT","num_chapters":6,"chapters":null,"intro":false},{"display":"2 Timothy","osis":"2Tim","testament":"NT","num_chapters":4,"chapters":null,"intro":false},{"display":"Titus","osis":"Titus","testament":"NT","num_chapters":3,"chapters":null,"intro":false},{"display":"Philemon","osis":"Phlm","testament":"NT","num_chapters":1,"chapters":null,"intro":false},{"display":"Hebrews","osis":"Heb","testament":"NT","num_chapters":13,"chapters":null,"intro":false},{"display":"James","osis":"Jas","testament":"NT","num_chapters":5,"chapters":null,"intro":false},{"display":"1 Peter","osis":"1Pet","testament":"NT","num_chapters":5,"chapters":null,"intro":false},{"display":"2 Peter","osis":"2Pet","testament":"NT","num_chapters":3,"chapters":null,"intro":false},{"display":"1 John","osis":"1John","testament":"NT","num_chapters":5,"chapters":null,"intro":false},{"display":"2 John","osis":"2John","testament":"NT","num_chapters":1,"chapters":null,"intro":false},{"display":"3 John","osis":"3John","testament":"NT","num_chapters":1,"chapters":null,"intro":false},{"display":"Jude","osis":"Jude","testament":"NT","num_chapters":1,"chapters":null,"intro":false},{"display":"Revelation","osis":"Rev","testament":"NT","num_chapters":22,"chapters":null,"intro":false}]},"passage_displays":["Amos 1-9"],"featured_resources":["nkjv-abide","halleys-bible-handbook","how-to-read-bible-book-by-book","essential-bible-companion"],"translations":["MSG"],"osis":"Amos.1-Amos.9\/msg","osis_w_verse":"Amos.1.1-Amos.9.ff\/msg"});
- (function(i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; BG.Consents.onConsent(2).then(function() { m.parentNode.insertBefore(a, m) }); })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
- ga('create', 'UA-3008784-8', 'auto'); ga('send', 'pageview');
- window.raptivetarget = window.raptivetarget || {};
- window.raptivetarget.site = "bg7";
- window.raptivetarget.translations = "MSG".split(', ');
- const osisString = BG.appData('osis') || ''; if (osisString) { const bcvStr = osisString.split('/')[0]; const bcvs = bcvStr.split(','); let bookNames = bcvs.map(ref => ref.split('.')[0]); if (bookNames.length > 0) { if (bookNames.length === 1) { bookNames = bookNames[0]; } if (bookNames.length > 0) { window.raptivetarget.books = bookNames; } } }
- function loadRaptive() { (function(w, d) { w.adthrive = w.adthrive || {}; w.adthrive.cmd = w.adthrive.cmd || []; w.adthrive.plugin = 'adthrive-ads-manual'; w.adthrive.host = 'ads.adthrive.com'; var s = d.createElement('script'); s.async = true; s.referrerpolicy = 'no-referrer-when-downgrade'; s.src = 'https://' + w.adthrive.host + '/sites/6a0496c1e0a4f36851f9873e/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href) + '&cb=' + (Math.floor(Math.random() * 100) + 1); var n = d.getElementsByTagName('script')[0]; n.parentNode.insertBefore(s, n); })(window, document); } loadRaptive();
- BG.initDataLayer();
- BG.updateRaptive(); BG.UserInfo.updateBodyLayout();
- Menu
- Bible Gateway logo
- account
- read
- Read the Bible
- Reading Plans Advanced Search Available Versions Audio Bibles
- study
- Study Tools
- Scripture Engagement
- More Resources
- plus
- Bible Gateway Plus
- learn Bible News
- explore
- Explore More
- Newsletters Devotionals Bible Gateway App Bible Audio App
- store
- Store
- Bibles
- Deals
- More
- Preview the new Bible Gateway!
- close
- You're invited! Preview the new Bible Gateway and tell us what you think.
- close
- account
- Log In/Sign Up
- show menu
- BG.UserInfo.updateFullname();
- BG.UserInfo.updatePushdown();
- BibleGateway
- ---Amuzgo de Guerrero (AMU)--- Amuzgo de Guerrero (AMU)
- ---العربية (AR)--- Arabic Bible: Easy-to-Read Version (ERV-AR) Ketab El Hayat (NAV)
- ---अवधी (AWA)--- Awadhi Bible: Easy-to-Read Version (ERV-AWA)
- ---Български (BG)---
-
-1940 Bulgarian Bible (BG1940)
-Bulgarian Bible (BULG) Bulgarian New Testament: Easy-to-Read Version (ERV-BG) Библия, нов превод от оригиналните езици (с неканоничните книги) (CBT) Библия, синодално издание (BOB) Библия, ревизирано издание (BPB)
- ---বাংলা (BN)--- Bengali: পবিত্র বাইবেল (BERV)
- ---Chinanteco de Comaltepec (CCO)--- Chinanteco de Comaltepec (CCO)
- ---Cebuano (CEB)--- Ang Pulong Sa Dios (APSD-CEB)
- ---ᏣᎳᎩ ᎦᏬᏂᎯᏍ (CHR)--- Cherokee New Testament (CHR)
- ---كوردی سۆرانی (CKB)--- Kurdi Sorani Standard (KSS)
- ---Cakchiquel Occidental (CKW)--- Cakchiquel Occidental (CKW)
- ---Čeština (CS)--- Bible 21 (B21) Slovo na cestu (SNC)
- ---Cymraeg (CY)--- Beibl William Morgan (BWM)
- ---Dansk (DA)--- Bibelen på hverdagsdansk (BPH) Dette er Biblen på dansk (DN1933)
- ---Deutsch (DE)--- Hoffnung für Alle (HOF) Luther Bibel 1545 (LUTH1545) Neue Genfer Übersetzung (NGU-DE) Schlachter 1951 (SCH1951) Schlachter 2000 (SCH2000)
- ---English (EN)--- 21st Century King James Version (KJ21) American Standard Version (ASV) Amplified Bible (AMP) Amplified Bible, Classic Edition (AMPC) BRG Bible (BRG) Christian Standard Bible (CSB) Christian Standard Bible Anglicised (CSBA) Common English Bible (CEB) Complete Jewish Bible (CJB) Contemporary English Version (CEV) Darby Translation (DARBY) Disciples’ Literal New Testament (DLNT) Douay-Rheims 1899 American Edition (DRA) Easy-to-Read Version (ERV) EasyEnglish Bible (EASY) Evangelical Heritage Version (EHV) English Standard Version (ESV) English Standard Version Anglicised (ESVUK) Expanded Bible (EXB)
-
-1599 Geneva Bible (GNV)
-GOD’S WORD Translation (GW) Good News Translation (GNT) Holman Christian Standard Bible (HCSB) International Children’s Bible (ICB) International Standard Version (ISV) J.B. Phillips New Testament (PHILLIPS) Jubilee Bible 2000 (JUB) King James Version (KJV) Authorized (King James) Version (AKJV) Legacy Standard Bible (LSB) Lexham English Bible (LEB) Living Bible (TLB) The Message (MSG) Modern English Version (MEV) Mounce Reverse Interlinear New Testament (MOUNCE) Names of God Bible (NOG) New American Bible (Revised Edition) (NABRE) New American Standard Bible (NASB) New American Standard Bible 1995 (NASB1995) New Catholic Bible (NCB) New Century Version (NCV) New English Translation (NET) New International Reader's Version (NIRV) New International Version (NIV) New International Version - UK (NIVUK) New King James Version (NKJV) New Life Version (NLV) New Living Translation (NLT) New Matthew Bible (NMB) New Revised Standard Version, Anglicised (NRSVA) New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) New Revised Standard Version Catholic Edition (NRSVCE) New Revised Standard Version Updated Edition (NRSVUE) New Testament for Everyone (NTFE) Orthodox Jewish Bible (OJB) Revised Geneva Translation (RGT) Revised Standard Version (RSV) Revised Standard Version Catholic Edition (RSVCE) Tree of Life Version (TLV) The Voice (VOICE) World English Bible (WEB) Worldwide English (New Testament) (WE) Wycliffe Bible (WYC) Young's Literal Translation (YLT)
- ---Español (ES)--- La Biblia de las Américas (LBLA) Biblia del Jubileo (JBS) Dios Habla Hoy (DHH) Nueva Biblia de las Américas (NBLA) Nueva Biblia Viva (NBV) Nueva Traducción Viviente (NTV) Nueva Versión Internacional (NVI) Nueva Versión Internacional (Castilian) (CST) Palabra de Dios para Todos (PDT) La Palabra (España) (BLP) La Palabra (Hispanoamérica) (BLPH) Reina Valera Actualizada (RVA-2015) Reina Valera Contemporánea (RVC) Reina-Valera 1960 (RVR1960) Reina Valera Revisada (RVR1977) Reina-Valera 1995 (RVR1995) Reina-Valera Antigua (RVA) Spanish Blue Red and Gold Letter Edition (SRV-BRG) Traducción en lenguaje actual (TLA)
- ---Suomi (FI)--- Raamattu 1933/38 (R1933)
- ---Français (FR)--- La Bible du Semeur (BDS) Louis Segond (LSG) Nouvelle Edition de Genève – NEG1979 (NEG1979) Segond 21 (SG21)
- ---Κοινη (GRC)---
-
-1550 Stephanus New Testament (TR1550)
-
-1881 Westcott-Hort New Testament (WHNU)
-
-1894 Scrivener New Testament (TR1894)
-SBL Greek New Testament (SBLGNT) Tyndale House Greek New Testament (THGNT)
- ---ગુજરાતી (GU)--- Gujarati: પવિત્ર બાઈબલ (GERV)
- ---עברית (HE)--- Habrit Hakhadasha/Haderekh (HHH) The Westminster Leningrad Codex (WLC)
- ---हिन्दी (HI)--- Hindi Bible: Easy-to-Read Version (ERV-HI) Saral Hindi Bible (SHB)
- ---Ilonggo (HIL)--- Ang Pulong Sang Dios (HLGN)
- ---Chhattisgarhi (HNE)--- New Chhattisgarhi Translation (नवां नियम छत्तीसगढ़ी) (NCA)
- ---Hrvatski (HR)--- Biblija: suvremeni hrvatski prijevod (SHP) Hrvatski Novi Zavjet – Rijeka 2001 (HNZ-RI) Knijga O Kristu (CRO)
- ---Kreyòl ayisyen (HT)--- Haitian Creole Version (HCV) Nouvo Testaman: Vèsyon Kreyòl Fasil (VKF)
- ---Magyar (HU)--- Hungarian Károli (KAR) Hungarian Bible: Easy-to-Read Version (ERV-HU) Hungarian New Translation (NT-HU)
- ---Hawai‘i Pidgin (HWC)--- Hawai‘i Pidgin (HWP)
- ---Indonesia, bahasa (ID)--- Alkitab Mudah Dibaca (AMD)
- ---Íslenska (IS)--- Icelandic Bible (ICELAND)
- ---Italiano (IT)--- La Bibbia della Gioia (BDG) Conferenza Episcopale Italiana (CEI) La Nuova Diodati (LND) Nuova Riveduta 1994 (NR1994) Nuova Riveduta 2006 (NR2006)
- ---日本語 (JA)--- Japanese Bible: Easy-to-Read Version (JERV) Japanese Living Bible (JLB)
- ---Jacalteco, Oriental (JAC)--- Jacalteco, Oriental (JAC)
- ---Kekchi (KEK)--- Kekchi (KEK)
- ---ಕನ್ನಡ (KN)--- Kannada Holy Bible: Easy-to-Read Version (KERV)
- ---한국어 (KO)--- Korean Bible: Easy-to-Read Version (KOERV) Korean Living Bible (KLB)
- ---Latina (LA)--- Biblia Sacra Vulgata (VULGATE)
- ---Luganda (LG)--- Endagaano Enkadde nʼEndagaano Empya (LCB)
- ---Māori (MI)--- Maori Bible (MAORI)
- ---Македонски (MK)--- Macedonian New Testament (MNT)
- ---मराठी (MR)--- Marathi Bible: Easy-to-Read Version (ERV-MR)
- ---Mam, Central (MVC)--- Mam, Central (MVC)
- ---Mam, Todos Santos (MVJ)--- Mam de Todos Santos Chuchumatán (MVJ)
- ---Plautdietsch (NDS)--- Reimer 2001 (REIMER)
- ---नेपाली (NE)--- Nepali Bible: Easy-to-Read Version (ERV-NE)
- ---Náhuatl de Guerrero (NGU)--- Náhuatl de Guerrero (NGU)
- ---Nederlands (NL)--- BasisBijbel (BB) Het Boek (HTB)
- ---Norsk (NO)--- Det Norsk Bibelselskap 1930 (DNB1930) En Levende Bok (LB)
- ---Chichewa (NY)--- Mawu a Mulungu mu Chichewa Chalero (CCL)
- ---ଓଡ଼ିଆ (OR)--- Odia Holy Bible: Easy-to-Read Version (ERV-OR)
- ---ਪੰਜਾਬੀ (PA)--- Punjabi Bible: Easy-to-Read Version (ERV-PA)
- ---Polski (PL)--- Nowe Przymierze (NP) Słowo Życia (SZ-PL) Updated Gdańsk Bible (UBG)
- ---Nawat (PPL)--- Ne Bibliaj Tik Nawat (NBTN)
- ---Português (PT)--- Almeida Revista e Corrigida 2009 (ARC) Portuguese New Testament: Easy-to-Read Version (VFL) Nova Traduҫão na Linguagem de Hoje 2000 (NTLH) Nova Versão Transformadora (NVT) Nova Versão Internacional (NVI-PT) O Livro (OL)
- ---Quichua (QU)--- Mushuj Testamento Diospaj Shimi (MTDS)
- ---Quiché, Centro Occidenta (QUT)--- Quiché, Centro Occidental (QUT)
- ---Română (RO)--- Cornilescu 1924 - Revised 2010, 2014 (RMNN) Nouă Traducere În Limba Română (NTLR)
- ---Русский (RU)--- New Russian Translation (NRT) Священное Писание (Восточный Перевод) (CARS) Священное Писание (Восточный перевод), версия для Таджикистана (CARST) Священное Писание (Восточный перевод), версия с «Аллахом» (CARSA) Russian New Testament: Easy-to-Read Version (ERV-RU) Russian Synodal Version (RUSV)
- ---Slovenčina (SK)--- Nádej pre kazdého (NPK)
- ---Somali (SO)--- Somali Bible (SOM)
- ---Shqip (SQ)--- Albanian Bible (ALB)
- ---Српски (SR)--- New Serbian Translation (NSP) Serbian New Testament: Easy-to-Read Version (ERV-SR)
- ---Svenska (SV)--- nuBibeln (Swedish Contemporary Bible) (NUB) Svenska 1917 (SV1917) Svenska Folkbibeln (SFB) Svenska Folkbibeln 2015 (SFB15) Swedish New Living Bible (Nya Levande Bibeln) (SVL)
- ---Kiswahili (SW)--- Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi (TKU) Neno: Bibilia Takatifu (SNT)
- ---தமிழ் (TA)--- Tamil Bible: Easy-to-Read Version (ERV-TA)
- ---తెలుగు (TE)--- Telugu Holy Bible: Easy-to-Read Version (TERV)
- ---ภาษาไทย (TH)--- New Thai Version (NTV-BIBLE) Thai New Testament: Easy-to-Read Version (ERV-TH) Thai New Contemporary Bible (TNCV)
- ---Tagalog (TL)--- Ang Bagong Tipan: Filipino Standard Version (FSV) Ang Biblia (1978) (ABTAG1978) Ang Biblia, 2001 (ABTAG2001) Ang Dating Biblia (1905) (ADB1905) Ang Salita ng Diyos (SND) Ang Salita ng Dios (Tagalog Contemporary Bible) (ASND) Magandang Balita Biblia (MBBTAG) Magandang Balita Biblia (with Deuterocanon) (MBBTAG-DC)
- ---Twi (TWI)--- Nkwa Asem (NA-TWI)
- ---Українська (UK)--- Ukrainian Bible (UKR) Ukrainian Bible: Easy-to-Read Version (ERV-UK)
- ---اردو (UR)--- Urdu Bible: Easy-to-Read Version (ERV-UR)
- ---Uspanteco (USP)--- Uspanteco (USP)
- ---Tiêng Viêt (VI)--- Bản Dịch 2011 (BD2011) New Vietnamese Bible (NVB) Vietnamese Bible: Easy-to-Read Version (BPT)
- ---Yorùbá (YO)--- Bíbélì Mímọ́ Yorùbá Òde Òn (BYO)
- ---汉语 (ZH)--- Chinese Contemporary Bible (Simplified) (CCB) Chinese Contemporary Bible (Traditional) (CCBT) Chinese New Testament: Easy-to-Read Version (ERV-ZH) Chinese New Version (Simplified) (CNVS) Chinese New Version (Traditional) (CNVT) Chinese Standard Bible (Simplified) (CSBS) Chinese Standard Bible (Traditional) (CSBT) Chinese Union Version (Simplified) (CUVS) Chinese Union Version (Traditional) (CUV) Chinese Union Version Modern Punctuation (Simplified) (CUVMPS) Chinese Union Version Modern Punctuation (Traditional) (CUVMPT) Revised Chinese Union Version (Simplified Script) Shen Edition (RCU17SS) Revised Chinese Union Version (Traditional Script) Shen Edition (RCU17TS)
- The Message                            (MSG)
- Version
- BibleGateway
- Bible Book List Bible Book List
- Font Size Font Size
- BG.Prefs.pagePrefs('passage');
- Passage Resources Hebrew/Greek Your Content
- Previous
- Next
- Add parallel Share Print Page Options Listen to Amos 1-9
- Amos 1-9 The Message
- —Amuzgo de Guerrero (AMU)— Amuzgo de Guerrero (AMU)
- —العربية (AR)— Arabic Bible: Easy-to-Read Version (ERV-AR) Ketab El Hayat (NAV)
- —अवधी (AWA)— Awadhi Bible: Easy-to-Read Version (ERV-AWA)
- —Български (BG)—
-
-1940 Bulgarian Bible (BG1940)
-Bulgarian Bible (BULG) Bulgarian New Testament: Easy-to-Read Version (ERV-BG) Библия, нов превод от оригиналните езици (с неканоничните книги) (CBT) Библия, синодално издание (BOB) Библия, ревизирано издание (BPB)
- —বাংলা (BN)— Bengali: পবিত্র বাইবেল (BERV)
- —Chinanteco de Comaltepec (CCO)— Chinanteco de Comaltepec (CCO)
- —Cebuano (CEB)— Ang Pulong Sa Dios (APSD-CEB)
- —ᏣᎳᎩ ᎦᏬᏂᎯᏍ (CHR)— Cherokee New Testament (CHR)
- —كوردی سۆرانی (CKB)— Kurdi Sorani Standard (KSS)
- —Cakchiquel Occidental (CKW)— Cakchiquel Occidental (CKW)
- —Čeština (CS)— Bible 21 (B21) Slovo na cestu (SNC)
- —Cymraeg (CY)— Beibl William Morgan (BWM)
- —Dansk (DA)— Bibelen på hverdagsdansk (BPH) Dette er Biblen på dansk (DN1933)
- —Deutsch (DE)— Hoffnung für Alle (HOF) Luther Bibel 1545 (LUTH1545) Neue Genfer Übersetzung (NGU-DE) Schlachter 1951 (SCH1951) Schlachter 2000 (SCH2000)
- —English (EN)— 21st Century King James Version (KJ21) American Standard Version (ASV) Amplified Bible (AMP) Amplified Bible, Classic Edition (AMPC) BRG Bible (BRG) Christian Standard Bible (CSB) Christian Standard Bible Anglicised (CSBA) Common English Bible (CEB) Complete Jewish Bible (CJB) Contemporary English Version (CEV) Darby Translation (DARBY) Disciples’ Literal New Testament (DLNT) Douay-Rheims 1899 American Edition (DRA) Easy-to-Read Version (ERV) EasyEnglish Bible (EASY) Evangelical Heritage Version (EHV) English Standard Version (ESV) English Standard Version Anglicised (ESVUK) Expanded Bible (EXB)
-
-1599 Geneva Bible (GNV)
-GOD’S WORD Translation (GW) Good News Translation (GNT) Holman Christian Standard Bible (HCSB) International Children’s Bible (ICB) International Standard Version (ISV) J.B. Phillips New Testament (PHILLIPS) Jubilee Bible 2000 (JUB) King James Version (KJV) Authorized (King James) Version (AKJV) Legacy Standard Bible (LSB) Lexham English Bible (LEB) Living Bible (TLB) The Message (MSG) Modern English Version (MEV) Mounce Reverse Interlinear New Testament (MOUNCE) Names of God Bible (NOG) New American Bible (Revised Edition) (NABRE) New American Standard Bible (NASB) New American Standard Bible 1995 (NASB1995) New Catholic Bible (NCB) New Century Version (NCV) New English Translation (NET Bible) New International Reader's Version (NIRV) New International Version (NIV) New International Version - UK (NIVUK) New King James Version (NKJV) New Life Version (NLV) New Living Translation (NLT) New Matthew Bible (NMB) New Revised Standard Version, Anglicised (NRSVA) New Revised Standard Version, Anglicised Catholic Edition (NRSVACE) New Revised Standard Version Catholic Edition (NRSVCE) New Revised Standard Version Updated Edition (NRSVUE) New Testament for Everyone (NTFE) Orthodox Jewish Bible (OJB) Revised Geneva Translation (RGT) Revised Standard Version (RSV) Revised Standard Version Catholic Edition (RSVCE) Tree of Life Version (TLV) The Voice (VOICE) World English Bible (WEB) Worldwide English (New Testament) (WE) Wycliffe Bible (WYC) Young's Literal Translation (YLT)
- —Español (ES)— La Biblia de las Américas (LBLA) Biblia del Jubileo (JBS) Dios Habla Hoy (DHH) Nueva Biblia de las Américas (NBLA) Nueva Biblia Viva (NBV) Nueva Traducción Viviente (NTV) Nueva Versión Internacional (NVI) Nueva Versión Internacional (Castilian) (CST) Palabra de Dios para Todos (PDT) La Palabra (España) (BLP) La Palabra (Hispanoamérica) (BLPH) Reina Valera Actualizada (RVA-2015) Reina Valera Contemporánea (RVC) Reina-Valera 1960 (RVR1960) Reina Valera Revisada (RVR1977) Reina-Valera 1995 (RVR1995) Reina-Valera Antigua (RVA) Spanish Blue Red and Gold Letter Edition (SRV-BRG) Traducción en lenguaje actual (TLA)
- —Suomi (FI)— Raamattu 1933/38 (R1933)
- —Français (FR)— La Bible du Semeur (BDS) Louis Segond (LSG) Nouvelle Edition de Genève – NEG1979 (NEG1979) Segond 21 (SG21)
- —Κοινη (GRC)—
-
-1550 Stephanus New Testament (TR1550)
-
-1881 Westcott-Hort New Testament (WHNU)
-
-1894 Scrivener New Testament (TR1894)
-SBL Greek New Testament (SBLGNT) Tyndale House Greek New Testament (THGNT)
- —ગુજરાતી (GU)— Gujarati: પવિત્ર બાઈબલ (GERV)
- —עברית (HE)— Habrit Hakhadasha/Haderekh (HHH) The Westminster Leningrad Codex (WLC)
- —हिन्दी (HI)— Hindi Bible: Easy-to-Read Version (ERV-HI) Saral Hindi Bible (SHB)
- —Ilonggo (HIL)— Ang Pulong Sang Dios (HLGN)
- —Chhattisgarhi (HNE)— New Chhattisgarhi Translation (नवां नियम छत्तीसगढ़ी) (NCA)
- —Hrvatski (HR)— Biblija: suvremeni hrvatski prijevod (SHP) Hrvatski Novi Zavjet – Rijeka 2001 (HNZ-RI) Knijga O Kristu (CRO)
- —Kreyòl ayisyen (HT)— Haitian Creole Version (HCV) Nouvo Testaman: Vèsyon Kreyòl Fasil (VKF)
- —Magyar (HU)— Hungarian Károli (KAR) Hungarian Bible: Easy-to-Read Version (ERV-HU) Hungarian New Translation (NT-HU)
- —Hawai‘i Pidgin (HWC)— Hawai‘i Pidgin (HWP)
- —Indonesia, bahasa (ID)— Alkitab Mudah Dibaca (AMD)
- —Íslenska (IS)— Icelandic Bible (ICELAND)
- —Italiano (IT)— La Bibbia della Gioia (BDG) Conferenza Episcopale Italiana (CEI) La Nuova Diodati (LND) Nuova Riveduta 1994 (NR1994) Nuova Riveduta 2006 (NR2006)
- —日本語 (JA)— Japanese Bible: Easy-to-Read Version (JERV) Japanese Living Bible (JLB)
- —Jacalteco, Oriental (JAC)— Jacalteco, Oriental (JAC)
- —Kekchi (KEK)— Kekchi (KEK)
- —ಕನ್ನಡ (KN)— Kannada Holy Bible: Easy-to-Read Version (KERV)
- —한국어 (KO)— Korean Bible: Easy-to-Read Version (KOERV) Korean Living Bible (KLB)
- —Latina (LA)— Biblia Sacra Vulgata (VULGATE)
- —Luganda (LG)— Endagaano Enkadde nʼEndagaano Empya (LCB)
- —Māori (MI)— Maori Bible (MAORI)
- —Македонски (MK)— Macedonian New Testament (MNT)
- —मराठी (MR)— Marathi Bible: Easy-to-Read Version (ERV-MR)
- —Mam, Central (MVC)— Mam, Central (MVC)
- —Mam, Todos Santos (MVJ)— Mam de Todos Santos Chuchumatán (MVJ)
- —Plautdietsch (NDS)— Reimer 2001 (REIMER)
- —नेपाली (NE)— Nepali Bible: Easy-to-Read Version (ERV-NE)
- —Náhuatl de Guerrero (NGU)— Náhuatl de Guerrero (NGU)
- —Nederlands (NL)— BasisBijbel (BB) Het Boek (HTB)
- —Norsk (NO)— Det Norsk Bibelselskap 1930 (DNB1930) En Levende Bok (LB)
- —Chichewa (NY)— Mawu a Mulungu mu Chichewa Chalero (CCL)
- —ଓଡ଼ିଆ (OR)— Odia Holy Bible: Easy-to-Read Version (ERV-OR)
- —ਪੰਜਾਬੀ (PA)— Punjabi Bible: Easy-to-Read Version (ERV-PA)
- —Polski (PL)— Nowe Przymierze (NP) Słowo Życia (SZ-PL) Updated Gdańsk Bible (UBG)
- —Nawat (PPL)— Ne Bibliaj Tik Nawat (NBTN)
- —Português (PT)— Almeida Revista e Corrigida 2009 (ARC) Portuguese New Testament: Easy-to-Read Version (VFL) Nova Traduҫão na Linguagem de Hoje 2000 (NTLH) Nova Versão Transformadora (NVT) Nova Versão Internacional (NVI-PT) O Livro (OL)
- —Quichua (QU)— Mushuj Testamento Diospaj Shimi (MTDS)
- —Quiché, Centro Occidenta (QUT)— Quiché, Centro Occidental (QUT)
- —Română (RO)— Cornilescu 1924 - Revised 2010, 2014 (RMNN) Nouă Traducere În Limba Română (NTLR)
- —Русский (RU)— New Russian Translation (NRT) Священное Писание (Восточный Перевод) (CARS) Священное Писание (Восточный перевод), версия для Таджикистана (CARST) Священное Писание (Восточный перевод), версия с «Аллахом» (CARSA) Russian New Testament: Easy-to-Read Version (ERV-RU) Russian Synodal Version (RUSV)
- —Slovenčina (SK)— Nádej pre kazdého (NPK)
- —Somali (SO)— Somali Bible (SOM)
- —Shqip (SQ)— Albanian Bible (ALB)
- —Српски (SR)— New Serbian Translation (NSP) Serbian New Testament: Easy-to-Read Version (ERV-SR)
- —Svenska (SV)— nuBibeln (Swedish Contemporary Bible) (NUB) Svenska 1917 (SV1917) Svenska Folkbibeln (SFB) Svenska Folkbibeln 2015 (SFB15) Swedish New Living Bible (Nya Levande Bibeln) (SVL)
- —Kiswahili (SW)— Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi (TKU) Neno: Bibilia Takatifu (SNT)
- —தமிழ் (TA)— Tamil Bible: Easy-to-Read Version (ERV-TA)
- —తెలుగు (TE)— Telugu Holy Bible: Easy-to-Read Version (TERV)
- —ภาษาไทย (TH)— New Thai Version (NTV-BIBLE) Thai New Testament: Easy-to-Read Version (ERV-TH) Thai New Contemporary Bible (TNCV)
- —Tagalog (TL)— Ang Bagong Tipan: Filipino Standard Version (FSV) Ang Biblia (1978) (ABTAG1978) Ang Biblia, 2001 (ABTAG2001) Ang Dating Biblia (1905) (ADB1905) Ang Salita ng Diyos (SND) Ang Salita ng Dios (Tagalog Contemporary Bible) (ASND) Magandang Balita Biblia (MBBTAG) Magandang Balita Biblia (with Deuterocanon) (MBBTAG-DC)
- —Twi (TWI)— Nkwa Asem (NA-TWI)
- —Українська (UK)— Ukrainian Bible (UKR) Ukrainian Bible: Easy-to-Read Version (ERV-UK)
- —اردو (UR)— Urdu Bible: Easy-to-Read Version (ERV-UR)
- —Uspanteco (USP)— Uspanteco (USP)
- —Tiêng Viêt (VI)— Bản Dịch 2011 (BD2011) New Vietnamese Bible (NVB) Vietnamese Bible: Easy-to-Read Version (BPT)
- —Yorùbá (YO)— Bíbélì Mímọ́ Yorùbá Òde Òn (BYO)
- —汉语 (ZH)— Chinese Contemporary Bible (Simplified) (CCB) Chinese Contemporary Bible (Traditional) (CCBT) Chinese New Testament: Easy-to-Read Version (ERV-ZH) Chinese New Version (Simplified) (CNVS) Chinese New Version (Traditional) (CNVT) Chinese Standard Bible (Simplified) (CSBS) Chinese Standard Bible (Traditional) (CSBT) Chinese Union Version (Simplified) (CUVS) Chinese Union Version (Traditional) (CUV) Chinese Union Version Modern Punctuation (Simplified) (CUVMPS) Chinese Union Version Modern Punctuation (Traditional) (CUVMPT) Revised Chinese Union Version (Simplified Script) Shen Edition (RCU17SS) Revised Chinese Union Version (Traditional Script) Shen Edition (RCU17TS) —AMU— AMU
- —AR— ERV-AR NAV
- —AWA— ERV-AWA
- —BG— BG1940 BULG ERV-BG CBT BOB BPB
- —BN— BERV
- —CCO— CCO
- —CEB— APSD-CEB
- —CHR— CHR
- —CKB— KSS
- —CKW— CKW
- —CS— B21 SNC
- —CY— BWM
- —DA— BPH DN1933
- —DE— HOF LUTH1545 NGU-DE SCH1951 SCH2000
- —EN— KJ21 ASV AMP AMPC BRG CSB CSBA CEB CJB CEV DARBY DLNT DRA ERV EASY EHV ESV ESVUK EXB GNV GW GNT HCSB ICB ISV PHILLIPS JUB KJV AKJV LSB LEB TLB MSG MEV MOUNCE NOG NABRE NASB NASB1995 NCB NCV NET NIRV NIV NIVUK NKJV NLV NLT NMB NRSVA NRSVACE NRSVCE NRSVUE NTFE OJB RGT RSV RSVCE TLV VOICE WEB WE WYC YLT
- —ES— LBLA JBS DHH NBLA NBV NTV NVI CST PDT BLP BLPH RVA-2015 RVC RVR1960 RVR1977 RVR1995 RVA SRV-BRG TLA
- —FI— R1933
- —FR— BDS LSG NEG1979 SG21
- —GRC— TR1550 WHNU TR1894 SBLGNT THGNT
- —GU— GERV
- —HE— HHH WLC
- —HI— ERV-HI SHB
- —HIL— HLGN
- —HNE— NCA
- —HR— SHP HNZ-RI CRO
- —HT— HCV VKF
- —HU— KAR ERV-HU NT-HU
- —HWC— HWP
- —ID— AMD
- —IS— ICELAND
- —IT— BDG CEI LND NR1994 NR2006
- —JA— JERV JLB
- —JAC— JAC
- —KEK— KEK
- —KN— KERV
- —KO— KOERV KLB
- —LA— VULGATE
- —LG— LCB
- —MI— MAORI
- —MK— MNT
- —MR— ERV-MR
- —MVC— MVC
- —MVJ— MVJ
- —NDS— REIMER
- —NE— ERV-NE
- —NGU— NGU
- —NL— BB HTB
- —NO— DNB1930 LB
- —NY— CCL
- —OR— ERV-OR
- —PA— ERV-PA
- —PL— NP SZ-PL UBG
- —PPL— NBTN
- —PT— ARC VFL NTLH NVT NVI-PT OL
- —QU— MTDS
- —QUT— QUT
- —RO— RMNN NTLR
- —RU— NRT CARS CARST CARSA ERV-RU RUSV
- —SK— NPK
- —SO— SOM
- —SQ— ALB
- —SR— NSP ERV-SR
- —SV— NUB SV1917 SFB SFB15 SVL
- —SW— TKU SNT
- —TA— ERV-TA
- —TE— TERV
- —TH— NTV-BIBLE ERV-TH TNCV
- —TL— FSV ABTAG1978 ABTAG2001 ADB1905 SND ASND MBBTAG MBBTAG-DC
- —TWI— NA-TWI
- —UK— UKR ERV-UK
- —UR— ERV-UR
- —USP— USP
- —VI— BD2011 NVB BPT
- —YO— BYO
- —ZH— CCB CCBT ERV-ZH CNVS CNVT CSBS CSBT CUVS CUV CUVMPS CUVMPT RCU17SS RCU17TS Update
+### ch1
  1 The Message of Amos, one of the shepherds of Tekoa, that he received on behalf of Israel. It came to him in visions during the time that Uzziah was king of Judah and Jeroboam II son of Joash was king of Israel, two years before the big earthquake.
 
 ### Swallowing the Same Old Lies
-2 The Message:God roars from Zion,    shouts from Jerusalem!The thunderclap voice withers the pastures tended by shepherds,    shrivels Mount Carmel’s proud peak. 3-5 God’s Message:“Because of the three great sins of Damascus    —make that four—I’m not putting up with her any longer.She pounded Gilead to a pulp, pounded her senseless    with iron hammers and mauls.For that, I’m setting the palace of Hazael on fire.    I’m torching Ben-hadad’s forts.I’m going to smash the Damascus gates    and banish the crime king who lives in Sin Valley,    the vice boss who gives orders from Paradise Palace.The people of the land will be sent back    to where they came from—to Kir.”        God’s Decree. 6-8 God’s Message:“Because of the three great sins of Gaza    —make that four—I’m not putting up with her any longer.She deported whole towns    and then sold the people to Edom.For that, I’m burning down the walls of Gaza,    burning up all her forts.I’ll banish the crime king from Ashdod,    the vice boss from Ashkelon.I’ll raise my fist against Ekron,    and what’s left of the Philistines will die.”        God’s Decree. 9-10 God’s Message:“Because of the three great sins of Tyre    —make that four—I’m not putting up with her any longer.She deported whole towns to Edom,    breaking the treaty she had with her kin.For that, I’m burning down the walls of Tyre,    burning up all her forts.” 11-12 God’s Message:“Because of the three great sins of Edom    —make that four—I’m not putting up with her any longer.She hunts down her brother to murder him.    She has no pity, she has no heart.Her anger rampages day and night.    Her meanness never takes a timeout.For that, I’m burning down her capital, Teman,    burning up the forts of Bozrah.” 13-15 God’s Message:“Because of the three great sins of Ammon    —make that four—I’m not putting up with her any longer.She ripped open pregnant women in Gilead    to get more land for herself.For that, I’m burning down the walls of her capital, Rabbah,    burning up her forts.Battle shouts! War whoops!    with a tornado to finish things off!The king has been carted off to exile,    the king and his princes with him.”        God’s Decree.* * * 2 1-3 God’s Message:“Because of the three great sins of Moab    —make that four—I’m not putting up with her any longer.She violated the corpse of Edom’s king,    burning it to cinders.For that, I’m burning down Moab,    burning down the forts of Kerioth.Moab will die in the shouting,    go out in the blare of war trumpets.I’ll remove the king from the center    and kill all his princes with him.”        God’s Decree. 4-5 God’s Message:“Because of the three great sins of Judah    —make that four—I’m not putting up with them any longer.They rejected God’s revelation,    refused to keep my commands.But they swallowed the same old lies    that got their ancestors onto dead-end roads.For that, I’m burning down Judah,    burning down all the forts of Jerusalem.”
+2 The Message:God roars from Zion,    shouts from Jerusalem!The thunderclap voice withers the pastures tended by shepherds,    shrivels Mount Carmel’s proud peak. 3-5 God’s Message:“Because of the three great sins of Damascus    —make that four—I’m not putting up with her any longer.She pounded Gilead to a pulp, pounded her senseless    with iron hammers and mauls.For that, I’m setting the palace of Hazael on fire.    I’m torching Ben-hadad’s forts.I’m going to smash the Damascus gates    and banish the crime king who lives in Sin Valley,    the vice boss who gives orders from Paradise Palace.The people of the land will be sent back    to where they came from—to Kir.”        God’s Decree. 6-8 God’s Message:“Because of the three great sins of Gaza    —make that four—I’m not putting up with her any longer.She deported whole towns    and then sold the people to Edom.For that, I’m burning down the walls of Gaza,    burning up all her forts.I’ll banish the crime king from Ashdod,    the vice boss from Ashkelon.I’ll raise my fist against Ekron,    and what’s left of the Philistines will die.”        God’s Decree. 9-10 God’s Message:“Because of the three great sins of Tyre    —make that four—I’m not putting up with her any longer.She deported whole towns to Edom,    breaking the treaty she had with her kin.For that, I’m burning down the walls of Tyre,    burning up all her forts.” 11-12 God’s Message:“Because of the three great sins of Edom    —make that four—I’m not putting up with her any longer.She hunts down her brother to murder him.    She has no pity, she has no heart.Her anger rampages day and night.    Her meanness never takes a timeout.For that, I’m burning down her capital, Teman,    burning up the forts of Bozrah.” 13-15 God’s Message:“Because of the three great sins of Ammon    —make that four—I’m not putting up with her any longer.She ripped open pregnant women in Gilead    to get more land for herself.For that, I’m burning down the walls of her capital, Rabbah,    burning up her forts.Battle shouts! War whoops!    with a tornado to finish things off!The king has been carted off to exile,    the king and his princes with him.”        God’s Decree. * * *
 
+### ch2
 ### Destroyed from the Roots Up
+2 1-3 God’s Message:“Because of the three great sins of Moab    —make that four—I’m not putting up with her any longer.She violated the corpse of Edom’s king,    burning it to cinders.For that, I’m burning down Moab,    burning down the forts of Kerioth.Moab will die in the shouting,    go out in the blare of war trumpets.I’ll remove the king from the center    and kill all his princes with him.”        God’s Decree. 4-5 God’s Message:“Because of the three great sins of Judah    —make that four—I’m not putting up with them any longer.They rejected God’s revelation,    refused to keep my commands.But they swallowed the same old lies    that got their ancestors onto dead-end roads.For that, I’m burning down Judah,    burning down all the forts of Jerusalem.”
 6-8 God’s Message:“Because of the three great sins of Israel    —make that four—I’m not putting up with them any longer.They buy and sell upstanding people.    People for them are only things—ways of making money.They’d sell a poor man for a pair of shoes.    They’d sell their own grandmother!They grind the penniless into the dirt,    shove the luckless into the ditch.Everyone and his brother sleeps with the ‘sacred whore’—    a sacrilege against my Holy Name.Stuff they’ve extorted from the poor    is piled up at the shrine of their god,While they sit around drinking wine    they’ve conned from their victims.  9-11 “In contrast, I was always on your side.    I destroyed the Amorites who confronted you,Amorites with the stature of great cedars,    tough as thick oaks.I destroyed them from the top branches down.    I destroyed them from the roots up.And yes, I’m the One who delivered you from Egypt,    led you safely through the wilderness for forty yearsAnd then handed you the country of the Amorites    like a piece of cake on a platter.I raised up some of your young men to be prophets,    set aside your best youth for training in holiness.Isn’t this so, Israel?”    God’s Decree.  12-13 “But you made the youth-in-training break training,    and you told the young prophets, ‘Don’t prophesy!’You’re too much for me.    I’m hard-pressed—to the breaking point.I’m like a wagon piled high and overloaded,    creaking and groaning.  14-16 “When I go into action, what will you do?    There’s no place to run no matter how fast you run.The strength of the strong won’t count.    Fighters won’t make it.Skilled archers won’t make it.    Fast runners won’t make it.Chariot drivers won’t make it.    Even the bravest of all your warriorsWon’t make it.    He’ll run off for dear life, stripped naked.”        God’s Decree.
 
+### ch3
 ### The Lion Has Roared
 3 Listen to this, Israel. God is calling you to account—and I mean all of you, everyone connected with the family that he delivered out of Egypt. Listen! 2 “Out of all the families on earth,    I picked you.Therefore, because of your special calling,    I’m holding you responsible for all your sins.”  3-7 Do two people walk hand in hand    if they aren’t going to the same place?Does a lion roar in the forest    if there’s no carcass to devour?Does a young lion growl with pleasure    if he hasn’t caught his supper?Does a bird fall to the ground    if it hasn’t been hit with a stone?Does a trap spring shut    if nothing trips it?When the alarm goes off in the city,    aren’t people alarmed?And when disaster strikes the city,    doesn’t God stand behind it?The fact is, God, the Master, does nothing    without first telling his prophets the whole story.  8 The lion has roared—    who isn’t frightened?God has spoken—    what prophet can keep quiet?* * * 9-11 Announce to the forts of Assyria,    announce to the forts of Egypt—Tell them, “Gather on the Samaritan mountains, take a good, hard look:    what a snake pit of brutality and terror!They can’t—or won’t—do one thing right.” God said so.    “They stockpile violence and blight.Therefore”—this is God’s Word—“an enemy will surround the country.    He’ll strip you of your power and plunder your forts.” 12 God’s Message:“In the same way that a shepherd    trying to save a lamb from a lionManages to recover    just a pair of legs or the scrap of an ear,So will little be saved of the Israelites    who live in Samaria—A couple of old chairs at most,    the broken leg of a table.  13-15 “Listen and bring witness against Jacob’s family”—    this is God’s Word, God-of-the-Angel-Armies!“Note well! The day I make Israel pay for its sins,    pay for the sin-altars of worship at Bethel,The horned altars will all be dehorned    and scattered around.I’ll tear down the winter palace,    smash the summer palace—all your fancy buildings.The luxury homes will be demolished,    all those pretentious houses.”        God’s Decree.
 
+### ch4
 ### You Never Got Hungry for God
 4 “Listen to this, you cows of Bashan    grazing on the slopes of Samaria.You women! Mean to the poor,    cruel to the down-and-out!Indolent and pampered, you demand of your husbands,    ‘Bring us a tall, cool drink!’  2-3 “This is serious—I, God, have sworn by my holiness!    Be well warned: Judgment Day is coming!They’re going to rope you up and haul you off,    keep the stragglers in line with cattle prods.They’ll drag you through the ruined city walls,    forcing you out single file,And kick you to kingdom come.”    God’s Decree.  4-5 “Come along to Bethel and sin!    And then to Gilgal and sin some more!Bring your sacrifices for morning worship.    Every third day bring your tithe.Burn pure sacrifices—thank offerings.    Speak up—announce freewill offerings!That’s the sort of religious show    you Israelites just love.”        God’s Decree.  6 “You know, don’t you, that I’m the One    who emptied your pantries and cleaned out your cupboards,Who left you hungry and standing in bread lines?    But you never got hungry for me. You continued to ignore me.”        God’s Decree.  7-8 “Yes, and I’m the One who stopped the rains    three months short of harvest.I’d make it rain on one village    but not on another.I’d make it rain on one field    but not on another—and that one would dry up.People would stagger from village to village    crazed for water and never quenching their thirst.But you never got thirsty for me.    You ignored me.”        God’s Decree.  9 “I hit your crops with disease    and withered your orchards and gardens.Locusts devoured your olive and fig trees,    but you continued to ignore me.”        God’s Decree.  10 “I revisited you with the old Egyptian plagues,    killed your choice young men and prize horses.The stink of rot in your camps was so strong    that you held your noses—But you didn’t notice me.    You continued to ignore me.”        God’s Decree.  11 “I hit you with earthquake and fire,    left you devastated like Sodom and Gomorrah.You were like a burning stick    snatched from the flames.But you never looked my way.    You continued to ignore me.”        God’s Decree.  12 “All this I have done to you, Israel,    and this is why I have done it.Time’s up, O Israel!    Prepare to meet your God!”  13 Look who’s here: Mountain-Shaper! Wind-Maker!    He laid out the whole plot before Adam.He brings everything out of nothing,    like dawn out of darkness.He strides across the alpine ridges.    His name is God, God-of-the-Angel-Armies.
 
+### ch5
 ### All Show, No Substance
 5 Listen to this, family of Israel,    this Message I’m sending in bold print, this tragic warning:  2 “Virgin Israel has fallen flat on her face.    She’ll never stand up again.She’s been left where she’s fallen.    No one offers to help her up.” 3 This is the Message, God’s Word:“The city that marches out with a thousand    will end up with a hundred.The city that marches out with a hundred    will end up with ten. Oh, family of Israel!” 4-5 God’s Message to the family of Israel:“Seek me and live.    Don’t fool around at those shrines of Bethel,Don’t waste time taking trips to Gilgal,    and don’t bother going down to Beer-sheba.Gilgal is here today and gone tomorrow    and Bethel is all show, no substance.”  6 So seek God and live! You don’t want to end up    with nothing to show for your lifeBut a pile of ashes, a house burned to the ground.    For God will send just such a fire,    and the firefighters will show up too late.
 
@@ -329,63 +31,24 @@ SBL Greek New Testament (SBLGNT) Tyndale House Greek New Testament (THGNT)
 ### Time to Face Hard Reality, Not Fantasy
 18-20 Woe to all of you who want God’s Judgment Day!    Why would you want to see God, want him to come?When God comes, it will be bad news before it’s good news,    the worst of times, not the best of times.Here’s what it’s like: A man runs from a lion    right into the jaws of a bear.A woman goes home after a hard day’s work    and is raped by a neighbor.At God’s coming we face hard reality, not fantasy—    a black cloud with no silver lining.  21-24 “I can’t stand your religious meetings.    I’m fed up with your conferences and conventions.I want nothing to do with your religion projects,    your pretentious slogans and goals.I’m sick of your fund-raising schemes,    your public relations and image making.I’ve had all I can take of your noisy ego-music.    When was the last time you sang to me?Do you know what I want?    I want justice—oceans of it.I want fairness—rivers of it.    That’s what I want. That’s all I want. 25-27 “Didn’t you, dear family of Israel, worship me faithfully for forty years in the wilderness, bringing the sacrifices and offerings I commanded? How is it you’ve stooped to dragging gimcrack statues of your so-called rulers around, hauling the cheap images of all your star-gods here and there? Since you like them so much, you can take them with you when I drive you into exile beyond Damascus.” God’s Message, God-of-the-Angel-Armies.
 
+### ch6
 ### Those Who Live Only for Today
 6 1-2 Woe to you who think you live on easy street in Zion,    who think Mount Samaria is the good life.You assume you’re at the top of the heap,    voted the number-one best place to live.Well, wake up and look around. Get off your pedestal.    Take a look at Calneh.Go and visit Great Hamath.    Look in on Gath of the Philistines.Doesn’t that take you off your high horse?    Compared to them, you’re not much, are you?  3-6 Woe to you who are rushing headlong to disaster!    Catastrophe is just around the corner!Woe to those who live in luxury    and expect everyone else to serve them!Woe to those who live only for today,    indifferent to the fate of others!Woe to the playboys, the playgirls,    who think life is a party held just for them!Woe to those addicted to feeling good—life without pain!    those obsessed with looking good—life without wrinkles!They could not care less    about their country going to ruin.  7 But here’s what’s really coming:    a forced march into exile.They’ll leave the country whining,    a rag-tag bunch of good-for-nothings.
 
 ### You’ve Made a Shambles of Justice
 8 God, the Master, has sworn, and solemnly stands by his Word.    The God-of-the-Angel-Armies speaks: “I hate the arrogance of Jacob.    I have nothing but contempt for his forts.I’m about to hand over the city    and everyone in it.” 9-10 Ten men are in a house, all dead. A relative comes and gets the bodies to prepare them for a decent burial. He discovers a survivor huddled in a closet and asks, “Are there any more?” The answer: “Not a soul. But hush! God must not be mentioned in this desecrated place.” 11 Note well: God issues the orders.    He’ll knock large houses to smithereens.    He’ll smash little houses to bits.  12-13 Do you hold a horse race in a field of rocks?    Do you plow the sea with oxen?You’d cripple the horses    and drown the oxen.And yet you’ve made a shambles of justice,    a bloated corpse of righteousness,Bragging of your trivial pursuits,    beating up on the weak and crowing, “Look what I’ve done!”  14 “Enjoy it while you can, you Israelites.    I’ve got a pagan army on the move against you”    —this is your God speaking, God-of-the-Angel-Armies—“And they’ll make hash of you,    from one end of the country to the other.”
 
+### ch7
 ### To Die Homeless and Friendless
 7 1-2 God, my Master, showed me this vision: He was preparing a locust swarm. The first cutting, which went to the king, was complete, and the second crop was just sprouting. The locusts ate everything green. Not even a blade of grass was left.I called out, “God, my Master! Excuse me, but what’s going to come of Jacob? He’s so small.” 3 God gave in.“It won’t happen,” he said.* * * 4 God showed me this vision: Oh! God, my Master God was calling up a firestorm. It burned up the ocean. Then it burned up the Promised Land. 5 I said, “God, my Master! Hold it—please! What’s going to come of Jacob? He’s so small.” 6 God gave in.“All right, this won’t happen either,” God, my Master, said.* * * 7 God showed me this vision: My Master was standing beside a wall. In his hand he held a plumb line. 8-9 God said to me, “What do you see, Amos?”I said, “A plumb line.”Then my Master said, “Look what I’ve done. I’ve hung a plumb line in the midst of my people Israel. I’ve spared them for the last time. This is it!    “Isaac’s sex-and-religion shrines will be smashed,    Israel’s unholy shrines will be knocked to pieces.    I’m raising my sword against the royal family of Jeroboam.” 10 Amaziah, priest at the shrine at Bethel, sent a message to Jeroboam, king of Israel:“Amos is plotting to get rid of you; and he’s doing it as an insider, working from within Israel. His talk will destroy the country. He’s got to be silenced. Do you know what Amos is saying? 11     ‘Jeroboam will be killed.    Israel is headed for exile.’” 12-13 Then Amaziah confronted Amos: “Seer, be on your way! Get out of here and go back to Judah where you came from! Hang out there. Do your preaching there. But no more preaching at Bethel! Don’t show your face here again. This is the king’s chapel. This is a royal shrine.” 14-15 But Amos stood up to Amaziah: “I never set up to be a preacher, never had plans to be a preacher. I raised cattle and I pruned trees. Then God took me off the farm and said, ‘Go preach to my people Israel.’ 16-17 “So listen to God’s Word. You tell me, ‘Don’t preach to Israel. Don’t say anything against the family of Isaac.’ But here’s what God is telling you:    Your wife will become a whore in town.    Your children will get killed.    Your land will be auctioned off.    You will die homeless and friendless.    And Israel will be hauled off to exile, far from home.”
 
+### ch8
 ### You Who Give Little and Take Much
 8 My Master God showed me this vision: A bowl of fresh fruit. 2 He said, “What do you see, Amos?”I said, “A bowl of fresh, ripe fruit.”God said, “Right. So, I’m calling it quits with my people Israel. I’m no longer acting as if everything is just fine.” 3 “The royal singers will wail when it happens.”    My Master God said so.“Corpses will be strewn here, there, and everywhere.    Hush!”  4-6 Listen to this, you who walk all over the weak,    you who treat poor people as less than nothing,Who say, “When’s my next paycheck coming    so I can go out and live it up?How long till the weekend    when I can go out and have a good time?”Who give little and take much,    and never do an honest day’s work.You exploit the poor, using them—    and then, when they’re used up, you discard them.  7-8 God swears against the arrogance of Jacob:    “I’m keeping track of their every last sin.”God’s oath will shake earth’s foundations,    dissolve the whole world into tears.God’s oath will sweep in like a river that rises,    flooding houses and lands,And then recedes,    leaving behind a sea of mud.  9-10 “On Judgment Day, watch out!”    These are the words of God, my Master.“I’ll turn off the sun at noon.    In the middle of the day the earth will go black.I’ll turn your parties into funerals    and make every song you sing a dirge.Everyone will walk around in rags,    with sunken eyes and bald heads.Think of the worst that could happen    —your only son, say, murdered.That’s a hint of Judgment Day    —that and much more.  11-12 “Oh yes, Judgment Day is coming!”    These are the words of my Master God.“I’ll send a famine through the whole country.    It won’t be food or water that’s lacking, but my Word.People will drift from one end of the country to the other,    roam to the north, wander to the east.They’ll go anywhere, listen to anyone,    hoping to hear God’s Word—but they won’t hear it.  13-14 “On Judgment Day,    lovely young girls will faint of Word-thirst,    robust young men will faint of God-thirst,Along with those who take oaths at the Samaria Sin-and-Sex Center,    saying, ‘As the lord god of Dan is my witness!’    and ‘The lady goddess of Beer-sheba bless you!’Their lives will fall to pieces.    They’ll never put it together again.”
 
+### ch9
 ### Israel Thrown into a Sieve
 9 1-4 I saw my Master standing beside the altar at the shrine. He said:“Hit the tops of the shrine’s pillars,    make the floor shake.The roof’s about to fall on the heads of the people,    and whoever’s still alive, I’ll kill.No one will get away,    no runaways will make it.If they dig their way down into the underworld,    I’ll find them and bring them up.If they climb to the stars,    I’ll find them and bring them down.If they hide out at the top of Mount Carmel,    I’ll find them and bring them back.If they dive to the bottom of the ocean,    I’ll send Dragon to swallow them up.If they’re captured alive by their enemies,    I’ll send Sword to kill them.I’ve made up my mind    to hurt them, not help them.”  5-6 My Master, God-of-the-Angel-Armies,    touches the earth, a mere touch, and it trembles.    The whole world goes into mourning.Earth swells like the Nile at flood stage;    then the water subsides, like the great Nile of Egypt.God builds his palace—towers soaring high in the skies,    foundations set on the rock-firm earth.He calls ocean waters and they come,    then he ladles them out on the earth.        God, your God, does all this.* * * 7-8 “Do you Israelites think you’re any better than the far-off Cushites?” God’s Decree.“Am I not involved with all nations? Didn’t I bring Israel up from Egypt, the Philistines from Caphtor, the Arameans from Qir? But you can be sure that I, God, the Master, have my eye on the Kingdom of Sin. I’m going to wipe it off the face of the earth. Still, I won’t totally destroy the family of Jacob.” God’s Decree. 9-10 “I’m still giving the orders around here. I’m throwing Israel into a sieve among all the nations and shaking them good, shaking out all the sin, all the sinners. No real grain will be lost, but all the sinners will be sifted out and thrown away, the people who say, ‘Nothing bad will ever happen in our lifetime. It won’t even come close.’
 
 ### Blessings Like Wine Pouring off the Mountains
 11-12 “But also on that Judgment Day I will restore David’s house that has fallen to pieces. I’ll repair the holes in the roof, replace the broken windows, fix it up like new. David’s people will be strong again and seize what’s left of enemy Edom, plus everyone else under my sovereign judgment.” God’s Decree. He will do this. 13-15 “Yes indeed, it won’t be long now.” God’s Decree.“Things are going to happen so fast your head will swim, one thing fast on the heels of the other. You won’t be able to keep up. Everything will be happening at once—and everywhere you look, blessings! Blessings like wine pouring off the mountains and hills. I’ll make everything right again for my people Israel:    “They’ll rebuild their ruined cities.    They’ll plant vineyards and drink good wine.    They’ll work their gardens and eat fresh vegetables.    And I’ll plant them, plant them on their own land.    They’ll never again be uprooted from the land I’ve given them.”God, your God, says so.
- Next Joel 3Obadiah 1Next
- dropdown
- The Message (MSG) Copyright © 1993, 2002, 2018 by Eugene H. Peterson
- Bible Gateway RecommendsThe Message Thinline (LeatherLike, Arrow Black), LeatherLike, Arrow BlackRetail: $34.99Our Price: $27.99Save: $7.00 (20%)Buy NowThe Message Compact Bible--soft leather-look, blackRetail: $29.99Our Price: $6.99Save: $23.00 (77%)Buy NowThe Message Women's Devotional Bible--hardcoverRetail: $39.99Our Price: $32.99Save: $7.00 (18%)Buy NowThe Message Thinline, Large Print (LeatherLike, Arrow Saddle Tan), LeatherLike, Arrow Saddle TanRetail: $44.99Our Price: $44.98Save: $0.01 (0%)Buy NowThe Message Deluxe Gift Bible, Brown/Saddle Tan Leather-LookRetail: $24.99Our Price: $16.24Save: $8.75 (35%)Buy NowThe Message, Ministry Edition: The Bible in Contemporary LanguageRetail: $7.99Our Price: $5.19Save: $2.80 (35%)Buy NowView more titles
-
-
-### About
- About News & Knowledge Statement of Faith Mobile App Store Blog Newsroom Support Us
-
-
-### Help
- FAQs Tutorials Use Bible Gateway on Your Site
- Advertise with us
- Contact us
- Privacy policy
- California Privacy Rights
- Do Not Sell My Personal Information
- Cookie settings
- Cookie notice Site: Terms of use Widget: Terms of use
-
-
-### Our Network
- FaithGateway StudyGateway ChurchSource HarperCollins Christian Publishing Grupo Nelson Editorial Vida Thomas Nelson WestBow Press Zondervan MasterLectures
-
-
-### Social
- Facebook Instagram Pinterest TikTok Twitter YouTube
-
-
-### Preferences
- Versión en español
- Preferences
- Sign Up for Bible Gateway: News & Knowledge
- Get weekly Bible news, info, reflections, and deals in your inbox.
- By submitting your email address, you understand that you will receive email communications from Bible Gateway, operated by HarperCollins Christian Publishing, 501 Nelson Pl, Nashville, TN 37214 USA, including commercial communications and messages from partners of Bible Gateway. You may unsubscribe from Bible Gateway’s emails at any time. If you have any questions, please review our Privacy Policy or email us at privacy@biblegateway.com.
-
-
-### Preferences
- Versión en español
- Preferences
- require(['./main.min'], function() { bgLogger.logPageview("/" + "bible/Amos.1-Amos.9/msg", "G003", {}, null, "", 'p'); });
- var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "7735391" }); BG.Consents.onConsent(4).then(function() { var e = document.createElement("script"), n = document.getElementsByTagName("script")[0]; e.async = !0, e.src = "https://sb.scorecardresearch.com/beacon.js", n.parentNode.insertBefore(e, n) });
- ga('send', 'event', 'translation', 'MSG', 'passage'); require(['./main.min'], function() { bgLogger.logCE('passage', null, "Amos.1-Amos.9/msg"); });
