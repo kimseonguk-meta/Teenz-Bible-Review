@@ -1,0 +1,68 @@
+########## LEVITICUS 8 ##########
+EN title: Priest Initiation Ceremony GOES WILD
+KO title: 제사장 위임식이 떴다!
+MSG units: ['1-4', '5', '6-9', '10-12', '13', '14-17', '18-21', '22-29', '30', '31-35', '36']
+EN badges: ['1-3', '4', '5-9', '10-12', '13', '14-18', '19-21', '22-29', '30-31', '32-35', '36']
+KO badges: ['1-3', '4', '5-9', '10-12', '13', '14-18', '19-21', '22-29', '30-31', '32-35', '36']
+==============================================================================================================
+
+----- EN para 0 [1-3] -----
+[MSG 1-4] God spoke to Moses: He said, "Take Aaron and with him his sons, the garments, the anointing oil, the bull for the Absolution-Offering, the two rams, and the basket of unraised bread. Gather the entire congregation at the entrance of the Tent of Meeting." Moses did just as God commanded him and the congregation gathered at the entrance of the Tent of Meeting.
+[EN] Alright, so God hits up Moses and is like, 'Yo, grab your brother Aaron and his sons. Also, get all the special priest outfits, the anointing oil, the bull for the big apology offering, those two rams, and the basket of flatbread. Then, get everyone in the community to pull up to the entrance of the main tent.' So Moses, being the good dude he is, does exactly what God says, and everyone gathers around.
+[KO 1-3] 하나님이 모세한테 말했대. “아론이랑 아들들 데리고 와. 그리고 제사장 옷이랑 기름, 속죄제물로 쓸 소 한 마리, 숫양 두 마리, 빵 바구니도 챙겨. 그리고 모든 사람들을 성막 입구로 모이게 해.” 모세는 하나님이 시킨 대로 했고, 사람들이 다 모인 거임.
+
+----- EN para 1 [4] -----
+[MSG 1-4] God spoke to Moses: He said, "Take Aaron and with him his sons, the garments, the anointing oil, the bull for the Absolution-Offering, the two rams, and the basket of unraised bread. Gather the entire congregation at the entrance of the Tent of Meeting." Moses did just as God commanded him and the congregation gathered at the entrance of the Tent of Meeting.
+  !! numbers possibly missing in EN: ['two']
+[EN] Moses gets everyone's attention and says, 'Aight people, listen up! We're about to do what God told us to do.'
+[KO 4] 모세가 사람들한테 말했어. “지금부터 하나님이 하라고 명령하신 걸 할 거다.”
+
+----- EN para 2 [5-9] -----
+[MSG 5] Moses addressed the congregation: "This is what God has commanded to be done."
+[MSG 6-9] Moses brought Aaron and his sons forward and washed them with water. He put the tunic on Aaron and tied it around him with a sash. Then he put the robe on him and placed the Ephod on him. He fastened the Ephod with a woven belt, making it snug. He put the Breastpiece on him and put the Urim and Thummim in the pouch of the Breastpiece. He placed the turban on his head with the gold plate fixed to the front of it, the holy crown, just as God had commanded Moses.
+[EN] Then Moses brings Aaron and his sons out and gives them a good wash. He gets Aaron dressed in this long shirt thingy, ties a sash around it, and then puts a robe over that. Next up is the Ephod, which is like a special vest, and he tightens it with a cool woven belt so it fits just right. He puts the Breastpiece on him, and inside it, he slides in the Urim and Thummim – these two mysterious objects. To top it all off, he puts a turban on Aaron's head with a gold plate on the front, the holy crown. All of this was exactly what God told Moses to do.
+[KO 5-9] 모세가 아론이랑 아들들을 데려와서 물로 씻겼대. 그리고 아론한테 속옷을 입히고 허리띠를 매주고, 그 위에 겉옷을 입히고 에봇을 걸쳐줬어. 에봇이 딱 맞게 허리띠로 조여주고, 가슴에 흉패를 달아줬는데, 그 안에 우림과 둠밈이라는 걸 넣었대. 머리에는 관을 씌우고 그 앞에 금으로 된 거룩한 패를 달았는데, 전부 하나님이 모세한테 시킨 그대로 한 거래.
+
+----- EN para 3 [10-12] -----
+[MSG 10-12] Then Moses took the anointing oil and anointed The Dwelling and everything that was in it, consecrating them. He sprinkled some of the oil on the Altar seven times, anointing the Altar and all its utensils, the Washbasin and its stand, consecrating them. He poured some of the anointing oil on Aaron's head, anointing him and thus consecrating him.
+[EN] Moses then takes the anointing oil and basically makes the whole tent and everything inside it holy. He sprinkles the oil on the altar seven times, anointing the altar and all its tools, the washbasin, and its stand, making them all sacred. Then, he pours some of the oil on Aaron's head, officially setting him apart for his new role as head priest.
+[KO 10-12] 그리고 모세가 기름을 가져다가 성막이랑 그 안에 있는 모든 것에 발라서 거룩하게 만들었대. 제단 위에는 기름을 일곱 번 뿌리고, 제단이랑 모든 기구, 물두멍이랑 받침대에도 기름을 발라서 거룩하게 했어. 그리고 아론 머리에도 기름을 부어서 거룩하게 구별했대.
+
+----- EN para 4 [13] -----
+[MSG 13] Moses brought Aaron's sons forward and put tunics on them, belted them with sashes, and put caps on them, just as God had commanded Moses.
+[EN] Next, Moses gets Aaron's sons all dressed up. He puts tunics on them, belts them up, and gives them some cool caps to wear, just like God said.
+[KO 13] 모세가 아론 아들들도 데려와서 속옷을 입히고 허리띠를 매주고 모자를 씌워줬는데, 이것도 하나님이 시킨 그대로 한 거임.
+
+----- EN para 5 [14-18] -----
+[MSG 14-17] Moses brought out the bull for the Absolution-Offering. Aaron and his sons placed their hands on its head. Moses slaughtered the bull and purified the Altar by smearing the blood on each of the horns of the Altar with his finger. He poured out the rest of the blood at the base of the Altar. He consecrated it so atonement could be made on it. Moses took all the fat on the entrails and the lobe of liver and the two kidneys with their fat and burned it all on the Altar. The bull with its hide and meat and guts he burned outside the camp, just as God had commanded Moses.
+[MSG 18-21] Moses presented the ram for the Whole-Burnt-Offering. Aaron and his sons laid their hands on the head of the ram. Moses slaughtered it and splashed the blood against all sides of the Altar. He cut the ram up into pieces and then burned the head, the pieces, and the fat. He washed the entrails and the legs with water and then burned the whole ram on the Altar. It was a Whole-Burnt-Offering, a pleasing fragrance—a gift to God, just as God had commanded Moses.
+[EN] Moses then brings out the bull for the 'my bad' offering. Aaron and his sons put their hands on its head, and then Moses slaughters it. He takes some of the blood and smears it on the horns of the altar to make it pure. The rest of the blood he pours out at the bottom of the altar. This whole process makes the altar holy so that people can be forgiven for their sins there. Moses takes all the fat from the bull's insides, the liver, and the two kidneys and burns it all on the altar. But the rest of the bull—the hide, the meat, and the guts—he burns outside the camp, just like God told him to.
+[KO 14-18] 모세가 속죄제물로 바칠 소를 끌고 왔어. 아론이랑 아들들이 그 소 머리에 손을 얹으니까, 모세가 그 소를 잡았대. 그리고 그 피를 손가락으로 찍어서 제단 뿔에 발라서 제단을 깨끗하게 하고, 남은 피는 제단 아래에 쏟았어. 이렇게 제단을 거룩하게 해서 죄를 용서받을 수 있게 한 거래. 모세는 소 내장에 붙은 모든 기름이랑 간, 콩팥 두 개를 떼어서 제단 위에서 불태웠어. 그리고 소의 가죽이랑 고기, 내장은 진영 밖에서 불태웠는데, 이것도 하나님이 시킨 그대로 한 거임.
+
+----- EN para 6 [19-21] -----
+[MSG 18-21] Moses presented the ram for the Whole-Burnt-Offering. Aaron and his sons laid their hands on the head of the ram. Moses slaughtered it and splashed the blood against all sides of the Altar. He cut the ram up into pieces and then burned the head, the pieces, and the fat. He washed the entrails and the legs with water and then burned the whole ram on the Altar. It was a Whole-Burnt-Offering, a pleasing fragrance—a gift to God, just as God had commanded Moses.
+[EN] Then, Moses brings up the first ram for the burnt offering. Aaron and his sons lay their hands on its head, and Moses slaughters it, splashing the blood on all sides of the altar. He cuts the ram into pieces and burns the head, the pieces, and the fat. After washing the insides and the legs, he burns the whole ram on the altar. This was a burnt offering, and it smelled amazing—a gift to God, just as he was told.
+[KO 19-21] 그 다음엔 번제물로 바칠 숫양을 가져왔어. 아론이랑 아들들이 숫양 머리에 손을 얹으니까, 모세가 잡아서 그 피를 제단 사방에 뿌렸대. 그리고 양을 조각내서 머리랑 다른 부위, 기름을 불태웠어. 내장이랑 다리는 물로 씻어서 양 전체를 제단 위에서 불태웠는데, 이게 바로 번제였대. 하나님께 드리는 향기로운 선물이었던 거지. 이것도 하나님이 시킨 그대로 한 거임.
+
+----- EN para 7 [22-29] -----
+[MSG 22-29] Moses then presented the second ram, the ram for the Ordination-Offering. Aaron and his sons laid their hands on the ram's head. Moses slaughtered it and smeared some of its blood on the lobe of Aaron's right ear, on the thumb of his right hand, and on the big toe of his right foot. Then Aaron's sons were brought forward and Moses smeared some of the blood on the lobes of their right ears, on the thumbs of their right hands, and on the big toes of their right feet. Moses threw the remaining blood against each side of the Altar. He took the fat, the fat tail, all the fat that was on the entrails, the lobe of the liver, the two kidneys with their fat, and the right thigh. From the basket of unraised bread that was in the presence of God he took one loaf of the unraised bread made with oil and one wafer. He placed these on the fat portions and the right thigh. He put all this in the hands of Aaron and his sons who waved them before God as a Wave-Offering. Then Moses took it all back from their hands and burned them on the Altar on top of the Whole-Burnt-Offering. These were the Ordination-Offerings, a pleasing fragrance to God, a gift to God. Then Moses took the breast and raised it up as a Wave-Offering before God; it was Moses' portion from the Ordination-Offering ram, just as God had commanded Moses.
+  !! numbers possibly missing in EN: ['two']
+[EN] Next up is the second ram, the one for the ordination ceremony. Aaron and his sons put their hands on its head, and Moses slaughters it. He takes some of its blood and puts it on Aaron's right earlobe, right thumb, and right big toe. He does the same thing for Aaron's sons. The rest of the blood he throws against the sides of the altar. He takes all the fatty parts, the liver, the kidneys, and the right thigh. From the basket of flatbread, he takes one loaf, one cake made with oil, and one wafer, and puts them on top of the fat and the thigh. He puts all of this in the hands of Aaron and his sons, and they wave it before God as a special offering. Then Moses takes it all back and burns it on the altar. This was the ordination offering, and it was a gift that smelled great to God. Moses also takes the breast of the ram and waves it before God; that part was his share, just as God had commanded.
+[KO 22-29] 모세가 두 번째 숫양, 즉 위임식 제물로 쓸 양을 가져왔어. 아론이랑 아들들이 그 양 머리에 손을 얹으니까, 모세가 잡아서 그 피를 아론의 오른쪽 귓불이랑 오른손 엄지, 오른발 엄지에 발랐대. 아론 아들들한테도 똑같이 해줬어. 남은 피는 제단 사방에 뿌렸고. 그리고 양의 기름이랑 꼬리, 내장에 붙은 모든 기름, 간, 콩팥 두 개, 오른쪽 넓적다리를 떼어냈어. 하나님 앞에 있던 빵 바구니에서 빵 한 개, 기름 섞은 빵 한 개, 과자 한 개를 꺼내서 그 기름이랑 넓적다리 위에 올려놨대. 이걸 전부 아론이랑 아들들 손에 쥐어주고 하나님 앞에서 흔들어서 요제로 바치게 했어. 그리고 모세가 그걸 다시 받아서 번제물 위에 올려놓고 제단에서 불태웠는데, 이게 바로 위임식 제물이었고 하나님께 향기로운 선물이었대. 그리고 모세는 그 양의 가슴살을 가져다가 하나님 앞에서 흔들어서 요제로 바쳤는데, 그건 모세의 몫이었대. 이것도 하나님이 시킨 그대로 한 거임.
+
+----- EN para 8 [30-31] -----
+[MSG 30] Moses took some of the anointing oil and some of the blood from the Altar and sprinkled Aaron and his garments, and his sons and their garments, consecrating Aaron and his garments and his sons and their garments.
+[MSG 31-35] Moses spoke to Aaron and his sons: "Boil the meat at the entrance of the Tent of Meeting and eat it there with the bread from the basket of ordination, just as I commanded, saying, 'Aaron and his sons are to eat it.' Burn up the leftovers from the meat and bread. Don't leave through the entrance of the Tent of Meeting for the seven days that will complete your ordination. Your ordination will last seven days. God commanded what has been done this day in order to make atonement for you. Stay at the entrance of the Tent of Meeting day and night for seven days. Be sure to do what God requires, lest you die. This is what I have been commanded."
+  !! numbers possibly missing in EN: ['seven']
+[EN] Moses then takes some of the anointing oil and some of the blood from the altar and sprinkles it on Aaron and his clothes, and on his sons and their clothes. This made them and their priestly garments officially holy.
+[KO 30-31] 모세가 기름이랑 제단 위의 피를 가져다가 아론이랑 그의 옷, 아들들이랑 그들의 옷에 뿌려서 그들과 옷을 거룩하게 했대.
+
+----- EN para 9 [32-35] -----
+[MSG 31-35] Moses spoke to Aaron and his sons: "Boil the meat at the entrance of the Tent of Meeting and eat it there with the bread from the basket of ordination, just as I commanded, saying, 'Aaron and his sons are to eat it.' Burn up the leftovers from the meat and bread. Don't leave through the entrance of the Tent of Meeting for the seven days that will complete your ordination. Your ordination will last seven days. God commanded what has been done this day in order to make atonement for you. Stay at the entrance of the Tent of Meeting day and night for seven days. Be sure to do what God requires, lest you die. This is what I have been commanded."
+[EN] Finally, Moses tells Aaron and his sons, 'Boil the meat at the entrance of the main tent and eat it there with the bread from the ordination basket, just like I told you. Burn any leftovers. And listen, you can't leave the entrance of the tent for seven days. That's how long your ordination takes. What we did today was God's command to make things right for you. So, you gotta stay at the entrance of the tent, day and night, for seven days straight. Make sure you do everything God requires, or you'll die. For real, this is what I was commanded.'
+[KO 32-35] 모세가 아론이랑 아들들한테 말했어. “성막 입구에서 고기를 삶아서 위임식 빵이랑 같이 먹어라. 내가 ‘아론과 그의 아들들이 먹어야 한다’고 명령한 대로 해. 남은 고기랑 빵은 불태워버리고. 그리고 7일 동안은 성막 입구 밖으로 나가지 마. 위임식이 7일 동안 계속될 거거든. 오늘 한 건 너희 죄를 용서해주려고 하나님이 시키신 거야. 7일 동안 밤낮으로 성막 입구에 머물면서 하나님이 시키신 걸 다 지켜야 돼. 안 그러면 죽는다. 진짜 나 이렇게 명령받았음.”
+
+----- EN para 10 [36] -----
+[MSG 36] Aaron and his sons did everything that God had commanded by Moses.
+[EN] And so, Aaron and his sons did everything that God had commanded through Moses.
+[KO 36] 아론이랑 아들들은 모세를 통해 하나님이 명령하신 모든 걸 그대로 다 했대.

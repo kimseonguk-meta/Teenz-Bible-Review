@@ -1,0 +1,51 @@
+########## LEVITICUS 21 ##########
+EN title: The Holiness Code: Rules for God's Crew
+KO title: 거룩 코드: 하나님의 팀을 위한 규칙
+MSG units: ['1-4', '5-6', '7-8', '9', '10-12', '13-15', '16-23', '24']
+EN badges: ['1-4', '5-6', '7-8', '9-10', '11-14', '15-16', '17-23', '24']
+KO badges: ['1-4', '5-6', '7-8', '9-10', '11-14', '15-16', '17-23', '24']
+==============================================================================================================
+
+----- EN para 0 [1-4] -----
+[MSG 1-4] God spoke to Moses: "Speak to the priests, the sons of Aaron. Tell them, A priest must not ritually contaminate himself by touching the dead, except for close relatives: mother, father, son, daughter, brother, or an unmarried sister who is dependent on him since she has no husband; for these he may make himself ritually unclean, but he must not contaminate himself with the dead who are only related to him by marriage and thus profane himself.
+[EN] God hit up Moses and was like, “Yo, tell the priests, Aaron’s sons, the deal. A priest can’t just make himself spiritually unclean by touching a dead body. The only exceptions are your immediate family: your mom, dad, son, daughter, brother, or a sister who isn’t married and still depends on you. For them, it’s okay to get unclean. But for anyone else, like your in-laws? Nah. That just makes you look bad and desecrates your role.
+[KO 1-4] 하나님이 모세한테 말했대. "아론의 아들들인 제사장들한테 가서 전해. 제사장은 시체를 만져서 부정해지면 안 된다고. 딱 가까운 가족은 예외임. 엄마, 아빠, 아들, 딸, 형제, 그리고 결혼 안 해서 자기한테 의지하는 누이. 이런 가족들 때문에 부정해지는 건 괜찮음. 근데 장인, 장모 같은 사람들 때문에 부정해지면 자기를 속되게 만드는 거래.
+
+----- EN para 1 [5-6] -----
+[MSG 5-6] "Priests must not shave their heads or trim their beards or gash their bodies. They must be holy to their God and must not profane the name of their God. Because their job is to present the gifts of God, the food of their God, they are to be holy.
+[EN] “Also, priests can’t be shaving their heads in weird ways, trimming their beards, or cutting their bodies. They have to be holy for their God and not drag God's name through the mud. Because their main gig is presenting God's gifts—God's food—they have to be holy.
+[KO 5-6] "제사장들은 머리를 밀거나 수염을 다듬거나 몸에 상처를 내면 안 된대. 자기 하나님 앞에서 거룩해야 하고, 하나님의 이름을 욕되게 하면 안 된다는 거임. 왜냐면 제사장들은 하나님의 제물, 그러니까 하나님의 음식을 바치는 사람들이니까 거룩해야 한대.
+
+----- EN para 2 [7-8] -----
+[MSG 7-8] "Because a priest is holy to his God he must not marry a woman who has been a harlot or a cult prostitute or a divorced woman. Make sure he is holy because he serves the food of your God. Treat him as holy because I, God, who make you holy, am holy.
+[EN] “Because a priest is set apart for God, he can't marry a woman who's been a prostitute or is divorced. You gotta see him as holy because he serves the food of your God. Treat him as holy because I, God, who make you holy, am holy myself.
+[KO 7-8] "제사장은 자기 하나님한테 거룩한 사람이니까, 창녀였던 여자나 이혼한 여자랑 결혼하면 안 된대. 제사장은 너네 하나님의 음식을 차리는 사람이니까 거룩하게 여겨야 함. 왜냐면 너네를 거룩하게 하는 나, 여호와가 거룩하기 때문이래.
+
+----- EN para 3 [9-10] -----
+[MSG 9] "If a priest's daughter defiles herself in prostitution, she disgraces her father. She must be burned at the stake.
+[MSG 10-12] "The high priest, the one among his brothers who has received the anointing oil poured on his head and been ordained to wear the priestly vestments, must not let his hair go wild and tangled nor wear ragged and torn clothes. He must not enter a room where there is a dead body. He must not ritually contaminate himself, even for his father or mother; and he must neither abandon nor desecrate the Sanctuary of his God because of the dedication of the anointing oil which is upon him. I am God.
+  !! numbers possibly missing in EN: ['one']
+[EN] “And this is super serious: if a priest’s daughter messes up and gets into prostitution, she’s not just disgracing herself, she’s disgracing her father. She has to be burned at the stake. It's that big of a deal.
+[KO 9-10] "만약에 제사장의 딸이 몸을 팔아서 자기를 더럽히면, 그건 자기 아빠를 욕되게 하는 거래. 그래서 그 딸은 불에 태워 죽여야 한대.
+
+----- EN para 4 [11-14] -----
+[MSG 10-12] "The high priest, the one among his brothers who has received the anointing oil poured on his head and been ordained to wear the priestly vestments, must not let his hair go wild and tangled nor wear ragged and torn clothes. He must not enter a room where there is a dead body. He must not ritually contaminate himself, even for his father or mother; and he must neither abandon nor desecrate the Sanctuary of his God because of the dedication of the anointing oil which is upon him. I am God.
+[MSG 13-15] "He is to marry a young virgin, not a widow, not a divorcee, not a cult prostitute—he is only to marry a virgin from his own people. He must not defile his descendants among his people because I am God who makes him holy."
+[EN] “The head priest, the one who got the special oil poured on his head and wears the official gear, has even stricter rules. He can’t let his hair get all messy, and he can’t wear torn clothes. He can't even go into a room with a dead body. He can't make himself unclean, not even for his own mom or dad. He can't just ditch the Sanctuary of his God or treat it like it's nothing, because he's been set apart by the anointing oil. I am God.
+[KO 11-14] "대제사장은 형제들 중에서 머리에 기름 부음을 받고 위임 받아서 그 옷을 입은 사람이잖아? 그 사람은 머리를 풀거나 옷을 찢으면 안 된대. 시체가 있는 방에 들어가서도 안 되고. 심지어 자기 부모님이 돌아가셨을 때도 부정해지면 안 된대. 하나님의 성소를 떠나거나 더럽히면 안 되는 거임. 왜냐면 기름 부음 받아서 구별된 사람이니까. 내가 바로 하나님이래.
+
+----- EN para 5 [15-16] -----
+[MSG 13-15] "He is to marry a young virgin, not a widow, not a divorcee, not a cult prostitute—he is only to marry a virgin from his own people. He must not defile his descendants among his people because I am God who makes him holy."
+[MSG 16-23] God spoke to Moses: "Tell Aaron, None of your descendants, in any generation to come, who has a defect of any kind may present as an offering the food of his God. That means anyone who is blind or lame, disfigured or deformed, crippled in foot or hand, hunchbacked or dwarfed, who has anything wrong with his eyes, who has running sores or damaged testicles. No descendant of Aaron the priest who has any defect is to offer gifts to God; he has a defect and so must not offer the food of his God. He may eat the food of his God, both the most holy and the holy, but because of his defect he must not go near the curtain or approach the Altar. It would desecrate my Sanctuary. I am God who makes them holy."
+[EN] “He has to marry a young virgin. Not a widow, not a divorced woman, not a former prostitute. He has to marry a virgin from his own people. He can’t mess up his family line among his people, because I am the God who makes him holy.”
+[KO 15-16] "대제사장은 처녀랑만 결혼해야 한대. 과부나 이혼한 여자나 창녀였던 여자 말고, 자기 백성 중에서 처녀랑만 결혼해야 함. 자기 백성 사이에서 자기 자손을 더럽히면 안 된대. 왜냐면 자기를 거룩하게 하는 분이 바로 하나님이기 때문임.
+
+----- EN para 6 [17-23] -----
+[MSG 16-23] God spoke to Moses: "Tell Aaron, None of your descendants, in any generation to come, who has a defect of any kind may present as an offering the food of his God. That means anyone who is blind or lame, disfigured or deformed, crippled in foot or hand, hunchbacked or dwarfed, who has anything wrong with his eyes, who has running sores or damaged testicles. No descendant of Aaron the priest who has any defect is to offer gifts to God; he has a defect and so must not offer the food of his God. He may eat the food of his God, both the most holy and the holy, but because of his defect he must not go near the curtain or approach the Altar. It would desecrate my Sanctuary. I am God who makes them holy."
+[EN] Then God said to Moses, “Tell Aaron this: None of your descendants, for all time, who has a disqualifying physical condition can offer up the food of his God. That means anyone who’s blind or has trouble walking, has a facial difference or an injured body part, a damaged foot or hand, a curved back or short stature, an eye condition, painful skin sores, or a genital injury. No descendant of Aaron the priest with such a condition can present gifts to God. Because of his condition, he can't offer the food of his God. He can still eat God's food, both the super holy and the regular holy stuff, but because of his condition, he can't go near the special curtain or the Altar. That would desecrate my Sanctuary. I am the God who makes them holy.”
+[KO 17-23] 하나님이 모세한테 또 말했대. "아론한테 전해라. 네 자손 중에 대대로 몸에 흠이 있는 사람은 자기 하나님의 음식을 바치러 가까이 오면 안 된다고. 눈먼 사람, 다리 저는 사람, 얼굴이 일그러진 사람, 몸이 뒤틀린 사람, 손발이 오그라든 사람, 등 굽은 사람, 키 작은 사람, 눈에 문제 있는 사람, 피부병 있는 사람, 고환이 상한 사람 다 안된대. 아론의 자손 중에 흠이 있는 사람은 하나님께 제물을 바치러 가까이 오면 안 됨. 흠이 있으니까 하나님의 음식을 바치면 안 되는 거래. 근데 하나님의 음식은 먹을 수 있대. 가장 거룩한거든 거룩한거든 다 먹을 수 있음. 근데 흠 때문에 휘장 안으로 들어가거나 제단에 가까이 가면 안 된대. 그러면 내 성소를 더럽히는 거래. 내가 바로 그들을 거룩하게 하는 하나님이래."
+
+----- EN para 7 [24] -----
+[MSG 24] Moses delivered this message to Aaron, his sons, and to all the People of Israel.
+[EN] So Moses told all this to Aaron, his sons, and all the people of Israel.
+[KO 24] 모세가 이 말을 아론과 그의 아들들과 모든 이스라엘 백성들한테 다 전해줬대.

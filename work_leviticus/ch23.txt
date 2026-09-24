@@ -1,0 +1,79 @@
+########## LEVITICUS 23 ##########
+EN title: God's Official Holiday Schedule
+KO title: 하나님의 공식 절기 달력
+MSG units: ['1-2', '3', '4', '5', '6-8', '9-14', '15-21', '22', '23-25', '26-32', '33-36', '37-38', '39-43', '44']
+EN badges: ['1-2', '3', '4', '5', '6-8', '9-14', '15-21', '22', '23-25', '26-32', '33-36', '37-38', '39-43', '43-44']
+KO badges: ['1-2', '3', '4', '5', '6-8', '9-14', '15-21', '22', '23-25', '26-32', '33-36', '37-38', '39-43', '43-44']
+==============================================================================================================
+
+----- EN para 0 [1-2] -----
+[MSG 1-2] God spoke to Moses: "Tell the People of Israel, These are my appointed feasts, the appointed feasts of God which you are to decree as sacred assemblies.
+[EN] God hit up Moses and said, "Yo, tell the people of Israel, these are my official holidays, the ones you gotta announce as special holy meetups.
+[KO 1-2] 하나님이 모세한테 말했대. "이스라엘 백성들한테 전해. 이건 내가 정한 공식 축제일이니까, 다들 모여서 거룩하게 지켜야 하는 날이라고 선포해.
+
+----- EN para 1 [3] -----
+[MSG 3] "Work six days. The seventh day is a Sabbath, a day of total and complete rest, a sacred assembly. Don't do any work. Wherever you live, it is a Sabbath to God.
+[EN] Work for six days, but the seventh day is the Sabbath. That means total and complete rest, a holy get-together. Don't do any work. Wherever you're living, it's a Sabbath for God.
+[KO 3] 6일 동안은 일하고, 7일째 되는 날은 안식일이야. 그냥 완전 쉬는 날, ㅇㅋ? 거룩한 모임도 하고. 아무 일도 하지 마. 너네가 어디에 살든지, 이건 하나님을 위한 안식일임.
+
+----- EN para 2 [4] -----
+[MSG 4] "These are the appointed feasts of God, the sacred assemblies which you are to announce at the times set for them:
+[EN] So here's the list of God's official holidays, the sacred meetups you need to schedule at the right times:
+[KO 4] 이게 바로 하나님이 정한 축제일, 너네가 딱 정해진 때에 알려야 할 거룩한 모임들 리스트야.
+
+----- EN para 3 [5] -----
+[MSG 5] "God's Passover, beginning at sundown on the fourteenth day of the first month.
+[EN] First up, God's Passover. It starts at sundown on the fourteenth day of the first month.
+[KO 5] 먼저, 하나님의 유월절. 첫째 달 14일 해질녘에 시작함.
+
+----- EN para 4 [6-8] -----
+[MSG 6-8] "God's Feast of Unraised Bread, on the fifteenth day of this same month. You are to eat unraised bread for seven days. Hold a sacred assembly on the first day; don't do any regular work. Offer Fire-Gifts to God for seven days. On the seventh day hold a sacred assembly; don't do any regular work."
+[EN] Then comes God's Feast of Unraised Bread, on the fifteenth day of the same month. For seven days, you're only eating bread made without yeast. The first day is a holy meetup; no regular work. You'll give special fire-gifts to God for seven days. On the seventh day, have another holy meetup and, again, no regular work."
+[KO 6-8] 그리고 바로 다음 날인 15일에는 하나님의 무교절. 7일 동안 누룩 안 넣은 빵만 먹는 거임. 첫날에는 다 같이 모여서 거룩한 시간을 보내고, 평소 하던 일은 하면 안 돼. 7일 동안 하나님한테 불로 태우는 제물을 바치고. 7일째 되는 날에도 다 같이 모여서 거룩한 시간을 보내고, 역시나 일은 노노."
+
+----- EN para 5 [9-14] -----
+[MSG 9-14] God spoke to Moses: "Tell the People of Israel, When you arrive at the land that I am giving you and reap its harvest, bring to the priest a sheaf of the first grain that you harvest. He will wave the sheaf before God for acceptance on your behalf; on the morning after Sabbath, the priest will wave it. On the same day that you wave the sheaf, offer a year-old male lamb without defect for a Whole-Burnt-Offering to God and with it the Grain-Offering of four quarts of fine flour mixed with oil—a Fire-Gift to God, a pleasing fragrance—and also a Drink-Offering of a quart of wine. Don't eat any bread or roasted or fresh grain until you have presented this offering to your God. This is a perpetual decree for all your generations to come, wherever you live.
+[EN] God spoke to Moses again: "Tell the Israelites, when you get to the land I'm giving you and you harvest your crops, bring the priest a bundle of the very first grain you harvest. He'll wave it in front of God so He'll accept it on your behalf. The priest will do this the morning after the Sabbath. On that same day, you'll offer a perfect one-year-old male lamb as a big burnt offering to God. With it, you'll give a grain offering of four quarts of fine flour mixed with oil—a fire-gift for God that smells amazing—and also a drink offering of a quart of wine. Don't eat any bread, or roasted or fresh grain until you've given this offering to your God. This is a rule that lasts forever for all your future generations, no matter where you live.
+[KO 9-14] 하나님이 또 모세한테 말했대. "이스라엘 백성들한테 전해. 내가 주는 땅에 들어가서 곡식을 거두면, 그 첫 수확물 한 단을 제사장한테 가져가. 제사장은 너네를 기쁘게 받으시도록 그걸 하나님 앞에서 흔들어 줄 거야. 안식일 다음 날 아침에 흔들 거임. 그날 너네는 흠 없는 1년 된 수컷 어린 양을 통째로 태워서 하나님께 번제물로 바쳐야 해. 그리고 고운 가루 10분의 2에바에 기름을 섞은 곡식 제물도 같이 바쳐. 이건 불로 태워 하나님께 드리는 건데, 향기가 진짜 좋음. 그리고 포도주 4분의 1힌을 부어서 드리는 제물도 같이. 너네 하나님께 이 예물을 바치기 전까지는 빵이든 볶은 곡식이든 생곡식이든 아무것도 먹지 마. 이건 너네가 어디에 살든지 대대로 영원히 지켜야 할 규칙임.
+
+----- EN para 6 [15-21] -----
+[MSG 15-21] "Count seven full weeks from the morning after the Sabbath when you brought the sheaf as a Wave-Offering, fifty days until the morning of the seventh Sabbath. Then present a new Grain-Offering to God. Bring from wherever you are living two loaves of bread made from four quarts of fine flour and baked with yeast as a Wave-Offering of the first ripe grain to God. In addition to the bread, offer seven yearling male lambs without defect, plus one bull and two rams. They will be a Whole-Burnt-Offering to God together with their Grain-Offerings and Drink-Offerings—offered as Fire-Gifts, a pleasing fragrance to God. Offer one male goat for an Absolution-Offering and two yearling lambs for a Peace-Offering. The priest will wave the two lambs before God as a Wave-Offering, together with the bread of the first ripe grain. They are sacred offerings to God for the priest. Proclaim the day as a sacred assembly. Don't do any ordinary work. It is a perpetual decree wherever you live down through your generations.
+[EN] Next, you're gonna count seven full weeks from the morning after the Sabbath when you brought the grain bundle as a wave offering. That's fifty days until the morning of the seventh Sabbath. Then, you'll present a new grain offering to God. From wherever you live, bring two loaves of bread made from four quarts of fine flour, baked with yeast, as a wave offering of the first ripe grain for God. Along with the bread, offer seven perfect yearling male lambs, one bull, and two rams. They'll be a huge burnt offering to God, along with their grain and drink offerings—fire-gifts that smell awesome to God. Also, offer one male goat to say you're sorry for your sins and two yearling lambs as a peace offering. The priest will wave the two lambs before God as a wave offering, along with the bread from the first ripe grain. They are holy offerings to God that belong to the priest. Announce that day as a holy meetup. No regular work. This is a forever rule wherever you live, for all your generations.
+[KO 15-21] 그리고 너네가 흔들어 바치는 제물로 곡식 단을 가져온 안식일 다음 날부터 7주를 꽉 채워서 세. 그러니까 일곱 번째 안식일 다음 날까지 50일을 세는 거지. 그런 다음에 하나님께 새로운 곡식 제물을 바쳐. 너네가 사는 곳에서 고운 가루 10분의 2에바로 만든 빵 두 개를 가져와. 누룩을 넣어서 구운 건데, 첫 수확물로 하나님께 흔들어 바치는 제물이야. 그 빵이랑 같이 흠 없는 1년 된 어린 양 일곱 마리, 어린 수소 한 마리, 숫양 두 마리를 바쳐. 이건 번제물로, 곡식 제물이랑 부어 드리는 제물이랑 같이 하나님께 드리는 거야. 불로 태워 드리는 거고, 향기가 대박임. 숫염소 한 마리는 속죄 제물로, 1년 된 어린 양 두 마리는 화목 제물로 바쳐. 제사장은 그 두 어린 양을 첫 수확물로 만든 빵이랑 같이 하나님 앞에서 흔들어 바칠 거야. 이건 하나님께 드리는 거룩한 제물이고, 제사장 몫이 됨. 그날은 다 같이 모이는 거룩한 날이라고 선포하고, 평소 하던 일은 하지 마. 이건 너네가 어디에 살든지 대대로 지켜야 할 영원한 규칙임.
+
+----- EN para 7 [22] -----
+[MSG 22] "When you reap the harvest of your land, don't reap the corners of your field or gather the gleanings. Leave them for the poor and the foreigners. I am God, your God."
+[EN] And when you're harvesting your land, don't be greedy and harvest every last bit. Leave the corners of your field and any dropped stalks for the poor and for foreigners. I am God, your God."
+[KO 22] 너네 땅에서 곡식을 거둘 때, 밭 구석까지 싹 다 거두지 말고, 떨어진 이삭도 줍지 마. 가난한 사람들이랑 외국인들을 위해 남겨 둬. 나는 너네 하나님, 여호와야."
+
+----- EN para 8 [23-25] -----
+[MSG 23-25] God said to Moses: "Tell the People of Israel, On the first day of the seventh month, set aside a day of rest, a sacred assembly—mark it with loud blasts on the ram's horn. Don't do any ordinary work. Offer a Fire-Gift to God."
+[EN] God then said to Moses: "Tell the people of Israel, on the first day of the seventh month, you're to have a day of rest, a holy meetup—you'll mark it with loud blasts from a ram's horn. Don't do any regular work. Just offer a fire-gift to God."
+[KO 23-25] 하나님이 모세한테 말했대. "이스라엘 백성들한테 전해. 일곱째 달 첫째 날은 쉬는 날로 정하고, 다 같이 모여 거룩한 시간을 보내. 숫양 뿔나팔을 크게 불어서 기념하고. 평소 하던 일은 하지 말고, 하나님께 불로 태우는 제물을 바쳐."
+
+----- EN para 9 [26-32] -----
+[MSG 26-32] God said to Moses: "The tenth day of the seventh month is the Day of Atonement. Hold a sacred assembly, fast, and offer a Fire-Gift to God. Don't work on that day because it is a day of atonement to make atonement for you before your God. Anyone who doesn't fast on that day must be cut off from his people. I will destroy from among his people anyone who works on that day. Don't do any work that day—none. This is a perpetual decree for all the generations to come, wherever you happen to be living. It is a Sabbath of complete and total rest, a fast day. Observe your Sabbath from the evening of the ninth day of the month until the following evening."
+[EN] God also said to Moses: "The tenth day of the seventh month is the Day of Atonement. You'll have a holy meetup, you'll fast, and you'll offer a fire-gift to God. Don't work at all that day because it's the day when things are made right for you before your God. Anyone who doesn't fast on that day gets cut off from the community. And I'll personally get rid of anyone who works on that day. So, no work. None. This is a forever rule for all your generations, wherever you end up living. It's a Sabbath of complete and total rest, a day of fasting. You'll observe your Sabbath from the evening of the ninth day of the month until the next evening."
+[KO 26-32] 하나님이 또 모세한테 말했대. "일곱째 달 열흘째 되는 날은 속죄일이야. 다 같이 모여 거룩한 시간을 보내고, 금식하면서 하나님께 불로 태우는 제물을 바쳐. 그날은 절대 일하면 안 돼. 왜냐면 너네 하나님 앞에서 너네 죄를 속죄하는 날이거든. 그날 금식 안 하는 사람은 백성 중에서 끊어질 거임. 그날 일하는 사람은 내가 직접 그 백성 중에서 없애 버릴 거야. 그러니까 아무 일도 하지 마. 하나도. 이건 너네가 어디에 살든지 대대로 영원히 지켜야 할 규칙이야. 이건 완전한 안식일이고, 금식하는 날이야. 너네는 그 달 9일 저녁부터 다음 날 저녁까지 안식일을 지켜야 해."
+
+----- EN para 10 [33-36] -----
+[MSG 33-36] God said to Moses: "Tell the People of Israel, God's Feast of Booths begins on the fifteenth day of the seventh month. It lasts seven days. The first day is a sacred assembly; don't do any ordinary work. Offer Fire-Gifts to God for seven days. On the eighth day hold a sacred assembly and offer a gift to God. It is a solemn convocation. Don't do any ordinary work.
+[EN] God said to Moses: "Tell the Israelites, God's Feast of Booths kicks off on the fifteenth day of the seventh month. It goes for seven days. The first day is a holy meetup; no regular work. You'll offer fire-gifts to God for seven days. On the eighth day, have another holy meetup and offer a gift to God. It's a big, serious gathering. No regular work.
+[KO 33-36] 하나님이 모세한테 말했대. "이스라엘 백성들한테 전해. 일곱째 달 15일부터는 하나님의 초막절이 시작돼. 7일 동안 계속되는 거야. 첫날은 다 같이 모이는 거룩한 날이니까, 평소 하던 일은 하지 마. 7일 동안 하나님께 불로 태우는 제물을 바치고. 8일째 되는 날에도 다 같이 모여 거룩한 시간을 보내고 하나님께 선물을 드려. 이건 완전 중요한 모임이니까, 평소 하던 일은 하지 마.
+
+----- EN para 11 [37-38] -----
+[MSG 37-38] "These are the appointed feasts of God which you will decree as sacred assemblies for presenting Fire-Gifts to God: the Whole-Burnt-Offerings, Grain-Offerings, sacrifices, and Drink-Offerings assigned to each day. These are in addition to offerings for God's Sabbaths and also in addition to other gifts connected with whatever you have vowed and all the Freewill-Offerings you give to God.
+[EN] So, these are God's official holidays that you'll announce as holy meetups for giving fire-gifts to God: the big burnt offerings, grain offerings, sacrifices, and drink offerings for each specific day. These are on top of the offerings for God's Sabbaths and any other gifts you've promised or just feel like giving to God.
+[KO 37-38] 이게 바로 너네가 거룩한 모임으로 선포해서 하나님께 불로 태우는 제물을 바쳐야 할 하나님의 축제일들이야. 날마다 정해진 번제물, 곡식 제물, 희생 제물, 부어 드리는 제물을 바쳐야 해. 이건 하나님의 안식일에 드리는 제물 외에, 너네가 서원해서 드리는 모든 예물과 자원해서 드리는 모든 예물 외에 추가로 드리는 거임.
+
+----- EN para 12 [39-43] -----
+[MSG 39-43] "So, summing up: On the fifteenth day of the seventh month, after you have brought your crops in from your fields, celebrate the Feast of God for seven days. The first day is a complete rest and the eighth day is a complete rest. On the first day, pick the best fruit from the best trees; take fronds of palm trees and branches of leafy trees and from willows by the brook and celebrate in the presence of your God for seven days—yes, for seven full days celebrate it as a festival to God. Every year from now on, celebrate it in the seventh month. Live in booths for seven days—every son and daughter of Israel is to move into booths so that your descendants will know that I made the People of Israel live in booths when I brought them out of the land of Egypt. I am God, your God."
+[EN] So, to sum it up: On the fifteenth day of the seventh month, after you've gathered all your crops, you'll celebrate the Feast of God for seven days. The first day is a total chill day, and the eighth day is also a total chill day. On the first day, grab the best fruit from the best trees, get some palm fronds, branches from leafy trees, and willows from the creek, and just celebrate with your God for seven days—yep, a full seven-day festival for God. Every year from now on, celebrate it in the seventh month. You'll live in little huts or booths for seven days—every single person in Israel is to move into these booths. This is so your kids and their kids will know that I had the people of Israel live in booths when I brought them out of Egypt. I am God, your God."
+[KO 39-43] 자, 정리하자면: 일곱째 달 15일에 너네 밭에서 곡식을 다 거둔 후에, 7일 동안 하나님의 축제를 지켜. 첫날은 완전 쉬는 날이고, 8일째 되는 날도 완전 쉬는 날이야. 첫날에는 제일 좋은 나무에서 제일 좋은 열매를 따고, 종려나무 가지랑 잎이 무성한 나뭇가지랑 시냇가의 버드나무 가지를 가져와서 너네 하나님 앞에서 7일 동안 축제를 즐겨. 그래, 7일 내내 하나님을 위한 축제로 지키는 거임. 이제부터 매년 일곱째 달에 이 축제를 지켜. 7일 동안 초막(임시 오두막)에서 살아. 이스라엘의 모든 아들딸들은 다 초막으로 들어가서 살아야 해. 그래야 너네 후손들이 내가 이스라엘 백성을 이집트 땅에서 데리고 나왔을 때 초막에서 살게 했다는 걸 알게 될 거 아냐. 나는 너네 하나님, 여호와야."
+
+----- EN para 13 [43-44] -----
+[MSG 39-43] "So, summing up: On the fifteenth day of the seventh month, after you have brought your crops in from your fields, celebrate the Feast of God for seven days. The first day is a complete rest and the eighth day is a complete rest. On the first day, pick the best fruit from the best trees; take fronds of palm trees and branches of leafy trees and from willows by the brook and celebrate in the presence of your God for seven days—yes, for seven full days celebrate it as a festival to God. Every year from now on, celebrate it in the seventh month. Live in booths for seven days—every son and daughter of Israel is to move into booths so that your descendants will know that I made the People of Israel live in booths when I brought them out of the land of Egypt. I am God, your God."
+  !! numbers possibly missing in EN: ['seven', 'seventh']
+[MSG 44] Moses posted the calendar for the annual appointed feasts of God which Israel was to celebrate.
+[EN] Moses then posted the calendar for all of God's official holidays that Israel was supposed to celebrate.
+[KO 43-44] 모세는 이스라엘 백성이 지켜야 할 하나님의 연간 축제일 달력을 공지했대.

@@ -1,0 +1,51 @@
+########## LEVITICUS 9 ##########
+EN title: God's Glory Unleashed! Fire from Heaven!
+KO title: 하늘에서 내려온 불: 하나님의 영광
+MSG units: ['1-2', '3-4', '5-6', '7', '8-11', '12-14', '15-21', '22-24']
+EN badges: ['1-2', '3-5', '6-7', '8-9', '10-12', '13-14', '15-20', '21-24']
+KO badges: ['1-2', '3-5', '6-7', '8-9', '10-12', '13-14', '15-20', '21-24']
+==============================================================================================================
+
+----- EN para 0 [1-2] -----
+[MSG 1-2] On the eighth day, Moses called in Aaron and his sons and the leaders of Israel. He spoke to Aaron: "Take a bull-calf for your Absolution-Offering and a ram for your Whole-Burnt-Offering, both without defect, and offer them to God.
+[EN] Alright, so on day eight, Moses gets Aaron, his sons, and all the top leaders of Israel together. He tells Aaron, "Yo, grab a young bull for a sin offering and a ram for a burnt offering. Make sure they're perfect, no flaws, and offer them up to God."
+[KO 1-2] 자, 8일째 되는 날, 모세가 아론이랑 아들들, 그리고 이스라엘 리더들을 다 불렀어. 아론한테 말했지. "야, 너 속죄제물로 쓸 송아지 한 마리랑, 번제물로 쓸 숫양 한 마리 가져와. 둘 다 흠 없는 걸로. 그리고 하나님께 바쳐."
+
+----- EN para 1 [3-5] -----
+[MSG 3-4] "Then tell the People of Israel, Take a male goat for an Absolution-Offering and a calf and a lamb, both yearlings without defect, for a Whole-Burnt-Offering and a bull and a ram for a Peace-Offering, to be sacrificed before God with a Grain-Offering mixed with oil, because God will appear to you today."
+[MSG 5-6] They brought the things that Moses had ordered to the Tent of Meeting. The whole congregation came near and stood before God. Moses said, "This is what God commanded you to do so that the Shining Glory of God will appear to you."
+[EN] "Then, tell everyone else in Israel to get a male goat for their sin offering, a calf and a lamb (both a year old and perfect) for a burnt offering, and a bull and a ram for a peace offering. They need to sacrifice these to God with a grain offering mixed with oil. Why? Because God's gonna show up for you all today. It's gonna be epic."
+[KO 3-5] "그런 다음에 이스라엘 백성들한테는 속죄제물로 숫염소 한 마리, 번제물로 1년 된 흠 없는 송아지랑 어린 양, 그리고 화목제물로 소랑 숫양을 가져오라고 해. 기름 섞은 곡식제물이랑 같이 하나님 앞에 제사 지내라고. 왜냐면 오늘 하나님이 너네한테 나타나실 거거든. 놀라운 거겠지?"
+
+----- EN para 2 [6-7] -----
+[MSG 5-6] They brought the things that Moses had ordered to the Tent of Meeting. The whole congregation came near and stood before God. Moses said, "This is what God commanded you to do so that the Shining Glory of God will appear to you."
+[MSG 7] Moses instructed Aaron, "Approach the Altar and sacrifice your Absolution-Offering and your Whole-Burnt-Offering. Make atonement for yourself and for the people. Sacrifice the offering that is for the people and make atonement for them, just as God commanded."
+[EN] So, they brought everything Moses ordered to the main tent. The whole crew gathered around and stood there before God. Moses was like, "This is what God told you to do, so you can see His awesome glory appear right before your eyes."
+[KO 6-7] 그래서 사람들이 모세가 시킨 대로 제물들을 회막 앞으로 다 가져왔어. 온 백성이 가까이 와서 하나님 앞에 섰지. 모세가 말했어. "이거 하나님이 너네한테 하라고 명령하신 거야. 그래야 하나님의 빛나는 영광이 너네한테 나타날 거임."
+
+----- EN para 3 [8-9] -----
+[MSG 8-11] Aaron approached the Altar and slaughtered the calf as an Absolution-Offering for himself. Aaron's sons brought the blood to him. He dipped his finger in the blood and smeared some of it on the horns of the Altar. He poured out the rest of the blood at the base of the Altar. He burned the fat, the kidneys, and the lobe of the liver from the Absolution-Offering on the Altar, just as God had commanded Moses. He burned the meat and the skin outside the camp.
+[EN] Moses then tells Aaron, "Step up to the altar. Do your sin offering and your burnt offering. This is to make things right for you and for everyone else. Then, do the offering for the people to make things right for them, exactly like God said."
+[KO 8-9] 모세가 아론한테 지시했어. "제단으로 가서 네 속죄제랑 번제를 드려. 너 자신이랑 백성을 위해서 죄를 씻는 거야. 그리고 백성을 위한 제물을 바쳐서 그들을 위한 속죄를 해. 하나님이 명령하신 그대로."
+
+----- EN para 4 [10-12] -----
+[MSG 8-11] Aaron approached the Altar and slaughtered the calf as an Absolution-Offering for himself. Aaron's sons brought the blood to him. He dipped his finger in the blood and smeared some of it on the horns of the Altar. He poured out the rest of the blood at the base of the Altar. He burned the fat, the kidneys, and the lobe of the liver from the Absolution-Offering on the Altar, just as God had commanded Moses. He burned the meat and the skin outside the camp.
+[MSG 12-14] Then he slaughtered the Whole-Burnt-Offering. Aaron's sons handed him the blood and he threw it against each side of the Altar. They handed him the pieces and the head and he burned these on the Altar. He washed the entrails and the legs and burned them on top of the Whole-Burnt-Offering on the Altar.
+[EN] Aaron walked up to the altar and sacrificed the calf for his own sin offering. His sons brought him the blood, and he dipped his finger in it and put some on the corners of the altar. He poured the rest of the blood at the bottom of the altar. Then he burned the fat, the kidneys, and part of the liver on the altar, just like God told Moses. The meat and the skin? He burned those outside the camp.
+[KO 10-12] 아론이 제단으로 가서 자기를 위한 속죄제물인 송아지를 잡았어. 아론의 아들들이 피를 가져오니까, 아론이 손가락으로 피를 찍어서 제단 뿔에 발랐대. 남은 피는 제단 밑에 쏟아부었고. 속죄제물의 기름이랑 콩팥, 간 꺼풀은 제단 위에서 불태웠어. 하나님이 모세한테 명령한 그대로 한 거지. 고기랑 가죽은 진영 밖에서 태웠고.
+
+----- EN para 5 [13-14] -----
+[MSG 12-14] Then he slaughtered the Whole-Burnt-Offering. Aaron's sons handed him the blood and he threw it against each side of the Altar. They handed him the pieces and the head and he burned these on the Altar. He washed the entrails and the legs and burned them on top of the Whole-Burnt-Offering on the Altar.
+[EN] Next up, he sacrificed the burnt offering. Aaron's sons handed him the blood, and he splashed it on all sides of the altar. They gave him the pieces and the head, and he burned them on the altar too. He washed the guts and the legs and burned them on top of the burnt offering.
+[KO 13-14] 그 다음엔 번제물을 잡았어. 아론의 아들들이 피를 건네주니까 제단 사방에 뿌렸대. 아들들이 각 뜬 고기랑 머리를 주니까 그것도 제단 위에서 불태웠어. 내장이랑 다리는 씻어서 제단 위 번제물 위에 올려놓고 태웠지.
+
+----- EN para 6 [15-20] -----
+[MSG 15-21] Next Aaron presented the offerings of the people. He took the male goat, the Absolution-Offering for the people, slaughtered it, and offered it as an Absolution-Offering just as he did with the first offering. He presented the Whole-Burnt-Offering following the same procedures. He presented the Grain-Offering by taking a handful of it and burning it on the Altar along with the morning Whole-Burnt-Offering. He slaughtered the bull and the ram, the people's Peace-Offerings. Aaron's sons handed him the blood and he threw it against each side of the Altar. The fat pieces from the bull and the ram—the fat tail and the fat that covers the kidney and the lobe of the liver—they laid on the breasts and Aaron burned it on the Altar. Aaron waved the breasts and the right thigh before God as a Wave-Offering, just as God commanded.
+[EN] Then it was time for the people's offerings. Aaron took the goat for the people's sin offering, sacrificed it, and offered it up just like he did the first one. He did the burnt offering the same way as before. He presented the grain offering by taking a handful and burning it on the altar with the morning's burnt offering. He also sacrificed the bull and the ram, which were the peace offerings for the people. Aaron's sons handed him the blood, and he splashed it on all sides of the altar. The fatty parts from the bull and the ram—the fat tail, the fat covering the kidneys, and the lobe of the liver—they put on the breasts, and Aaron burned all of it on the altar. Aaron then waved the breasts and the right thigh before God as a special offering, just like God commanded.
+[KO 15-20] 다음은 백성의 제물을 바칠 차례. 백성을 위한 속죄제물인 숫염소를 가져다가 잡아서, 첫 번째 제물이랑 똑같이 속죄제로 드렸어. 번제물도 똑같은 절차대로 드렸고. 곡식제물은 한 움큼 가져다가 아침 번제물에 더해서 제단 위에서 불태웠어. 백성의 화목제물인 소랑 숫양도 잡았지. 아론의 아들들이 피를 건네주니까 제단 사방에 뿌렸어. 소와 숫양의 기름진 부분들 – 기름진 꼬리, 콩팥을 덮은 기름, 간 꺼풀 – 을 가슴살 위에 올려놓고 아론이 제단 위에서 불태웠어. 아론은 가슴살이랑 오른쪽 넓적다리를 하나님 앞에서 흔들어서 요제로 드렸는데, 이것도 하나님이 명령하신 그대로였대.
+
+----- EN para 7 [21-24] -----
+[MSG 15-21] Next Aaron presented the offerings of the people. He took the male goat, the Absolution-Offering for the people, slaughtered it, and offered it as an Absolution-Offering just as he did with the first offering. He presented the Whole-Burnt-Offering following the same procedures. He presented the Grain-Offering by taking a handful of it and burning it on the Altar along with the morning Whole-Burnt-Offering. He slaughtered the bull and the ram, the people's Peace-Offerings. Aaron's sons handed him the blood and he threw it against each side of the Altar. The fat pieces from the bull and the ram—the fat tail and the fat that covers the kidney and the lobe of the liver—they laid on the breasts and Aaron burned it on the Altar. Aaron waved the breasts and the right thigh before God as a Wave-Offering, just as God commanded.
+[MSG 22-24] Aaron lifted his hands over the people and blessed them. Having completed the rituals of the Absolution-Offering, the Whole-Burnt-Offering, and the Peace-Offering, he came down from the Altar. Moses and Aaron entered the Tent of Meeting. When they came out they blessed the people and the Glory of God appeared to all the people. Fire blazed out from God and consumed the Whole-Burnt-Offering and the fat pieces on the Altar. When all the people saw it happen they cheered loudly and then fell down, bowing in reverence.
+[EN] Finally, Aaron lifted his hands over the people and blessed them. After finishing all the offerings—the sin offering, the burnt offering, and the peace offering—he came down from the altar. Moses and Aaron went into the Tent of Meeting. When they came out, they blessed the people, and then BAM! The glory of God appeared to everyone. Fire shot out from God and completely burned up the burnt offering and the fat on the altar. When everyone saw it, they went wild, cheering and then falling to the ground in awe.
+[KO 21-24] 마지막으로 아론이 백성을 향해 손을 들어 축복했어. 속죄제, 번제, 화목제를 다 마치고 제단에서 내려왔지. 모세랑 아론이 회막에 들어갔다가 나와서 백성을 축복하니까, 하나님의 영광이 모든 백성에게 나타난 거임! 진짜 불이 하나님한테서 나와서 제단 위의 번제물이랑 기름을 싹 다 태워버렸어. 모든 백성이 그 광경을 보고 소리 지르면서 환호하다가, 경외심에 땅에 엎드려 절했대. 완전 엄청난 사건이었지.

@@ -1,0 +1,80 @@
+########## LEVITICUS 5 ##########
+EN title: Whoops, I Sinned... Now What? 😬
+KO title: 죄를 지었는데, 이제 어쩌지?
+MSG units: ['1', '2', '3', '4', '5-6', '7-10', '11-12', '13', '14-16', '17-18', '18-19']
+EN badges: ['1', '2', '3', '4', '5', '6', '7-9', '10', '11-12', '13', '14-15', '16', '17', '18-19']
+KO badges: ['1', '2', '3', '4', '5', '6', '7-9', '10', '11-12', '13', '14-15', '16', '17', '18-19']
+==============================================================================================================
+
+----- EN para 0 [1] -----
+[MSG 1] "If you sin by not stepping up and offering yourself as a witness to something you've heard or seen in cases of wrongdoing, you'll be held responsible.
+[EN] Alright, so check it. If you see something messed up happen and you know about it, but you don't step up to be a witness, you're gonna be held responsible. That's on you.
+[KO 1] 야, 들어봐. 만약에 네가 어떤 잘못된 일이 일어나는 걸 보거나 들었는데, 증인으로 나서지 않으면 너한테 책임이 있는 거래. 진짜 네 탓인 거임.
+
+----- EN para 1 [2] -----
+[MSG 2] "Or if you touch anything ritually unclean, like the carcass of an unclean animal, wild or domestic, or a dead reptile, and you weren't aware of it at the time, but you're contaminated and you're guilty;
+[EN] Or, like, if you accidentally touch something gross and unclean, like a dead animal or whatever, and you don't even realize it at first... well, you're still technically contaminated and guilty. Wild, right?
+[KO 2] 그리고 만약에 부정한 거, 예를 들어 죽은 동물의 사체 같은 걸 만졌는데, 그땐 몰랐어도 나중에 알게 되면 너는 오염된 거고 죄가 있는 거래. 대박이지?
+
+----- EN para 2 [3] -----
+[MSG 3] "Or if you touch human uncleanness, any sort of ritually contaminating uncleanness, and you're not aware of it at the time, but later you realize it and you're guilty;
+[EN] Same deal if you touch some kind of human uncleanness without knowing. The moment you realize it, boom, you're guilty.
+[KO 3] 사람의 부정한 것도 마찬가지래. 모르고 만졌다가 나중에 깨달으면 바로 죄인이 되는 거임.
+
+----- EN para 3 [4] -----
+[MSG 4] "Or if you impulsively swear to do something, whether good or bad—some rash oath that just pops out—and you aren't aware of what you've done at the time, but later you come to realize it and you're guilty in any of these cases;
+[EN] And if you make some impulsive promise, like just blurting out an oath to do something, good or bad, without really thinking? If you realize it later, yep, you're guilty for that too.
+[KO 4] 또 만약에 네가 좋은거든 나쁜거든 생각 없이 막 맹세를 해버렸어. 근데 나중에 '아차' 싶으면 그것도 죄가 된대.
+
+----- EN para 4 [5] -----
+[MSG 5-6] "When you are guilty, immediately confess the sin that you've committed and bring as your penalty to God for the sin you have committed a female lamb or goat from the flock for an Absolution-Offering. "In this way, the priest will make atonement for your sin.
+[EN] So when you figure out you're guilty, you gotta confess the sin right away. Then, you bring a female lamb or a goat as a penalty to God. It's called an Absolution-Offering.
+[KO 5] 그래서 죄를 지은 걸 깨달으면, 바로 네가 저지른 죄를 고백하고 속죄 제물로 암양이나 염소를 하나님께 바쳐야 한대. 이걸 속죄제라고 부른대.
+
+----- EN para 5 [6] -----
+[MSG 5-6] "When you are guilty, immediately confess the sin that you've committed and bring as your penalty to God for the sin you have committed a female lamb or goat from the flock for an Absolution-Offering. "In this way, the priest will make atonement for your sin.
+[EN] This is how the priest will make things right for your sin.
+[KO 6] 이런 식으로 제사장이 네 죄를 속해주는 거래.
+
+----- EN para 6 [7-9] -----
+[MSG 7-10] "If you can't afford a lamb, bring as your penalty to God for the sin you have committed two doves or two pigeons, one for the Absolution-Offering and the other for the Whole-Burnt-Offering. Bring them to the priest who will first offer the one for the Absolution-Offering: He'll wring its neck but not sever it, splash some of the blood of the Absolution-Offering against the Altar, and squeeze the rest of it out at the base. It's an Absolution-Offering. He'll then take the second bird and offer it as a Whole-Burnt-Offering, following the procedures step-by-step. "In this way, the priest will make atonement for your sin and you're forgiven.
+[EN] But what if you're broke and can't afford a lamb? No worries. You can bring two doves or two pigeons to God instead. One is for the Absolution-Offering, and the other is for a Whole-Burnt-Offering. You give them to the priest, and he'll offer the first one for your sin, wringing its neck but not cutting it all the way off. He'll splash some of its blood on the altar and drain the rest at the bottom. That's the Absolution-Offering. Then he'll offer the second bird as a Whole-Burnt-Offering, following all the steps.
+[KO 7-9] 근데 만약에 돈이 없어서 양을 못 바치면 어떡하냐고? 괜찮아. 대신 비둘기 두 마리를 가져가면 된대. 한 마리는 속죄제물로, 다른 한 마리는 번제물로. 제사장한테 가져가면, 제사장이 먼저 속죄제물로 한 마리를 잡는데, 목을 비틀어 끊지는 않고 피를 제단에 뿌리고 나머지는 제단 밑에 쏟는대. 이게 속죄제인 거임. 그리고 남은 한 마리는 번제물로 정해진 절차대로 바치는 거래.
+
+----- EN para 7 [10] -----
+[MSG 7-10] "If you can't afford a lamb, bring as your penalty to God for the sin you have committed two doves or two pigeons, one for the Absolution-Offering and the other for the Whole-Burnt-Offering. Bring them to the priest who will first offer the one for the Absolution-Offering: He'll wring its neck but not sever it, splash some of the blood of the Absolution-Offering against the Altar, and squeeze the rest of it out at the base. It's an Absolution-Offering. He'll then take the second bird and offer it as a Whole-Burnt-Offering, following the procedures step-by-step. "In this way, the priest will make atonement for your sin and you're forgiven.
+  !! numbers possibly missing in EN: ['one', 'two']
+[EN] And just like that, the priest makes things right for your sin, and you're forgiven. Lowkey a pretty good deal.
+[KO 10] 이렇게 하면 제사장이 네 죄를 속해주고 너는 용서받는 거야. 완전 진짜 이득 아니냐?
+
+----- EN para 8 [11-12] -----
+[MSG 11-12] "If you cannot afford the two doves or pigeons, bring two quarts of fine flour for your Absolution-Offering. Don't put oil or incense on it—it's an Absolution-Offering. Bring it to the priest; he'll take a handful from it as a memorial and burn it on the Altar with the gifts for God. It's an Absolution-Offering.
+[EN] Okay, but what if you can't even afford two birds? Then you bring two quarts of fine flour for your Absolution-Offering. But don't add any oil or incense to it, 'cause this is serious business. You bring it to the priest, he takes a handful as a memorial, and burns it on the altar with the other gifts for God. It's an Absolution-Offering.
+[KO 11-12] 근데 만약 비둘기 두 마리도 살 돈이 없으면? 그러면 고운 가루 2리터를 속죄제물로 가져가면 된대. 대신 기름이나 향은 섞으면 안 돼. 이건 속죄제물이니까. 제사장한테 가져가면, 제사장이 기념으로 한 줌을 떼서 제단 위에서 불사르는 거래. 이게 속죄제인 거임.
+
+----- EN para 9 [13] -----
+[MSG 13] "The priest will make atonement for you and any of these sins you've committed and you're forgiven. The rest of the offering belongs to the priest, the same as with the Grain-Offering."
+[EN] That's how the priest will make atonement for any of these sins you've committed, and you're forgiven. The rest of the offering goes to the priest, just like with the Grain-Offering.
+[KO 13] 이렇게 제사장이 네가 지은 죄를 속해주면 너는 용서받는 거래. 그리고 남은 제물은 곡식 제물처럼 제사장의 몫이 된대.
+
+----- EN para 10 [14-15] -----
+[MSG 14-16] God spoke to Moses: "When a person betrays his trust and unknowingly sins by straying against any of the holy things of God, he is to bring as his penalty to God a ram without any defect from the flock, the value of the ram assessed in shekels, according to the Sanctuary shekel for a Compensation-Offering. He is to make additional compensation for the sin he has committed against any holy thing by adding twenty percent to the ram and giving it to the priest. "Thus the priest will make atonement for him with the ram of the Compensation-Offering and he's forgiven.
+[EN] Then God told Moses, "If someone messes up and unknowingly sins against any of God's holy things, they have to bring a perfect ram from their flock as a penalty. The ram's value is set in shekels, and it's for a Compensation-Offering. They also have to add an extra twenty percent to make up for the holy thing they messed up and give it all to the priest.
+[KO 14-15] 하나님이 모세한테 또 말씀하셨대. "만약 누가 실수로 하나님의 성물을 건드려서 죄를 지으면, 벌로 흠 없는 숫양 한 마리를 가져와야 한대. 그 숫양의 값은 성소의 기준으로 정하고, 이건 속건제물이래. 그리고 자기가 잘못한 거에 대해 20퍼센트를 더해서 제사장한테 줘야 한대.
+
+----- EN para 11 [16] -----
+[MSG 14-16] God spoke to Moses: "When a person betrays his trust and unknowingly sins by straying against any of the holy things of God, he is to bring as his penalty to God a ram without any defect from the flock, the value of the ram assessed in shekels, according to the Sanctuary shekel for a Compensation-Offering. He is to make additional compensation for the sin he has committed against any holy thing by adding twenty percent to the ram and giving it to the priest. "Thus the priest will make atonement for him with the ram of the Compensation-Offering and he's forgiven.
+  !! numbers possibly missing in EN: ['twenty']
+[EN] This way, the priest will make things right for them with the ram, and they're forgiven.
+[KO 16] 그러면 제사장이 그 숫양으로 그 사람의 죄를 속해주고 그는 용서받는 거래.
+
+----- EN para 12 [17] -----
+[MSG 17-18] "If anyone sins by breaking any of the commandments of God which must not be broken, but without being aware of it at the time, the moment he does realize his guilt he is held responsible. He is to bring to the priest a ram without any defect, assessed at the value of the Compensation-Offering.
+[EN] And if anyone sins by breaking one of God's commandments without realizing it, the second they do realize it, they're responsible. They have to bring a perfect ram to the priest, valued for a Compensation-Offering.
+[KO 17] 또 누구든지 하나님의 계명 중에 하나라도 어기면, 자기가 몰랐어도 죄를 지은 거래. 죄를 깨닫는 순간 책임이 생기는 거임. 그러면 흠 없는 숫양 한 마리를 속건제물 값에 맞춰서 제사장한테 가져가야 한대.
+
+----- EN para 13 [18-19] -----
+[MSG 17-18] "If anyone sins by breaking any of the commandments of God which must not be broken, but without being aware of it at the time, the moment he does realize his guilt he is held responsible. He is to bring to the priest a ram without any defect, assessed at the value of the Compensation-Offering.
+[MSG 18-19] "Thus the priest will make atonement for him for his error that he was unaware of and he's forgiven. It is a Compensation-Offering; he was surely guilty before God."
+[EN] And the priest will make atonement for the mistake they made without knowing, and they'll be forgiven. It's a Compensation-Offering, 'cause they were definitely guilty before God. No cap.
+[KO 18-19] 그러면 제사장이 그가 모르고 저지른 잘못을 속해주고 그는 용서받는 거래. 이건 속건제물이야. 그는 하나님 앞에서 진짜로 죄가 있었던 거니까. 알겠지?"

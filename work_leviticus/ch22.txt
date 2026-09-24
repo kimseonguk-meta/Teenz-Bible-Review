@@ -1,0 +1,71 @@
+########## LEVITICUS 22 ##########
+EN title: God's Rules for Offerings: The Dos and Don'ts
+KO title: 제물의 해야 할 일과 하지 말아야 할 일
+MSG units: ['1-2', '3', '4-8', '9', '10-13', '14', '15-16', '17-25', '26-30', '31', '32-33']
+EN badges: ['1-2', '3-4', '5-9', '10', '11-15', '16', '17-18', '19-28', '29-31', '32', '33']
+KO badges: ['1-2', '3-4', '5-9', '10', '11-15', '16', '17-18', '19-28', '29-31', '32', '33']
+==============================================================================================================
+
+----- EN para 0 [1-2] -----
+[MSG 1-2] God spoke to Moses: "Tell Aaron and his sons to treat the holy offerings that the Israelites consecrate to me with reverence so they won't desecrate my holy name. I am God.
+[EN] God told Moses, "Yo, tell Aaron and his sons to be super careful with the holy offerings the Israelites give me. They can't be disrespecting my holy name. I'm God, for real."
+[KO 1-2] 하나님이 모세한테 말했대. "아론이랑 아들들한테, 이스라엘 백성이 나한테 바치는 거룩한 제물 함부로 다루지 말라고 해. 내 거룩한 이름 더럽히면 안 된다고. 내가 하나님이잖아."
+
+----- EN para 1 [3-4] -----
+[MSG 3] "Tell them, From now on, if any of your descendants approaches in a state of ritual uncleanness the holy offerings that the Israelites consecrate to God, he will be cut off from my presence. I am God.
+[MSG 4-8] "Each and every one of Aaron's descendants who has an infectious skin disease or a discharge may not eat any of the holy offerings until he is clean. Also, if he touches anything defiled by a corpse, or has an emission of semen, or is contaminated by touching a crawling creature, or touches a person who is contaminated for whatever reason—a person who touches any such thing will be ritually unclean until evening and may not eat any of the holy offerings unless he has washed well with water. After the sun goes down he is clean and may go ahead and eat the holy offerings; they are his food. But he must not contaminate himself by eating anything found dead or torn by wild animals. I am God.
+  !! numbers possibly missing in EN: ['one']
+[EN] "Tell them, from now on, if any of their future kids come near the holy offerings while they're 'unclean,' they're basically kicked out of my presence. I'm God, and I'm not playing."
+[KO 3-4] "걔네한테 전해. 앞으로 네 후손 중에 부정한 상태로 이스라엘 백성이 나한테 바친 거룩한 제물에 가까이 오는 사람은 내 앞에서 쫓겨날 거라고. 내가 하나님이야."
+
+----- EN para 2 [5-9] -----
+[MSG 4-8] "Each and every one of Aaron's descendants who has an infectious skin disease or a discharge may not eat any of the holy offerings until he is clean. Also, if he touches anything defiled by a corpse, or has an emission of semen, or is contaminated by touching a crawling creature, or touches a person who is contaminated for whatever reason—a person who touches any such thing will be ritually unclean until evening and may not eat any of the holy offerings unless he has washed well with water. After the sun goes down he is clean and may go ahead and eat the holy offerings; they are his food. But he must not contaminate himself by eating anything found dead or torn by wild animals. I am God.
+[MSG 9] "The priests must observe my instructions lest they become guilty and die by treating the offerings with irreverence. I am God who makes them holy.
+[EN] "Every single one of Aaron's descendants who has a serious skin condition or a discharge can't eat any of the holy offerings until he's clean. Also, if he touches anything defiled by a dead body, or has a wet dream, or touches a creepy crawly, or touches someone who's unclean for whatever reason—if you touch any of that stuff, you're unclean until evening and you can't eat any of the holy offerings unless you wash up real good. After the sun goes down, he's clean and can go ahead and eat the holy offerings; they're his food. But he can't make himself unclean by eating roadkill or something a wild animal got to. I am God."
+[KO 5-9] "아론의 자손 중에 전염성 피부병이 있거나 몸에서 뭐가 흐르는 사람은 깨끗해질 때까지 거룩한 제물을 못 먹는대. 그리고 시체에 닿아서 부정해졌거나, 몽정했거나, 기어 다니는 생물에 닿았거나, 어떤 이유로든 부정한 사람이랑 닿은 사람도 마찬가지야. 그런 거에 닿은 사람은 저녁까지 부정하고, 물로 몸을 깨끗하게 씻지 않으면 거룩한 제물을 못 먹는대. 해가 지면 깨끗해지니까 그때는 먹어도 된대. 그건 걔네 음식이니까. 근데 죽은 동물이나 들짐승한테 찢겨 죽은 거 먹고 부정해지면 안 된대. 내가 하나님이거든."
+
+----- EN para 3 [10] -----
+[MSG 10-13] "No layperson may eat anything set apart as holy. Nor may a priest's guest or his hired hand eat anything holy. But if a priest buys a slave, the slave may eat of it; also the slaves born in his house may eat his food. If a priest's daughter marries a layperson, she may no longer eat from the holy contributions. But if the priest's daughter is widowed or divorced and without children and returns to her father's household as before, she may eat of her father's food. But no layperson may eat of it.
+[EN] "The priests have to follow my rules, or they'll be found guilty and die for treating the offerings like they're nothing. I am God, and I'm the one who makes them holy."
+[KO 10] "제사장들은 내 지시를 잘 따라야 된대. 안 그러면 제물을 무시한 죄로 죽을 수도 있대. 내가 그들을 거룩하게 하는 하나님이거든."
+
+----- EN para 4 [11-15] -----
+[MSG 10-13] "No layperson may eat anything set apart as holy. Nor may a priest's guest or his hired hand eat anything holy. But if a priest buys a slave, the slave may eat of it; also the slaves born in his house may eat his food. If a priest's daughter marries a layperson, she may no longer eat from the holy contributions. But if the priest's daughter is widowed or divorced and without children and returns to her father's household as before, she may eat of her father's food. But no layperson may eat of it.
+[MSG 14] "If anyone eats from a holy offering accidentally, he must give back the holy offering to the priest and add twenty percent to it.
+  !! numbers possibly missing in EN: ['twenty']
+[MSG 15-16] "The priests must not treat with irreverence the holy offerings of the Israelites that they contribute to God lest they desecrate themselves and make themselves guilty when they eat the holy offerings. I am God who makes them holy."
+[EN] "No regular person can eat anything that's set apart as holy. Not even a priest's guest or his hired worker can eat holy stuff. But if a priest buys a slave, that slave can eat it; and the slaves born in his house can eat his food too. If a priest's daughter marries a regular guy, she can't eat from the holy contributions anymore. But if the priest's daughter is widowed or divorced and doesn't have any kids and moves back into her dad's house like before, she can eat her dad's food. But no regular person can eat it."
+[KO 11-15] "일반인은 거룩하게 구별된 제물을 못 먹는대. 제사장의 손님이나 일꾼도 못 먹고. 근데 제사장이 돈 주고 산 노예는 먹을 수 있대. 그리고 그 집에서 태어난 노예들도 주인의 음식을 먹을 수 있고. 제사장의 딸이 일반인이랑 결혼하면 더 이상 거룩한 제물을 못 먹는대. 근데 만약에 남편이 죽거나 이혼하고 자식도 없이 친정으로 돌아오면, 전처럼 아버지의 음식을 먹을 수 있대. 그래도 일반인은 절대 못 먹는대."
+
+----- EN para 5 [16] -----
+[MSG 15-16] "The priests must not treat with irreverence the holy offerings of the Israelites that they contribute to God lest they desecrate themselves and make themselves guilty when they eat the holy offerings. I am God who makes them holy."
+[EN] "If someone accidentally eats a holy offering, he has to give it back to the priest and add twenty percent to it."
+[KO 16] "만약 누가 실수로 거룩한 제물을 먹었으면, 제사장한테 그 제물을 돌려주고 20퍼센트를 더 얹어서 줘야 된대."
+
+----- EN para 6 [17-18] -----
+[MSG 17-25] God spoke to Moses: "Tell Aaron and his sons and all the People of Israel, Each and every one of you, whether native born or foreigner, who presents a Whole-Burnt-Offering to God to fulfill a vow or as a Freewill-Offering, must make sure that it is a male without defect from cattle, sheep, or goats for it to be acceptable. Don't try slipping in some creature that has a defect—it won't be accepted. Whenever anyone brings an offering from cattle or sheep as a Peace-Offering to God to fulfill a vow or as a Freewill-Offering, it has to be perfect, without defect, to be acceptable. Don't try giving God an animal that is blind, crippled, mutilated, an animal with running sores, a rash, or mange. Don't place any of these on the Altar as a gift to God. You may, though, offer an ox or sheep that is deformed or stunted as a Freewill-Offering, but it is not acceptable in fulfilling a vow. Don't offer to God an animal with bruised, crushed, torn, or cut-off testicles. Don't do this in your own land but don't accept them from foreigners and present them as food for your God either. Because of deformities and defects they will not be acceptable."
+[EN] "The priests can't be treating the holy offerings from the Israelites like they're nothing, or they'll mess up and make themselves guilty when they eat the holy offerings. I am God, the one who makes them holy."
+[KO 17-18] "제사장들은 이스라엘 백성이 나한테 바치는 거룩한 제물을 함부로 다루면 안 된대. 안 그러면 걔네가 거룩한 제물을 먹을 때 죄를 짓게 되는 거라고. 내가 그들을 거룩하게 하는 하나님이거든."
+
+----- EN para 7 [19-28] -----
+[MSG 17-25] God spoke to Moses: "Tell Aaron and his sons and all the People of Israel, Each and every one of you, whether native born or foreigner, who presents a Whole-Burnt-Offering to God to fulfill a vow or as a Freewill-Offering, must make sure that it is a male without defect from cattle, sheep, or goats for it to be acceptable. Don't try slipping in some creature that has a defect—it won't be accepted. Whenever anyone brings an offering from cattle or sheep as a Peace-Offering to God to fulfill a vow or as a Freewill-Offering, it has to be perfect, without defect, to be acceptable. Don't try giving God an animal that is blind, crippled, mutilated, an animal with running sores, a rash, or mange. Don't place any of these on the Altar as a gift to God. You may, though, offer an ox or sheep that is deformed or stunted as a Freewill-Offering, but it is not acceptable in fulfilling a vow. Don't offer to God an animal with bruised, crushed, torn, or cut-off testicles. Don't do this in your own land but don't accept them from foreigners and present them as food for your God either. Because of deformities and defects they will not be acceptable."
+[MSG 26-30] God spoke to Moses: "When a calf or lamb or goat is born, it is to stay with its mother for seven days. After the eighth day, it is acceptable as an offering, a gift to God. Don't slaughter both a cow or ewe and its young on the same day. When you sacrifice a Thanksgiving-Offering to God, do it right so it will be acceptable. Eat it on the same day; don't leave any leftovers until morning. I am God.
+  !! numbers possibly missing in EN: ['seven']
+[EN] God told Moses, "Tell Aaron and his sons and all the people of Israel, every single one of you, whether you were born here or you're a foreigner, when you bring a whole-burnt-offering to God to keep a promise or just because you want to, you have to make sure it's a male with no defects from your cattle, sheep, or goats for it to be accepted. Don't even try to slip in some animal that has something wrong with it—it won't be accepted. Whenever anyone brings an offering from cattle or sheep as a peace-offering to God to keep a promise or just because you want to, it has to be perfect, with no defects, to be accepted. Don't try giving God an animal that's blind, crippled, mutilated, or has gross sores, a rash, or mange. Don't put any of those on the altar as a gift to God. You can, however, offer an ox or sheep that's a little deformed or stunted as a freewill-offering, but it's not okay for keeping a promise. And don't offer God an animal with bruised, crushed, torn, or cut-off testicles. Don't do that in your own land, and don't take them from foreigners and offer them as food for your God either. Because of their deformities and defects, they won't be accepted."
+[KO 19-28] 하나님이 모세한테 말했대. "아론이랑 아들들이랑 모든 이스라엘 백성한테 전해. 너네 중에 누구든지, 이스라엘 사람이든 외국인이든, 서원을 갚으려고 또는 자원해서 번제물을 바칠 때는, 소나 양이나 염소 중에 흠 없는 수컷으로 해야 받아들여진대. 흠 있는 짐승 슬쩍 끼워 넣을 생각 마. 그건 안 받아준대. 누구든지 화목제물로 소나 양을 바칠 때도, 서원을 갚기 위해서든 자원해서든, 완벽하고 흠 없는 걸로 해야 받아들여진대. 눈 멀거나, 다리 절거나, 상처 입었거나, 고름이 흐르거나, 피부병 있는 짐승은 절대 안 된대. 그런 건 제단에 불살라 바치는 선물로 주지 마. 근데 기형이거나 발육이 덜 된 소나 양은 자원해서 바치는 제물로는 괜찮은데, 서원을 갚는 제물로는 안 된대. 그리고 고환이 멍들거나, 으스러지거나, 찢어지거나, 잘린 짐승은 나한테 바치지 마. 너네 땅에서도 그러면 안 되고, 외국인한테서 그런 걸 받아서 너네 하나님의 음식으로 바쳐도 안 된대. 기형이고 흠이 있어서 안 받아준대."
+
+----- EN para 8 [29-31] -----
+[MSG 26-30] God spoke to Moses: "When a calf or lamb or goat is born, it is to stay with its mother for seven days. After the eighth day, it is acceptable as an offering, a gift to God. Don't slaughter both a cow or ewe and its young on the same day. When you sacrifice a Thanksgiving-Offering to God, do it right so it will be acceptable. Eat it on the same day; don't leave any leftovers until morning. I am God.
+[MSG 31] "Do what I tell you; live what I tell you. I am God.
+[EN] God told Moses, "When a calf or lamb or goat is born, it has to stay with its mom for seven days. After the eighth day, it's good to go as an offering, a gift to God. Don't slaughter a cow or ewe and its baby on the same day. When you sacrifice a thanksgiving-offering to God, do it right so it will be accepted. Eat it on the same day; don't leave any leftovers until morning. I am God."
+[KO 29-31] 하나님이 모세한테 말했대. "송아지나 어린 양이나 염소가 태어나면, 7일 동안은 어미랑 같이 있어야 된대. 8일째부터는 나한테 선물로 바치는 제물로 괜찮대. 어미 소나 양을 새끼랑 같은 날에 잡으면 안 된대. 감사제물을 나한테 바칠 때는 제대로 해야 받아들여진대. 그날 바로 다 먹고, 아침까지 남기지 마. 내가 하나님이거든."
+
+----- EN para 9 [32] -----
+[MSG 32-33] "Don't desecrate my holy name. I insist on being treated with holy reverence among the People of Israel. I am God who makes you holy and brought you out of Egypt to be your God. I am God."
+[EN] "Do what I say; live by what I say. I am God."
+[KO 32] "내가 말하는 대로 해. 내가 말하는 대로 살아. 내가 하나님이야."
+
+----- EN para 10 [33] -----
+[MSG 32-33] "Don't desecrate my holy name. I insist on being treated with holy reverence among the People of Israel. I am God who makes you holy and brought you out of Egypt to be your God. I am God."
+[EN] "Don't trash my holy name. I demand to be treated with holy respect among the people of Israel. I am God who makes you holy and brought you out of Egypt to be your God. I am God."
+[KO 33] "내 거룩한 이름 막 부르지 마. 나는 이스라엘 백성 사이에서 거룩하게 대우받아야 돼. 내가 너희를 거룩하게 하고, 너희 하나님이 되려고 이집트에서 데리고 나온 하나님이거든. 내가 하나님이야."

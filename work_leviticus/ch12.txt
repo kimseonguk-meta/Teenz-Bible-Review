@@ -1,0 +1,28 @@
+########## LEVITICUS 12 ##########
+EN title: The Post-Baby Glow Up
+KO title: 출산 후 정결례: 새롭게 정결해지기
+MSG units: ['1-5', '6-7', '8']
+EN badges: ['1-5', '6-7', '7', '8']
+KO badges: ['1-5', '6-7', '7', '8']
+==============================================================================================================
+
+----- EN para 0 [1-5] -----
+[MSG 1-5] God spoke to Moses: "Tell the People of Israel, A woman who conceives and gives birth to a boy is ritually unclean for seven days, the same as during her menstruation. On the eighth day circumcise the boy. The mother must stay home another thirty-three days for purification from her bleeding. She may not touch anything holy or enter the Sanctuary until the days of her purification are complete. If she gives birth to a girl, she is unclean for fourteen days, the same as during her menstruation. She must stay home for sixty-six days for purification from her bleeding.
+  !! numbers possibly missing in EN: ['fourteen', 'seven', 'six', 'thirty', 'three']
+[EN] So God hit up Moses and was like, 'Yo, tell the Israelites the deal. When a woman has a baby boy, she's considered 'unclean' for a week, kinda like when she's on her period. Then, on day eight, the baby boy gets circumcised. After that, the mom has to chill at home for 33 more days to get purified from all the bleeding. She can't touch any holy stuff or go to the main holy place until she's all good. And if she has a baby girl, she's 'unclean' for two weeks, just like her period. Then she has to stay home for another 66 days to get purified.'
+[KO 1-5] 하나님이 모세한테 말했대. '이스라엘 백성한테 전해. 어떤 여자가 임신해서 아들을 낳으면, 7일 동안 부정하게 되는 거야. 약간 생리할 때처럼. 그리고 8일째 되는 날에 아기 할례를 시키는 거지. 엄마는 피 흘린 것 때문에 33일 더 집에서 쉬어야 된대. 정화될 때까지. 그동안은 거룩한 거 만지면 안 되고, 성소에도 들어가면 안 된대. 만약에 딸을 낳으면, 14일 동안 부정하대. 생리할 때처럼. 그리고 66일 동안 집에서 쉬면서 정화해야 되는 거임.'
+
+----- EN para 1 [6-7] -----
+[MSG 6-7] "When the days for her purification for either a boy or a girl are complete, she will bring a yearling lamb for a Whole-Burnt-Offering and a pigeon or dove for an Absolution-Offering to the priest at the entrance of the Tent of Meeting. He will offer it to God and make atonement for her. She is then clean from her flow of blood. "These are the instructions for a woman who gives birth to either a boy or a girl.
+[EN] 'Okay, so when her purification time is up, whether she had a boy or a girl, she's gotta bring a one-year-old lamb for a big offering and a pigeon or dove for a 'my bad' offering to the priest at the entrance of the main tent. The priest will offer it to God to make things right for her. Then, boom, she's officially clean from all the baby-related bleeding.'
+[KO 6-7] '아들이든 딸이든 정화 기간이 다 끝나면, 1년 된 어린 양을 번제물로, 비둘기 한 마리를 속죄제물로 회막 입구에 있는 제사장한테 가져가야 된대. 제사장이 그걸 하나님께 바쳐서 그 여자를 위해 속죄해 주는 거임. 그러면 이제 피 흘린 거에서 깨끗해지는 거지.'
+
+----- EN para 2 [7] -----
+[MSG 6-7] "When the days for her purification for either a boy or a girl are complete, she will bring a yearling lamb for a Whole-Burnt-Offering and a pigeon or dove for an Absolution-Offering to the priest at the entrance of the Tent of Meeting. He will offer it to God and make atonement for her. She is then clean from her flow of blood. "These are the instructions for a woman who gives birth to either a boy or a girl.
+[EN] 'So yeah, that's the rundown for any woman who has a baby, boy or girl.'
+[KO 7] '이게 아들이나 딸 낳은 여자에 대한 규정이래.'
+
+----- EN para 3 [8] -----
+[MSG 8] "If she can't afford a lamb, she can bring two doves or two pigeons, one for the Whole-Burnt-Offering and one for the Absolution-Offering. The priest will make atonement for her and she will be clean."
+[EN] 'But what if she's broke and can't afford a whole lamb? No worries. She can bring two doves or two pigeons instead. One is for the big offering, and the other is for the 'my bad' offering. The priest will make things right for her, and she'll be all clean.'
+[KO 8] '만약에 돈이 없어서 양을 못 바치면 어떡하냐고? 괜찮아. 비둘기 두 마리 가져오면 된대. 한 마리는 번제물로, 다른 한 마리는 속죄제물로. 제사장이 그걸로 속죄해주면 다시 깨끗해지는 거임.'

@@ -1,0 +1,77 @@
+########## LEVITICUS 15 ##########
+EN title: God's Rules on Bodily Fluids... Lowkey Awkward
+KO title: 몸의 분비물에 대한 하나님의 법
+MSG units: ['1-3', '4-7', '8-11', '12', '13-15', '16-18', '19-23', '24', '25-27', '28-30', '31', '32-33']
+EN badges: ['1-3', '4-5', '6-10', '11', '12-15', '16-18', '19-21', '22', '23-26', '27-30', '31-32', '33']
+KO badges: ['1-3', '4-5', '6-10', '11', '12-15', '16-18', '19-21', '22', '23-26', '27-30', '31-32', '33']
+==============================================================================================================
+
+----- EN para 0 [1-3] -----
+[MSG 1-3] God spoke to Moses and Aaron: "Speak to the People of Israel. Tell them, When a man has a discharge from his genitals, the discharge is unclean. Whether it comes from a seepage or an obstruction he is unclean. He is unclean all the days his body has a seepage or an obstruction.
+[EN] Alright, so God hit up Moses and Aaron and was like, 'Yo, tell the Israelites this: If a guy has some kind of discharge from his private parts, that stuff is considered unclean. It doesn't matter if it's a slow leak or a total blockage, he's unclean the whole time it's happening.'
+[KO 1-3] 하나님이 모세랑 아론한테 말했대. '이스라엘 백성들한테 전해. 어떤 남자 생식기에서 분비물이 나오면, 그건 부정한거래. 그게 줄줄 새든 막혀서 나오든, 그게 나오는 동안은 계속 부정하다는 거임.'
+
+----- EN para 1 [4-5] -----
+[MSG 4-7] "Every bed on which he lies is ritually unclean, everything on which he sits is unclean. If someone touches his bed or sits on anything he's sat on, or touches the man with the discharge, he has to wash his clothes and bathe in water; he remains unclean until evening.
+[EN] Any bed he sleeps in? Unclean. Anything he sits on? Also unclean. If you touch his bed, or sit where he sat, or even touch the guy himself, you've gotta wash your clothes and take a shower. And you're considered unclean until nighttime.
+[KO 4-5] 그 사람이 누웠던 침대도 부정해지고, 앉았던 의자도 다 부정해진대. 누가 그 사람 침대를 만지거나, 그 사람이 앉았던 데 앉거나, 아니면 그 사람을 만지면, 옷 빨고 목욕해야 된대. 그리고 저녁까지 부정하대.
+
+----- EN para 2 [6-10] -----
+[MSG 4-7] "Every bed on which he lies is ritually unclean, everything on which he sits is unclean. If someone touches his bed or sits on anything he's sat on, or touches the man with the discharge, he has to wash his clothes and bathe in water; he remains unclean until evening.
+[MSG 8-11] "If the man with the discharge spits on someone who is clean, that person has to wash his clothes and bathe in water; he remains unclean until evening. Every saddle on which the man with the discharge rides is unclean. Whoever touches anything that has been under him becomes unclean until evening. Anyone who carries such an object must wash his clothes and bathe with water; he remains unclean until evening. If the one with the discharge touches someone without first rinsing his hands with water, the one touched must wash his clothes and bathe with water; he remains unclean until evening.
+  !! numbers possibly missing in EN: ['one']
+[EN] If the guy with the discharge spits on a clean person, that person has to wash their clothes and shower, and they're unclean until evening. Any saddle he rides on is unclean. Whoever touches anything that was under him becomes unclean until evening. Anyone who carries something he was on has to wash their clothes and shower; they're unclean until evening. If the guy with the discharge touches someone without washing his hands first, the person he touched has to wash their clothes and shower; they're unclean until evening.
+[KO 6-10] 만약 그 남자가 깨끗한 사람한테 침을 뱉으면, 그 사람은 옷 빨고 목욕해야 하고 저녁까지 부정하대. 그 남자가 탔던 안장도 다 부정해. 그 사람 밑에 있던 걸 만진 사람은 저녁까지 부정해지고. 그런 물건을 옮긴 사람도 옷 빨고 목욕해야 하고, 저녁까지 부정하대. 만약 그 남자가 손을 물로 안 헹구고 다른 사람을 만지면, 만져진 그 사람도 옷 빨고 목욕해야 하고, 저녁까지 부정하대.
+
+----- EN para 3 [11] -----
+[MSG 8-11] "If the man with the discharge spits on someone who is clean, that person has to wash his clothes and bathe in water; he remains unclean until evening. Every saddle on which the man with the discharge rides is unclean. Whoever touches anything that has been under him becomes unclean until evening. Anyone who carries such an object must wash his clothes and bathe with water; he remains unclean until evening. If the one with the discharge touches someone without first rinsing his hands with water, the one touched must wash his clothes and bathe with water; he remains unclean until evening.
+  !! numbers possibly missing in EN: ['one']
+[EN] If a clay pot is touched by someone with a discharge, you have to smash it. If it's a wooden thing, just rinse it with water.
+[KO 11] 만약 분비물 나오는 사람이 만진 질그릇이 있으면, 그건 깨부숴야 한대. 나무로 된 건 물로 헹구면 되고.
+
+----- EN para 4 [12-15] -----
+[MSG 12] "If a pottery container is touched by someone with a discharge, you must break it; a wooden article is to be rinsed in water.
+[MSG 13-15] "When a person with a discharge is cleansed from it, he is to count off seven days for his cleansing, wash his clothes, and bathe in running water. Then he is clean. On the eighth day he is to take two doves or two pigeons and come before God at the entrance of the Tent of Meeting and give them to the priest. The priest then offers one as an Absolution-Offering and one as a Whole-Burnt-Offering and makes atonement for him in the presence of God because of his discharge.
+[EN] When a guy with a discharge gets better, he has to count seven days for his cleansing, wash his clothes, and shower in running water. Then he's clean. On the eighth day, he needs to get two doves or two pigeons and go to God at the entrance of the Tent of Meeting and give them to the priest. The priest then offers one as a sin offering and the other as a burnt offering to make things right for him with God because of his discharge.
+[KO 12-15] 분비물이 멈추고 깨끗해지면, 7일을 센 다음에 옷을 빨고 흐르는 물에 목욕해야 한대. 그러면 깨끗해지는 거임. 8일째 되는 날에는 비둘기 두 마리를 가지고 회막 입구에 있는 하나님 앞으로 가서 제사장한테 줘야 해. 그럼 제사장이 한 마리는 속죄제물로, 다른 한 마리는 번제물로 바쳐서 하나님 앞에서 그 사람의 분비물 때문에 부정해진 걸 해결해준대.
+
+----- EN para 5 [16-18] -----
+[MSG 16-18] "When a man has an emission of semen, he must bathe his entire body in water; he remains unclean until evening. Every piece of clothing and everything made of leather which gets semen on it must be washed with water; it remains unclean until evening. When a man sleeps with a woman and has an emission of semen, both are to wash in water; they remain unclean until evening.
+[EN] If a guy has an emission of semen, he has to shower his whole body; he's unclean until evening. Any clothes or leather thing that gets semen on it has to be washed; it stays unclean until evening. When a guy and a girl sleep together and he has an emission, they both have to wash with water; they're unclean until evening.
+[KO 16-18] 남자가 정액을 배출하면, 온몸을 물로 씻어야 하고 저녁까지 부정하대. 정액이 묻은 옷이나 가죽 제품은 다 물로 빨아야 하고, 저녁까지 부정하대. 남자랑 여자가 같이 자고 남자가 정액을 배출하면, 둘 다 물로 씻어야 하고 저녁까지 부정하대.
+
+----- EN para 6 [19-21] -----
+[MSG 19-23] "When a woman has a discharge of blood, the impurity of her menstrual period lasts seven days. Anyone who touches her is unclean until evening. Everything on which she lies or sits during her period is unclean. Anyone who touches her bed or anything on which she sits must wash his clothes and bathe in water; he remains unclean until evening.
+[EN] When a woman has her period, the impurity lasts for seven days. Anyone who touches her is unclean until evening. Everything she lies or sits on during her period is unclean. Anyone who touches her bed or anything she sat on has to wash their clothes and shower; they're unclean until evening.
+[KO 19-21] 여자가 피를 흘리면, 월경 기간의 부정함은 7일 동안 계속된대. 그 여자를 만지는 사람은 누구든지 저녁까지 부정해. 월경 기간 동안 그 여자가 눕거나 앉는 모든 것은 부정해. 그 여자의 침대나 앉았던 것을 만지는 사람은 옷을 빨고 물로 목욕해야 하고, 저녁까지 부정하대.
+
+----- EN para 7 [22] -----
+[MSG 19-23] "When a woman has a discharge of blood, the impurity of her menstrual period lasts seven days. Anyone who touches her is unclean until evening. Everything on which she lies or sits during her period is unclean. Anyone who touches her bed or anything on which she sits must wash his clothes and bathe in water; he remains unclean until evening.
+[EN] If a guy sleeps with her and her menstrual blood gets on him, he's unclean for seven days, and any bed he lies on becomes unclean.
+[KO 22] 만약 남자가 그 여자와 함께 자다가 여자의 월경 피가 그에게 묻으면, 그는 7일 동안 부정하고 그가 눕는 모든 침대도 부정해진대.
+
+----- EN para 8 [23-26] -----
+[MSG 19-23] "When a woman has a discharge of blood, the impurity of her menstrual period lasts seven days. Anyone who touches her is unclean until evening. Everything on which she lies or sits during her period is unclean. Anyone who touches her bed or anything on which she sits must wash his clothes and bathe in water; he remains unclean until evening.
+  !! numbers possibly missing in EN: ['seven']
+[MSG 24] "If a man sleeps with her and her menstrual blood gets on him, he is unclean for seven days and every bed on which he lies becomes unclean.
+  !! numbers possibly missing in EN: ['seven']
+[MSG 25-27] "If a woman has a discharge of blood for many days, but not at the time of her monthly period, or has a discharge that continues beyond the time of her period, she is unclean the same as during the time of her period. Every bed on which she lies during the time of the discharge and everything on which she sits becomes unclean the same as in her monthly period. Anyone who touches these things becomes unclean and must wash his clothes and bathe in water; he remains unclean until evening.
+[EN] If a woman has a discharge of blood for a long time, but it's not her period, or if it continues after her period, she's unclean just like she is during her period. Every bed she lies on and everything she sits on during that time becomes unclean, just like during her period. Anyone who touches these things becomes unclean and has to wash their clothes and shower; they're unclean until evening.
+[KO 23-26] 만약 여자가 월경 기간이 아닌데도 여러 날 동안 피를 흘리거나, 월경 기간이 지나도 계속 피를 흘리면, 월경 기간과 똑같이 부정하대. 그 기간 동안 눕는 모든 침대와 앉는 모든 것은 월경 기간과 똑같이 부정해져. 이것들을 만지는 사람은 누구든지 부정해지고 옷을 빨고 물로 목욕해야 하며, 저녁까지 부정하대.
+
+----- EN para 9 [27-30] -----
+[MSG 25-27] "If a woman has a discharge of blood for many days, but not at the time of her monthly period, or has a discharge that continues beyond the time of her period, she is unclean the same as during the time of her period. Every bed on which she lies during the time of the discharge and everything on which she sits becomes unclean the same as in her monthly period. Anyone who touches these things becomes unclean and must wash his clothes and bathe in water; he remains unclean until evening.
+[MSG 28-30] "When she is cleansed from her discharge, she is to count off seven days; then she is clean. On the eighth day she is to take two doves or two pigeons and bring them to the priest at the entrance to the Tent of Meeting. The priest will offer one for an Absolution-Offering and the other for a Whole-Burnt-Offering. The priest will make atonement for her in the presence of God because of the discharge that made her unclean.
+[EN] When she's cleansed from her discharge, she has to count seven days, and then she's clean. On the eighth day, she needs to get two doves or two pigeons and bring them to the priest at the entrance of the Tent of Meeting. The priest will offer one as a sin offering and the other as a burnt offering. The priest will make things right for her with God because of the discharge that made her unclean.
+[KO 27-30] 그 여자가 분비물에서 깨끗해지면, 7일을 센 다음에 깨끗해지는 거야. 8일째 되는 날에는 비둘기 두 마리를 가지고 회막 입구에 있는 제사장한테 가져가야 해. 제사장은 한 마리는 속죄제물로, 다른 한 마리는 번제물로 바칠 거야. 제사장은 그 여자를 부정하게 만든 분비물 때문에 하나님 앞에서 그 여자를 위해 속죄해 줄 거래.
+
+----- EN para 10 [31-32] -----
+[MSG 31] "You are responsible for keeping the People of Israel separate from that which makes them ritually unclean, lest they die in their unclean condition by defiling my Dwelling which is among them.
+[MSG 32-33] "These are the procedures to follow for a man with a discharge or an emission of semen that makes him unclean, and for a woman in her menstrual period—any man or woman with a discharge and also for a man who sleeps with a woman who is unclean."
+[EN] 'You guys are responsible for keeping the Israelites separate from what makes them unclean, so they don't die in their uncleanness by defiling my Dwelling Place that's right there with them.'
+[KO 31-32] '너희는 이스라엘 백성을 부정하게 만드는 것들로부터 분리시킬 책임이 있어. 안 그러면 그들이 내 성막을 더럽혀서 부정함 속에서 죽게 될지도 몰라.'
+
+----- EN para 11 [33] -----
+[MSG 32-33] "These are the procedures to follow for a man with a discharge or an emission of semen that makes him unclean, and for a woman in her menstrual period—any man or woman with a discharge and also for a man who sleeps with a woman who is unclean."
+[EN] 'So these are the rules for a guy with a discharge or an emission of semen that makes him unclean, and for a woman on her period—any guy or girl with a discharge, and also for a guy who sleeps with a woman who is unclean.'
+[KO 33] '이게 바로 분비물이나 정액 배출로 부정해진 남자, 월경 중인 여자, 그리고 분비물이 있는 남자나 여자, 또 부정한 여자와 함께 잔 남자를 위한 규정이다.'
