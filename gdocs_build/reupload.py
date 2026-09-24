@@ -31,7 +31,7 @@ BOOK_TABLES = {
     'Joshua': 24,
     'Psalms': 150, 'Proverbs': 31, 'Ecclesiastes': 12, 'Isaiah': 66,
     'Jeremiah': 52, 'Lamentations': 5, 'Ezekiel': 48, 'Daniel': 12,
-    'Job': 42,
+    'Job': 42, 'Hosea': 14,
 }
 
 def run(args):

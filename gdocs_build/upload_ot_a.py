@@ -87,7 +87,7 @@ def main():
     summary = []
     for key in keys:
         ko, en, exp_tables = BOOK_MAP[key]
-        title = f'{ko} ({en}) — MSG + Teen EN + KO'
+        title = f'{ko} ({en}): MSG + Teen EN + KO'
         docx = os.path.join(GDIR, f'{key}.docx')
         assert os.path.exists(docx) and os.path.getsize(docx) > 0, f'missing {docx}'
         print(f'[{key}] creating doc...', flush=True)
