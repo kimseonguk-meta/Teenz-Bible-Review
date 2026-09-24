@@ -96,3 +96,9 @@
 
 - 2026-09-23 구 감사는 의미 감사 3건(1:6 ghosted→dumped, 1:14 bloodcurdling, 2:15 꿀잼→신나는 도시)이었으나, 이후 앱 소스 재시드로 시드가 교체되면서 본 감사에서 전수 재검증함. 구 감사본은 git history(6883679 이전)에 참조용으로 보존. § 헤더 문구·배치는 구 감사본을 참조.
 - 2026-09-23 업로드 Doc(제목에 "Final", id 1e_p0097DuMSyoH_IC55C_zrdCYVcaRCBT26i-0F5y4E)은 구 감사본 기준 문서로 남아 있음. 본 감사 문서는 별도 신규 Doc(위 ⑦).
+
+## 2nd re-audit (Sep 24)
+
+- MSG 문장 단위 union 검사(6 flags) + 절-단위 숫자 검사 + 고유명사/이름 전수 대조 수행.
+- 모든 후보는 teen paraphrase로 의미가 보존된 오탐으로 판정 (예: "Doom to the seaside people"→"It's the end for the people by the sea", "Perhaps you'll be hidden"→"Maybe, just maybe, you'll get a pass", "Seek God"→"look for God", "Wail"→"cry").
+- 복원 0건. 구조 검증 STRUCT OK (3장, EN/KO 문단·배지 일치, MSG 절 커버리지 전수).
