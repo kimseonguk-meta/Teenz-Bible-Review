@@ -114,3 +114,12 @@
 3. **"Temple of God" → "Temple"** — 소유격 'of God' 생략 3건(ch8 p10, ch11 p9, ch13 p1)은 문맥상 자명하여 오탐 판정 (FP-8·13·19).
 4. **production 반영** — 구약 감사본은 앱에 반영하지 않음 (지시).
 5. **완료 선언** — 7개 게이트를 통과했으나, "완료/final" 선언은 성욱만 가능.
+
+## 2차 재검토 (Sep 24, 2026)
+- 월명 복원: ch1 EN December → the month of Kislev / ch2 EN April → the month of Nisan (KO는 이미 키슬레브월·니산월)
+- "Temple of God" 복원 4건: ch8 p10 courtyards of the Temple of God / ch11 p9 outside work of the Temple of God / ch13 p1 storerooms of the Temple of God / ch13 p2 courts of the Temple of God (KO ch13 p2도 하나님의 성전 뜰로 복원)
+- completeness_check 15건 후보 전수 분류 → 실제 누락 1건: ch1:7-9 "four winds" 복원 (EN; KO는 이미 사방으로)
+- 잔여 14건은 의미 동등 오탐 또는 토크나이저 아티팩트 (abramand, fireto, the One, a second blow 등)
+- 게이트: validate_translation PASS (13장), build 13 tables/316 rows/154 MSG/VERIFY_DROPPED=0
+- pairing 셀 직접 확인 (Kislev/Nisan/Temple of God 4건/four winds)
+- Google Docs 기존 문서 업데이트: API 13/13, export-back VERIFIED OK
