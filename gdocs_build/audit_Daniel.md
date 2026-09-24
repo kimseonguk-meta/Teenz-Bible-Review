@@ -152,3 +152,11 @@ merge/split은 스탠딩 승인 규칙(내용 온전·EN/KO 일치·순수 가�
   verify_pairing_content, Google Docs API 테이블 수·export-back·제목.
 - 미확인 경계: 앱 화면 렌더링은 이번 감사 범위에 포함되지 않음
   (구약은 production 앱에 반영하지 않음).
+
+## 2nd re-audit (Sep 24)
+- completeness_check: 9 candidates → 5 false positives (Babylonian→"in Babylon", "Revealer of Mysteries"→"God who reveals mysteries", "Arbitrarily"/"contemptuous"/"unleashing" paraphrases, number extractor artifacts).
+- Sentence-count scan flagged 19 spots; all verified as teen-side splits with full coverage in sequence (ch1, ch2, ch4, ch5, ch6, ch7, ch9, ch10, ch11).
+- 4 MSG omissions restored in EN (KO already had all of them — EN brought to parity):
+  - ch3 idx2 (badge 7): "the gold statue the king had set up" → "the gold statue that King Nebuchadnezzar had set up" (name drop).
+  - ch3 idx3 (badge 8-12): "Hey, King," → "Hey, King Nebuchadnezzar,"; "You made a rule" → "You gave strict orders"; "a furnace" → "a roaring furnace"; "the gold statue" → "the gold statue you set up"; also fixed typo "you.hey're" → "you. They're".
+- Gates: STRUCT OK (12 ch, EN/KO parity); build VERIFY_DROPPED=0, teen_without_msg=0, msg_orphans=0; docx pairing spot-check OK; reupload API tables 12/12 VERIFIED OK.
