@@ -105,3 +105,17 @@
 ## 7. 이전 감사본과의 관계
 
 - HEAD 버전은 구(舊) 감사본이었으나 본 감사는 앱 소스 재시드 기준으로 전수 재검증. 구 감사본은 git history에 참조용으로 보존. 구 감사본의 § 배치·헤더는 참조하지 않음 (27권 감사 컨벤션: 헤더 제외 집계).
+
+## 2nd re-audit (Sep 24)
+
+- 기준: 동일 작업 지시 6권 배치(Esther·Hosea·Joel·Amos·Zechariah·Malachi)의 두 번째 정밀 감사. 선행 커밋 4b44665(당일 08:29 UTC, EN 23건·KO 12건)의 수정 위에 MSG 4장 전수 재대조.
+- 선행 감사에서 누락된 실제 결함 2건 발견·수정:
+  1. KO ch1 idx14 [12-13]이 EN/KO 불일치 — v7-8 내용(제단·눈 멀고 병든 동물·은행 사장/의원)의 거의 그대로 복제였고, 실제 v12-13("All except you... you profane me") 번역이 아니었음. EN/MSG 기준으로 KO 전면 재작성.
+  2. EN ch1 idx12 [10]에서 MSG 반복("I am not pleased. The God-of-the-Angel-Armies is not pleased.")이 1회로 축소되어 있었음. EN에 반복 복원 ("I'm not happy. The LORD of Heaven's Armies is not happy."). KO는 선행 감사에서 이미 2회 반영되어 있어 EN만 맞춤.
+- 과도한 슬랭 정리 (뜻 유지, 틴즈 voice 유지):
+  - EN: "here's the 411"→"here's the deal" (1:1), "Dude, just look at history"→"Just look at history" (1:2-3), "btw" 삭제 (2:1-3), "no cap"→"no lies, ever" (2:4-6), "Yo, check it!"→"Look!" + "bam, out of nowhere"→"suddenly, out of nowhere" (3:1), "Yo, for real"→"Count on it:" (4:1-3).
+  - KO: "이딴 바보 같고/이딴 소위"→"이런 바보 같고/이런 소위" (1:10), "정체를 싹 다 까발리는"→"정체가 뭔지 낱낱이 드러내는" (2:7-9), "징징대면서"→"투덜대면서" (2:13-15), "잘 살피셈"→"잘 살펴" (2:16), "야, 봐봐!"→"봐봐!" (3:1), "앞날도 기대하셈"→"앞날도 준비해" (4:5-6).
+- 오탐 아님 확인: "에돔(에서)"는 Edom(Esau)의 정상 표기 — 수정 불필요.
+- completeness_check.py 잔여 7건 전부 오탐으로 분류 (선행 감사 문서 `completeness_fp_Malachi.md`와 일치): "god" 4건은 God-of-the-Angel-Armies→LORD of Heaven's Armies 일관 렌더링, "word" 1건은 God's Word→message 의미 유지, "desecrating"은 절 헤더 출신, 숫자 "1"은 "the one" 대명사, 인용구 "colts/frolicking/tromp"는 이미지·의미 유지 paraphrase (KO는 "망아지"/"밟고 다닐"으로 직역 유지).
+- 게이트: STRUCT OK (4장, EN/KO 44문단, verseRanges·msg_ranges parity), build rows=44 msg_units=32 teen_without_msg=0 msg_orphans=0 VERIFY_DROPPED=0, DOCX 복원 행 python-docx 육안 확인, Google Docs 기존 문서(15jhaXUC8Xzh0KIA9ZOT4AWhWRHsuF8xfe4wsj0Gy9Q4) 재업로드 후 테이블 4/4 + export-back VERIFIED OK.
+- splits 7건은 선행 감사 선언 유지, 추가 구조 변경 없음.
