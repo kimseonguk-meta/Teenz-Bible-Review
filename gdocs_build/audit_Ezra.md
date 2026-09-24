@@ -3,13 +3,13 @@
 **기준**: Eugene Peterson, The Message (MSG)
 **범위**: Ezra 1–10장 (Teen EN / Teen KO, 각 192문단)
 **일자**: Sep 24, 2026
-**상태**: MSG 원문 부재로 전수 대조 미완 — 아래 "미확인 경계" 참조. "완료" 아님.
+**상태**: MSG 전수 대조 완료, 7개 게이트 전부 수행. "완료" 선언은 성욱만 가능 — 본 보고서는 수행 결과 기록.
 
 ## 결론
 
-- msg_Ezra.txt가 작업 디렉토리에 존재하지 않음 (작업 지시의 "존재하지만" 전제와 다름). msg_work/ezra_chNN.txt 수집은 코디네이터 별도 진행 중 — 본 보고서를 통해 코디네이터에게 보고함.
-- MSG 없이 수행 가능한 감사(슬랭 6 Rule 전수, EN-KO parity, 배지/msg_ranges 정합성, validator)는 수행했고, 총 16건 수정 반영. validator PASS 유지.
-- 게이트 1(MSG 전수 대조)·4(기계적 완전성)·5(빌드)·6(짝지음)·7(업로드)은 MSG 소스 부재로 미수행 — MSG 확보 후 후속 작업 필요.
+- **MSG 원문 결함 발견·복원**: 수집된 msg_Ezra.txt에서 Ezra 3:11 찬양 문구(`Yes! God is good! Oh yes—he'll never quit loving Israel!`)와 3:11-13 본문(환호·울음·멀리 퍼진 소리)이 누락돼 있었음. 공개 MSG 페이지(bible-history.com/msg/ezra-3)에서 본문 존재를 직접 확인하고 msg_work/ezra_ch03.txt에 복원 후 assemble로 msg_Ezra.txt 재조립 (10장, 34,756→35,170자).
+- MSG 확보 후 게이트 1–7 전부 수행. 이번 세션에서 EN 20건·KO 8건, 총 28건 수정 반영. validator PASS 유지.
+- 이전 세션(슬랭·순화·EN-KO 불일치 16건)과 합산하면 이번 감사 라운드 총 44건 수정.
 
 ## 수정 이슈 표
 
@@ -24,6 +24,27 @@
 | 9:10-12 | EN 확정문 'get strong, enjoy the good things in the land, and leave a solid inheritance' | EN-KO 불일치 | KO p5 '부자가 되고, 자식들에게 물려줄 재산을 쌓을 수 있을 것이다' → '강해지고, 이 땅의 좋은 것을 누리며, 자식들에게 든든한 유산을 남길 수 있을 것이다' |
 | 10:4 | EN 'Don't chicken out' | 순화 | KO p2 '쫄지 마세요' → '겁먹지 마세요' |
 | 10:17 | 왕宛 편지 하십시오체 (KO ch5 p4 '평안하십시오' 선례) | 순화 | KO p9 '확인 좀 해주셈/알려주셈' → '확인해 주십시오/알려 주십시오' |
+| 1:7-10 | MSG '29 silver pans', EN '29 silver pans' | KO 오역 | KO p4 '은제 칼 29개' → '은 쟁반 29개' |
+| 3:8-9 | MSG 'Zerubbabel son of Shealtiel ... Jeshua son of Jozadak' | EN 부칭 누락 | EN p4 부칭 복원 |
+| 5:1-2 | MSG 'Zerubbabel son of Shealtiel ... Jeshua son of Jozadak' | EN/KO 부칭 누락 | EN p0·KO p0 부칭 복원 ('스알디엘의 아들 스룹바벨이랑 요사닥의 아들 예수아') |
+| 5:3 | MSG 'governor of the land beyond the Euphrates' | EN 지명 누락 (KO는 있음) | EN p1 'governor of the area' → 'governor of the land beyond the Euphrates' |
+| 5:4 | MSG 'restore it to use' / 'told them the names' | EN/KO 세부 누락 | EN p1·KO p1 'rebuild' → 'rebuild ... and put it back to use' / '다시 짓고 원래대로 쓰라고'; EN 'who was in charge' → 'the names of the guys running' |
+| 5:6-7 | MSG 'governor of the land beyond the Euphrates' | EN 지명 누락 (KO는 있음) | EN p3 'Tattenai, the governor' → 'Tattenai, the governor of the land beyond the Euphrates'; KO p3 '총독 다드래' → '유프라테스 강 서쪽 총독 다드래' |
+| 5:8 | MSG 'with timbers fitted into the walls' | EN 세부 누락 (KO는 있음) | EN p5 'with huge stones and timbers' → 'with huge stones, with timbers fitted into the walls' |
+| 5:9-10 | MSG 'restore it to use' | EN/KO 세부 누락 | EN p6·KO p6에 'put it back to use' / '원래대로 쓰라고' 복원 |
+| 5:11-12 | MSG 'A great king of Israel built it, the entire structure' | EN/KO 세부 누락 | EN p7 'built the whole thing' / KO p7 '전체를 다 지었던' 복원 |
+| 5:11-12 | MSG 'Nebuchadnezzar, king of Babylon, the Chaldean' | EN/KO 세부 누락 | EN p7 'the Chaldean' / KO p7 '갈대아 사람' 복원 |
+| 5:13-16 | MSG 'carted off and put in the Babylon temple ... removed them from the temple of Babylon' | EN/KO 세부 누락 | EN p8·KO p8 바빌론 신전 경유 세부 복원 |
+| 6:3-5 | — (슬랭 R1) | 슬랭 | EN p3 'yoinked' → 'took' |
+| 6:6-7 | MSG 'you, Shethar-Bozenai, and the rest' | EN 이름 누락 (KO는 있음) | EN p4에 Shethar-Bozenai 복원 |
+| 6:13 | MSG 'Tattenai the governor, Shethar-Bozenai, and the rest' | EN 이름 누락 (KO는 있음) | EN p10에 Shethar-Bozenai 복원 |
+| 7:6-7 | MSG 'temple slaves' | EN/KO 정합성 (KO '막일꾼' 유지 가능) | EN p1 'temple workers' → 'temple servants' |
+| 7:24 | MSG 'temple servant' | EN 정합성 (KO '성전 종' 이미 정확) | EN p7 'temple worker' → 'temple servant' |
+| 10:1 | — | EN 정확성 | EN p0 'Israeli men' → 'Israelite men' |
+| 10:2-3 | MSG 'Shecaniah son of Jehiel ... the spokesman' | EN 부칭·역할 누락 (KO는 있음) | EN p1 'Shecaniah son of Jehiel ... stepped up as spokesman' 복원 |
+| 10:6 | MSG 'Jehohanan son of Eliashib' | EN 부칭 누락 (KO는 있음) | EN p4 부칭 복원 |
+| 10:7-8 | MSG 'in compliance with the ruling of the leaders and elders' | EN 누락 (KO는 있음) | EN p5 'the leaders and elders ruled that ...' 복원 |
+| 10:15-17 | MSG 'Jonathan son of Asahel and Jahzeiah son of Tikvah' | EN 부칭 누락 (KO는 있음) | EN p10 부칭 복원 |
 
 슬랭 스캔 결과 유지 판정: EN의 chill(8:32-34)·bro(다수)·왕따 없음은 R6에 따라 변경 금지로 유지. ch6 p15 'ate the Passover meal'의 ate는 정상 용법으로 유지.
 
@@ -31,13 +52,13 @@
 
 | 게이트 | 결과 | 비고 |
 |---|---|---|
-| 1. MSG 전수 대조 | 미수행 | msg_Ezra.txt 없음. 이전 세션(9-22) MSG 대조 changes[] 로그의 정합성만 리뷰 |
-| 2. 수정 반영 | 수행 | 16건 반영, merge/split 신규 적용 없음 |
-| 3. validate_translation.py | PASS | 수정 전·후 모두 "10개 장 모두 통과" |
-| 4. completeness_check.py | 미수행 | MSG 소스 필요 |
-| 5. build_gdocs.py (VERIFY_DROPPED=0) | 미수행 | msg_Ezra.txt 필요 (FileNotFound로 빌드 불가) |
-| 6. verify_pairing_content.py | 미수행 | 빌드 산출물 필요 |
-| 7. Google Docs 업로드 + API 검증 | 미수행 | docx 산출물 필요 |
+| 1. MSG 전수 대조 | 수행 | 1–10장 전수 수동 대조 + 고유명사/숫자 기계 검사. MSG 원문 결함 1건 발견·복원(아래 참조) |
+| 2. 수정 반영 | 수행 | EN 20건·KO 8건(총 28건) 반영, merge/split 신규 적용 없음 |
+| 3. validate_translation.py | PASS | "10개 장 모두 통과" |
+| 4. 기계적 완전성 | PASS | MSG 고유명사/숫자 전수 추출 후 Teen EN 대조. 실제 누락은 전부 수정 반영, 나머지 32건은 오탐(절 번호·문장 첫 단어·정당한 teen paraphrase) |
+| 5. build_gdocs.py | OK | 192행, msg_units=105, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0 |
+| 6. verify_pairing_content.py | OK | 192 data rows, PAIRING CONTENT OK (마태 1장식 짝지음 사고 없음) |
+| 7. Google Docs 업로드 + API 검증 | OK | 신규 Doc 생성 '에스라 (Ezra): MSG + Teen EN + KO', 테이블 10/10, export-back VERIFIED OK |
 
 ## 검증 범위 (확인한 것)
 
@@ -47,16 +68,16 @@
 - msg_ranges 10장 전부가 build_ezra_patch.py 문서의 MSG 문단 경계(2026-09-22 BibleGateway 직접 확인 기록)와 일치 — ch2의 61 분리(제사장 가문) 포함.
 - 이전 세션 MSG 대조 변경 로그(changes[]) 전수 열람 — 배지 수정·복원 내역이 일관되게 기록됨. 단, 아래 "5가지 누락" 목록 자체는 작업 디렉토리에서 특정하지 못함.
 
+## MSG 원문 결함 복원 (이번 세션 발견)
+
+- 수집된 msg_Ezra.txt에 Ezra 3:11 찬양 문구와 3:11-13 본문이 빠져 있었음 (HTML 추출기 결함).
+- 공개 MSG 페이지(bible-history.com/msg/ezra-3)에서 `Yes! God is good! Oh yes—he'll never quit loving Israel!` 및 11-13절 본문(환호·울음·멀리 퍼진 소리) 존재를 직접 확인.
+- msg_work/ezra_ch03.txt에 복원 후 `assemble_msg_book.py ezra 10`으로 재조립 → msg_Ezra.txt 10장, 35,170자. (commit 전)
+
 ## 미확인 경계 (확인하지 못한 것)
 
-1. **MSG 전수 대조 자체** — msg_Ezra.txt가 없어서 MSG 문장 단위 완전성 검사를 수행하지 못함. 이전 세션의 MSG 대조(9-22) 결과를 신뢰 전제로만 둠.
-2. **KO ch1 p4 [7-10] '은제 칼 29개' vs EN '29 silver pans'** — EN-KO 불일치. MSG 확인 후 KO를 EN(MSG)에 맞출지 결정 필요. 이번 세션에서는 변경하지 않음.
-3. **EN ch10 p1 [2-3] 'Shecaniah' — 'son of Jehiel' 누락 여부** — KO에는 '여히엘 아들 스가냐'로 있음. EN-KO 비대칭, MSG 확인 필요.
-4. **EN ch10 p10 [15-17] 'Jonathan / Jahzeiah' — 부친명('son of Asahel', 'son of Tikvah') 누락 여부** — KO에는 부친명 포함. MSG 확인 필요.
-5. **체크포인트의 "이전에 지정된 5가지 누락"** — 어떤 5건인지 지목된 목록을 찾지 못함. changes[]의 복원 기록(Zechariah son of Iddo ×2, 'wept loudly for joy', Shethar-Bozenai, 에스라 계보 복원 등)이 해당할 가능성이 있으나 확정하지 않음.
-6. **게이트 5–7 (빌드/짝지음/업로드)** — MSG 확보 후 수행 필요.
-
-## 다음 단계 (코디네이터용)
-
-- msg_work/ezra_chNN.txt 수집 완료 후 assemble → msg_Ezra.txt 생성되면, 본 작업자(또는 후속 세션)가 게이트 1·4·5·6·7 수행 + 위 미확인 2–4번 해소 가능.
-- 그때까지 fixes/en_Ezra.json, fixes/ko_Ezra.json은 현 상태로 동결 권장.
+1. **문장 단위 뉘앙스** — 게이트 1은 전수 수동 대조이나, teen paraphrase의 문체·어휘 선택 자체는 감사 대상 아님.
+2. **KO '다드래' 표기** — Tattenai의 KO 음역이 5장·6장에서 '다드래'로 고정돼 있음. 책 내 일관성은 유지되나 표준 음역('닷드내' 등)과의 대조는 하지 않음.
+3. **"And Sheshbazzar did it"(5:16)** — Teen이 'So Sheshbazzar laid the foundation...'으로 통합. 전이 문장이라 의도적 축소로 판단하지 않음.
+4. **production 반영** — 구약 감사본은 앱에 반영하지 않음 (지시).
+5. **완료 선언** — 7개 게이트를 통과했으나, "완료/final" 선언은 성욱만 가능.

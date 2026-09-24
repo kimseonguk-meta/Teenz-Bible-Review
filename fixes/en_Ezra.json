@@ -312,7 +312,7 @@
       "Even though they were scared of what their non-Israelite neighbors might pull, they just went for it. They set up the Altar right where it used to be and started giving offerings on it every morning and evening. They also celebrated the Festival of Booths like they were supposed to, and did all the daily offerings for each day. On top of that, they gave the regular offerings for Sabbaths, New Moons, and all of God’s holy festivals, plus any voluntary offerings people wanted to give to God.",
       "They started giving these offerings to God from the very first day of the seventh month, even though the foundation of God's Temple hadn't even been started yet.",
       "They paid masons and carpenters, and gave food, drinks, and oil to the people from Sidon and Tyre. In exchange, those guys brought cedar logs by sea from Lebanon to Joppa. This whole trade deal was approved by Cyrus, the king of Persia, so it was all official.",
-      "Then, in the second month of the second year after they got back to God's Temple in Jerusalem, Zerubbabel, Jeshua, and the rest of their crew—priests, Levites, and everyone else who had returned from exile—finally got the big project started. They put the Levites who were twenty or older in charge of supervising the rebuilding of God's Temple. Jeshua and his family teamed up with Kadmiel, Binnui, and Hodaviah, and the whole Henadad family clan—all Levites—to manage the construction crew working on God's Temple.",
+      "Then, in the second month of the second year after they got back to God's Temple in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak, and the rest of their crew—priests, Levites, and everyone else who had returned from exile—finally got the big project started. They put the Levites who were twenty or older in charge of supervising the rebuilding of God's Temple. Jeshua and his family teamed up with Kadmiel, Binnui, and Hodaviah, and the whole Henadad family clan—all Levites—to manage the construction crew working on God's Temple.",
       "When the builders laid the foundation for God's Temple, it was a huge moment. The priests put on their official robes and stood with trumpets, and the Levites from Asaph's family line were there with cymbals, all to praise God just like King David of Israel had set up ages ago. They sang back and forth, a praise and thank-you song to God:",
       "'Yes! God is good! Oh yes—he’ll never quit loving Israel!'",
       "And all the people just erupted in a massive cheer, praising God because the foundation of His Temple was finally being laid. But while a ton of people were shouting for joy, a lot of the older priests, Levites, and family leaders who had seen the first Temple, started weeping loudly for joy when they saw the foundation of this new one. It was a wild scene. You couldn't even tell the difference between the happy shouting and the loud crying. The sound of it all just echoed for miles."
@@ -359,7 +359,8 @@
       "배지 수정: 3-5→6, 6→7, 7-8→8-9, 9-10→10-11, 10-11→10-11(찬양가, split), 11-13 (MSG 문단 기준)",
       "MSG 10-11과 11-13은 v11 공유 (인접 범위 경계 공유, split 아님) — splits[]에 boundary_share로 별도 표기",
       "EN[7]: 'wept loudly for joy' 복원 (MSG 3:12 — 기쁨의 눈물)",
-      "EN[1]: 'lowkey terrified'→'scared' 순화"
+      "EN[1]: 'lowkey terrified'→'scared' 순화",
+      "MSG 대조 복원 [8-9]: 'Zerubbabel, Jeshua' → 'Zerubbabel son of Shealtiel, Jeshua son of Jozadak' (MSG 3:8-9 부칭 반복)"
     ],
     "confirmations_needed": []
   },
@@ -441,15 +442,15 @@
     "chapter": 5,
     "title": "The Rebuild Gets Questioned",
     "paragraphs": [
-      "So, while all this was going down, the prophets Haggai and Zechariah son of Iddo were preaching to the Jews in Judah and Jerusalem. They were speaking for the God of Israel, who was in charge. Their words got Zerubbabel and Jeshua so hyped that they decided to start rebuilding the Temple of God in Jerusalem all over again. And the prophets were right there with them, backing them up.",
-      "At that time, this dude Tattenai was the governor of the area. He, along with Shethar-Bozenai and their crew, rolled up on the Israelites and were like, “Yo, who gave you permission to rebuild this Temple?” So, the Israelites told them who was in charge of the construction.",
+      "So, while all this was going down, the prophets Haggai and Zechariah son of Iddo were preaching to the Jews in Judah and Jerusalem. They were speaking for the God of Israel, who was in charge. Their words got Zerubbabel son of Shealtiel and Jeshua son of Jozadak so hyped that they decided to start rebuilding the Temple of God in Jerusalem all over again. And the prophets were right there with them, backing them up.",
+      "At that time, this dude Tattenai was the governor of the land beyond the Euphrates. He, along with Shethar-Bozenai and their crew, rolled up on the Israelites and were like, “Yo, who gave you permission to rebuild this Temple and put it back to use?” So, the Israelites told them the names of the guys running the construction.",
       "But God was watching out for the Jewish leaders, so the construction didn't get shut down. They had to wait for a report to get to King Darius and for him to send back an official answer.",
-      "So Tattenai, the governor, and Shethar-Bozenai and his crew of officials sent a letter to King Darius. It basically said:",
+      "So Tattenai, the governor of the land beyond the Euphrates, and Shethar-Bozenai and his crew of officials sent a letter to King Darius. It basically said:",
       "\"To King Darius, hope you're doing good.",
-      "We're writing to let you know that we went to Judah and saw the Temple of the great God being rebuilt with huge stones and timbers. The work is going super fast and looking good.",
-      "We asked the leaders who gave them permission to rebuild the Temple. We also got their names to send to you, so you know who's in charge.",
-      "This is what they told us: 'We serve the God of heaven and earth. We're rebuilding the Temple that was built a long time ago by a great king of Israel. But our ancestors made God angry, so he let King Nebuchadnezzar of Babylon destroy the Temple and take everyone to Babylon.'",
-      "'But in the first year of his reign, King Cyrus of Babylon gave us a permit to rebuild God's Temple. He even gave back the gold and silver stuff from the Temple that Nebuchadnezzar had taken. Cyrus gave them to a guy named Sheshbazzar, who he made governor. He told him to take everything back to the Temple in Jerusalem and rebuild it on its original spot. So Sheshbazzar laid the foundation, and it's been under construction ever since, but it's still not done.'",
+      "We're writing to let you know that we went to Judah and saw the Temple of the great God being rebuilt with huge stones, with timbers fitted into the walls. The work is going super fast and looking good.",
+      "We asked the leaders who gave them permission to rebuild the Temple and put it back to use. We also got their names to send to you, so you know who's in charge.",
+      "This is what they told us: 'We serve the God of heaven and earth. We're rebuilding the Temple that was built a long time ago. A great king of Israel built the whole thing. But our ancestors made God angry, so he let King Nebuchadnezzar of Babylon, the Chaldean, destroy the Temple and take everyone to Babylon.'",
+      "'But in the first year of his reign, King Cyrus of Babylon gave us a permit to rebuild God's Temple. He even gave back the gold and silver stuff from the Temple that Nebuchadnezzar had carted off to the temple in Babylon. Cyrus took them out of the Babylon temple and gave them to a guy named Sheshbazzar, who he made governor. He told him to take everything back to the Temple in Jerusalem and rebuild it on its original spot. So Sheshbazzar laid the foundation, and it's been under construction ever since, but it's still not done.'",
       "So, if you don't mind, could you check the royal records in Babylon to see if King Cyrus really did give them a permit to rebuild the Temple of God in Jerusalem? And then let us know what you decide.\""
     ],
     "verseRanges": [
@@ -487,7 +488,16 @@
     ],
     "changes": [
       "배지 수정: 1-3→1-2, 4-5→3-4, 6-7→5, 6-7→6-7(편지 서두, split), 8→6-7(인사말), 9-10→8 (MSG 문단 기준)",
-      "EN[0]: 'Zechariah son of Iddo' 복원 (MSG 5:1)"
+      "EN[0]: 'Zechariah son of Iddo' 복원 (MSG 5:1)",
+      "MSG 대조 복원 [1-2]: 'Zerubbabel and Jeshua' → 'Zerubbabel son of Shealtiel and Jeshua son of Jozadak'",
+      "MSG 대조 복원 [3-4]: 'governor of the area' → 'governor of the land beyond the Euphrates' (MSG 5:3)",
+      "MSG 대조 복원 [3-4]: 'rebuild this Temple?' → 'rebuild this Temple and put it back to use?' + 'told them the names of the guys running the construction' (MSG 5:4)",
+      "MSG 대조 복원 [6-7]: 'Tattenai, the governor' → 'Tattenai, the governor of the land beyond the Euphrates' (MSG 5:6-7)",
+      "MSG 대조 복원 [8]: 'with huge stones and timbers' → 'with huge stones, with timbers fitted into the walls' (MSG 5:8)",
+      "MSG 대조 복원 [9-10]: 'rebuild the Temple.' → 'rebuild the Temple and put it back to use.' (MSG 5:9-10)",
+      "MSG 대조 복원 [11-12]: 'by a great king of Israel.' → 'A great king of Israel built the whole thing.' (MSG 'the entire structure')",
+      "MSG 대조 복원 [11-12]: 'King Nebuchadnezzar of Babylon' → 'King Nebuchadnezzar of Babylon, the Chaldean' (MSG 5:11-12)",
+      "MSG 대조 복원 [13-16]: 'had taken. Cyrus gave them to' → 'had carted off to the temple in Babylon. Cyrus took them out of the Babylon temple and gave them to' (MSG 5:13-16)"
     ],
     "confirmations_needed": []
   },
@@ -498,14 +508,14 @@
       "So, King Darius was like, \"Yo, find me those records!\" and had his people search the archives in Babylon. They finally found a scroll in the Ecbatana fortress over in Media, and this is what it said:",
       "**MEMO**",
       "Basically, back in his first year as king, Cyrus made it official about the Temple of God in Jerusalem. Here's the deal he laid out:",
-      "The Temple, you know, the one for sacrifices, needs to be rebuilt on some fresh foundations. It's gotta be 90 feet high and 90 feet wide. The structure should be three layers of big stones and then one layer of timber on top. And get this—the king's own bank is footing the bill. Oh, and all the gold and silver stuff from the Temple that Nebuchadnezzar yoinked and took to Babylon? Yeah, that all has to be returned to the Temple in Jerusalem, right back where it belongs.",
-      "Then Darius added his own two cents. He was like, \"Listen up, Tattenai, you're the governor of the whole area across the Euphrates, and you and your crew need to back off. Just stay out of their way. Let the governor and the Jewish leaders do their thing and rebuild the Temple.",
+      "The Temple, you know, the one for sacrifices, needs to be rebuilt on some fresh foundations. It's gotta be 90 feet high and 90 feet wide. The structure should be three layers of big stones and then one layer of timber on top. And get this—the king's own bank is footing the bill. Oh, and all the gold and silver stuff from the Temple that Nebuchadnezzar took to Babylon? Yeah, that all has to be returned to the Temple in Jerusalem, right back where it belongs.",
+      "Then Darius added his own two cents. He was like, \"Listen up, Tattenai, you're the governor of the whole area across the Euphrates—you, Shethar-Bozenai, and your crew need to back off. Just stay out of their way. Let the governor and the Jewish leaders do their thing and rebuild the Temple.",
       "And I'm making it official: you guys are gonna help them out. Here's how:",
       "First off, all the construction costs? The royal bank is paying for it, straight from the taxes collected in your area. And don't be slow about it, pay them on time.",
       "Second, whatever they need for their worship services—bulls, rams, lambs for offerings to the God of Heaven, plus wheat, salt, wine, and oil for the priests in Jerusalem—you give it to them. Every single day, no excuses. This is so they can make their sacrifices and pray for me and my sons.",
       "I'm also making a decree that if anyone messes with this order, they're to be impaled on a timber torn out of their own house, and the house itself gets turned into a manure pit. And may the God who made that place special take down any king or people who try to stop this and destroy the Temple in Jerusalem.",
       "I, Darius, have spoken. So get it done. Now.\"",
-      "And you know what? Tattenai, the governor, and his buddies did exactly that. They followed Darius's orders perfectly and right away.",
+      "And you know what? Tattenai, the governor, Shethar-Bozenai, and his buddies did exactly that. They followed Darius's orders perfectly and right away.",
       "So the Jewish leaders kept on building, and things went super well, especially with the prophets Haggai and Zechariah son of Iddo preaching and cheering them on. They finished the whole thing, just like the God of Israel wanted, and with the official thumbs-up from Cyrus, Darius, and Artaxerxes, the kings of Persia. The Temple was officially done on the third day of the month of Adar, in the sixth year of King Darius's reign.",
       "Then it was time to party! The Israelites—the priests, the Levites, and everyone who had been in exile—had a massive celebration for the dedication of the Temple. They sacrificed 100 bulls, 200 rams, and 400 lambs. And to make things right with God for all of Israel, they offered 12 male goats, one for each of the 12 tribes. They also got all the priests and Levites organized for their duties at the Temple in Jerusalem, just like it says in the Book of Moses.",
       "On the fourteenth day of the first month, the exiles celebrated Passover.",
@@ -584,7 +594,10 @@
       "EN[13] 분리: MSG 19와 20 합침 → 두 문단으로 분리 (merge 회피)",
       "EN[8]: 'sharpen it' 창작 삭제, 'public toilet. Seriously.'→'manure pit' (MSG 6:11)",
       "EN[11]: 'Zechariah son of Iddo' 복원 (MSG 6:14)",
-      "슬랭 R1: ch6 제목 'No Cap, It's GOATED!'→'Green Light to Build!' (GOAT/No Cap 변형 포함 교체)"
+      "슬랭 R1: ch6 제목 'No Cap, It's GOATED!'→'Green Light to Build!' (GOAT/No Cap 변형 포함 교체)",
+      "슬랭 순화 [3-5]: 'yoinked' → 'took' (R1)",
+      "MSG 대조 복원 [6-7]: 'you and your crew' → 'you, Shethar-Bozenai, and your crew' (MSG 6:6-7)",
+      "MSG 대조 복원 [13]: 'Tattenai, the governor, and his buddies' → 'Tattenai, the governor, Shethar-Bozenai, and his buddies' (MSG 6:13)"
     ],
     "confirmations_needed": []
   },
@@ -593,13 +606,13 @@
     "title": "King Gives Priest a Blank Check?!",
     "paragraphs": [
       "So, after all that went down, this guy Ezra shows up. This was when Artaxerxes was king of Persia. Ezra's family tree was seriously stacked: he was the son of Seraiah, son of Azariah, son of Hilkiah, son of Shallum, son of Zadok, son of Ahitub, son of Amariah, son of Azariah, son of Meraioth, son of Zerahiah, son of Uzzi, son of Bukki, son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the high priest. Talk about a legendary bloodline.",
-      "So yeah, that's Ezra. He rolled up from Babylon, and he was a total pro when it came to the laws God gave Moses. And because God had his back, the king literally gave him whatever he wanted. A bunch of Israelites—priests, Levites, singers, the temple security crew, and temple workers—all decided to head to Jerusalem with him. This was all happening in the seventh year of King Artaxerxes's reign.",
+      "So yeah, that's Ezra. He rolled up from Babylon, and he was a total pro when it came to the laws God gave Moses. And because God had his back, the king literally gave him whatever he wanted. A bunch of Israelites—priests, Levites, singers, the temple security crew, and temple servants—all decided to head to Jerusalem with him. This was all happening in the seventh year of King Artaxerxes's reign.",
       "They made it to Jerusalem in the fifth month of the king's seventh year on the throne. Ezra had planned for them to leave Babylon on the first day of the first month, and they got to Jerusalem on the first day of the fifth month, all thanks to God's awesome guidance. Ezra was all in on studying God's laws, actually living them out, and teaching all of Israel how to do the same.",
       "Here's the letter that King Artaxerxes gave to Ezra, the priest and scholar who was an expert on everything about God's rules for Israel:",
       "Artaxerxes, the King of all Kings, to Ezra the priest, a scholar of the teachings of the God of Heaven.",
       "Peace. I'm officially saying that any Israelite in my kingdom who wants to go to Jerusalem, including the priests and Levites, can totally go with you. The king and his seven advisors are sending you to check out how things are going in Judah and Jerusalem with your God's laws, which you've got with you. You can also take the silver and gold that the king and his advisors are giving to the God of Israel, whose home is in Jerusalem. Plus, you can take all the silver and gold that's been donated all over Babylon, including from the people and priests, for God's Temple in Jerusalem. Be smart with the money and buy bulls, rams, lambs, and all the stuff for offerings, and then offer them on the altar at your God's Temple in Jerusalem. Whatever money is left over, you and your crew can use it for whatever you think your God would want. Make sure you deliver the special items you were given for the temple services to the God of Jerusalem. And if you need anything else for the temple, you can just pay for it from the royal bank.",
       "I, King Artaxerxes, have officially ordered all the treasurers in the land across the Euphrates River to give Ezra, the priest and scholar of the God of Heaven's teachings, whatever he asks for. That's up to 100 talents of silver, 650 bushels of wheat, and 607 gallons each of wine and olive oil. And there's no limit on the salt. Whatever the God of Heaven needs for His Temple has to be given right away. Why would the king and his sons want to make God angry?",
-      "Also, just to be clear, nobody is allowed to make any priest, Levite, singer, temple security guard, temple worker, or anyone else who works at the Temple of God pay any kind of tax or duty.",
+      "Also, just to be clear, nobody is allowed to make any priest, Levite, singer, temple security guard, temple servant, or anyone else who works at the Temple of God pay any kind of tax or duty.",
       "And you, Ezra, since you've got God's wisdom, I'm giving you the power to pick leaders and judges to bring justice to all the people across the Euphrates who follow your God's laws. And if anyone doesn't know the laws, you teach them.",
       "Anyone who doesn't follow your God's laws and the king's laws has to be judged and sentenced immediately—whether it's death, being kicked out, a fine, or jail time, whatever fits.",
       "Shout out to God, the God of our ancestors, who put it in the king's heart to make God's Temple in Jerusalem look amazing! And not only that, he made the king and all his advisors and important officials actually like me and support me. My God was on my side, so I was ready to roll. And I got all the leaders of Israel to go with me."
@@ -644,7 +657,9 @@
       "EN[0]: 에스라 계보 요약('and on and on...') → MSG 7:1-5 전 계보 복원 (Seraiah→Aaron)",
       "EN[0]: 'OG high priest'→'the high priest', 'ancestry was goated' 삭제",
       "EN[5]: 'What's up'→'Peace' (MSG 7:12)",
-      "EN[6]: 'No cap' 삭제"
+      "EN[6]: 'No cap' 삭제",
+      "MSG 대조 [6-7]: 'temple workers' → 'temple servants' (MSG 'temple slaves')",
+      "MSG 대조 [24]: 'temple worker' → 'temple servant' (MSG 'temple servant')"
     ],
     "confirmations_needed": []
   },
@@ -783,17 +798,17 @@
     "chapter": 10,
     "title": "The Great Breakup: It's Complicated",
     "paragraphs": [
-      "Ezra was just completely wrecked, face down in front of God's Temple, crying his eyes out. While he was praying and spilling his guts about everything, a massive crowd of Israeli men, women, and even kids gathered around. And then everyone just started bawling, like, full-on ugly crying.",
-      "Then this dude Shecaniah, from the Elam family, stepped up and was like, 'Ezra, my guy, we messed up. We totally betrayed God by marrying girls from around here who don't follow him. But, look, it's not over. There's still a chance for Israel. Let's make a promise to God, like, right now. We'll send away all these wives and their kids, just like you and everyone who's serious about God's rules are saying. It's what the Book says, so let's just do it.'",
+      "Ezra was just completely wrecked, face down in front of God's Temple, crying his eyes out. While he was praying and spilling his guts about everything, a massive crowd of Israelite men, women, and even kids gathered around. And then everyone just started bawling, like, full-on ugly crying.",
+      "Then this dude Shecaniah son of Jehiel, from the Elam family, stepped up as spokesman and was like, 'Ezra, my guy, we messed up. We totally betrayed God by marrying girls from around here who don't follow him. But, look, it's not over. There's still a chance for Israel. Let's make a promise to God, like, right now. We'll send away all these wives and their kids, just like you and everyone who's serious about God's rules are saying. It's what the Book says, so let's just do it.'",
       "'So get up, Ezra. You're in charge. We've got your back. Don't chicken out now.'",
       "So Ezra got to his feet and made all the head priests, the Levites, and all the leaders of Israel swear a super serious oath to do what Shecaniah said. And they were all in.",
-      "After that, Ezra bounced from the Temple square and crashed at Jehohanan's place. He was still on a hunger strike, not eating or drinking anything, just mourning hard over how the exiles had been so unfaithful.",
-      "Then they sent out a blast to all of Judah and Jerusalem, telling all the exiles to get to Jerusalem right away. And the message was clear: if you don't show up in three days, you're gonna lose all your stuff and get kicked out of the community. No joke.",
+      "After that, Ezra bounced from the Temple square and crashed at Jehohanan son of Eliashib's place. He was still on a hunger strike, not eating or drinking anything, just mourning hard over how the exiles had been so unfaithful.",
+      "Then they sent out a blast to all of Judah and Jerusalem, telling all the exiles to get to Jerusalem right away. And the message was clear: the leaders and elders ruled that if you don't show up in three days, you're gonna lose all your stuff and get kicked out of the community. No joke.",
       "And yo, everyone from Judah and Benjamin actually showed up in Jerusalem within the three days. It was the twentieth day of the ninth month, and they were all just sitting in the square in front of the Temple. They were all super antsy, partly because of the serious stuff they had to deal with, and partly 'cause it was pouring rain.",
       "Ezra the priest stood up and said, 'You guys broke your promise. You married foreign women, and now you've made Israel look real bad. So, it's time to come clean to God, the God of our ancestors, and do what he wants. You gotta separate yourselves from the local people and from your foreign wives.'",
       "The whole crowd shouted back, 'Yeah, okay! We'll do it, just like you said!'",
       "But they also said, 'But look how many of us there are! Plus, it's the rainy season, we can't just stand out here getting soaked. This is gonna take more than a day or two. A lot of us are in deep with this. How about our leaders handle it for everyone? Anyone who lives in the cities and married a foreign wife can come at a set time with the elders and judges from their city. We'll keep at it until God's not so mad at us anymore.'",
-      "Only a couple of guys, Jonathan and Jahzeiah, with Meshullam and Shabbethai the Levite backing them up, were against this idea. So the exiles went ahead with the plan. Ezra the priest picked out some family heads, one by one, and they all sat down on the first day of the tenth month to get this sorted. By the first day of the first month, they had dealt with every single guy who had married a foreign wife.",
+      "Only a couple of guys, Jonathan son of Asahel and Jahzeiah son of Tikvah, with Meshullam and Shabbethai the Levite backing them up, were against this idea. So the exiles went ahead with the plan. Ezra the priest picked out some family heads, one by one, and they all sat down on the first day of the tenth month to get this sorted. By the first day of the first month, they had dealt with every single guy who had married a foreign wife.",
       "Here's the list of the priests who were found to have married foreign wives:",
       "From Jeshua's family (he was the son of Jozadak) and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah. They all promised to divorce their wives and shook on it. To make up for their guilt, they brought a ram as a special offering.",
       "From Immer's family: Hanani and Zebadiah.",
@@ -908,7 +923,12 @@
     "changes": [
       "배지 수정: 1-3→1, 4-7→2-3, 7-8→4, 9-10→5, 11-12→6, 13-14→7-8, 15-17→9, 18-20→10-11, 21→12, 22→13-14, 23→15-17, 24→18-19(서두, split), 25→18-19(Jeshua 가문), 26→20, 27→21, 28→22, 29→23, 30→24(노래하는 자), 31-32→24(문지기), 31-32→25(서두), 33→25(Parosh), 34-37→26, 34-37→27, 34-37→28, 34-37→29, 38-42→30, 38-42→31-32, 38-42→33, 38-42→34-37 유지, 38-42 유지, 43 유지, 44 유지 (MSG 문단 기준)",
       "EN[5]: 'like, ASAP'→'right away'",
-      "EN[9]: 'But dude'→'But' 순화"
+      "EN[9]: 'But dude'→'But' 순화",
+      "정확성 [1]: 'Israeli men' → 'Israelite men'",
+      "MSG 대조 복원 [2-3]: 'this dude Shecaniah, from the Elam family, stepped up' → 'this dude Shecaniah son of Jehiel, from the Elam family, stepped up as spokesman' (MSG 10:2-3)",
+      "MSG 대조 복원 [6]: \"Jehohanan's place\" → \"Jehohanan son of Eliashib's place\" (MSG 10:6)",
+      "MSG 대조 복원 [7-8]: 'the message was clear: if you don't show up' → 'the message was clear: the leaders and elders ruled that if you don't show up' (MSG 10:7-8)",
+      "MSG 대조 복원 [15-17]: 'Jonathan and Jahzeiah' → 'Jonathan son of Asahel and Jahzeiah son of Tikvah' (MSG 10:15-17)"
     ],
     "confirmations_needed": []
   }
