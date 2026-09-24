@@ -35,6 +35,8 @@ BOOK_TABLES = {
     # OT 2nd sweep additions (2026-09-24)
     'Genesis': 50, 'Micah': 7, 'Amos': 9, 'Joel': 3, 'Malachi': 4,
     'Zechariah': 14,
+    # 2nd in-depth re-review (2026-09-25)
+    'Ruth': 4,
 }
 
 def run(args):

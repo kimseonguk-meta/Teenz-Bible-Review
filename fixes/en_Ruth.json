@@ -1,384 +1,388 @@
 [
- {
-  "chapter": 1,
-  "title": "Naomi and Ruth's Comeback Story",
-  "paragraphs": [
-   "So, way back when judges were in charge of Israel, things got real tough. There was this massive famine, like, no food anywhere. This guy named Elimelech—an Ephrathite from Bethlehem in Judah—his wife Naomi, and their two sons, Mahlon and Kilion, decided to dip. They packed up and moved to a country called Moab to find a better life.",
-   "But then, plot twist, Elimelech died, leaving Naomi with just her two sons. The sons ended up marrying local Moabite girls, Orpah and Ruth. They all lived in Moab for about ten years, but then tragedy struck again. Both Mahlon and Kilion died too. So now Naomi was all alone, no husband, no sons. It was rough.",
-   "One day, Naomi and her two daughters-in-law decided they had to get out of Moab and go back home. She'd heard that God had finally blessed his people with food again. So she, along with her two daughters-in-law, started the journey back to Judah.",
-   "After a bit on the road, Naomi turned to her daughters-in-law and was like, 'You guys should go back. Go home to your moms. I pray God is as good to you as you were to my sons and me. I hope God gives you both new homes and new husbands.' She kissed them, and they all just started bawling.",
-   "They were like, 'No way, we're coming with you to your people.'",
-   "But Naomi was straight up with them: 'Go back, my dears. Why would you come with me? You think I'm gonna have more sons for you to marry? Seriously, go back. I'm too old to get married again. Even if I was like, 'There's still hope!' and got married tonight and had sons, would you really wait for them to grow up? Would you put your lives on hold for that long? No way, girls. This is a bitter pill for me to swallow, and it's even worse for me than for you. God's been really hard on me.'",
-   "They all started crying again. Orpah kissed her mother-in-law goodbye, but Ruth just hugged her and wouldn't let go.",
-   "Naomi said, 'Look, your sister-in-law is going back to her people and her gods. You should go with her.'",
-   "But Ruth was like, 'Don't make me leave you. Don't make me go back. Where you go, I'll go. Where you live, I'll live. Your people are my people, your God is my God. Where you die, I'll die, and that's where I'll be buried. I swear to God, not even death will come between us.'",
-   "When Naomi saw that Ruth was dead serious about going with her, she just gave in. So the two of them kept traveling together to Bethlehem.",
-   "When they got to Bethlehem, the whole town was buzzing. Everyone was like, 'Is that really Naomi? After all this time!'",
-   "But she told them, 'Don't call me Naomi; call me Bitter. The Almighty has dealt me a bitter hand. I left here with a full life, and God brought me back with nothing. Why would you call me Naomi? God sure doesn't. The Almighty has ruined me.'",
-   "So Naomi was back, and Ruth, the foreigner from Moab, was with her. They got to Bethlehem right at the start of the barley harvest."
-  ],
-  "verseRanges": [
-   "1-2",
-   "3-5",
-   "6-7",
-   "8-9",
-   "10",
-   "11-13",
-   "14",
-   "15",
-   "16-17",
-   "18-19",
-   "18-19",
-   "20-21",
-   "22"
-  ],
-  "msg_ranges": [
-   "1-2",
-   "3-5",
-   "6-7",
-   "8-9",
-   "10",
-   "11-13",
-   "14",
-   "15",
-   "16-17",
-   "18-19",
-   "20-21",
-   "22"
-  ],
-  "merges": [],
-  "splits": [
-   {
-    "msg_range": "18-19",
-    "note": "MSG 18-19 split: para 9 is Naomi giving in + traveling (badged '18-19'), para 10 is the Bethlehem arrival buzz (badged '18-19')",
-    "paras": [
-     9,
-     10
+  {
+    "chapter": 1,
+    "title": "Naomi and Ruth's Comeback Story",
+    "paragraphs": [
+      "So, way back when judges were in charge of Israel, things got real tough. There was this massive famine, like, no food anywhere. This guy named Elimelech, his wife Naomi, and their two sons, Mahlon and Kilion—all Ephrathites from Bethlehem in Judah—decided to dip. They packed up and moved to a country called Moab to find a better life.",
+      "But then, plot twist, Elimelech died, leaving Naomi with just her two sons. The sons ended up marrying local Moabite girls, Orpah and Ruth. They all lived in Moab for about ten years, but then tragedy struck again. Both Mahlon and Kilion died too. So now Naomi was all alone, no husband, no sons. It was rough.",
+      "One day, Naomi and her two daughters-in-law decided they had to get out of Moab and go back home. She'd heard that God had finally blessed his people with food again. So she, along with her two daughters-in-law, started the journey back to Judah.",
+      "After a bit on the road, Naomi turned to her daughters-in-law and was like, 'You guys should go back. Go home to your moms. I pray God is as good to you as you were to my sons and me. I hope God gives you both new homes and new husbands.' She kissed them, and they all just started bawling.",
+      "They were like, 'No way, we're coming with you to your people.'",
+      "But Naomi was straight up with them: 'Go back, my dears. Why would you come with me? You think I'm gonna have more sons for you to marry? Seriously, go back. I'm too old to get married again. Even if I was like, 'There's still hope!' and got married tonight and had sons, would you really wait for them to grow up? Would you put your lives on hold for that long? No way, girls. This is a bitter pill for me to swallow, and it's even worse for me than for you. God's been really hard on me.'",
+      "They all started crying again. Orpah kissed her mother-in-law goodbye, but Ruth just hugged her and wouldn't let go.",
+      "Naomi said, 'Look, your sister-in-law is going back to her people and her gods. You should go with her.'",
+      "But Ruth was like, 'Don't make me leave you. Don't make me go back. Where you go, I'll go. Where you live, I'll live. Your people are my people, your God is my God. Where you die, I'll die, and that's where I'll be buried. I swear to God, not even death will come between us.'",
+      "When Naomi saw that Ruth was dead serious about going with her, she just gave in. So the two of them kept traveling together to Bethlehem.",
+      "When they got to Bethlehem, the whole town was buzzing. Everyone was like, 'Is that really Naomi? After all this time!'",
+      "But she told them, 'Don't call me Naomi; call me Bitter. The Almighty has dealt me a bitter hand. I left here with a full life, and God brought me back with nothing. Why would you call me Naomi? God sure doesn't. The Almighty has ruined me.'",
+      "So Naomi was back, and Ruth, the foreigner from Moab, was with her. They got to Bethlehem right at the start of the barley harvest."
+    ],
+    "verseRanges": [
+      "1-2",
+      "3-5",
+      "6-7",
+      "8-9",
+      "10",
+      "11-13",
+      "14",
+      "15",
+      "16-17",
+      "18-19",
+      "18-19",
+      "20-21",
+      "22"
+    ],
+    "msg_ranges": [
+      "1-2",
+      "3-5",
+      "6-7",
+      "8-9",
+      "10",
+      "11-13",
+      "14",
+      "15",
+      "16-17",
+      "18-19",
+      "20-21",
+      "22"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "18-19",
+        "note": "MSG 18-19 split: para 9 is Naomi giving in + traveling (badged '18-19'), para 10 is the Bethlehem arrival buzz (badged '18-19')",
+        "paras": [
+          9,
+          10
+        ]
+      }
+    ],
+    "changes": [
+      "badges corrected to MSG ranges (para 2 '5-6'->'6-7', para 3 '7-8'->'8-9', para 4 '8-9'->'10', para 5 '10-13'->'11-13')",
+      "split declared for MSG 18-19 across paras 9-10",
+      "title toned down ('Real MVP' removed)",
+      "Ch1: restored MSG 1-2 'Ephrathites from Bethlehem in Judah'"
+    ],
+    "confirmations_needed": [
+      "Ruth1 split of MSG 18-19 across paras 9-10 — confirm split is OK"
     ]
-   }
-  ],
-  "changes": [
-   "badges corrected to MSG ranges (para 2 '5-6'->'6-7', para 3 '7-8'->'8-9', para 4 '8-9'->'10', para 5 '10-13'->'11-13')",
-   "split declared for MSG 18-19 across paras 9-10",
-   "title toned down ('Real MVP' removed)",
-   "Ch1: restored MSG 1-2 'Ephrathites from Bethlehem in Judah'"
-  ],
-  "confirmations_needed": [
-   "Ruth1 split of MSG 18-19 across paras 9-10 — confirm split is OK"
-  ]
- },
- {
-  "chapter": 2,
-  "title": "Ruth's Lucky Break at Boaz's Farm",
-  "paragraphs": [
-   "So, plot twist—Naomi actually had this super-rich and important relative from her husband's side of the family. Dude's name was Boaz.",
-   "One day, Ruth, who was still kinda the new girl from Moab, told Naomi, 'Hey, I'm gonna go out and try to find some work. I'll just follow behind the harvest crews and pick up the leftovers. Hopefully, someone will be cool about it.'",
-   "Naomi was like, 'Go for it, sweetie.'",
-   "So Ruth headed out. She started picking up leftover grain in a random field, trailing the main crew. And guess what? She just happened to end up in the part of the field that belonged to Boaz, the rich relative. A bit later, Boaz himself showed up from town and said to his workers, 'Yo, God be with you!' And they were all like, 'And with you too, boss!'",
-   "Boaz spotted Ruth and asked his crew leader, 'Yo, who's that girl? Where's she from?'",
-   "The foreman was like, 'Oh, that's the girl from Moab who came back with Naomi. She was super polite and asked if she could just follow the crew and gather the leftovers. And lowkey, she's been grinding nonstop since this morning.'",
-   "So Boaz went up to Ruth and said, 'Hey, listen. From now on, don't bother going to any other fields. Just stay here. Stick with my crew of girls, follow where they're working, and you'll be good. And don't even trip, I told my guys not to give you a hard time. If you get thirsty, just go help yourself to the water they brought.'",
-   "She literally fell to her knees, face to the ground, and was like, 'Whoa, why are you being so nice to me? I'm not even from around here.'",
-   "Boaz told her, 'Nah, for real, I've heard all about you. I heard how you've been a real one to your mother-in-law since her husband died, and how you left your own family and country to come live with total strangers. May God bless you big time for what you've done—and with a generous bonus besides. You came to God for protection under his wings, and he's got you covered.'",
-   "She said, 'Wow, sir, you're being way too kind. I don't deserve this. You've seriously made my day, treating me like I'm one of your own people, even though I'm not.'",
-   "When it was lunchtime, Boaz called her over, 'Come on, have some bread with us. You can dip it in the wine.'",
-   "So she sat with the crew. Boaz passed her some roasted grain, and she ate until she was full and even had leftovers.",
-   "When she got up to go back to work, Boaz gave his crew a secret order: 'Let her gather grain even from the main piles. Make it easy for her. Actually, you know what? Pull out some of the good stuff and just leave it on the ground for her. Give her the special treatment.'",
-   "Ruth worked in the field until it got dark. When she separated the grain from the stalks, she had a whole bag of barley! She packed it all up, went back to town, and showed her mother-in-law how much she got. She also gave her the leftovers from lunch.",
-   "Naomi was shook. 'Where did you even work today? Whose field was it? God bless whoever was so good to you!'",
-   "Ruth told her, 'The guy I worked for today? His name is Boaz.'",
-   "Naomi said to her, 'No way! God bless him! See? God hasn't totally forgotten about us. He still loves us, through the good and the bad!'",
-   "Naomi kept going, 'Ruth, that man is one of our family's special protectors, a super close relative!'",
-   "Ruth was like, 'Get this—he also told me to stick with his workers until the whole harvest is done.'",
-   "Naomi said, 'That's amazing, sweetie! Definitely do that. You'll be safe with his crew. No more worrying about getting hurt in some random field.'",
-   "So Ruth did just that. She stuck close to Boaz's female workers, gathering grain every day until both the barley and wheat harvests were over. And she kept living with her mother-in-law."
-  ],
-  "verseRanges": [
-   "1",
-   "2",
-   "2",
-   "3-4",
-   "5",
-   "6-7",
-   "8-9",
-   "10",
-   "11-12",
-   "13",
-   "14",
-   "14",
-   "15-16",
-   "17-18",
-   "19",
-   "19",
-   "20",
-   "20",
-   "21",
-   "22",
-   "23"
-  ],
-  "msg_ranges": [
-   "1",
-   "2",
-   "3-4",
-   "5",
-   "6-7",
-   "8-9",
-   "10",
-   "11-12",
-   "13",
-   "14",
-   "15-16",
-   "17-18",
-   "19",
-   "20",
-   "21",
-   "22",
-   "23"
-  ],
-  "merges": [],
-  "splits": [
-   {
-    "msg_range": "14",
-    "note": "MSG 14 split: para 10 is the lunch invitation (badged '14'), para 11 is the meal (badged '14')",
-    "paras": [
-     10,
-     11
+  },
+  {
+    "chapter": 2,
+    "title": "Ruth's Lucky Break at Boaz's Farm",
+    "paragraphs": [
+      "So, plot twist—Naomi actually had this super-rich and important relative from her husband's side of the family. Dude's name was Boaz.",
+      "One day, Ruth, the Moabite foreigner who was still kinda the new girl in town, told Naomi, 'Hey, I'm gonna go out and try to find some work. I'll just follow behind the harvest crews and pick up the leftovers. Hopefully, someone will be cool about it.'",
+      "Naomi was like, 'Go for it, sweetie.'",
+      "So Ruth headed out. She started picking up leftover grain in a random field, trailing the main crew. And guess what? She just happened to end up in the part of the field that belonged to Boaz, her father-in-law Elimelech's relative. A bit later, Boaz himself showed up from town and said to his workers, 'Yo, God be with you!' And they were all like, 'And with you too, boss!'",
+      "Boaz spotted Ruth and asked his crew leader, 'Yo, who's that girl? Where's she from?'",
+      "The foreman was like, 'Oh, that's the Moabite girl who came back with Naomi. She was super polite and asked if she could just follow the crew and gather the leftovers. And lowkey, she's been grinding nonstop since this morning.'",
+      "So Boaz went up to Ruth and said, 'Hey, listen. From now on, don't bother going to any other fields. Just stay here. Stick with my crew of girls, follow where they're working, and you'll be good. And don't even trip, I told my guys not to give you a hard time. If you get thirsty, just go help yourself to the water they brought.'",
+      "She literally fell to her knees, face to the ground, and was like, 'Whoa, why are you being so nice to me? I'm not even from around here.'",
+      "Boaz told her, 'Nah, for real, I've heard all about you. I heard how you've been a real one to your mother-in-law since her husband died, and how you left your own family and country to come live with total strangers. May God bless you big time for what you've done—and with a generous bonus besides. You came to God for protection under his wings, and he's got you covered.'",
+      "She said, 'Wow, sir, you're being way too kind. I don't deserve this. You've seriously made my day, treating me like I'm one of your own people, even though I'm not.'",
+      "When it was lunchtime, Boaz called her over, 'Come on, have some bread with us. You can dip it in the wine.'",
+      "So she sat with the crew. Boaz passed her some roasted grain, and she ate until she was full and even had leftovers.",
+      "When she got up to go back to work, Boaz gave his crew a secret order: 'Let her gather grain even from the main piles. Make it easy for her. Actually, you know what? Pull out some of the good stuff and just leave it on the ground for her. Give her the special treatment.'",
+      "Ruth worked in the field until it got dark. When she separated the grain from the stalks, she had a whole bag of barley! She packed it all up, went back to town, and showed her mother-in-law how much she got. She also gave her the leftovers from lunch.",
+      "Naomi was shook. 'Where did you even work today? Whose field was it? God bless whoever was so good to you!'",
+      "Ruth told her, 'The guy I worked for today? His name is Boaz.'",
+      "Naomi said to her, 'No way! God bless him! See? God hasn't totally forgotten about us. He still loves us, through the good and the bad!'",
+      "Naomi kept going, 'Ruth, that man is one of our family's special protectors, a super close relative!'",
+      "Ruth the Moabite was like, 'Get this—he also told me to stick with his workers until the whole harvest is done.'",
+      "Naomi said, 'That's amazing, sweetie! Definitely do that. You'll be safe with his crew. No more worrying about getting hurt in some random field.'",
+      "So Ruth did just that. She stuck close to Boaz's female workers, gathering grain every day until both the barley and wheat harvests were over. And she kept living with her mother-in-law."
+    ],
+    "verseRanges": [
+      "1",
+      "2",
+      "2",
+      "3-4",
+      "5",
+      "6-7",
+      "8-9",
+      "10",
+      "11-12",
+      "13",
+      "14",
+      "14",
+      "15-16",
+      "17-18",
+      "19",
+      "19",
+      "20",
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "msg_ranges": [
+      "1",
+      "2",
+      "3-4",
+      "5",
+      "6-7",
+      "8-9",
+      "10",
+      "11-12",
+      "13",
+      "14",
+      "15-16",
+      "17-18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "14",
+        "note": "MSG 14 split: para 10 is the lunch invitation (badged '14'), para 11 is the meal (badged '14')",
+        "paras": [
+          10,
+          11
+        ]
+      },
+      {
+        "msg_range": "19",
+        "note": "MSG 19 split: para 14 is Naomi's question (badged '19'), para 15 is Ruth's answer (badged '19')",
+        "paras": [
+          14,
+          15
+        ]
+      },
+      {
+        "msg_range": "2",
+        "note": "MSG 2 split: para 1 is Ruth's request (badged '2'), para 2 is Naomi's permission (badged '2')",
+        "paras": [
+          1,
+          2
+        ]
+      },
+      {
+        "msg_range": "20",
+        "note": "MSG 20 split: para 16 is Naomi's praise (badged '20'), para 17 is the kinsman-redeemer note (badged '20')",
+        "paras": [
+          16,
+          17
+        ]
+      }
+    ],
+    "changes": [
+      "badges corrected to MSG ranges",
+      "splits declared for MSG 2, 14, 19, 20",
+      "Ch2: restored MSG 2:12 'a generous bonus besides' + 'under his wings' (KO는 이미 보유)",
+      "Ch2: restored MSG 2 'Ruth, the Moabite foreigner' (KO는 이미 보유)",
+      "Ch2: restored MSG 3-4 'her father-in-law Elimelech's relative' (KO는 이미 보유)",
+      "Ch2: restored MSG 6-7 'the Moabite girl' (KO는 이미 보유)",
+      "Ch2: restored MSG 21 'Ruth the Moabite' (KO는 이미 보유)"
+    ],
+    "confirmations_needed": [
+      "Ruth2 splits of MSG 2, 14, 19, 20 — confirm splits are OK"
     ]
-   },
-   {
-    "msg_range": "19",
-    "note": "MSG 19 split: para 14 is Naomi's question (badged '19'), para 15 is Ruth's answer (badged '19')",
-    "paras": [
-     14,
-     15
+  },
+  {
+    "chapter": 3,
+    "title": "Ruth Makes a BOLD Move on Boaz",
+    "paragraphs": [
+      "One day, her mother-in-law Naomi hit her up like, “My dear daughter, for real, isn’t it time I found you a good home so you can be happy? And you know Boaz, our relative whose crew you’ve been working with? It’s go time. Tonight, he’s at the threshing floor for the barley harvest party.”",
+      "“So, go take a shower, put on some nice perfume, get all dressed up, and head to the threshing floor. But lowkey, don’t let him see you until the party’s wrapping up and he’s had a good meal and some drinks. When you see him going to sleep, peep where he lies down. Then, go and lie down at his feet. That’s the signal that you’re open to marrying him. Then just wait and see what he says. He’ll tell you what to do.”",
+      "Ruth was like, “Say less. I’ll do exactly what you said.”",
+      "So she went down to the threshing floor and did everything her mother-in-law told her to do.",
+      "Boaz was having a great time, eating and drinking until he felt amazing. Then he went to crash for the night at the end of a big pile of barley. Ruth quietly followed him and lay down at his feet to show she was available for marriage.",
+      "In the middle of the night, the guy suddenly woke up and sat up, like, “Whoa, what’s going on?” He saw a woman sleeping at his feet!",
+      "He asked, “Who are you?”",
+      "She said, “It’s me, Ruth, your servant. Take me under your wing and protect me. You’re a close relative, part of the family who can redeem me, so you have the right to marry me.”",
+      "He said, “God bless you, my dear daughter! This is a huge sign of your love. You could’ve gone for any of the younger guys around here. Now, don’t you worry about a thing. I’ll do everything you want. Everyone in town knows you’re a woman of courage—a total catch! You’re right, I am a close relative, but there’s actually someone who’s an even closer relative than me. So, just stay here for the rest of the night. In the morning, if he wants to step up and do his duty as the closest family redeemer, he’ll get his chance. But if he’s not about it, then as God is my witness, I’ll do it. Now, go back to sleep until the morning.”",
+      "Ruth slept at his feet until dawn, but she got up while it was still dark so no one would recognize her. Boaz thought to himself, “Nobody can know that Ruth came to the threshing floor.”",
+      "So Boaz told her, “Bring the shawl you’re wearing and spread it out.”",
+      "She spread it out, and he poured six big scoops of barley into it and helped her put it on her shoulders. Then she headed back to town.",
+      "When she got back to her mother-in-law, Naomi asked, “So, how did it go, my dear daughter?”",
+      "Ruth told her everything the man had done for her, and added, “And he gave me all this barley, too—six quarts of it! He said, ‘You can’t go back to your mother-in-law with nothing!’”",
+      "Naomi said, “Just chill and be patient, my dear daughter, until we see how this all plays out. This man isn’t going to waste any time. I’m telling you, he’s going to get this all sorted out today.”"
+    ],
+    "verseRanges": [
+      "1-2",
+      "3-4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "9",
+      "10-13",
+      "14",
+      "15",
+      "15",
+      "16",
+      "16-17",
+      "18"
+    ],
+    "msg_ranges": [
+      "1-2",
+      "3-4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10-13",
+      "14",
+      "15",
+      "16-17",
+      "18"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "15",
+        "note": "MSG 15 split: para 10 is the shawl instruction (badged '15'), para 11 is the barley pouring (badged '15')",
+        "paras": [
+          10,
+          11
+        ]
+      },
+      {
+        "msg_range": "16",
+        "note": "MSG 16 split: para 12 is Naomi's question (badged '16'), para 13 is Ruth's report (badged '16-17')",
+        "paras": [
+          12,
+          13
+        ]
+      },
+      {
+        "msg_range": "9",
+        "note": "MSG 9 split: para 6 is Boaz's question (badged '9'), para 7 is Ruth's answer (badged '9')",
+        "paras": [
+          6,
+          7
+        ]
+      }
+    ],
+    "changes": [
+      "splits declared for MSG 9, 15, 16"
+    ],
+    "confirmations_needed": [
+      "Ruth3 splits of MSG 9, 15, 16 — confirm splits are OK"
     ]
-   },
-   {
-    "msg_range": "2",
-    "note": "MSG 2 split: para 1 is Ruth's request (badged '2'), para 2 is Naomi's permission (badged '2')",
-    "paras": [
-     1,
-     2
+  },
+  {
+    "chapter": 4,
+    "title": "The Ultimate Marriage Deal",
+    "paragraphs": [
+      "So Boaz went straight to the main town square and sat down. It wasn't long before that \"closer relative\" he mentioned earlier happened to walk by.",
+      "\"Yo, my man,\" Boaz called out. \"Come have a seat.\" The guy sat down.",
+      "Boaz then got ten of the town elders and was like, \"Sit with us, we've got some business to handle.\" And they sat down.",
+      "Boaz then said to the relative, \"So, that piece of land that belonged to our relative Elimelech is being sold by his widow Naomi, who just got back from Moab. I figured you should know. If you want it, you can buy it back, and we can make it official right here in front of everyone. You've got first dibs. If you don't want it, just tell me so I know what's up. You're first in line, and I'm next.\"",
+      "He said, \"I'll buy it.\"",
+      "Then Boaz dropped this on him: \"You get that when you buy the field from Naomi, you also get Ruth, the Moabite woman who was married to our dead relative. That means you have to marry her and have kids to carry on his family name and inheritance.\"",
+      "The relative was like, \"Whoa, I can't do that. That would totally mess up my own family's inheritance. You go ahead and buy it. You can have my rights to it. I'm out.\"",
+      "Back in the day in Israel, this is how they sealed the deal on property and inheritance stuff: a guy would take off his sandal and give it to the other person. It was like a legally binding signature.",
+      "So when the other relative told Boaz, \"Go ahead and buy it,\" he took off his sandal to make it official.",
+      "Boaz then stood up and told the elders and everyone there, \"You are all witnesses today that I have bought everything from Naomi that belonged to Elimelech, Kilion, and Mahlon. That includes taking responsibility for Ruth the foreigner, Mahlon's widow. I'll marry her to keep her late husband's name alive with his inheritance. His memory and reputation won't be erased from his family or this town. You are all witnesses to this today.\"",
+      "All the people in the square, along with the elders, were like, \"Yes, we are witnesses! May God make this woman coming into your home like Rachel and Leah, who basically built the nation of Israel. May you become a big deal in Ephrathah and famous in Bethlehem! And with the kids God gives you through this young woman, may your family be as legendary as the family of Perez, the son Tamar had with Judah.\"",
+      "So Boaz married Ruth. She became his wife, and they slept together. God was super gracious and she got pregnant and had a son.",
+      "The women of the town told Naomi, \"Praise God! He didn't leave you without someone to take care of you. May this baby become famous in Israel! He's gonna make you feel young again and take care of you when you're old. And your daughter-in-law who loves you so much and gave you this baby? Man, she's worth more to you than seven sons!\"",
+      "Naomi took the baby and held him in her arms, cuddling him, cooing over him, and just totally doting on him.",
+      "The neighborhood women started calling him \"Naomi's little boy!\" but his actual name was Obed. Obed was the father of Jesse, and Jesse was the father of David.",
+      "And here's the family tree of Perez, just for the record:",
+      "Perez had Hezron,",
+      "Hezron had Ram,",
+      "Ram had Amminadab,",
+      "Amminadab had Nahshon,",
+      "Nahshon had Salmon,",
+      "Salmon had Boaz,",
+      "Boaz had Obed,",
+      "Obed had Jesse,",
+      "and Jesse had David."
+    ],
+    "verseRanges": [
+      "1",
+      "1",
+      "2",
+      "3-4",
+      "3-4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9-10",
+      "11-12",
+      "13",
+      "14-15",
+      "16",
+      "17",
+      "18-22",
+      "18-22",
+      "18-22",
+      "18-22",
+      "18-22",
+      "18-22",
+      "18-22",
+      "18-22",
+      "18-22",
+      "18-22"
+    ],
+    "msg_ranges": [
+      "1",
+      "2",
+      "3-4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9-10",
+      "11-12",
+      "13",
+      "14-15",
+      "16",
+      "17",
+      "18-22"
+    ],
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "1",
+        "note": "MSG 1 split: para 0 is Boaz at the square + relative passing (badged '1'), para 1 is the greeting (badged '1')",
+        "paras": [
+          0,
+          1
+        ]
+      },
+      {
+        "msg_range": "18-22",
+        "note": "MSG 18-22 (Perez genealogy) split across paras 15-24: para 15 intro + paras 16-24 one line each (all badged '18-22')",
+        "paras": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "msg_range": "3-4",
+        "note": "MSG 3-4 split: para 3 is Boaz's offer (badged '3-4'), para 4 is the relative's acceptance (badged '3-4')",
+        "paras": [
+          3,
+          4
+        ]
+      }
+    ],
+    "changes": [
+      "badges corrected: para 0 '1-2'->'1', para 10 '10-12'->'11-12'",
+      "fixed null badge on para 15 (genealogy intro) -> '18-22'",
+      "splits declared for MSG 1, 3-4, 18-22"
+    ],
+    "confirmations_needed": [
+      "Ruth4 splits of MSG 1, 3-4, 18-22 — confirm splits are OK"
     ]
-   },
-   {
-    "msg_range": "20",
-    "note": "MSG 20 split: para 16 is Naomi's praise (badged '20'), para 17 is the kinsman-redeemer note (badged '20')",
-    "paras": [
-     16,
-     17
-    ]
-   }
-  ],
-  "changes": [
-   "badges corrected to MSG ranges",
-   "splits declared for MSG 2, 14, 19, 20",
-   "Ch2: restored MSG 2:12 'a generous bonus besides' + 'under his wings' (KO는 이미 보유)"
-  ],
-  "confirmations_needed": [
-   "Ruth2 splits of MSG 2, 14, 19, 20 — confirm splits are OK"
-  ]
- },
- {
-  "chapter": 3,
-  "title": "Ruth Makes a BOLD Move on Boaz",
-  "paragraphs": [
-   "One day, her mother-in-law Naomi hit her up like, “My dear daughter, for real, isn’t it time I found you a good home so you can be happy? And you know Boaz, our relative whose crew you’ve been working with? It’s go time. Tonight, he’s at the threshing floor for the barley harvest party.”",
-   "“So, go take a shower, put on some nice perfume, get all dressed up, and head to the threshing floor. But lowkey, don’t let him see you until the party’s wrapping up and he’s had a good meal and some drinks. When you see him going to sleep, peep where he lies down. Then, go and lie down at his feet. That’s the signal that you’re open to marrying him. Then just wait and see what he says. He’ll tell you what to do.”",
-   "Ruth was like, “Say less. I’ll do exactly what you said.”",
-   "So she went down to the threshing floor and did everything her mother-in-law told her to do.",
-   "Boaz was having a great time, eating and drinking until he felt amazing. Then he went to crash for the night at the end of a big pile of barley. Ruth quietly followed him and lay down at his feet to show she was available for marriage.",
-   "In the middle of the night, the guy suddenly woke up and sat up, like, “Whoa, what’s going on?” He saw a woman sleeping at his feet!",
-   "He asked, “Who are you?”",
-   "She said, “It’s me, Ruth, your servant. Take me under your wing and protect me. You’re a close relative, part of the family who can redeem me, so you have the right to marry me.”",
-   "He said, “God bless you, my dear daughter! This is a huge sign of your love. You could’ve gone for any of the younger guys around here. Now, don’t you worry about a thing. I’ll do everything you want. Everyone in town knows you’re a woman of courage—a total catch! You’re right, I am a close relative, but there’s actually someone who’s an even closer relative than me. So, just stay here for the rest of the night. In the morning, if he wants to step up and do his duty as the closest family redeemer, he’ll get his chance. But if he’s not about it, then as God is my witness, I’ll do it. Now, go back to sleep until the morning.”",
-   "Ruth slept at his feet until dawn, but she got up while it was still dark so no one would recognize her. Boaz thought to himself, “Nobody can know that Ruth came to the threshing floor.”",
-   "So Boaz told her, “Bring the shawl you’re wearing and spread it out.”",
-   "She spread it out, and he poured six big scoops of barley into it and helped her put it on her shoulders. Then she headed back to town.",
-   "When she got back to her mother-in-law, Naomi asked, “So, how did it go, my dear daughter?”",
-   "Ruth told her everything the man had done for her, and added, “And he gave me all this barley, too—six quarts of it! He said, ‘You can’t go back to your mother-in-law with nothing!’”",
-   "Naomi said, “Just chill and be patient, my dear daughter, until we see how this all plays out. This man isn’t going to waste any time. I’m telling you, he’s going to get this all sorted out today.”"
-  ],
-  "verseRanges": [
-   "1-2",
-   "3-4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "9",
-   "10-13",
-   "14",
-   "15",
-   "15",
-   "16",
-   "16-17",
-   "18"
-  ],
-  "msg_ranges": [
-   "1-2",
-   "3-4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9",
-   "10-13",
-   "14",
-   "15",
-   "16-17",
-   "18"
-  ],
-  "merges": [],
-  "splits": [
-   {
-    "msg_range": "15",
-    "note": "MSG 15 split: para 10 is the shawl instruction (badged '15'), para 11 is the barley pouring (badged '15')",
-    "paras": [
-     10,
-     11
-    ]
-   },
-   {
-    "msg_range": "16",
-    "note": "MSG 16 split: para 12 is Naomi's question (badged '16'), para 13 is Ruth's report (badged '16-17')",
-    "paras": [
-     12,
-     13
-    ]
-   },
-   {
-    "msg_range": "9",
-    "note": "MSG 9 split: para 6 is Boaz's question (badged '9'), para 7 is Ruth's answer (badged '9')",
-    "paras": [
-     6,
-     7
-    ]
-   }
-  ],
-  "changes": [
-   "splits declared for MSG 9, 15, 16"
-  ],
-  "confirmations_needed": [
-   "Ruth3 splits of MSG 9, 15, 16 — confirm splits are OK"
-  ]
- },
- {
-  "chapter": 4,
-  "title": "The Ultimate Marriage Deal",
-  "paragraphs": [
-   "So Boaz went straight to the main town square and sat down. It wasn't long before that \"closer relative\" he mentioned earlier happened to walk by.",
-   "\"Yo, my man,\" Boaz called out. \"Come have a seat.\" The guy sat down.",
-   "Boaz then got ten of the town elders and was like, \"Sit with us, we've got some business to handle.\" And they sat down.",
-   "Boaz then said to the relative, \"So, that piece of land that belonged to our relative Elimelech is being sold by his widow Naomi, who just got back from Moab. I figured you should know. If you want it, you can buy it back, and we can make it official right here in front of everyone. You've got first dibs. If you don't want it, just tell me so I know what's up. You're first in line, and I'm next.\"",
-   "He said, \"I'll buy it.\"",
-   "Then Boaz dropped this on him: \"You get that when you buy the field from Naomi, you also get Ruth, the Moabite woman who was married to our dead relative. That means you have to marry her and have kids to carry on his family name and inheritance.\"",
-   "The relative was like, \"Whoa, I can't do that. That would totally mess up my own family's inheritance. You go ahead and buy it. You can have my rights to it. I'm out.\"",
-   "Back in the day in Israel, this is how they sealed the deal on property and inheritance stuff: a guy would take off his sandal and give it to the other person. It was like a legally binding signature.",
-   "So when the other relative told Boaz, \"Go ahead and buy it,\" he took off his sandal to make it official.",
-   "Boaz then stood up and told the elders and everyone there, \"You are all witnesses today that I have bought everything from Naomi that belonged to Elimelech, Kilion, and Mahlon. That includes taking responsibility for Ruth the foreigner, Mahlon's widow. I'll marry her to keep her late husband's name alive with his inheritance. His memory and reputation won't be erased from his family or this town. You are all witnesses to this today.\"",
-   "All the people in the square, along with the elders, were like, \"Yes, we are witnesses! May God make this woman coming into your home like Rachel and Leah, who basically built the nation of Israel. May you become a big deal in Ephrathah and famous in Bethlehem! And with the kids God gives you through this young woman, may your family be as legendary as the family of Perez, the son Tamar had with Judah.\"",
-   "So Boaz married Ruth. She became his wife, and they slept together. God was super gracious and she got pregnant and had a son.",
-   "The women of the town told Naomi, \"Praise God! He didn't leave you without someone to take care of you. May this baby become famous in Israel! He's gonna make you feel young again and take care of you when you're old. And your daughter-in-law who loves you so much and gave you this baby? Man, she's worth more to you than seven sons!\"",
-   "Naomi took the baby and held him in her arms, cuddling him, cooing over him, and just totally doting on him.",
-   "The neighborhood women started calling him \"Naomi's little boy!\" but his actual name was Obed. Obed was the father of Jesse, and Jesse was the father of David.",
-   "And here's the family tree of Perez, just for the record:",
-   "Perez had Hezron,",
-   "Hezron had Ram,",
-   "Ram had Amminadab,",
-   "Amminadab had Nahshon,",
-   "Nahshon had Salmon,",
-   "Salmon had Boaz,",
-   "Boaz had Obed,",
-   "Obed had Jesse,",
-   "and Jesse had David."
-  ],
-  "verseRanges": [
-   "1",
-   "1",
-   "2",
-   "3-4",
-   "3-4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9-10",
-   "11-12",
-   "13",
-   "14-15",
-   "16",
-   "17",
-   "18-22",
-   "18-22",
-   "18-22",
-   "18-22",
-   "18-22",
-   "18-22",
-   "18-22",
-   "18-22",
-   "18-22",
-   "18-22"
-  ],
-  "msg_ranges": [
-   "1",
-   "2",
-   "3-4",
-   "5",
-   "6",
-   "7",
-   "8",
-   "9-10",
-   "11-12",
-   "13",
-   "14-15",
-   "16",
-   "17",
-   "18-22"
-  ],
-  "merges": [],
-  "splits": [
-   {
-    "msg_range": "1",
-    "note": "MSG 1 split: para 0 is Boaz at the square + relative passing (badged '1'), para 1 is the greeting (badged '1')",
-    "paras": [
-     0,
-     1
-    ]
-   },
-   {
-    "msg_range": "18-22",
-    "note": "MSG 18-22 (Perez genealogy) split across paras 15-24: para 15 intro + paras 16-24 one line each (all badged '18-22')",
-    "paras": [
-     15,
-     16,
-     17,
-     18,
-     19,
-     20,
-     21,
-     22,
-     23,
-     24
-    ]
-   },
-   {
-    "msg_range": "3-4",
-    "note": "MSG 3-4 split: para 3 is Boaz's offer (badged '3-4'), para 4 is the relative's acceptance (badged '3-4')",
-    "paras": [
-     3,
-     4
-    ]
-   }
-  ],
-  "changes": [
-   "badges corrected: para 0 '1-2'->'1', para 10 '10-12'->'11-12'",
-   "fixed null badge on para 15 (genealogy intro) -> '18-22'",
-   "splits declared for MSG 1, 3-4, 18-22"
-  ],
-  "confirmations_needed": [
-   "Ruth4 splits of MSG 1, 3-4, 18-22 — confirm splits are OK"
-  ]
- }
+  }
 ]
