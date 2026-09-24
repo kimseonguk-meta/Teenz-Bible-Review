@@ -133,20 +133,21 @@
       "Ch3 p2: removed slang 'plot twist / episode ends'; restored MSG 'Then you'll sit there a long time, empty and alone — no lover, no friend.'",
       "Ch3 p3: removed 'epic finale' style",
       "Ch3 p0: 'love the people of Israel' -> 'love Israelites' (MSG; completeness)",
-      "Ch3 p0: 'love Israelites' -> 'love the Israelite people' (MSG 원문; completeness)"
+      "Ch3 p0: 'love Israelites' -> 'love the Israelite people' (MSG 원문; completeness)",
+      "2nd re-audit (Sep 24): p1 rewritten to MSG 3:2-3 (prior text was non-MSG); p2 rewritten to MSG 3:4 (prior text was KJV-based 3:3); badges p2->4, p3->5"
     ],
     "confirmations_needed": [],
     "paragraphs": [
       "Then God was like, “Alright, do it all over again. Go get your wife back, even though she’s with her new guy. Yeah, your cheating wife. Love her the way I, God, love the Israelite people, even when they’re out there chasing every other god they see.”",
-      "God then told me, “Go out again and love a woman who’s sleeping with other men, just like I love Israelites — because even though I keep loving them, they go after other gods like everything’s fine. They even take gifts to their gods.”",
-      "Then you’ll sit there a long time, empty and alone — no lover, no friend. You’ll wait and you’ll wait for me. I’ll wait and wait for you.",
+      "So I did it. I paid good money to get her back — it cost me the price of a slave. Then I told her, \"From now on, you're living with me. No more cheating, no more sleeping around. You're living with me, and I'm living with you.\"",
+      "Israel's in for a long, rough stretch — no security, no protection, no religion, no comfort. Godless and prayerless.",
       "Then the people of Israel will turn back to God. They’ll come running to God, their God, and to the Son of David, their king. They’ll come trembling, holy awe-struck — they’ll turn and come back, and want a taste of God’s goodness in the last days."
     ],
     "verseRanges": [
       "1",
       "2-3",
-      "4-5",
-      "4-5"
+      "4",
+      "5"
     ],
     "msg_ranges": [
       "1",
@@ -162,26 +163,29 @@
     "changes": [
       "Ch4: msg_ranges normalized to MSG units [1-3, 4-6, 7-10, 11-19]",
       "Ch4 p1: restored MSG 'the more this goes on, the worse it gets'",
-      "Ch4 p2: restored 'Your mother is as bad as you' (MSG); slang trimmed ('iced', 'ghosted', 'trash lifestyle'); ending: 'with nothing' -> 'empty-handed and impotent' (MSG 'sex-worship leaves them impotent')"
+      "Ch4 p2: restored 'Your mother is as bad as you' (MSG); slang trimmed ('iced', 'ghosted', 'trash lifestyle'); ending: 'with nothing' -> 'empty-handed and impotent' (MSG 'sex-worship leaves them impotent')",
+      "2nd re-audit (Sep 24): p1 rewritten to MSG 4:4-6 (prior text was wrong/garbled); p2 badge->7-10 + restored 4 dropped clauses (ruined people/pig out on sins/people-vs-priests/make both pay); NEW p3 = MSG 4:11-14 (entire paragraph was missing); p4 badge->15-19"
     ],
     "confirmations_needed": [],
     "paragraphs": [
       "Yo, Israel, listen up! God's got a major bone to pick with everyone. He's like, 'Nobody's loyal. Nobody's got love. Nobody even gets me.' It's just non-stop cursing, lying, murder, stealing, and sleeping around. Total chaos, just one person getting iced after another. And because of all this, the whole country is basically crying. Everything's messed up—the animals, the birds, even the fish are just floating around, totally dead inside.",
-      "There’s no truth, no faithfulness, and no knowledge of God anywhere in this country! People are constantly cursing, lying, murdering, stealing, and cheating. One murder after another. The more this goes on, the worse it gets. Even the animals and birds and fish are getting so fed up they’re taking off!",
-      "“But don’t try to blame anyone else. Your priests are the main problem! You priests have rejected me, and my knowledge, my revelation, my holy Word. You’ve gotten too big for your britches. So I’ve gotten too big for you. I’m firing you as priests for good. You’ve turned your backs on God’s revelation, so now I’ll forget your children. “The more priests, the more sin. Your mother is as bad as you. You’ve traded God’s glory for the cheap thrills of prostitution. The more sex your people have with false gods, the more I’ll let them do. The worse their sin, the worse I’ll make it. They’ll eat their fill of it — eating the food offered to idols, but never getting enough. They’ll keep having sex with those false gods, but there won’t be any babies. Because they’ve abandoned God, they’ll end up empty-handed and impotent.”",
+      "But don't go looking for someone else to blame. No finger-pointing! You, priest — you're the one on trial here. You stumble around in broad daylight, and then the prophets take over and stumble all night long. And your mother? She's just as bad as you.",
+      "My people are ruined because they don't know what's right or true. You priests turned your backs on knowledge, so I've turned my back on you. You refuse to recognize my revelation, so I'm done recognizing your children. The more priests, the more sin. You traded your glory for shame. You pig out on my people's sins and can't wait for the next evil thing. Now you can't even tell the people from the priests, or the priests from the people. I'm on my way to make you both pay for the wrecked lives you've lived. You'll eat and still be starving, sleep around and never be satisfied — because you walked out on me, your God, for a life of chasing prostitutes.",
+      "Wine and whiskey have my people totally out of it. They're asking questions to a dead tree, expecting answers from a walking stick. Drunk on sex, they can't even find their way home. They've traded their God for their own lust. They worship on mountaintops and make a picnic out of religion. Under the oaks and elms on the hills they stretch out and chill. And before you know it, your daughters are selling themselves and your sons' wives are sleeping around. But I'm not going after your promiscuous daughters or your sons' cheating wives — I'm going after the men who chase the prostitutes, the men who worship at those so-called holy brothels. A stupid people, ruined by prostitutes!",
       "You really messed up your own life, Israel—but don't you dare drag Judah down with you! Don't go to the sex-shrine at Gilgal, and stay away from that sin-city Bethel. And don't go around saying 'God bless' when you don't even mean it, just throwing His name around. Israel is being stubborn, like a mule that won't move. How is God supposed to lead them into a good place like a gentle lamb? Ephraim is literally addicted to his idols. Just let him be. Once the party's over, it's all about sex, sex, and more sex. They love their shameless, dirty lifestyle. But a storm is coming to snatch them up, and their whole sex-worshipping thing will leave them with nothing."
     ],
     "verseRanges": [
       "1-3",
-      "4-10",
+      "4-6",
+      "7-10",
       "11-14",
       "15-19"
     ],
     "msg_ranges": [
       "1-3",
-      "4-6",
-      "7-10",
-      "11-19"
+      "4-10",
+      "11-14",
+      "15-19"
     ]
   },
   {
@@ -194,15 +198,16 @@
       "Ch5 p1: restored 'Every breath you take is a whore's breath' + 'whore-sickness has them in its grip' (softened but complete); 'Your arrogance gives you away — you've fallen flat on your face'; 'bastard offspring'",
       "Ch5 p3: restored 'Blow the shofar in Gibeah! Sound the bugle in Ramah!' (MSG); added closing quote",
       "Ch5 p4: full rewrite — old text ('Israel's leaders are just crooks and thieves') was generic invention, not MSG 11-12; restored: Assyrians/inside track/tumor/pus and oozing sore (MSG)",
-      "Ch5 p1: 'whore's breath'/'whore-sickness' -> 'prostitute's breath'/'prostitute-sickness' (원칙 5 순화; MSG 의미 유지)"
+      "Ch5 p1: 'whore's breath'/'whore-sickness' -> 'prostitute's breath'/'prostitute-sickness' (원칙 5 순화; MSG 의미 유지)",
+      "2nd re-audit (Sep 24): p1 rewritten to faithful MSG 3-4 (removed non-MSG KJV-based tail; restored sex-and-religion games/polluted/bad habit/wouldn't recognize God); p4 rewritten to MSG 5:10 (was rendering 5:13)"
     ],
     "confirmations_needed": [],
     "paragraphs": [
       "Alright, listen up, you priests! And pay attention, people of Israel! Royal family, you better be all ears too! You're supposed to be the ones in charge of justice, but what have you actually been doing? You've been taking advantage of people at Mizpah, scamming them on Tabor, and totally victimizing them at Shittim. So yeah, I'm about to bring the hammer down on all of you.",
-      "“Listen up, you priests! Watch out, Israel! Pay close attention, you kings! God is coming after you! You’re the ones responsible for all this mess at Mizpah and Tabor — those dirty traps you’ve been setting. But now I’m wising up to all your sneaky tricks and I’ll deal with you once and for all. I know where you’ve been, Israel. You can’t fool me. You’re an open book. Every breath you take is a prostitute’s breath — everything you do is an orgy. They can’t turn around, can’t come back to God, because every breath they take is a prostitute’s breath — prostitute-sickness has them in its grip. Your arrogance gives you away — you’ve fallen flat on your face. Israel’s fallen flat on its face. Judah will be right behind. They’ll come with sheep and cattle, but it won’t be enough. They won’t find God — not with things! God’s long gone from this place, totally done with them. “They’ve cheated on God. They’ve sired bastard offspring. But their party won’t last. Before you know it, they’ll be like sickly cattle, with a skin disease that spreads everywhere.”",
+      "I know you, Ephraim, inside and out. Yes, Israel — I see right through you! Ephraim, you've been playing your sex-and-religion games long enough. All of Israel is completely polluted. They couldn't turn to God even if they wanted to. Their evil life is just a bad habit now. Every breath they take is a prostitute's breath. They wouldn't recognize God if they saw him.",
       "Your arrogance is off the charts, and honestly, it's a public embarrassment. All of you—Israel, Ephraim, and Judah—are just stumbling around in your own guilt. And when you finally decide to get your act together and look for God again, it's gonna be too late. I, God, will be long gone. You've been disloyal to me for way too long, and now your country is full of the consequences. A massive plague is about to wreck your trashed land.",
       "“Blow the shofar in Gibeah! Sound the bugle in Ramah! Sound the battle cry in Bethel! “You’re in for a fight, Benjamin! Ephraim is about to be destroyed on the day I take action. I’m telling the tribes of Israel that this is real. “The leaders of Judah are like crooks who move boundary markers. I’ll pour out my anger on them like a flash flood.”",
-      "“Ephraim is smashed to smithereens by the Assyrians — fickle and faithless before their neighbors. He had no faith in his own gods. He was just trying to get an inside track with the Assyrians, trying to get on their good side. But when Ephraim saw he was sick, and Judah saw his own tumorous condition, they went to Assyria for help. They hired the Assyrian king to fix things. But he can’t do anything about it! He can’t heal them! I’ll deal with Ephraim as a pus and with Judah as an oozing sore.”",
+      "Israel's rulers are crooks and thieves, cheating the people out of their land. And I'm angry — really angry. Every inch of their bodies is going to feel my anger.",
       "Ephraim has been brutal, and now he's about to get brutalized himself—a taste of his own medicine. He was so obsessed with doing things his own useless way. Because of that, I'm going to be like an infection to Ephraim, and like a rot that destroys the house of Judah.",
       "When Ephraim realized he was sick and Judah saw his nasty, infected sores, Ephraim ran off to Assyria for help from their 'great' king. But plot twist: he can't heal you. He can't fix the mess you're in.",
       "I'm about to go full-on grizzly bear on Ephraim, and like a mama bear with cubs on Judah. I'll tear them to pieces, for real. No one can stop me. I'll drag them off, and no one will be able to rescue them. Then, I'll go back to my place and wait until they finally get a clue. When they finally hit rock bottom, maybe then they'll start looking for me."
@@ -219,10 +224,13 @@
     ],
     "msg_ranges": [
       "1-2",
-      "3-7",
-      "8-10",
+      "3-4",
+      "5-7",
+      "8-9",
+      "10",
       "11-12",
-      "13-15"
+      "13",
+      "14-15"
     ]
   },
   {
@@ -236,13 +244,14 @@
       "Ch6 p1: removed 'ghosted' style; kept MSG content",
       "Ch6 p2: moved v7 ('broke the covenant — just as they did at Adam... ungrateful as ever') from p1 into p2 (MSG unit 7-9); p2 now covers full 7-9",
       "Ch6 p3: 'shady religious spot' -> 'a religious whorehouse' (MSG)",
-      "Ch6 p0: restored 'on the third day' (MSG; completeness)"
+      "Ch6 p0: restored 'on the third day' (MSG; completeness)",
+      "2nd re-audit (Sep 24): p1 EN restored MSG 4:7 tail (Adam covenant; KO already had it); p2 EN/KO removed misplaced 4-7 duplicate, restored 'blood on sidewalks/streets' + 'nothing is sacred to them'"
     ],
     "confirmations_needed": [],
     "paragraphs": [
       "“Come on, let’s go back to God. God’s the one who mauled us — but now God’s ready to heal us. God wounded us — but now God will put on bandages. In a day or two God will heal us. Then on the third day we’ll be right up on our feet with God at our side, and we’ll know what it’s like to really know God! We’ll know God as well as we know the dawn — we’ll know that God is coming, like winter rain, like spring rain, watering the fields.”",
-      "“What am I ever going to do with you? Oh, Ephraim! Oh, Judah! Your love evaporates in the morning dew, disappears like the morning fog. That’s why I’ve attacked them through my prophets and slaughtered them with my words — my judgment comes like lightning. I’m after love that lasts, not religion. I want you to know God, not go to more prayer meetings.",
-      "“They broke the covenant — just as they did at Adam. They betrayed me, ungrateful as ever. Gilead, crime city! Horrors on every street! As robbers ambush travelers, so gangs of priests murder people on their way to Shechem. They’re a bunch of no-good scoundrels.”",
+      "“What am I ever going to do with you? Oh, Ephraim! Oh, Judah! Your love evaporates in the morning dew, disappears like the morning fog. That’s why I’ve attacked them through my prophets and slaughtered them with my words — my judgment comes like lightning. I’m after love that lasts, not religion. I want you to know God, not go to more prayer meetings. You broke the covenant — just like Adam! You broke faith with me, you ungrateful wretches!",
+      "\"Gilead has become Crime City — blood on the sidewalks, blood on the streets! It used to be robbers mugging people on the road. Now it's gangs of priests attacking worshipers on their way to Shechem. Nothing is sacred to them anymore.\"",
       "“But I’ve seen a sickening sight in Israel’s house: Ephraim acting like a religious prostitute, Israel stinking to high heaven — a religious whorehouse!”",
       "And you're just as bad, Judah. You've been out here living wild. Well, guess what? It's harvest time."
     ],
@@ -255,9 +264,10 @@
     ],
     "msg_ranges": [
       "1-3",
-      "4-6",
-      "7-9",
-      "10-11"
+      "4-7",
+      "8-9",
+      "10",
+      "11"
     ]
   },
   {
@@ -318,11 +328,12 @@
     "changes": [
       "Ch8: msg_ranges normalized to MSG units [1-3, 4-10, 11-14]",
       "Ch8 p1: 'their wild life' -> 'their promiscuous life' (MSG 'their whoring life', softened per 원칙 5); 'piece of junk' (x2) -> first one 'that rubbish' (MSG)",
-      "Ch8 p2: \"I'm so done\" -> \"I'm fed up\" (MSG)"
+      "Ch8 p2: \"I'm so done\" -> \"I'm fed up\" (MSG)",
+      "2nd re-audit (Sep 24): p0 restored MSG 'Predictably' (EN/KO)"
     ],
     "confirmations_needed": [],
     "paragraphs": [
-      "“Yo, blow the trumpet! Sound the alarm! Vultures are literally circling over God’s people because they completely broke my covenant and ignored my rules. And what’s their response? They cry out, ‘My God! We know you!’ but their actions are screaming the opposite. Israel wants nothing to do with what’s good, and now the enemy is hot on their trail.",
+      "“Yo, blow the trumpet! Sound the alarm! Vultures are literally circling over God’s people because they completely broke my covenant and ignored my rules. And predictably, what’s their response? They cry out, ‘My God! We know you!’ but their actions are screaming the opposite. Israel wants nothing to do with what’s good, and now the enemy is hot on their trail.",
       "They’re crowning kings without even asking me. They set up princes but totally left me out of the loop. Instead, they’re making idols from their silver and gold, and those very idols are gonna be their downfall. Just throw that gold calf-god on the trash heap, Samaria! I’m seething with anger against that rubbish! How long until they finally get it together? And they’re supposed to be Israelites! A sculptor made that thing — it’s not God. That Samaritan calf is going to be broken to bits. Look at them! They’re planting wind-seeds, and they’re about to harvest a whole tornado. Their wheat has no head, so it makes no flour. And even if it did, strangers would just come and wolf it down. Israel is swallowed up and spit right back out. Among the other nations, they’re seen as a piece of junk. They ran off to Assyria — like, seriously? Even wild donkeys stick with their own kind, but Ephraim is out there paying to get lovers. Now, because of their promiscuous life among the pagans, I’m going to gather them all and confront them. They’re about to reap the consequences and feel what it’s like to be crushed by a powerful king.",
       "Ephraim has built a ton of altars, and then he turns around and uses them for sinning. Can you even believe that? Altars for sinning! I write out my revelation for them in super clear detail, and they act like they can’t even read it. They offer sacrifices to me and then just feast on the meat themselves. God is not pleased. I’m fed up — I’ll keep remembering their guilt. I’m going to punish their sins and send them straight back to Egypt. Israel has forgotten his Maker and gotten busy building palaces. Judah has gone all-in on building fortress cities. Well, I’m sending fire on their cities to burn down every single one of their fortifications.”"
     ],

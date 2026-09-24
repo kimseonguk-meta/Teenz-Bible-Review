@@ -183,3 +183,35 @@ merge/split은 스탠딩 승인 규칙(내용 온전·EN/KO 일치·순수 가�
   Google Docs API 테이블 수·export-back·제목.
 - 미확인 경계: 앱 화면 렌더링은 이번 감사 범위에 포함되지 않음
   (구약은 production 앱에 반영하지 않음).
+
+---
+
+## 2nd re-audit (Sep 24)
+
+2nd-pass, MSG-원문 기준 14장 전수 재대조 (원문→Teen EN 문장 단위).
+
+### checker 후보 3건 분류
+- ch4 idx0 number `1` → 오탐 ("the first thing"의 서수, EN "Nobody even gets me." 의미 보존)
+- ch4 idx1 number `1` (수정 후 해소) → "the one in the dock" 의도, 복원된 EN에 정확히 반영됨
+- ch8 idx0 `predictably` → **실제 누락이었음**. EN/KO에 "예상대로" 의미가 없었음 → 복원 ("And predictably, what's their response?" / "근데 뻔하게도,")
+
+### 실제 복원 (이전 감사 문서가 "완료/오탐"이라 주장했으나 직접 대조 결과 누락·오류)
+1. **3장 idx1 (badge 2-3)**: MSG 3:2-3과 무관한 내용(비 MSG)을 완전 재작성 — "I paid good money to get her back. It cost me the price of a slave." 복원.
+2. **3장 idx2 (badge 4)**: MSG 3:4 재작성 — "The people of Israel are going to live a long time stripped of security and protection, without religion and comfort, godless and prayerless." (기존은 KJV 기반 3:3 내용). idx3 badge 5로 분리.
+3. **4장 idx1 (badge 4-6)**: MSG 4:4-6 복원 — "No finger pointing! You, priest, are the one in the dock... Your mother is as bad as you." (기존은 1-3 내용의 변형 중복).
+4. **4장 idx2 (badge 7-10)**: MSG 4:7-10 누락 절 4건 복원 — "My people are ruined because they don't know what's right or true" / "They pig out on my people's sins. They can't wait for the latest in evil" / "You can't tell the people from the priests, the priests from the people" / "I'm on my way to make them both pay".
+5. **4장 idx3 NEW (badge 11-14)**: MSG 4:11-14 전체 문단 신규 복원 (wine/whiskey stupor, dead tree/walking stick, genitals, mountain picnics, daughters/daughters-in-law, holy brothels). msg_ranges → `['1-3','4-10','11-14','15-19']`.
+6. **5장 idx1 (badge 3-4)**: MSG 3-4 정확 재작성 (KJV 기반 비 MSG 꼬리 제거; "sex-and-religion games", "All Israel is thoroughly polluted", "bad habit", "wouldn't recognize God" 복원).
+7. **5장 idx4 (badge 10)**: MSG 5:10 복원 ("Israel's rulers are crooks and thieves... Every inch of their bodies is going to feel my anger."). 기존은 5:13 내용이었음.
+8. **6장 idx1 EN**: MSG 4:7 꼬리 복원 ("You broke the covenant—just like Adam! You broke faith with me—ungrateful wretches!"). KO는 이미 있었음.
+9. **6장 idx2 (badge 8-9)**: 잘못 배치된 4:7 중복 문장 제거 (EN/KO), MSG 8-9 충실 복원 ("blood on the sidewalks, blood on the streets... Nothing is sacred to them.").
+10. **8장 idx0**: MSG "Predictably" 복원 (EN/KO).
+
+EN/KO 미러링 완료. msg_ranges 정규화: 5장·6장 MSG 유닛 기준 (`['1-2','3-4','5-7','8-9','10','11-12','13','14-15']`, `['1-3','4-7','8-9','10','11']`).
+
+### 게이트
+- STRUCT OK: 14장 81문단, EN/KO badge·msg_ranges 일치
+- completeness_check: 잔여 1건 (ch4 idx0 "1") — 오탐
+- build_gdocs: rows=81, msg_units=66, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0
+- DOCX spot-check: 3장(2-3·4·5), 4장(4-6·7-10·11-14), 5장(3-4·10), 6장(4-7·8-9), 8장(1-3) 복원 행 육안 확인
+- Google Docs: 신규 문서 생성 (Hosea 미등록이었음), API 테이블 14/14, export-back VERIFIED OK
