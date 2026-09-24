@@ -130,5 +130,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "Malachi",
+  "title": "말라기 (Malachi): MSG + Teen EN + KO",
+  "id": "15jhaXUC8Xzh0KIA9ZOT4AWhWRHsuF8xfe4wsj0Gy9Q4",
+  "webViewLink": "https://docs.google.com/document/d/15jhaXUC8Xzh0KIA9ZOT4AWhWRHsuF8xfe4wsj0Gy9Q4/edit?usp=drivesdk",
+  "tables": 4,
+  "expected": 4,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]
