@@ -72,3 +72,11 @@
 ## 10. 미검증 경계 (정직한 한계)
 - Google Docs 업로드 후 31개 장 테이블의 실제 렌더링은 성욱의 확인이 필요 (이 환경의 브라우저는 업로드 확인 불가).
 - 19건 오탐 분류는 개별 대조에 근거하나, "beauticians→perfumers" 같은 의역 선택은 성욱의 최종 판단에 맡김.
+
+## 2nd re-audit (Sep 24)
+- completeness_check.py: 19 candidates → all false positives (synonym/paraphrase coverage: "guy from the tribe of Benjamin", "Jesse's son", "priests of the LORD", split-paragraph content verified in neighbors).
+- Chapter-level epithet/number/sentence scans (530 paragraphs): 3 real MSG omissions restored (EN/KO):
+  1. ch17 idx23 [44]: MSG "I'll turn you into a tasty morsel for the field mice" dropped — EN restored to "I'll make roadkill out of you for the buzzards. You'll be a tasty little snack for the field mice." / KO "들쥐들한테는 맛있는 간식거리가 되겠지."
+  2. ch12 idx6 [10]: "fertility gods and goddesses of Canaan" softened to "fake gods" — EN restored to "the fertility gods of Canaan" / KO "가나안의 다산 신들".
+  3. ch5 idx1 [3-5]: MSG "head and arms were broken off" mistranslated as "head and hands" — EN fixed to "head and arms" (KO already correct: "두 팔").
+- Gates: STRUCT OK, build_gdocs.py VERIFY_DROPPED=0 / teen_without_msg=0 / msg_orphans=0, pairing spot-check 3/3, reupload VERIFIED OK (31/31 tables).
