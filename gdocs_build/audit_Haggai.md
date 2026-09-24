@@ -84,3 +84,10 @@
   validator/completeness/build/pairing/업로드·export-back 전부 PASS.
 - 미확인: Google Docs에서 실제 눈으로 본 렌더링(표 안 한글/영어 줄바꿈) — API 검증은 통과.
   구약 수정본은 앱에 반영하지 않음 (지시).
+
+## 2nd re-audit (Sep 24)
+- 기준: MSG 원문 문장 단위 전수 대조 (30문단). completeness_check PASS에 더해 문장별 독립 대조 수행.
+- 복원 1건 (EN/KO): ch2 [15-17] "halfhearted efforts at rebuilding the Temple of God" — EN/KO 모두 rebuild 목적어에서 "of God" 누락 → "rebuild the Temple of God"/"하나님의 성전 짓는 거" 복원 (MSG는 "my Temple … the Temple of God"으로 반복하므로 충실히 반영).
+- 나머지 29문단은 MSG 문장·이름·숫자·인용·반복 전부 보존 확인 ("Word of God" 1:13 포함).
+- 게이트: STRUCT OK, build VERIFY_DROPPED=0 / teen_without_msg=0 / msg_orphans=0, docx pairing 육안 확인, GDocs 2/2 VERIFIED OK.
+- 판단 보류(성욱용): 없음.
