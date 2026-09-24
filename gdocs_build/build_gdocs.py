@@ -109,6 +109,10 @@ TWO_NUM_RE = re.compile(r'^(\d{1,3})\s+(' + VERSE_REF + r')\s+(?=' +
 LONE_NUM_RE = re.compile(r'^(\d{1,3})$')
 CHAPTER_MARKER_RE = re.compile(r'^###\s+ch(\d{1,3})\s*$', re.IGNORECASE)
 SINGLE_NUM_TEXT_RE = re.compile(r'^(\d{1,3})\s+(?=' + TEXT_START + r')(.*)$')
+# Verse marker the classifier missed because the line starts lowercase,
+# e.g. Numbers 1: '6 from Simeon: Shelumiel son of Zurishaddai'. Handled in
+# parse_msg_lines' TEXT branch, guarded by exact verse-sequence continuation.
+EMBEDDED_VERSE_RE = re.compile(r'^(\d{1,3})\s+(.+)$')
 # Inline verse-range markers embedded mid-line, e.g.
 #   "1 The family tree of Jesus Christ, David's son, Abraham's son: 2-6 Abraham had Isaac,"
 #   "Soon the whole world will be taunting them: 6-8 "'Who do you think you are-"
@@ -399,6 +403,21 @@ def parse_msg_lines(text, initial_ch=0):
         # TEXT
         if cur_unit is None:
             continue  # orphan text before any verse -> drop
+        m = EMBEDDED_VERSE_RE.match(pay)
+        if m and int(m.group(1)) == cur_maxv + 1:
+            # Verse number printed mid-list but missed by the classifier
+            # because the line starts lowercase (e.g. Numbers 1:
+            # '6 from Simeon: Shelumiel son of Zurishaddai', Numbers 7:
+            # '14 a gold vessel weighing four ounces, filled with incense;').
+            # Split it into its own unit so MSG<->Teen pairing finds the
+            # verses; without this the Teen row renders a badge-only (empty)
+            # MSG cell. Guarded by exact sequence continuation so quantity
+            # lines ('185 bushels of fine flour', Ezra's '25 tons of
+            # silver', ...) are never split. Verified corpus-wide 2026-09-24:
+            # only Numbers 1:6-15 and 7:14-16 change.
+            new_unit(cur_ch, {int(m.group(1))}, m.group(2).strip())
+            at_block_start = False
+            continue
         if at_block_start:
             cur_unit['blocks'].append(pay)
         else:

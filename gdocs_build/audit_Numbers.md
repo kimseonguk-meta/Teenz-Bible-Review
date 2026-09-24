@@ -152,3 +152,41 @@ EN/KO 동일한 배지로 수정됨.
 - export-back 검증: 테이블 36/36, 빈 Teen 셀 0건.
 - 빌드: VERIFY_DROPPED=0, 770행. 짝지음 검증 770행 중 1건 플래그(ch1 idx1 MSG 셀 비어 있음 — 성욱 승인 split의 의도된 상태).
 - 참고: 실제 Google Docs 화면 렌더는 이 환경에서 확인 불가.
+
+## 10. 2차 재감사 (Sep 24) — "축약하지 마라" 기준
+
+### 10.1 복원 10건 (Teen EN + KO)
+completeness 검사 72건 후보를 전수 분류: 실제 MSG 누락 10건, 오탐 62건.
+1. 13장: Hoshea **(Salvation)** → Joshua **(God-Saves)** 별명 복원
+2. 13장: "the season for the **first ripe grapes**" 복원
+3. 13장: "**Anak giants come from the Nephilim**" 복원
+4. 16장: Dathan·Abiram을 "**sons of Eliab**"로 명시
+5. 16장: 향로를 "**what happened today**"의 증거로 명시
+6. 22장: Balak을 "**son of Zippor**"로 명시
+7. 23장: 지명 **Jeshimon** (wasteland 설명 포함) 복원
+8. 25장: Shittim = "**Acacia Grove**" 설명 복원
+9. 29장: "**the seventh month**" 명시 복원
+10. 33장: Abel Shittim = "**Acacia Meadow**" 설명 복원
+- KO는 6건을 이미 포함하고 있어 EN 복원에 맞춰 4건만 수정 (EN이 primary, KO는 EN과 1:1).
+
+### 10.2 파서 근본 수정 (build_gdocs.py)
+- 문제: Numbers 1장에서 MSG "1 1-5" 단위 뒤의 "6 from Simeon: ..." 등 verse 마커가 소문자로 시작해 분류기가 TEXT로 오분류 → Teen ch1 idx1 (badge 6-15)의 MSG 셀이 배지만 있고 비어 있음.
+- 수정: `parse_msg_lines` TEXT 분기에 `EMBEDDED_VERSE_RE` 추가. 정확히 `cur_maxv+1`인 경우만 새 unit으로 분리 (수량 표현 "185 bushels", "25 tons of silver" 등은 제외).
+- 전수 파싱 diff (68권): Numbers 1장 (+10 units: 6–15) 및 7장 (+3 units: 14–16)만 변경. 나머지 67권은 바이트 동일.
+- 결과: `teen_without_msg=0` (기존 1건 해소).
+
+### 10.3 배지 정정 (verseRanges → MSG 기준)
+1:1 대응 장에서 배지가 MSG와 어긋난 6개 장을 MSG unit에 맞춰 정정 (EN/KO 동일):
+- 17장: 8-10→8-9, 11→10, 12→11, 13→12-13
+- 18장: 5-8→5-7, 9-11→8-10, 12-14→11-13, 15-17→14-16, 18-21→17-19, 22→20, 23-26→21-24, 27-29→25-29
+- 27장: 1-2→1, 3-7→2-4, 8→5, 9-10→6-7, 11-13→8-11, 14-17→12-14, 18-19→15-17, 20-22→18-21, 23→22-23 (27장 idx6의 MSG/EN 오짝지음 해소)
+- 28장: 15→14-15, 18-22→17-22, 26-29→26-30, 30-31→31
+- 32장: 6-13→6-12, 14→13, 15-16→14-15, 17-20→16-19, 21-23→20-22, 24-25→23-24, 26-27→25-27, 28-31→28-30, 32-33→31-32, 34-35→33, 36→34-36, 37→37-38, 38-39→39-40, 40→41, 41-42→42
+- 35장: 22-24→22-27, 25-28→28, 29→29 (이하 동일), 33→33 (이하 동일)
+
+### 10.4 게이트
+- 구조 검증: 36장, EN/KO 문단 수 일치, verseRanges 동일, 빈 문단 0건.
+- 빌드: `teen_without_msg=0`, `msg_orphans=0`, `VERIFY_DROPPED=0`, 770행.
+- 짝지음 표본 확인: ch1 idx1 (MSG 6-15 명단 ↔ EN 명단), ch27 idx5/idx6 (Abarim/기도 MSG↔EN 일치).
+- Google Docs 재업로드: Doc ID 1WGQaKVLpFOqTQTuLDZFPrLGZyyJ6WgsaFK1oscssxHA, API 테이블 36/36, **VERIFIED OK** (1/1).
+- completeness: 62건 FAIL은 모두 오탐으로 분류됨 (단복수·숫자 표기·인접 split 행 등). 10건 복원 부위는 더 이상 플래그되지 않음.
