@@ -248,5 +248,23 @@
     "tables": 14,
     "expected": 14,
     "status": "OK"
+  },
+  {
+    "key": "Joel",
+    "title": "요엘 (Joel) — MSG + Teen EN + KO",
+    "id": "1-BjUF4l5trjsvuBcIMjgZB_q9VD0xPpMuH-wxveTifU",
+    "webViewLink": "https://docs.google.com/document/d/1-BjUF4l5trjsvuBcIMjgZB_q9VD0xPpMuH-wxveTifU/edit?usp=drivesdk",
+    "tables": 3,
+    "expected": 3,
+    "status": "OK"
+  },
+  {
+    "key": "Amos",
+    "title": "아모스 (Amos) — MSG + Teen EN + KO",
+    "id": "16J54zCbBsGCFbtPjuCAnCuNsFYuRW1wxIoYw9zskcZY",
+    "webViewLink": "https://docs.google.com/document/d/16J54zCbBsGCFbtPjuCAnCuNsFYuRW1wxIoYw9zskcZY/edit?usp=drivesdk",
+    "tables": 9,
+    "expected": 9,
+    "status": "OK"
   }
 ]

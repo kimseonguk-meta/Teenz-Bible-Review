@@ -80,3 +80,25 @@
 
 ## 생산 반영
 - 구약 감사본은 production 앱에 반영하지 않음 (원칙).
+
+---
+
+## 2nd re-audit (Sep 24)
+
+2nd-pass, MSG-원문 기준 9장 106문단 전수 재대조.
+
+### checker 후보 4건 분류
+- ch1 idx9 [11-12] quote `rampages, meanness, timeout` → 오탐. EN "'Their anger is just non-stop, 24/7. Their cruelty never takes a break." 의미 보존.
+- ch5 idx2 [3] name `word` → **실제 누락**. MSG "This is the Message, God's Word:"가 EN에서 "This is the real deal, from God himself:"로 바뀌며 칭호 탈락 (KO는 "하나님의 말씀" 유지). EN 복원: "This is the Message, God's Word:"
+- ch6 idx3 [8] name `word` → 오탐 ("solemnly stands by his Word" → "He's not backing down" 의미 보존)
+- ch7 idx18 [16] name `word` → 오탐 ("So listen to God's Word" → "So listen to what God is saying" 의미 보존)
+
+### 복원 결과
+- MSG 복원 1건 (ch5 idx2 EN 칭호). 나머지 전 문단 MSG 대비 내용 온전, EN/KO 일치.
+
+### 게이트
+- STRUCT OK: 9장 106문단
+- completeness_check 잔여 3건 모두 오탐
+- build: rows=106, msg_units=78, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0
+- DOCX spot-check: 5장 idx2 복원 행 페어링 확인
+- Google Docs: 신규 문서 생성 (Amos 미등록이었음), API 테이블 9/9, export-back VERIFIED OK
