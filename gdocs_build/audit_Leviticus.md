@@ -136,3 +136,12 @@
 - 적용: ko_Leviticus.json — paragraphs 18→17, verseRanges ['1','2',...]→['1-2',...], merges 기록 + confirmations_needed에 승인 명시.
 - 재검증: validate_translation.py PASS (27장), build_gdocs.py VERIFY_DROPPED=0 (314행/27표), verify_pairing_content.py PAIRING CONTENT OK.
 - Google Docs 신규 생성 '레위기 (Leviticus) — MSG + Teen EN + KO', API 테이블 27/27, export-back VERIFIED OK.
+
+## 2nd re-audit (Sep 24)
+- completeness_check: 31 candidates → 29 false positives (voice aliasing: God→"me", "Holy of Holies"→"Most Holy Place", votive/freewill intentional paraphrase, "Sabbaths"→rest years, split paragraphs across idx, extractor number artifacts).
+- Sentence-count mismatch scan flagged 16 spots; all were teen-side splits verified covered in sequence (ch4/ch5/ch10/ch13/ch16/ch19/ch20).
+- 2 MSG omissions restored in EN (KO already had both — EN brought to parity):
+  - ch14 idx4 (badge 23-29): "pint of oil" dropped ("take the lamb ... and the oil") → restored "take the lamb for the Compensation-Offering and a pint of oil and wave them before God as a Wave-Offering" (MSG: "together with the pint of oil ... as a Wave-Offering").
+  - ch19 idx17 (badge 18): "against any of your people" dropped from "don't seek revenge or hold a grudge" → restored.
+- Ambiguous (left, no content loss): ch5 idx12 badge '17' vs MSG verses [17,18] — MSG_SUPERSET pairing note, pre-existing.
+- Gates: STRUCT OK (27 ch, EN/KO parity); build_gdocs VERIFY_DROPPED=0, teen_without_msg=0, msg_orphans=0; docx pairing spot-check both restored paragraphs; reupload API tables 27/27 VERIFIED OK.
