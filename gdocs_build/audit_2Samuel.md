@@ -45,3 +45,13 @@
 - validate_translation.py: PASS (24장)
 - build_gdocs.py: 24 tables, 460 rows, VERIFY_DROPPED=0
 - verify_pairing_content.py: PAIRING CONTENT OK
+
+## 2차 재검토 (Sep 24, 2026)
+- completeness_check 69건 후보 전수 분류 → 실제 누락 59건 복원 (EN 46+13, KO 14+3)
+- 주요 복원: ch2 추격전 후반부(암마 언덕·기아·기브온 변두리), ch11:25 다윗의 분노+아비멜렉/데벳/우리야 보고, ch13:34 호로나임길 보초, ch21:7-9 아드리엘 족보, ch24 인구조사 경로 전체+9개월 20일, ch13:15 암논 강간 명시 복원, ch1 THe 오타 수정
+- 호칭 복원: son of Ner(6건), son of Zeruiah(4건), the Gittite, the Gilonite, the Arkite, son of Bicri(2건), son of Laish, son of Ammiel, son of Rehob+king of Zobah, Talmai son of Ammihud, daughter of Aiah, Ammonite Rabbah, Benjaminite, the Jebusite, Dan to Beersheba(3건), the Benjaminite Shimei son of Gera, Barzillai the Gileadite from Rogelim, Jonathan son of Shimeah
+- 잔여 16건은 의미 동등 오탐으로 확정 (faster/swifter, Bicrites, Hagrite army 후단락 등)
+- KO ch11:16 여룹베셋의 아들 아비멜렉 EN/KO 패리티 수정
+- 게이트: validate_translation PASS (24장), completeness 16 오탐만 잔류, build 24 tables/460 rows/347 MSG/VERIFY_DROPPED=0
+- pairing 셀 직접 확인 (ch2:17-19, ch11:25, ch24:4-9 등)
+- Google Docs 기존 문서 업데이트: API 24/24, export-back VERIFIED OK
