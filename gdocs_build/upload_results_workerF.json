@@ -266,5 +266,14 @@
     "tables": 9,
     "expected": 9,
     "status": "OK"
+  },
+  {
+    "key": "Zechariah",
+    "title": "스가랴 (Zechariah) — MSG + Teen EN + KO",
+    "id": "1yqJotsvrkTGVAUsoj-pBFAuzKeSEBzxKPA45_kffwoI",
+    "webViewLink": "https://docs.google.com/document/d/1yqJotsvrkTGVAUsoj-pBFAuzKeSEBzxKPA45_kffwoI/edit?usp=drivesdk",
+    "tables": 14,
+    "expected": 14,
+    "status": "OK"
   }
 ]
