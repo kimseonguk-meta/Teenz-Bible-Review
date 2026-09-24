@@ -150,3 +150,34 @@ EN에만 있던 누락 3건(40장 "히브리 땅", 43장 "전능하신 하나님
 - KO: 수정된 EN 기준 전수 대조 완료 (문단별 전체 문장)
 - Google Docs: API로 table 수·제목 확인. 실제 화면 렌더링(브라우저)은 이 환경에서 불가 — 성욱 기기에서 육안 확인 필요
 - 앱 반영: 하지 않음 (성욱 컨펌 전 앱 데이터 수정 금지 원칙)
+
+## 2차 재감사 (2026-09-24) — "축약하지 마라" 기준 정밀 재검수
+
+### 방법
+1. `completeness_check.py` 진단 수정(verseRanges 우선, 숫자 파싱 교정) 후 45건 후보 전수 분류
+2. 문장 단위 lexical triage (MSG 문장 ↔ Teen 문단 recall < 0.35) — 2건 히트, 둘 다 오탐
+3. 관계 호칭(epithet) 스윕: `son/daughter/wife/brother/father/mother of X` 90건 중 30건 수동 확인
+4. 나머지 39건 checker 잔여는 전수 확인 결과 의미 동등 오탐으로 판정
+
+### 복원 7건 (EN/KO 쌍)
+1. ch25 [7-11]: "This was the field Abraham had bought from the Hittites." 누락 → 복원 (KO: "이 밭은 아브라함이 헷 족속한테서 산 밭이었어")
+2. ch27 [41-46]: "her older son Esau" / "her younger son Jacob" 호칭 누락 → 복원 (KO: "큰아들 에서" / "작은아들 야곱")
+3. ch28 [6-9]: "Ishmael (Abraham's son)" — EN 누락(KO에만 있었음, EN/KO 불일치) → EN 복원
+4. ch31 [36-37]: "our two families"의 two 누락 → 복원. KO "우리 가족들 앞에서"(배심원 오역)도 "우리 두 가족이 배심원이 되어"로 함께 교정
+5. ch39 [1-6]: "three meals a day" — EN 누락(KO 삼시세끼에만 있었음, EN/KO 불일치) → EN 복원
+6. ch39 [16-23]: 보디발 아내의 반복 고발("The Hebrew slave, the one you brought to us...")이 "told him the same lie"으로 요약됨 → 고발 내용 전체 복원 (EN/KO)
+7. ch43 [19-22]: "the first night out" 누락 → 복원 (KO: "첫날 밤")
+
+### 판단 보류/오탐 판정 (성욱 참고용)
+- ch16 [14] "God-Alive-Sees-Me Spring" → Teen "Beer-lahai-roi... 'The Well of the Living One Who Sees Me'": 의미 완전 전달로 판정, 복원 안 함 (경계선)
+- ch36 [20] "the sons of Seir" 요약 어미 누락: 단락 주제가 Seir 족보라 중복 요약으로 판정 (경계선)
+- ch14 [3-4] "second group" → "these five kings": 지시어 대용으로 판정
+- ch22 [7] "Hey, Dad?"가 배지 [6] 단락 끝에 위치: 내용 온전, 배지 경계만 어긋남 — 구조 변경 없이 유지
+
+### 게이트 결과
+- validator: PASS (50개 장)
+- completeness checker: FAIL 45건 → 39건 (6건 해소, 잔여 39건 전부 오탐 분류)
+- DOCX 빌드: teen_ch=50, msg_chapters=50, rows=986, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0
+- DOCX 육안(코드) 확인: 복원 3행(MSG 옆 EN/KO 짝지음) 정상
+- Google Docs 재업로드: API table 50/50, VERIFIED OK
+- 앱 반영: 하지 않음
