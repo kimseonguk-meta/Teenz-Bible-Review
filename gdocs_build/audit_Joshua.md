@@ -49,3 +49,42 @@
 - 검증한 것: 7개 게이트 재실행, 파서 수정 전/후 60개 소스 전체 파싱 diff, 기계적 FAIL 43건 전수 대조(MSG 원문↔틴), 슬랭 6 Rule 전수 재검색(정규식+수동 문맥 판정), docx 실제 셀 렌더링 확인(ch14:15/ch15:1, ch14:1-2 공유 블록).
 - 미확인: Google Docs 웹 화면 직접 확인 불가(이 환경). production 앱 미접촉. ⑦은 코디네이터 재업로드 후 API 검증 필요.
 - "완료" 선언은 성욱만 가능 — 본 리포트는 완료 선언이 아님.
+
+---
+
+# Joshua 2차 심층 재검토 기록 (2026-09-25)
+
+기준 변경: 9-24 재확인의 "초출에서 확립 → 생략 허용" 판정을 폐기. "축약하지 마라" + 부칭(모든 "son of X") 전부 보존 + KO에만 있고 EN에 빠진 비대칭 특별 검사 기준 적용. (2사무엘 2차 스윕에서 son of Ner 6건·son of Zeruiah 4건을 반복 출현마다 복원한 선례와 동일 기준.)
+
+방법:
+- side-by-side 덤프 1–24장 전수 수동 독해 (2,007줄).
+- completeness checker 39건 전수 분류 → 실제 6건 복원, 33건은 오탐(단복수·동의어·대명사·호칭·동일 지명·인용구 의역·뒤 문단 분산).
+- MSG 전체 "X son/daughter/father of Y" 29건 전수 추출 → 대응 틴 문단에서 Y 이름 존재 여부 전수 확인 → 복원 후 잔여 0건.
+- KO "X의 아들" 전수 추출 → EN 대응 확인 → possessive 오탐 제외하고 비대칭 실건 0건 추가.
+
+## 복원 6건
+
+| 장:절 | MSG | 문제 | 수정 |
+|---|---|---|---|
+| 7:24 | "Achan son of Zerah" | EN·KO 모두 "Achan/아간"만 (9-24 "확립→허용" 판정 폐기) | EN: "took Achan son of Zerah" / KO: "세라의 아들 아간" |
+| 11:16-20 | "the valley (the Arabah)" | EN "the valley"만 — KO는 "아라바 골짜기" 보유 (비대칭) | EN: "the valley (the Arabah)" |
+| 12:4-5 | "the border of Sihon king of Heshbon" | EN "King Sihon's land" — KO는 "헤스본 왕 시혼의 경계" 보유 (비대칭) | EN: "the border of Sihon, king of Heshbon" |
+| 17:1 | "Makir, Manasseh's firstborn and father of Gilead" | EN에 "father of Gilead" 없음 — KO는 "길르앗의 아버지인 마길" 보유 (비대칭) | EN: "Makir, Manasseh's oldest, the father of Gilead, and a total beast in battle" |
+| 22:31 | 'said to Reuben, Gad, and Manasseh' | EN "said to them" — KO는 "르우벤, 갓, 므낫세 지파한테" 보유 (비대칭) | EN: "said to Reuben, Gad, and Manasseh" |
+| 22:32-33 | "Then Priest Phinehas son of Eleazar left" | EN "Then Phinehas" / KO "제사장 비느하스" — 부칭 전체 누락 (9-24 "확립→허용" 판정 폐기) | EN: "Then Priest Phinehas, son of Eleazar, and the chiefs left" / KO: "제사장 엘르아살의 아들 비느하스와 지도자들은" |
+
+## 오탐으로 확정 (33건)
+- Reubenites/Gadites→"tribes of Reuben, Gad"/"men of Reuben, Gad" (ch1,4,12,22 다수): 동등 호칭.
+- God→"LORD", Levitical→"priests"(ch3:1-5 — 단, v33·ch8에서는 "Levitical priests" 유지), "Sanctify yourselves"→"Get yourselves ready and be respectful" (ch3:5): 틴 의역.
+- Arabah Sea→"Dead Sea"(ch3:14-16), Shinar→"Babylonia"(ch7:20-21): 동일 지명.
+- 숫자: "a second time"→"again"(ch5:2-3), "the first time"→"again"(ch10:7-8), "a second thought"→관용구(ch8:3-8), "Not one town"→"Not a single town"(ch11), "One of them"→"anyone"(ch2:17-20).
+- Geshurites→"Geshurite areas"(ch13), Amorites/Ammonites/Geshur/Maacah→형용사형(ch13:9-13), Amorites/Midian→뒤 문단(v16-22) 분산(ch13:15), Anak→"Anakim"(ch15:13), Arkites/Japhletites→"Arkite territory/Japhletite area"(ch16:1-3), Ephraimites→"tribe of Ephraim"(ch17:7-10), Levites/Merarites→"Levite/Merarite families"(ch21), Canaanite→"Canaan"(ch22:9), Gilead→"Gilead and Bashan" 문맥(ch13:1-2).
+- 인용구 "crusts, tatters"→"hard and moldy"/"wrecked" — 세부 전부 보존된 의역(ch9:12-13).
+- "said to Reuben, Gad, and Manasseh"→"said to them" 판정은 22:31에서 복원으로 해결 (9-24 "직전 문단 명확" 판정 폐기 — 비대칭 기준 우선).
+- designate→"set up"(ch20:1-3), obediently→"Obey"(ch23:6-8): 동등 동사형.
+
+## 슬랭
+- "hit up", "Yo", "Bro", "dudes", "lowkey", "chill" 등 과도한 슬랭 다수 관찰. 9-24 재확인에서 6 Rule 위반 8건 수정済. 잔여는 Rule 내 허용 범위 — 이번 2차에서는 추가 수정 없음.
+
+## 성욱 판단용으로 남길 것
+- 없음. 9-24 "경계선상 허용" 2건(Arabah, Heshbon)은 비대칭(KO 보유) 근거로 복원 확정.
