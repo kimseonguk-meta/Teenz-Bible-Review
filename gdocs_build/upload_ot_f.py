@@ -26,6 +26,7 @@ FOLDER = '1I7rLOsUgbr5Ewyq7-IEshCk20scIBtPn'
 
 # (key, 한글이름, 영어이름, 장수)
 BOOKS_F = [
+    ('Esther', '에스더', 'Esther', 10),
     ('Joshua', '여호수아', 'Joshua', 24),
     ('Leviticus', '레위기', 'Leviticus', 27),
     ('Numbers', '민수기', 'Numbers', 36),
@@ -52,6 +53,7 @@ BOOK_MAP = {k: (ko, en, n) for k, ko, en, n in BOOKS_F}
 
 # 기존 Doc ID (worker E2 등록분) — 이 책들은 업데이트만
 EXISTING_IDS = {
+    'Esther': '1tuVsF6HDNB_s6o9wFI3oVqtrptK_WxgSDeJA4CKW-Lg',  # 2026-09-23 생성 (구 제목에 Final 포함 — 2026-09-24 재감사 후 내용 갱신 + 제목 정정 예정),
     'Joshua': '1Cex7fB4AK1AikruhfcpyTdG06Sz0qnSG8metjJx8PyE',  # 2026-09-24 생성 (workerA 등록 누락 — Drive에 기존 Doc 없음 확인)
     'Psalms': '1wa-Pp8mm3nlEvhDU9-OkQFy9DZ85j55rHDUIi0uGNJs',  # 2026-09-24 생성 (첫 업로드 검증 실패 — 파서 버그 수정 후 재업로드)
     'Jeremiah': '1_9YRCZ8ECbgNbHbAz2FtuFin-Hmol37xnoylR9QYUsE',

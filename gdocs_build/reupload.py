@@ -24,6 +24,7 @@ BOOK_TABLES = {
     'Habakkuk': 3, 'Jonah': 4, 'Nahum': 3, 'Haggai': 2, 'Obadiah': 1,
     'Zephaniah': 3,
     # OT worker-F wave (continuation coordinator, 2026-09-23)
+    'Esther': 10,
     'Leviticus': 27, 'Numbers': 36, 'Deuteronomy': 34, 'Judges': 21,
     '1Samuel': 31, '2Samuel': 24, '1Kings': 22, '2Kings': 25,
     '1Chronicles': 29, '2Chronicles': 36, 'Ezra': 10, 'Nehemiah': 13,
