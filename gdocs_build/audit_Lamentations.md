@@ -48,3 +48,10 @@
 
 - 검증됨: MSG 원문 ↔ Teen EN 전 문장·이름·숫자·인용구·반복 요소 대조 (5장 94문단 전수), EN↔KO 1:1 구조·의미 일치, validator·completeness·빌드·pairing·업로드 게이트 전부 통과
 - 미확인: 실제 Google Docs 화면 렌더링 (이 환경의 브라우저 제한 — 성욱이 직접 문서 열어 표 5개와 내용 확인 필요), production 앱 미반영 (구약 수정본은 앱에 반영하지 않음 — 원칙 준수)
+
+## 2nd re-audit (Sep 24)
+- completeness_check: 3 candidates → all false positives ("without a second thought"→"didn't hesitate", "God's wrath"→"your great anger", ch5 split paragraphs).
+- Sentence-count scan: 8 flags, all ch5 — MSG-unit merge artifact (one 34-sentence unit split across 8 teen paragraphs); verified fully covered in sequence.
+- Manual sentence-level pass: ch1, ch3, ch4 fully compared MSG-vs-EN — every MSG sentence, name, number, and quoted speech present in teen voice.
+- 0 MSG omissions found → no JSON edits, no commit.
+- Gates: build VERIFY_DROPPED=0, teen_without_msg=0, msg_orphans=0 (5 ch, 94 rows).

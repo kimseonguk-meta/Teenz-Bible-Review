@@ -72,3 +72,11 @@
 - MSG 원문 40행과 수정 EN 43문단을 문장 단위로 전수 대조함.
 - EN↔KO는 43문단 전수 의미 1:1 대조함.
 - Google Docs 렌더링은 API 테이블 수(7/7) + export-back 검증 + pairing content 검증으로 확인. 성욱의 실제 화면(기기) 확인은 이 환경에서 불가.
+
+## 2차 재감사 (Sep 24) — "축약하지 마라" 기준
+- completeness: PASS (43문단, 63 name tokens, FAIL 0).
+- 전수 대조: MSG 누락 없음. 1장 성읍 wordplay 리스트 전수 확인. 복원 0건.
+- 구조: 7장, EN/KO 문단 수·verseRanges 일치, 빈 문단 없음.
+- DOCX: 43행, 결함 0건.
+- Google Docs 재업로드: 7/7 테이블, VERIFIED OK (Doc ID 1Cb3LK9L7epH8rxIhaajSNWQOIpdcfVI_pvtJvPsbUUg).
+- 복원 0건이므로 커밋 없음.

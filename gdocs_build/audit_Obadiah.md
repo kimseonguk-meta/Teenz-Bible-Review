@@ -87,3 +87,11 @@
 
 ## 생산 반영
 - 구약 감사본은 production 앱에 반영하지 않음 (원칙).
+
+## 2차 재감사 (Sep 24) — "축약하지 마라" 기준
+- completeness: PASS (5문단, 21 name tokens, FAIL 0).
+- 전수 대조: MSG 누락 없음. 복원 0건.
+- 구조: 1장, EN/KO 5문단 일치, verseRanges 동일, 빈 문단 없음.
+- DOCX: 5행, MSG/EN/KO 셀 모두 채워짐, 짝지음 정상.
+- Google Docs 재업로드: 1/1 테이블, VERIFIED OK.
+- 복원 0건이므로 커밋 없음.

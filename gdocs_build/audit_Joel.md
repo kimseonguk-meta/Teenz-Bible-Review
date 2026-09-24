@@ -90,3 +90,24 @@
   구약 수정본이 앱에 반영되지 않는 정책상 별도 확인 대상이 아님.
 - KO의 EN 1:1 의미 일치는 전 문단 수작업 대조로 확인 (checker는 EN만 커버).
 - MSG 3장 절 번호는 KJV 절 번호 기준(1–21)과 동일하게 표기됨.
+
+---
+
+## 2nd re-audit (Sep 24)
+
+2nd-pass, MSG-원문 기준 3장 27문단 전수 재대조.
+
+### checker 후보 3건 분류 (전부 오탐)
+- ch2 idx2 [7-11] name `undaunted` → EN "They're fearless, unstoppable" 의미 보존
+- ch2 idx5 [15-17] name `consecrate` → EN "consecrated, set apart for this" 존재
+- ch3 idx7 [18-21] name `judean` → "the people of Judah" 존재 (토큰 변형)
+
+### 복원 결과
+- MSG 누락 0건. 전 문단 MSG 대비 내용 온전, EN/KO 일치.
+- 메타데이터 1건: ch2 msg_ranges idx1 `5-6` → `4-6` 정정 (MSG 유닛 기준, EN/KO).
+
+### 게이트
+- STRUCT OK, completeness_check 잔여 3건 모두 오탐
+- build: rows=27, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0
+- DOCX spot-check: 2장(7-11·28-32), 3장(18-21) 페어링 확인
+- Google Docs: 신규 문서 생성 (Joel 미등록이었음), API 테이블 3/3, export-back VERIFIED OK

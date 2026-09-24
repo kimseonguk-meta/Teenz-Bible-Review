@@ -64,3 +64,11 @@
 ## 검증 범위 vs 미확인 경계
 - 검증됨: MSG↔EN 전 문장 대조(4장 30유닛 전수), EN↔KO 1:1(문단·배지·의미), validator/완전성/빌드/페어링/독 업로드+export-back.
 - 미확인: Google Docs 웹 렌더링 화면은 이 환경에서 직접 보지 못함 — export-back 자동 검증으로 대체. 앱 반영은 의도적으로 하지 않음 (구약).
+
+## 2차 재감사 (Sep 24) — "축약하지 마라" 기준
+- completeness: 1건 후보 → 오탐 (MSG "Word"를 teen "message"로 의역, 의미 보존). FAIL 0건 실질.
+- 전수 대조: MSG 누락 없음. 복원 0건.
+- 구조: 4장, EN/KO 문단 수·verseRanges 일치, 빈 문단 없음.
+- DOCX: 35행, MSG 셀 비어 있는 비헤더 행 0건.
+- Google Docs 재업로드: 4/4 테이블, VERIFIED OK.
+- 복원 0건이므로 커밋 없음.
