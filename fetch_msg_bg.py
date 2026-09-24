@@ -66,8 +66,9 @@ def clean_text(raw: str) -> str:
 def parse_chapter(page: str, ch: int) -> str:
     # normalize escaped quotes (content is embedded with \' escapes)
     page = page.replace("\\'", "'").replace('\\"', '"')
-    m = re.search(r'passage-content passage-class-0\'?>(.*?)</div>\s*<div',
-                  page, re.S)
+    m = re.search(
+        r"passage-content passage-class-0\'?>(.*?)</div>\s*<div class=\"passage-scroller",
+        page, re.S)
     if not m:
         # fallback: grab from marker to end of version div
         i = page.find('passage-content passage-class-0')

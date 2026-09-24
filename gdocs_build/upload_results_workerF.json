@@ -97,5 +97,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "1Samuel",
+  "title": "사무엘상 (1Samuel): MSG + Teen EN + KO",
+  "id": "1nTJXnDnoEDx_dU2usakhnrczTmtfxk0MNK5PbZ36aDo",
+  "webViewLink": "https://docs.google.com/document/d/1nTJXnDnoEDx_dU2usakhnrczTmtfxk0MNK5PbZ36aDo/edit?usp=drivesdk",
+  "tables": 31,
+  "expected": 31,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]

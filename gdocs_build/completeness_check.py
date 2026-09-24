@@ -105,6 +105,16 @@ NUMBER_WORDS = {
     'ninetieth': 90, 'hundred': 100, 'thousand': 1000,
 }
 
+# Ordinal number-words: in "<ordinal> one" the "one" is a pronoun
+# ("a second one" = 2, not 2+1). _parse_num_seq must not add it.
+ORDINALS = {
+    'first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh',
+    'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth', 'thirteenth',
+    'fourteenth', 'fifteenth', 'sixteenth', 'seventeenth', 'eighteenth',
+    'nineteenth', 'twentieth', 'thirtieth', 'fortieth', 'fiftieth',
+    'sixtieth', 'seventieth', 'eightieth', 'ninetieth',
+}
+
 # Known legitimate synonym pairs (applied symmetrically).
 ALIASES = {
     'satan': {'devil'},
@@ -262,6 +272,8 @@ def extract_names(text):
 def _parse_num_seq(words, i):
     total, cur, started = 0, 0, False
     last_v = None
+    first_ordinal = words[i] in ORDINALS if i < len(words) else False
+    consumed = 0
     n = len(words)
     while i < n:
         w = words[i]
@@ -288,7 +300,11 @@ def _parse_num_seq(words, i):
             cur = (cur or 1) * 1000
             total, cur = total + cur, 0
         else:
+            if w == 'one' and first_ordinal and consumed == 1:
+                # ordinal + pronoun ("a second one"): stop, don't add 1
+                break
             cur += v
+            consumed += 1
         i += 1
     if not started:
         return None, i

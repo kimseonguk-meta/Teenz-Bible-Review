@@ -1,0 +1,646 @@
+[
+  {
+    "book": "1Samuel",
+    "chapter": 1,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "ch1[1] soften \"Low-key,\"; keep MSG: Elkanah loved Hannah, God had not given her children."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 3,
+    "field": "paragraph",
+    "index": 13,
+    "summary": "ch3[13] soften \"lowkey\"; MSG: afraid to tell Eli the vision."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 4,
+    "field": "paragraph",
+    "index": 6,
+    "summary": "ch4[6] soften \"lowkey\"; MSG: extremely worried about the Chest of God."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 5,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "ch5[1] soften \"Lowkey,\"; MSG aside: priests of Dagon do not step on the threshold."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 6,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "ch6[1] soften \"chill out\" -> MSG \"God will let up on you\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 7,
+    "field": "paragraph",
+    "index": 7,
+    "summary": "ch7[7] soften \"low-key\"; MSG: became frightened—Philistines on the move again."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 8,
+    "field": "paragraph",
+    "index": 0,
+    "summary": "ch8[0] soften \"lowkey\"; MSG: his sons didn't take after him."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 9,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "ch9 badges rebuilt from MSG units (EN+KO aligned): ['1-2', '3-4', '5', '6', '7', '8-9', '10', '11', '12-13', '14', '15-16', '17', '18', '19-20', '21', '22-23', '22-23', '24', '25', '26', '27']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 10,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "ch10 badges rebuilt from MSG units (EN+KO aligned): ['1-2', '1-2', '3-4', '5-6', '7', '8', '9', '10-12', '10-12', '13-14', '13-14', '15', '16', '17-18', '18-19', '18-19', '18-19', '20-21', '22', '22', '23', '24', '24', '25', '26-27', '26-27']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 7,
+    "field": "structure.splits",
+    "index": -1,
+    "summary": "ch7 declare splits (MSG units split across Teen paras): ['6']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 9,
+    "field": "structure.splits",
+    "index": -1,
+    "summary": "ch9 declare splits (MSG units split across Teen paras): ['22-23']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 10,
+    "field": "structure.splits",
+    "index": -1,
+    "summary": "ch10 declare splits (MSG units split across Teen paras): ['1-2', '10-12', '13-14', '18-19', '22', '24', '26-27']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 4,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "ch4 badges rebuilt from MSG units (EN+KO aligned): ['1-3', '1-3', '4', '5-6', '6-9', '10-11', '12-16', '12-16', '17', '18', '19-20', '21-22']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 5,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "ch5 badges rebuilt from MSG units (EN+KO aligned): ['1-2', '3-5', '6', '7-8', '7-8', '9', '10-12']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 6,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "ch6 badges rebuilt from MSG units (EN+KO aligned): ['1-2', '3', '4-6', '4-6', '7-9', '10-12', '13-15', '16', '17-18', '19-20', '21']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 8,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "ch8 badges rebuilt from MSG units (EN+KO aligned): ['1-3', '4-5', '6', '7-9', '10-18', '19-20', '21-22', '21-22', '21-22']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 12,
+    "field": "paragraph",
+    "index": 5,
+    "summary": "ch12[5] soften \"lowkey\"+\"owned\"; restore MSG \"sold them off\" sequence (Sisera/Philistines/Moab). KO already matched MSG."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 12,
+    "field": "paragraph",
+    "index": 7,
+    "summary": "ch12[7] restore MSG names Jerub-Baal/Gideon, Bedan/Barak (EN previously simplified). KO already had matching names."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 11,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch11 badges aligned to EN (MSG units): ['1', '2', '3', '4-5', '4-5', '4-5', '6-7', '7-8', '9-11', '9-11', '12', '13-14', '15']"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 13,
+    "field": "paragraph",
+    "index": 9,
+    "summary": "ch13[9] restore MSG \"a man after his own heart\" (replacement Saul lost)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 13,
+    "field": "paragraph",
+    "index": 9,
+    "summary": "KO ch13[9] mirror EN: \"그분의 마음에 합한 사람\" restored."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "paragraph",
+    "index": 0,
+    "summary": "ch14[0] restore MSG Ahijah genealogy (Ahitub/Ichabod/Phinehas/Shiloh/Eli)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "paragraph",
+    "index": 0,
+    "summary": "KO ch14[0] mirror EN: 아히야 족보 복원."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "paragraph",
+    "index": 10,
+    "summary": "ch14[10] restore MSG aside: Ahijah responsible for the Ephod."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "paragraph",
+    "index": 10,
+    "summary": "KO ch14[10] mirror EN."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "paragraph",
+    "index": 40,
+    "summary": "ch14[40] restore MSG \"Ahinoam, daughter of Ahimaaz\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "paragraph",
+    "index": 40,
+    "summary": "ch14[40] restore MSG \"Kish... and Ner... were the sons of Abiel\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "paragraph",
+    "index": 40,
+    "summary": "KO ch14[40] mirror EN: 아히마아스의 딸 아히노암. (KO already had 아비엘의 아들들.)"
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "paragraph",
+    "index": 11,
+    "summary": "KO ch14[11] soften \"대박\" -> \"진짜 놀라운\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 15,
+    "field": "paragraph",
+    "index": 6,
+    "summary": "ch15[6] soften \"lowkey\" -> \"honestly\"; MSG \"I regret making Saul king\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 15,
+    "field": "paragraph",
+    "index": 21,
+    "summary": "ch15[21] restore MSG \"in this race, God, my God!\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 15,
+    "field": "paragraph",
+    "index": 21,
+    "summary": "KO ch15[21] mirror EN: \"이번에는 제 하나님이신 하나님께\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 16,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch16[1] badge -> 2-3 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 17,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch17[17] badge -> 34-37 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 17,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch17[19] badge -> 38-39 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 18,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch18[4] badge -> 6-9 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 18,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch18[5] badge -> 6-9 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 18,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch18[6] badge -> 6-9 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 19,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch19[9] badge -> 18 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 20,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch20[9] badge -> 24-26 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 19,
+    "field": "paragraph",
+    "index": 5,
+    "summary": "ch19[5] soften \"dark vibe\" -> MSG \"a black mood sent by God settled on Saul\". KO already \"악한 기운\" (no change)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 21,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch21[9] badge -> 10-11 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 21,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch21[10] badge -> 10-11 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 21,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch21[11] badge -> 10-11 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch23[1] badge -> 1-2 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch23[7] badge -> 9-11 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch23[11] badge -> 14-15 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 24,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch24[0] badge -> 1-4 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 24,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch24[1] badge -> 1-4 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 25,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch25[10] badge -> 28-29 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 25,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch25[11] badge -> 28-29 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 25,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch25[16] badge -> 39-40 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 25,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch25[17] badge -> 39-40 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "paragraph",
+    "index": 2,
+    "summary": "ch23[2] soften \"lowkey shook\"+\"Bro\" -> \"seriously rattled\"/\"Look\"; MSG: men scared to death here in Judah."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "paragraph",
+    "index": 13,
+    "summary": "ch23[13] soften \"gassed him up\" -> MSG \"encouraged him in God\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "paragraph",
+    "index": 13,
+    "summary": "ch23[13] \"no cap\" -> \"for real\" (consistent with ch3)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "paragraph",
+    "index": 5,
+    "summary": "KO ch23[5] soften '완전 꿀' -> '좋았어'; MSG 'Good! God has handed him to me!'."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 25,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "ch25[1] restore MSG \"he was a brute, a pig—he was a Calebite\" (ethnicity token)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 25,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "KO ch25[1] restore Calebite ('갈렙 사람') to match EN/MSG."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 26,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch26[10] badge -> 13-14 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 26,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch26[12] badge -> 17-20 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 27,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch27[5] badge -> 10-11 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 28,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch28[7] badge -> 8 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 28,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch28[23] badge -> 23-25 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 26,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "ch26[1] restore patronymic 'son of Ner' (MSG 26:5); KO already had it."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 26,
+    "field": "paragraph",
+    "index": 13,
+    "summary": "ch26[13] fix mistranslation: MSG \"then it's God's business to get it straightened out\" (no self-sacrifice)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 26,
+    "field": "paragraph",
+    "index": 13,
+    "summary": "KO ch26[13] mirror EN fix: MSG 'then it's God's business to get it straightened out'."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 27,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "ch27[1] restore patronymic \"son of Maoch\" (MSG 27:2)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 27,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "ch27[1] restore identifiers 'Ahinoam of Jezreel', 'widow of Nabal of Carmel' (MSG 27:3); KO already had them."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 27,
+    "field": "paragraph",
+    "index": 7,
+    "summary": "ch27[7] soften \"lowkey trust\" -> MSG \"came to trust David completely\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 29,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch29[4] badge -> 4-5 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 30,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch30[7] badge -> 13-14 (align to EN/MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 29,
+    "field": "paragraph",
+    "index": 2,
+    "summary": "ch29[2] soften \"Chill\" -> \"Come on\"; MSG: Achish answers the commanders plainly."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 30,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "ch30[1] soften \"lowkey mutiny\" -> \"practically in mutiny\"; MSG: men talked of stoning him."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 28,
+    "field": "paragraph",
+    "index": 2,
+    "summary": "KO ch28[2] soften \"대박!\" -> \"최고야!\"; MSG \"Awesome! said Achish\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 24,
+    "field": "paragraph",
+    "index": 1,
+    "summary": "KO ch24[1] soften \"와 미쳤다\" -> \"와, 믿기지가 않네\"; MSG \"Can you believe it?\"."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 12,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch12[4] badge 7-8 -> 6-8 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 13,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch13[7] badge 11 -> 11-12 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch14[9] badge 16-17 -> 16-18 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch14[12] badge 23 -> 20-23 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch14[18] badge 33 -> 33-34 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch14[20] badge 34 -> 33-34 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 14,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch14[27] badge 39 -> 38-39 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 15,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch15[8] badge 13 -> 11-12 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 15,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch15[16] badge 22 -> 22-23 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch23[12] badge 14-15 -> 16-18 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch23[16] badge 24 -> 24-27 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 23,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch23[17] badge 25-27 -> 24-27 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 28,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch28[8] badge 8 -> 9 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 28,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch28[9] badge 9 -> 10 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 28,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch28[10] badge 10 -> 11 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  },
+  {
+    "book": "1Samuel",
+    "chapter": 28,
+    "field": "verseRanges",
+    "index": -1,
+    "summary": "KO ch28[11] badge 11 -> 12 (align to EN/MSG units; KO msg_ranges already true MSG units)."
+  }
+]
