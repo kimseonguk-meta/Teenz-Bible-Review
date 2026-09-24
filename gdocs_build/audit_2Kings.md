@@ -120,3 +120,23 @@
 ## Commit
 
 - (상위 에이전트에서 commit/push 수행)
+
+## 2nd re-audit (Sep 24)
+- completeness_check.py: PASS clean (25 chapters, 512 paragraphs, 1,108 name tokens, 210 number tokens).
+- Chapter-level epithet/name/number/sentence scans: 14 MSG omissions restored across 8 chapters (EN), 5 of them also restored in KO (KO already preserved the rest):
+  1. ch2 idx28 [24]: "forty-two children in all" — EN "forty-two of them" → "forty-two of those kids" (KO already had "그 아이들 중 42명").
+  2. ch11 idx2 [5-8]: "on the Sabbath" (x2) dropped from the guard-change orders — EN restored "your Sabbath shift"; KO made explicit for both clauses.
+  3. ch11 idx3 [9-11]: Sabbath duty detail + "from one end of The Temple to the other" dropped — EN/KO restored.
+  4. ch11 idx5 [13-14]: MSG "king standing beside the throne" mistranslated as "royal pillar" — EN/KO fixed to "throne/왕좌"; "Treason! Treason!" repetition restored (EN had "Treason! This is a coup!"; KO already had the repetition).
+  5. ch14 idx5 [9-10]: thistle parable gutted — "in Lebanon" (x3) and "'Give your daughter to my son in marriage'" dropped — EN restored (KO already complete).
+  6. ch14 idx8 [13-14]: "from the Ephraim Gate to the Corner Gate" dropped — EN restored (KO already had it).
+  7. ch14 idx14 [26-27]: "No one was exempt, whether slave or citizen" reduced to "everyone" — EN restored "slave or citizen" (KO already had "노예든 자유인이든").
+  8. ch18 idx2 [7-8]: "whether in sentry outposts or fortress cities ... to Gaza and its borders" — EN/KO restored.
+  9. ch18 idx14 [28-32]: Rabshakeh's offer gutted — "your own plot of ground—a garden and a well", "a land of grain and wine, bread and vineyards, olive orchards and honey", "You only live once—so live, really live!" dropped — EN/KO restored.
+  10. ch19 idx17 [25-26]: "fragile as grass, insubstantial as wind-blown chaff" dropped — EN restored (KO already had the triplet).
+  11. ch23 idx3 [12-15]: "east of Jerusalem on the south slope of Abomination Hill" dropped — EN restored (KO already had "'멸망의 산' 남쪽 비탈").
+  12. ch23 idx14 [28-30]: "at the Plain of Megiddo" reduced to "at Megiddo"; "was anointed" dropped — EN restored both (KO already had "므깃도 평야" and "기름 부음").
+  13. ch24 idx9 [18]: "the daughter of Jeremiah" dropped — EN restored (KO already had "예레미야의 딸").
+  14. ch25 idx0 [1-7]: "in the Plains of Jericho" reduced to "in Jericho" — EN restored (KO already had "예리코 평야").
+- False positives (left unchanged): "Shaggy"→"all hairy", "Chronicles of the Kings of Israel"→"official records", "Good!"→"Perfect!", "Never!"→"No way!", "Holy Man"→"man of God", "Gazelle"→"Zibiah" (actual name), "The Revelation"→"God's Law/rules", "Compensation/Absolution Offerings"→"guilt and sin offerings", "Binding House" gloss, "ripped open"→"brutally killed" (teen softening).
+- Gates: STRUCT OK (25 ch, EN/KO paragraph+range parity, no null badges), build_gdocs.py VERIFY_DROPPED=0 / teen_without_msg=0 / msg_orphans=0 (4 pre-existing pairing notes in untouched rows), DOCX pairing spot-check 10/10 restored rows, reupload VERIFIED OK (25/25 tables).
