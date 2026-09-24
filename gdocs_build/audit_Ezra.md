@@ -81,3 +81,22 @@
 3. **"And Sheshbazzar did it"(5:16)** — Teen이 'So Sheshbazzar laid the foundation...'으로 통합. 전이 문장이라 의도적 축소로 판단하지 않음.
 4. **production 반영** — 구약 감사본은 앱에 반영하지 않음 (지시).
 5. **완료 선언** — 7개 게이트를 통과했으나, "완료/final" 선언은 성욱만 가능.
+
+## 2차 심층 재검토 (2026-09-25)
+
+**방법**: `completeness_check.py` 16건 FAIL 전수 분류 + 문장 단위 triage(MSG 문장별 recall <0.45 → 23건 후보 전수 수동 분류) + EN 숫자→KO 숫자 parity 검사(0건).
+
+**복원 3건 (EN; KO는 이미 보유 — 비대칭 누락 패턴)**:
+
+| 장:절 | MSG 요지 | 유형 | 수정 |
+|---|---|---|---|
+| 6:9 | "young bulls ... and anointing oil" | EN/KO 세부 누락 (양쪽 다 "bulls/소", "oil/기름"으로 축소) | EN "young bulls, rams, and lambs" + "anointing oil" / KO "어린 수소, 숫양, 어린 양" + "관유" |
+| 6:13 | "Tattenai governor of the land across the Euphrates" | EN 부칭 누락 (KO "유프라테스 강 건너편 총독" 보유) | EN "Tattenai, the governor of the land across the Euphrates" (1차 감사 5:6-7 선례와 동일 패턴) |
+| 6:21-22 | "to join them and seek God" | EN 절 누락 (KO "합류한" 보유) | EN "to join them and follow the God of Israel" |
+
+**오탐으로 분류 (수정 없음)**: checker 16건 중 15건 — "Freewill-Offerings"→"voluntary offerings", "Sidonians and Tyrians"→"people from Sidon and Tyre", "**MEMO**", "Feast of Unraised Bread"→"Feast of Unleavened Bread"(동의어), "intermarrying/obscenities/stragglers"→"marrying/nasty stuff/no one left", 소제목 행 배지 artifact(ch2 idx67). triage 23건 중 20건은 정당 paraphrase.
+
+**성욱 판단용 모호 케이스** (수정 없이 기록):
+- Ezra 6:7 / 10:6 / 10:9 — MSG "The Temple of God" → EN "the Temple"/"the Temple square", KO "성전"/"성전 앞 광장". EN/KO 일치, 문맥상 지시 대상 명확. 정당한 paraphrase로 보고 유지.
+
+**게이트**: validate PASS (10장) / completeness 15건 잔여 전부 오탐 / build 10 tables, VERIFY_DROPPED=0, msg_orphans=0, teen_without_msg=0 / verify_pairing_content OK (192 rows, 10 tables).
