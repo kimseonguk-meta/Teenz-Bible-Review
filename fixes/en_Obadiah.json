@@ -2,43 +2,30 @@
  {
   "chapter": 1,
   "title": "Edom's Ultimate Downfall: A Prophecy",
+  "merges": [],
+  "splits": [],
+  "changes": [],
+  "confirmations_needed": [],
   "paragraphs": [
-   "§ Your World Will Collapse",
-   "So, here's the deal with Edom — this is Obadiah's message, straight from God. A messenger went to the nations that don't follow God with this message:",
-   "'Get up and get ready to fight Edom!'",
-   "God's telling Edom, 'Listen, I'm about to make you irrelevant, the most looked-down-on nation. You think you're all that, living up in the mountains, thinking no one can touch you. But you're wrong. Even if you hung out on a high cliff like an eagle, even if you built your nest in the stars, I'd bring you down.' And that's a promise from God.",
-   "'If thieves came, they'd take everything, right? Well, Esau's going to be completely wrecked. Your allies will turn on you, your friends will betray you, and your world will fall apart. You won't see it coming. So don't be shocked—this is God's sure word—when I get rid of all the wise and powerful people in Edom. Your heroes will abandon you, Teman, and no one will be left in your mountains. This is all because of how you treated your brother, Jacob. You'll be disgraced and forgotten. When foreigners attacked Jerusalem and took your brother's people, you just stood there and watched. You were just as bad as them. You shouldn't have celebrated their suffering or taken advantage of them when they were at their lowest. You shouldn't have blocked their escape or handed over the survivors.'",
-   "'God's day of judgment is coming for all nations. What you've done will be done to you. It's coming back to hit you. Just like you partied on my holy mountain, all the other nations will drink God's anger. They'll drink and drink and drink—they'll drink themselves to death. But on Mount Zion, there will be safety. Jacob's family will get back everything that was taken from them. Jacob's family will catch fire, Joseph's family will become a fierce flame, and Esau's family will be like straw, completely burned up—nothing left but a pile of ashes.' God has spoken.",
-   "Then, people from the south will take over Edom's mountains, and people from the foothills will take over the Philistine's land. They'll reclaim the lands of Ephraim and Samaria, and Benjamin will take Gilead. The exiled Israelites will return and take over the land of Canaan, all the way to Zarephath. And the Jerusalem exiles from the far northwest in Sepharad will come back and take over the cities in the south. The survivors on Mount Zion will go into the mountains of Esau and rule justly and fairly—a kingdom that honors God."
+   "This is Obadiah's message to Edom, from God, the Master. We got the news straight from God, delivered by a special messenger sent out to the godless nations: \"On your feet, get ready to make war on Edom!\"",
+   "God's telling Edom, \"Listen up. I'm about to turn you into a no-account — the runt of the godless nations, totally despised. You thought you were so great, perched high among the rocks, king of the mountain, thinking to yourself, 'Nobody can get to me! Nobody can touch me!' Think again. Even if, like an eagle, you hang out on a high cliff-face, even if you build your nest in the stars, I'll bring you down to earth.\" God's sure Word.",
+   "\"If thieves crept up on you, they'd rob you blind — isn't that right? If muggers hit you on the streets at night, they'd pick you clean — isn't that right? Well, Esau's going to be taken apart piece by piece, his purse and pockets emptied. All your old partners will drive you to the edge. Your old friends will lie to your face. Your old drinking buddies will stab you in the back. Your world will collapse — you won't know what hit you. So don't be surprised — it's God's sure Word! — when I wipe out all the sages from Edom and clear the Esau mountains of every famous wise man. Your great heroes will desert you, Teman. There'll be nobody left in Esau's mountains. All because of the murderous history you built up against your brother Jacob. You'll be looked down on by everyone. You'll lose your place in history. On that day you just stood there and did nothing. Strangers hauled your brother's army into exile. Godless foreigners invaded and pillaged Jerusalem. You stood there and watched — you were as bad as they were. You shouldn't have gloated over your brother when he was down-and-out. You shouldn't have laughed and joked at Judah's sons when they were facedown in the mud. You shouldn't have talked so big when everything was so bad. You shouldn't have taken advantage of my people when their lives had fallen apart. You of all people should not have been amused by their troubles, their wrecked nation. You shouldn't have taken the shirt off their back when they were knocked flat, defenseless. And you shouldn't have stood waiting at the outskirts and cut off refugees, and traitorously turned in helpless survivors who had lost everything.\"",
+   "\"God's Judgment Day is near for all the godless nations. As you have done, it will be done to you. What you did will boomerang back and hit you on your own head. Just as you partied on my holy mountain, all the godless nations will drink God's wrath. They'll drink and drink and drink — they'll drink themselves to death. But not so on Mount Zion — there's respite there! A safe and holy place! The family of Jacob will take back their possessions from those who took them. That's when the family of Jacob will catch fire, and the family of Joseph will become a fierce flame, while the family of Esau will be straw. Esau will go up in flames — nothing left of him but a pile of ashes.\" God said it, and it is so.",
+   "People from the south will take over the Esau mountains. People from the foothills will overrun the Philistines. They'll take the farms of Ephraim and Samaria, and Benjamin will take Gilead. Earlier, the Israelite exiles will come back and take Canaanite land to the north, at Zarephath. The Jerusalem exiles from the far northwest, in Sepharad, will come back and take the cities in the south. The saved remnant on Mount Zion will go into the mountains of Esau and rule justly and fairly — a rule that honors God's kingdom."
   ],
   "verseRanges": [
-   "1",
-   "1",
    "1",
    "2-4",
    "5-14",
    "15-18",
    "19-21"
   ],
-  "splits": [
-   {
-    "msg_range": "1",
-    "paras": [
-     1,
-     2
-    ]
-   }
-  ],
-  "changes": [
-   "Ch1: added missing MSG § header 'Your World Will Collapse' (before v1)",
-   "Ch1: split MSG v1 into two paras to match KO structure (EN/KO parity, principle 4)",
-   "Ch1: restored MSG 2-4 'even if you built your nest in the stars' (KO already had it; EN was missing it)",
-   "Ch1: restored MSG 19-21 'Jerusalem exiles from the far northwest in Sepharad' (KO already had it; EN was missing it)",
-   "Ch1: restored MSG byline 'Obadiah's Message to Edom from God' in v1 intro (EN)",
-   "Ch1: restored 'Teman' (MSG 5-14; KO already had 데만아)",
-   "Ch1: restored MSG 15-18 'drink and drink and drink—drink themselves to death' (KO already had it)",
-   "Ch1: restored MSG 15-18 'Joseph become fierce flame' + 'pile of ashes' (KO already had it)",
-   "Ch1: restored MSG 19-21 'rule justly and fairly' (KO already had it)"
+  "msg_ranges": [
+   "1",
+   "2-4",
+   "5-14",
+   "15-18",
+   "19-21"
   ]
  }
 ]
