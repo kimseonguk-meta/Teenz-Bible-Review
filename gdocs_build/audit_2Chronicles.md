@@ -102,3 +102,28 @@
 - 확인함: MSG 36장 전 문단 대 EN/KO 의미 대조, EN/KO 배지·문단 parity, 이름/숫자/인용구 기계적 완전성, 욕설·슬랭 스크리닝, 독 짝지음 실제 내용 대조, Google Docs API 테이블 수 + export-back.
 - 확인하지 못함: Google Docs 웹 화면의 실제 렌더 (API + export-back DOCX로 대체 검증), KO 문체·어감의 원어민 10대 대상 가독성 평가, 자동 욕설 목록 밖의 미묘한 뉘앙스.
 - 공유 파일 `gdocs_build/completeness_check.py`에 이번 세션에서 추가됐던 역대기하 alias 블록은 되돌림 (역대기하 관련 파일만 수정·커밋 제약 준수). 해당 파일은 커밋 대상에서 제외.
+
+## 2차 심층 재검토 (2026-09-25)
+
+**방법**: `completeness_check.py` 토큰 검사(기계 PASS) + 문장 단위 triage 스크립트(MSG 문장별 content-word recall <0.40 → 68건 후보 전수 수동 분류) + EN 숫자→KO 숫자 parity 검사(만/억 표기 환산 후 0건).
+
+**복원 9건 (EN/KO)**:
+
+| 장:절 | MSG 요지 | 유형 | 수정 |
+|---|---|---|---|
+| 22:3-4 | "he attended the sin school of Ahab, and graduated with a degree in doom" | EN/KO 비유 누락 | EN "he went to Ahab's school of sin and graduated with a degree in doom" / KO "아합의 죄악 학교에 들어가 재앙 학위를 따고 졸업한 셈이야" |
+| 22:8 | "the captains of Judah and Ahaziah's nephews" | EN/KO 집단 누락 | "the captains of Judah" 복원 (양쪽) |
+| 22:9 | "Then he sent out a search party looking for Ahaziah himself" | EN/KO 세부 누락 | search party 복원 (양쪽) |
+| 28:19 | "Arrogant King Ahaz" | EN/KO 수식어 누락 | "arrogant King Ahaz" / "거만한 아하스 왕" |
+| 29:36 | "God had established a firm foundation for the lives of the people" | EN/KO 비유 누락 | "set their lives on a firm foundation" / "삶을 든든한 반석 위에 세워주신" |
+| 30:22 | "Hezekiah commended the Levites" | EN/KO 오역 ("rallied/격려" → "commended") | "praised the Levites for the awesome way they had led the people in worshiping God" / "칭찬" |
+| 30:24 | "plenty of consecrated priests—qualified and well-prepared" | EN/KO 세부 누락 | "qualified and well-prepared" 복원 (양쪽) |
+| 31:18 | "The passionate dedication ... was total—no one was left out" | EN/KO 문장 통째 누락 | 문단 말미에 복원 (양쪽) |
+| 33:6 | "He held séances and consulted spirits from the underworld" | EN/KO 문장 누락 | séances 복원 (양쪽) |
+| 35:7 | "Josiah personally donated thirty thousand sheep, lambs, and goats ... everything needed for the Passover celebration was there" | EN/KO 오역+누락 ("provided the master of ceremonies" 오역, "sheep" 누락, "everything needed" 누락) | "Josiah personally donated 30,000 sheep, lambs, and goats and 3,000 bulls from his own herds — everything needed for the celebration was there" (양쪽) |
+
+**오탐으로 분류 (수정 없음)**: triage 68건 중 59건 — 정당한 teen paraphrase (예: 25:8 "God and God only has the power to help or hurt your cause" → "God doesn't take sides, and he'll put you on the losing side"; 24:23 "A year or so later" → "That spring"; 28:19 "epidemic of depravity" → "moral mess"). 숫자 parity 19건은 KO 만 단위 표기(18만=180,000 등)로 전부 정당.
+
+**성욱 판단용 모호 케이스**: 없음 (이번 책에서 모호 판정 없이 전수 분류 완료).
+
+**게이트**: validate PASS (36장) / completeness PASS (338문단) / build 36 tables, VERIFY_DROPPED=0, msg_orphans=0, teen_without_msg=0 / verify_pairing_content OK (338 rows, 36 tables).
