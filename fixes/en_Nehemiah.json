@@ -1,0 +1,1361 @@
+[
+ {
+  "chapter": 1,
+  "title": "My Hometown is WRECKED... So I Made a Plan",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-2",
+    "paras": [
+     0,
+     1
+    ]
+   },
+   {
+    "msg_range": "10-11",
+    "paras": [
+     6,
+     7
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: 2-3→1-2, 4→3, 5-6→4, 6-7→5-6 (MSG 문단 기준); 1-2·10-11 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "The journal of Nehemiah, son of Hacaliah.",
+   "So, it was December, in the twentieth year of the king's reign. I was hanging out at the palace in Susa when my bro Hanani showed up with some other guys from Judah. I was like, 'Yo, what's the situation with our people back home who made it through the exile? How's Jerusalem doing?'",
+   "And they were like, 'Bro, it's bad. The survivors are really struggling. The wall of Jerusalem is completely wrecked, and the gates are just ashes. It's a total mess.'",
+   "Hearing that just broke me. I literally sat down and cried. I was so torn up about it that I spent days fasting and praying to God about the whole situation.",
+   "I prayed, 'God, the God of heaven, you're so great and powerful. You're always loyal to your promises and faithful to people who love you and follow your rules. Please, just look at me and listen. I'm praying day and night for your people, the Israelites. I'm admitting that we've all messed up, including me and my family. We've sinned against you.'",
+   "'We've totally disrespected you. We didn't do what you told us, we ignored your commands, and we didn't follow the rules you gave to Moses. But you also promised Moses that if we messed up and you scattered us all over the world, that if we came back to you and started obeying you again, you'd bring us all back to the special place you chose for your Name.'",
+   "'Well, here they are—your people, the ones you saved with your incredible power. So please, Master, listen to my prayer, and the prayers of all your servants who actually enjoy honoring you. Help me out today and make the king be cool with what I'm about to ask.'",
+   "I was the king's cupbearer, so I had his ear."
+  ],
+  "verseRanges": [
+   "1-2",
+   "1-2",
+   "3",
+   "4",
+   "5-6",
+   "7-9",
+   "10-11",
+   "10-11"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3",
+   "4",
+   "5-6",
+   "7-9",
+   "10-11"
+  ]
+ },
+ {
+  "chapter": 2,
+  "title": "Nehemiah's Secret Mission to Rebuild Jerusalem",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "4-5",
+    "paras": [
+     2,
+     3
+    ]
+   },
+   {
+    "msg_range": "6",
+    "paras": [
+     4,
+     5
+    ]
+   },
+   {
+    "msg_range": "17-18",
+    "paras": [
+     11,
+     12
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p5 7-8→6, p6 8-9→7-8, p7 10→8-9, p8 11-12→10 (1유닛씩 밀림 수정); 4-5·6·17-18 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "So, it was April, during the 20th year of King Artaxerxes's reign. I was on duty, serving the king his wine, and brought it over to him. I’d literally never looked sad in front of him before, so he was like, “Yo, why the long face? You’re not sick, are you? Or are you just feeling down?”",
+   "That question made me even more nervous. I said, “Long live the king! But for real, how can I not be sad when the city where my ancestors are buried is a total wreck, and its gates are just a pile of ashes?”",
+   "The king then asked me, “Okay, so what do you need?”",
+   "I shot a quick prayer up to the God of heaven, and then said, “If you’re cool with it, and if you think I’m a good dude, please send me to Judah, to the city where my family is buried, so I can rebuild it.”",
+   "The king, with the queen sitting right next to him, asked, “How long will you be gone, and when will you be back?”",
+   "I gave him a specific timeline, and the king gave his approval to send me.",
+   "Then I added, “If it’s not too much to ask, could you also give me some official letters for the governors in the region across the Euphrates River, so they’ll let me pass through to Judah? And maybe an order for Asaph, the guy in charge of the king’s forest, to hook me up with timber for the beams for the Temple fortress, the city wall, and the house I’ll be staying in.”",
+   "God totally had my back on this, and the king gave me everything I asked for. When I got to the governors on the other side of the river, I showed them the king’s letters. The king even sent some of his cavalry with me as an escort, which was pretty sick.",
+   "But when Sanballat the Horonite and Tobiah, that Ammonite official, heard about it, they were seriously upset. They were really mad that someone was actually there to help out the people of Israel.",
+   "So I finally made it to Jerusalem. After chilling for three days, I got up in the middle of the night with a few of my guys. I hadn't told a soul what God had put on my heart to do for the city. The only animal with us was the one I was riding.",
+   "I rode out in the dark, past the Valley Gate, toward the Dragon's Fountain, and over to the Dung Gate. I was checking out the city walls, which were all busted up, and the gates that had been torched. Then I went over to the Fountain Gate and the King's Pool, but it was so messy my donkey couldn't get through. So I just went up the valley in the dark, still checking out the wall. I came back in through the Valley Gate. The whole time, the local officials were clueless. They had no idea where I'd gone or what I was up to. I hadn't said a word to any of the Jews, the priests, the nobles, the officials, or anyone else who would be helping with the work.",
+   "Then I finally told them what was up: “Look, guys, we’re in a really bad spot here. Jerusalem is a disaster, and its gates are burned down. Let's get it together and rebuild the wall of Jerusalem so we don't have to live in this shame anymore.” I told them how God was backing me and how the king was on our side too.",
+   "They were immediately like, “We’re so in. Let’s do this.” They got ready to start the good work.",
+   "But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard our plan, they just laughed at us and mocked us, saying, “Ha! What do you guys think you’re doing? You really think you can go against the king?”",
+   "I shot back, “The God of heaven will make sure we succeed. We’re his servants, and we’re going to get to work and rebuild. You guys can stay out of it. You have no say, no claim, and no part in Jerusalem’s business!”"
+  ],
+  "verseRanges": [
+   "1-2",
+   "2-3",
+   "4-5",
+   "4-5",
+   "6",
+   "6",
+   "7-8",
+   "8-9",
+   "10",
+   "11-12",
+   "13-16",
+   "17-18",
+   "17-18",
+   "19",
+   "20"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "2-3",
+   "4-5",
+   "6",
+   "7-8",
+   "8-9",
+   "10",
+   "11-12",
+   "13-16",
+   "17-18",
+   "19",
+   "20"
+  ]
+ },
+ {
+  "chapter": 3,
+  "title": "The Great Wall Build of Jerusalem",
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "배지 수정: p5 13-14→13, p6 15→14, p7 16-17→15, p8 17-18→16, p9 19-23→17-18, p10 21-24→19-23 (1유닛씩 밀림 수정)"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "First up, the head priest Eliashib and his crew of priests got right on it. They rebuilt the Sheep Gate, got the doors hung, and kept going all the way to the Tower of the Hundred and the Tower of Hananel. The guys from Jericho pitched in and worked next to them, and Zaccur son of Imri was on the other side.",
+   "The Hassenaah brothers took care of the Fish Gate. They fixed it up, hung the doors, and even installed all the bolts and bars. Meremoth son of Uriah, son of Hakkoz, worked next to them. Then there was Meshullam son of Berekiah, son of Meshezabel, and after him Zadok son of Baana, and then the guys from Tekoa. But get this, their nobles refused to work with their master—they thought they were too important to get their hands dirty with this kind of work.",
+   "The Jeshanah Gate was rebuilt by Joiada son of Paseah and Meshullam son of Besodeiah. They got it all set up with doors, bolts, and bars. Working with them were Melatiah the Gibeonite, Jadon the Meronothite, and a bunch of other dudes from Gibeon and Mizpah, which was basically ruled by the governor from across the Euphrates. Uzziel son of Harhaiah, one of the goldsmiths, worked on the next section, and then Hananiah, a perfume maker, was after him. They rebuilt the Jerusalem wall all the way to the Broad Wall.",
+   "Rephaiah son of Hur, who was basically the mayor of half of Jerusalem, worked on the next part. Then Jedaiah son of Harumaph fixed up the wall right in front of his own house. Hattush son of Hashabneiah was next to him.",
+   "Malkijah son of Harim and Hasshub son of Pahath-Moab rebuilt another section, which also included the Tower of the Furnaces. Shallum son of Hallohesh, the mayor of the other half of Jerusalem, worked next to them, and his daughters were even helping out—girl power!",
+   "The Valley Gate was handled by Hanun and the people from the village of Zanoah. They fixed it, hung the doors, and installed all the hardware. They were on a roll and repaired a whole 1,500 feet of wall, all the way to the Dung Gate.",
+   "Speaking of the Dung Gate, that was rebuilt by Malkijah son of Recab, the mayor of the Beth Hakkerem district. He got it repaired, hung the doors, and put in the bolts and bars.",
+   "The Fountain Gate was Shallun son of Col-Hozeh's project. He was the mayor of the Mizpah district. He fixed it, put a roof on it, hung the doors, and installed all the hardware. He also rebuilt the wall of the Pool of Siloam by the King's Garden, all the way to the steps leading down from the City of David.",
+   "After him was Nehemiah son of Azbuk, the mayor of half the Beth Zur district. He worked on the section from in front of King David's tomb all the way to the Pool and the House of Heroes.",
+   "Next up were the Levites, led by Rehum son of Bani. Hashabiah, the mayor of half the Keilah district, was there representing his area. Then their relatives kept the work going under Binnui son of Henadad, the mayor of the other half of Keilah.",
+   "Ezer son of Jeshua, the mayor of Mizpah, rebuilt the section from the Ascent to the Armory all the way to the Angle. Baruch son of Zabbai did the part from the Angle to the door of the high priest Eliashib's house. Meremoth son of Uriah, son of Hakkoz, took over from there and finished the wall to the end of Eliashib's property. Priests from the area took over from there. Benjamin and Hasshub worked on the wall in front of their own house, and Azariah son of Maaseiah, son of Ananiah, did the same, working right next to his house.",
+   "Binnui son of Henadad rebuilt the section from Azariah's house to the Angle at the Corner. Palal son of Uzai worked on the part opposite the Angle and the tower that sticks out from the king's upper palace near the Court of the Guard. Next to him was Pedaiah son of Parosh, and the Temple staff who lived on Ophel hill worked up to the Water Gate on the east and the projecting tower. The guys from Tekoa handled the section from that big tower to the wall of Ophel.",
+   "Above the Horse Gate, the priests were at it, each one fixing the wall in front of his own house. After them, Zadok son of Immer rebuilt the part in front of his house, and then Shemaiah son of Shecaniah, the keeper of the East Gate, did his part. Then came Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph, and after them, Meshullam son of Berekiah rebuilt the wall in front of his own storage shed.",
+   "Malkijah the goldsmith repaired the wall all the way to where the Temple staff and merchants lived, up to the Inspection Gate and the Upper Room at the Corner. The goldsmiths and merchants teamed up to fix the last part between that Upper Room and the Sheep Gate."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3-5",
+   "6-8",
+   "9-10",
+   "11-12",
+   "13",
+   "14",
+   "15",
+   "16",
+   "17-18",
+   "19-23",
+   "24-27",
+   "28-30",
+   "31-32"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3-5",
+   "6-8",
+   "9-10",
+   "11-12",
+   "13",
+   "14",
+   "15",
+   "16",
+   "17-18",
+   "19-23",
+   "24-27",
+   "28-30",
+   "31-32"
+  ]
+ },
+ {
+  "chapter": 4,
+  "title": "Building a Wall While Dodging Haters",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "10",
+    "paras": [
+     5,
+     6
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p5 7-9→10, p8 13-15→13-14, p9 16-19→15-18 (밀림 수정); 10 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "So, when this guy Sanballat heard we were rebuilding the wall, he totally lost it and started trashing the Jews. He was with his Samaritan buddies and army dudes and was like, “What are these pathetic Jews even doing? You think they can just snap their fingers and fix everything overnight? Like they can magically turn rubble into real building stones?”",
+   "Then his sidekick, Tobiah the Ammonite, chimed in, “For real! What even is that wall they're building? I bet if a single fox climbed on it, the whole thing would crumble.”",
+   "Nehemiah just prayed through it, “God, please listen. We're getting so much hate. Make their insults bounce right back at them. Let their enemies drag them off to some other country. Don’t forgive them or forget their sin, because they've insulted the builders!”",
+   "But we just kept going, fixing and rebuilding the wall. Pretty soon the whole wall was connected and halfway up to where it was supposed to be, because everyone was all in and super motivated.",
+   "But when Sanballat, Tobiah, the Arabs, the Ammonites, and the Ashdodites heard that the Jerusalem wall repairs were going so well and the gaps were being closed, they were seriously ticked off. They all schemed together to come fight Jerusalem and just cause a ton of drama. We fought back by praying to our God and posting a 24/7 guard to watch out for them.",
+   "But then, rumors started spreading around Judah.",
+   "The construction crew is exhausted, and there's just so much rubble. We’re in way over our heads; there's no way we can finish this wall.",
+   "And the whole time, our enemies were whispering, “They'll never see us coming. Before they even know what’s up, we’ll be on them, killing them, and that’ll stop the work for good!” The Jews who lived near them kept telling us, like, ten times, “They’re all around us! They’re about to attack!”",
+   "So I posted armed guards at the weakest spots on the wall. I had families stand guard together with their swords, spears, and bows. After checking everything out, I got everyone together—the leaders, the officials, and all the people—and said, “Don’t be scared of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons, your daughters, your wives, and your homes.”",
+   "Eventually, our enemies found out that we knew their whole plan and that God had totally wrecked it. So we all went back to work on the wall. From that point on, half of my guys worked while the other half stood guard with spears, shields, bows, and armor. The army officers were there to back up everyone in Judah who was building. The guys hauling materials did it with one hand while holding a weapon in the other. Every builder had a sword strapped to his side while he worked. And I kept a guy with a trumpet right next to me to sound the alarm.",
+   "I told the nobles, officials, and everyone else, “This is a huge job, and we're spread out all along the wall, far from each other. If you hear the trumpet, run to that spot and group up with us. Our God will fight for us.”",
+   "So we kept at it, working from sunup until the stars came out, with half of us holding spears the whole time.",
+   "I also told everyone, “Every man and his helper needs to stay inside Jerusalem. That way, you can be guards at night and workers during the day.”",
+   "None of us even changed our clothes to sleep—not me, not my brothers, not my workers, not the guards with me. We all kept our weapons in hand, even when we went to get water."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3",
+   "4-5",
+   "6",
+   "7-9",
+   "10",
+   "10",
+   "11-12",
+   "13-14",
+   "15-18",
+   "19-20",
+   "21",
+   "22",
+   "23"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3",
+   "4-5",
+   "6",
+   "7-9",
+   "10",
+   "11-12",
+   "13-14",
+   "15-18",
+   "19-20",
+   "21",
+   "22",
+   "23"
+  ]
+ },
+ {
+  "chapter": 5,
+  "title": "Nehemiah Calls Out the Rich Bullies",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "7-8",
+    "paras": [
+     4,
+     5
+    ]
+   },
+   {
+    "msg_range": "12-13",
+    "paras": [
+     8,
+     9,
+     10
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p1 1-2→3, p2 3-4→4-5, p3 4-5→6-7, p4 6-7→7-8, p9 13-14→12-13, p10 14-16→12-13, p11 16-17→14-16 (밀림 수정); 7-8·12-13 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "So, a bunch of people, including the wives, started a huge protest against their fellow Jews. Some were like, “We’ve got huge families, and we literally need food just to stay alive.”",
+   "Others were saying, “We’re having to put our fields, vineyards, and houses on the line just to get enough grain so we don’t starve.”",
+   "And then others said, “We’re having to borrow money just to pay the king’s tax on our fields and vineyards. Like, look at us. We’re the same as our brothers here; our kids are just as valuable as theirs. But here we are, having to sell our own kids as slaves—some of our daughters are already gone—and we can’t do a thing about it because other people own our fields and vineyards now.”",
+   "I got so mad when I heard all their protests and complaints. After thinking it over, I totally called out the nobles and officials. I said, “Every single one of you is ripping off your own people.”",
+   "Then I called a big meeting to deal with them. I told them, “We did everything we could to buy back our Jewish brothers who had to sell themselves as slaves to foreigners. And now you’re turning around and selling those same brothers back into slavery? Does that mean we have to buy them back all over again?”",
+   "They were dead silent. What could they even say?",
+   "“What you’re doing is so wrong. Do you not even fear God anymore? Don’t you care what the other nations, our enemies, think about you?",
+   "“Me, my brothers, and my crew have also loaned them money. But this whole thing of charging them crazy interest has to stop. Right now, give them back their fields, vineyards, olive groves, and homes that you took. And you need to cancel the debt they owe you—the money, the grain, the new wine, and the olive oil.”",
+   "They actually said, “Okay, we’ll give it all back. We won’t demand anything else from them. We’ll do everything you say.”",
+   "Then I got the priests together and made them swear an oath to keep their promise. After that, I emptied my pockets, turning them inside out, and said, “If you don’t keep this promise, may God do this to you—empty out your pockets and your house, just like this. Totally broke and empty.”",
+   "Everyone shouted a wholehearted “Yes, we’ll do it!” and praised God. And the people actually did what they promised.",
+   "And get this—from the time King Artaxerxes made me governor in Judah, from his 20th year to his 32nd year, for twelve whole years, neither I nor my brothers ever used the food allowance that came with the job. The governors before me were hard on the people, taxing them forty shekels of silver (about a pound) a day for food and wine, and their staff were total bullies. But because I respected God, I didn't do any of that. I had a job to do: I worked on this wall. All my guys were on the job, working hard. We didn't have time to get rich on the side.",
+   "I fed 150 Jews and officials at my own table, not even counting the people who came from other countries. Every day, we cooked up one ox, six prime sheep, and a bunch of chickens for me, and every ten days, we got a huge shipment of wine. But even with all that, I never used the governor's food allowance—the people were already having a tough enough time.",
+   "So, my God, please remember all the good things I’ve done for these people."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3",
+   "4-5",
+   "6-7",
+   "7-8",
+   "7-8",
+   "9",
+   "10-11",
+   "12-13",
+   "12-13",
+   "12-13",
+   "14-16",
+   "17-18",
+   "19"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3",
+   "4-5",
+   "6-7",
+   "7-8",
+   "9",
+   "10-11",
+   "12-13",
+   "14-16",
+   "17-18",
+   "19"
+  ]
+ },
+ {
+  "chapter": 6,
+  "title": "Finishing Strong Despite the Haters",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "9",
+    "paras": [
+     6,
+     7
+    ]
+   },
+   {
+    "msg_range": "10",
+    "paras": [
+     8,
+     9
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p1 3-4→2-3, p2 5-6→4, p4 7-8→6-7, p5 9→8, p6 10→9, p8 12-13→10, p10 14→11, p11 15-16→12-13, p12 17-19→14, p13 17-19→15-16 (밀림 수정); 9·10 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "So, get this. When Sanballat, Tobiah, Geshem the Arab, and the rest of our haters heard that I’d rebuilt the wall and there were no gaps left—even though I hadn't put the gates in yet—Sanballat and Geshem hit me up with a message: “Yo, come meet us at Kephirim in the Ono valley.”",
+   "I was pretty sure they were just scheming to mess me up, so I sent my own messengers back saying: “I’m doing something really important right now; I can’t just leave. Why should this whole project stop just so I can come down and hang out with you?”",
+   "They sent me that same message four times, and every single time I gave them the same answer.",
+   "The fifth time, it was the same messenger with the same message, but this time Sanballat sent it as an unsealed letter for everyone to read. It said:",
+   "“So the word on the street is—and Geshem says it’s legit—that you and the Jews are planning to rebel. They’re saying that’s why you’re rebuilding the wall. The rumor is you want to make yourself king, and you’ve even got prophets in Jerusalem ready to announce, ‘Judah has a king!’ The actual king is gonna hear all this, so don’t you think we should probably sit down and talk?”",
+   "I sent him a message right back: “Literally none of what you’re saying is true. You completely made it all up.”",
+   "They were just trying to scare us into quitting. They were thinking, “They’ll get scared, give up, and never finish the job.”",
+   "I just prayed, “God, give me strength.”",
+   "Then I secretly met with Shemaiah son of Delaiah, the son of Mehetabel, at his house. He was like:",
+   "“Let’s go meet at the house of God, like, inside the Temple. We can lock the doors and be safe because they’re coming to kill you. For real, they’re coming tonight to kill you.”",
+   "But I was like, “Dude, why would a guy in my position run and hide? And why would someone like me use the Temple as a hideout just to save my life? Nah, I’m not doing it.”",
+   "I had a gut feeling that God hadn't sent this guy. The so-called prophecy he was giving me was totally a setup by Tobiah and Sanballat; they had hired him. He was paid to scare me off and trick me, a regular person, into disrespecting the Temple. That way, they could ruin my reputation and have a reason to accuse me.",
+   "“My God, please don’t let Tobiah and Sanballat get away with this. And same for that prophetess Noadiah and the other prophets who were trying to mess with my head.”",
+   "The wall was officially finished on the twenty-fifth day of the month of Elul. The whole thing took fifty-two days. When all our enemies heard the news and all the nations around us saw it, they totally lost their confidence. They knew this had to be God’s work.",
+   "During this whole time, the nobles of Judah and Tobiah were basically pen pals, sending letters back and forth constantly. A lot of them were connected to him because he was the son-in-law of Shecaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berekiah. They kept telling me all these ‘good things’ he was doing and then would snitch to him about everything I said. And then Tobiah would send me letters trying to intimidate me."
+  ],
+  "verseRanges": [
+   "1-2",
+   "2-3",
+   "4",
+   "5-6",
+   "6-7",
+   "8",
+   "9",
+   "9",
+   "10",
+   "10",
+   "11",
+   "12-13",
+   "14",
+   "15-16",
+   "17-19"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "2-3",
+   "4",
+   "5-6",
+   "6-7",
+   "8",
+   "9",
+   "10",
+   "11",
+   "12-13",
+   "14",
+   "15-16",
+   "17-19"
+  ]
+ },
+ {
+  "chapter": 7,
+  "title": "Jerusalem's Got a New Vibe & We're Taking Names",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "6-60",
+    "paras": [
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65
+    ]
+   },
+   {
+    "msg_range": "61-63",
+    "paras": [
+     66,
+     67,
+     68,
+     69
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p1 1-2→3, p2 1-2→4, p3 3→5, p4 4→6-60, p61-65 61-63/64-65→6-60, p66-69 66-69→61-63, p70 70-72→64-65, p71 70-72→66-69 (밀림 수정); 6-60·61-63 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "Alright, so the wall was finally done, and I got the doors set up. I assigned the security crew, the worship team, and the Levites their jobs. Then I put my bro Hanani in charge of Jerusalem, along with Hananiah, the head of the main fortress. I picked Hanani 'cause he was a super solid dude who respected God more than pretty much anyone.",
+   "I told them straight up: 'Don't even think about opening the city gates until the sun's high in the sky. And make sure you lock and bar them up tight while the guards are still on their shift. Your security team? They're gonna be regular citizens of Jerusalem, posted up right in front of their own houses.'",
+   "The city itself was huge, with tons of space, but there was hardly anyone living there yet, and most of the houses were still wrecked.",
+   "Then, I got this idea, and I'm pretty sure it was from God, to get all the important people, the leaders, and everyone else together for a big headcount. I managed to find the old family records of the first wave of people who came back from being exiled. This is what the list said:",
+   "These are the peeps from the province who came back from being held captive in exile. You know, the ones King Nebuchadnezzar of Babylon dragged away? Well, they came back to Jerusalem and Judah, each to their own hometown. They rolled in with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah.",
+   "Here's the breakdown of the guys from Israel, based on their families:",
+   "From Parosh's family, 2,172.",
+   "From Shephatiah's family, 372.",
+   "From Arah's family, 652.",
+   "From Pahath-Moab's family (the descendants of Jeshua and Joab), 2,818.",
+   "From Elam's family, 1,254.",
+   "From Zattu's family, 845.",
+   "From Zaccai's family, 760.",
+   "From Binnui's family, 648.",
+   "From Bebai's family, 628.",
+   "From Azgad's family, 2,322.",
+   "From Adonikam's family, 667.",
+   "From Bigvai's family, 2,067.",
+   "From Adin's family, 655.",
+   "From Ater's family (Hezekiah's descendants), 98.",
+   "From Hashum's family, 328.",
+   "From Bezai's family, 324.",
+   "From Hariph's family, 112.",
+   "From Gibeon's crew, 95.",
+   "And here are the Israelites, listed by where they were from:",
+   "From Bethlehem and Netophah, 188 people.",
+   "From Anathoth, 128.",
+   "From Beth Azmaveth, 42.",
+   "From Kiriath Jearim, Kephirah, and Beeroth, 743.",
+   "From Ramah and Geba, 621.",
+   "From Micmash, 122.",
+   "From Bethel and Ai, 123.",
+   "From the other Nebo, 52.",
+   "From the other Elam, 1,254.",
+   "From Harim, 320.",
+   "From Jericho, 345.",
+   "From Lod, Hadid, and Ono, 721.",
+   "From Senaah, a whopping 3,930.",
+   "Now for the priest families:",
+   "From Jedaiah's family (Jeshua's descendants), 973.",
+   "From Immer's family, 1,052.",
+   "From Pashhur's family, 1,247.",
+   "From Harim's family, 1,017.",
+   "And the Levite families:",
+   "From Jeshua's family (descendants of Kadmiel and Hodaviah), only 74.",
+   "The singers:",
+   "From Asaph's family line, 148.",
+   "The security guard families:",
+   "Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, adding up to 138.",
+   "The families of the support staff:",
+   "Ziha, Hasupha, Tabbaoth,",
+   "Keros, Sia, Padon,",
+   "Lebana, Hagaba, Shalmai,",
+   "Hanan, Giddel, Gahar,",
+   "Reaiah, Rezin, Nekoda,",
+   "Gazzam, Uzza, Paseah,",
+   "Besai, Meunim, Nephussim,",
+   "Bakbuk, Hakupha, Harhur,",
+   "Bazluth, Mehida, Harsha,",
+   "Barkos, Sisera, Temah,",
+   "Neziah, and Hatipha.",
+   "And the families of Solomon's servants:",
+   "Sotai, Sophereth, Perida,",
+   "Jaala, Darkon, Giddel,",
+   "Shephatiah, Hattil, Pokereth-Hazzebaim, and Amon.",
+   "All the Temple support staff and Solomon's servants together were 392 people.",
+   "Then there were these guys who came from Tel Melah, Tel Harsha, Kerub, Addon, and Immer. The problem was, they couldn't prove their family history, so we weren't sure if they were legit Israelites or not:",
+   "The descendants of Delaiah, Tobiah, and Nekoda, 642 of them.",
+   "And the same thing happened with these priest families:",
+   "The descendants of Hobaiah, Hakkoz, and Barzillai (he was the one who married a daughter of Barzillai the Gileadite and took his name).",
+   "They searched everywhere for their family records but came up empty. So, they were kicked out of the priesthood because they were considered 'unclean.' The governor made a rule that they couldn't eat any of the holy food until a priest could figure out their status using the Urim and Thummim.",
+   "The grand total for the whole community was 42,360. That's not even counting the 7,337 male and female slaves. Plus, there were 245 male and female singers. And get this, they had 736 horses, 245 mules, 435 camels, and 6,720 donkeys.",
+   "Some of the family leaders gave money for the project out of their own pockets. The governor himself donated 1,000 drachmas of gold (about 19 pounds), 50 bowls, and 530 sets of clothes for the priests. Other family heads gave 20,000 drachmas of gold and 2,200 minas of silver (about one and a third tons). The rest of the people pitched in 20,000 drachmas of gold (about 375 pounds), 2,000 minas of silver, and 67 sets of priest clothes.",
+   "The priests, Levites, security guards, singers, Temple workers, and a bunch of other people, plus all the rest of the Israelites, all found places to live in their own towns."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3",
+   "4",
+   "5",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "6-60",
+   "61-63",
+   "61-63",
+   "61-63",
+   "61-63",
+   "64-65",
+   "66-69",
+   "70-72",
+   "73"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3",
+   "4",
+   "5",
+   "6-60",
+   "61-63",
+   "64-65",
+   "66-69",
+   "70-72",
+   "73"
+  ]
+ },
+ {
+  "chapter": 8,
+  "title": "The Greatest Bible Study Session Ever",
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "배지 수정: p0 1-2→1, p1 3-4→2-3, p2 5-6→4, p3 6-7→5-6 (밀림 수정)"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "By the time the seventh month rolled around, all the Israelites were settled in their new towns. Then, everyone, and I mean *everyone*, gathered together in the square by the Water Gate. They were like, 'Yo, Ezra, my guy, bring out that Book of the Law of Moses that God gave us!'",
+   "So Ezra the priest brought the Law out for the whole assembly—men, women, and anyone old enough to get what was going on. It was the first day of the seventh month. He read it out loud, facing the square from dawn till noon. And you know what? The people were locked in. They were hanging on every word.",
+   "The scholar Ezra was standing on a wooden stage they built just for this. He had a whole crew with him. On his right were Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah. On his left were Pedaiah, Mishael, Malkijah, Hashum, Hashbaddanah, Zechariah, and Meshullam.",
+   "Ezra opened the book, and everyone could see him because he was up high. As soon as he opened it, everyone stood up. Then Ezra gave a huge shout-out to God, the great God, and all the people raised their hands and shouted back, 'Oh yes! Yes!' Then they all bowed down, faces to the ground, and worshipped God.",
+   "The Levites—Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah—went around explaining the Law to the people while they were standing there. They basically translated the Book of God's Law so everyone could understand what was being read.",
+   "Then Nehemiah the governor, Ezra the priest and scholar, and the Levites who were teaching, told everyone, 'This is a holy day for your God. Don't be sad and cry.' They had to say that because everyone was literally weeping as they heard the words of the Law.",
+   "He went on, 'Go home and have a feast! Eat good food, drink sweet drinks, and share with those who don't have anything. This day is special to God. Don't feel bad. The joy of God is your superpower!'",
+   "The Levites helped calm everyone down, saying, 'Quiet down, y'all. This is a holy day. No need to be upset.'",
+   "So the people went off and had a huge party, eating and drinking and making sure to include the poor. It was a massive celebration because they finally got it. They understood the words that had been read to them.",
+   "On the second day, all the family heads, the priests, and the Levites got together with Ezra the scholar to dive deeper into the Law's words. They found it written that God had commanded through Moses that the Israelites should live in temporary shelters, like booths, during the festival in the seventh month. So they sent out a notice everywhere, even in Jerusalem: 'Go up to the hills and grab some olive, pine, myrtle, palm, and other leafy branches to build booths, just like the scripture says.'",
+   "So the people went out, got the branches, and built themselves little shelters on their roofs, in their courtyards, in the Temple courtyards, and in the public squares by the Water Gate and the Ephraim Gate. The entire group that came back from exile built booths and lived in them. It was wild because the Israelites hadn't done this since the time of Joshua, son of Nun. It was an amazing day, full of incredible joy!",
+   "Ezra read from the Book of God's Law every single day of the seven-day festival. On the eighth day, they had a special final assembly, just as they were supposed to."
+  ],
+  "verseRanges": [
+   "1",
+   "2-3",
+   "4",
+   "5-6",
+   "7-8",
+   "9",
+   "10",
+   "11",
+   "12",
+   "13-15",
+   "16-17",
+   "18"
+  ],
+  "msg_ranges": [
+   "1",
+   "2-3",
+   "4",
+   "5-6",
+   "7-8",
+   "9",
+   "10",
+   "11",
+   "12",
+   "13-15",
+   "16-17",
+   "18"
+  ]
+ },
+ {
+  "chapter": 9,
+  "title": "Israel's Epic History Lesson & A Big 'We Messed Up'",
+  "merges": [],
+  "splits": [],
+  "changes": [
+   "배지 수정: p1 1-3→4-5, p2 4-5→5-6, p3 4-5→7-8, p4 7-9→9-15, p5 9-15→16-19, p6 16-19→20-23, p7 20-23→24-25, p8 23-26→26-31, p9 31-33→32-37, p10 37-38→38 (밀림 수정)"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "So on the 24th day of the month, the Israelites all got together. They were fasting, wearing scratchy burlap clothes, and had dirt on their faces to show they were serious about saying sorry. They cut off all ties with the foreigners and then stood up to confess their own screw-ups and the messed-up things their ancestors had done. They just stood there for like a quarter of the day, reading from the rule book of their God. Then for another quarter of the day, they were confessing and worshipping their God.",
+   "A bunch of Levites—Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Kenani—got up on a platform and just yelled out to their God. Then the Levites Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah were like, “Get up! Praise your God, forever and ever!”",
+   "Your awesome name is blessed, way above any praise we could give! You're the one, God, you and only you. You made the skies, even the highest heavens, and all the angels. You made the earth and everything on it, the oceans and everything in them. You keep it all going, and all the angels in heaven worship you!",
+   "You're the God who picked Abram, brought him all the way from Ur of the Chaldees, and changed his name to Abraham. You saw that his heart was loyal to you, so you made a promise with him. A promise to give him the land of all those 'ites'—the Canaanites, Hittites, Amorites, Perizzites, Jebusites, and Girgashites—and to give it to his kids. And you actually kept your promise, because you're a good God.",
+   "You saw how much our ancestors were suffering in Egypt. You heard them crying out at the Red Sea. You did some wild miracles and signs that totally freaked out Pharaoh, his officials, and everyone in his country. You knew they were being arrogant bullies to your people, and you made a name for yourself that people still talk about today. You split the sea right in front of them; they walked through on dry ground. You threw the guys chasing them into the deep water, and they sank like rocks in a crazy storm. During the day, you led them with a huge cloud, and at night, with a pillar of fire, to show them which way to go. You came down on Mount Sinai and spoke to them from heaven. You gave them good rules to live by, true teachings, and solid commands. You told them about your holy Sabbath. Through Moses, your servant, you gave them all these commands and instructions. You gave them bread from heaven when they were hungry and water from a rock when they were thirsty. You told them to go in and take the land you swore you'd give them.",
+   "But our ancestors were so arrogant and stubborn; they just wouldn't listen to your commands. They ignored you and forgot about all the insane miracles you did for them. They got stubborn and actually decided they wanted to go back to being slaves in Egypt. But you, you're a forgiving God, so gracious and kind, incredibly patient, and full of love—you didn't give up on them. I mean, they even made a statue of a calf and said, 'This is the god who brought us out of Egypt!' and kept doing worse things, but you, in your crazy compassion, didn't just leave them in the desert. The pillar of cloud stayed with them every day, showing them the way, and the pillar of fire did the same at night, lighting up their path.",
+   "You gave them your good Spirit to teach them. You weren't stingy with the manna, and you gave them plenty of water. For forty years in the desert, you took care of them; they had everything they needed. Their clothes didn't get worn out, and their feet didn't even get blisters. You gave them kingdoms and peoples, setting up huge territories for them. They took over the land of King Sihon of Heshbon and King Og of Bashan. You gave them so many kids they were like the stars in the sky, and you brought them into the land you promised their ancestors they would get to own.",
+   "So yeah, they went in, took the land, and settled down. You made the Canaanites who lived there bow down to them. You handed over their kings, their people, and their land for them to do whatever they wanted with. They captured strong cities and rich farmland, took over fully-furnished houses, cisterns, vineyards, olive groves, and massive orchards. They ate and got fat, living the good life off your incredible generosity.",
+   "But then, what do they do? They got defiant, rebelled against you, tossed out your laws, and even killed your prophets—the very prophets who were just trying to get them to come back to you. And from there, things just got worse and worse. So you let their enemies take over and make their lives miserable. But whenever they cried out to you for help, you listened from heaven. And because your compassion is like, bottomless, you sent them saviors who rescued them from their cruel enemies. But as soon as things got comfortable again, they went right back to doing evil stuff. So you'd leave them to their enemies again. Then they'd cry out to you again, and you'd hear them and help them again because of your great compassion. This happened over and over. You warned them to follow your laws, but they were just arrogant and brushed off your commands. They ignored the very rules that give life! They were stubborn, turned their backs on you, and wouldn't listen. You put up with them for years, sending your Spirit through your prophets to warn them. But when they still wouldn't listen, you handed them over to foreigners. Still, because you're so compassionate, you didn't completely wipe them out. You didn't just walk away for good. For real, you are a God of grace and compassion.",
+   "And now, our God, the great, mighty, and awesome God, who is always loyal to his promises and love, please don't ignore all the trouble we've been through. Our kings, leaders, priests, prophets, our ancestors, and all your people have been suffering since the time of the Assyrian kings until now. You're not the one to blame for all this; you've always done the right thing, and we're the ones who have messed up. None of our kings, leaders, priests, or ancestors followed your laws. They ignored your commands and all the warnings you gave them. Even when they had their own kingdom and were enjoying all the good stuff you gave them, living in that huge, fertile land you laid out for them, they didn't serve you or stop their evil ways. And look at us now, we're basically slaves today. This is the land you gave our ancestors so they could eat well and have a good life, and now we're slaves on it. All its amazing crops go to the kings you put over us because of our sins. They do whatever they want with us and our cattle. We're in deep, deep trouble.",
+   "Because of all this, we're making a serious promise, a sealed deal, signed by our leaders, our Levites, and our priests."
+  ],
+  "verseRanges": [
+   "1-3",
+   "4-5",
+   "5-6",
+   "7-8",
+   "9-15",
+   "16-19",
+   "20-23",
+   "24-25",
+   "26-31",
+   "32-37",
+   "38"
+  ],
+  "msg_ranges": [
+   "1-3",
+   "4-5",
+   "5-6",
+   "7-8",
+   "9-15",
+   "16-19",
+   "20-23",
+   "24-25",
+   "26-31",
+   "32-37",
+   "38"
+  ]
+ },
+ {
+  "chapter": 10,
+  "title": "We're All In This Together: The Official Pact",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-8",
+    "paras": [
+     0,
+     1
+    ]
+   },
+   {
+    "msg_range": "28-30",
+    "paras": [
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "msg_range": "31",
+    "paras": [
+     7,
+     8
+    ]
+   },
+   {
+    "msg_range": "37-39",
+    "paras": [
+     12,
+     13
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p2 1-8→9-13, p3 9-13→14-27, p4 14-27→28-30, p7 14-27→31, p9 14-27→32-33, p10 28-30→34, p11 30-32→35-36, p12 33-38→37-39 (밀림 수정); 1-8·28-30·31·37-39 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "Alright, so everyone put their name on this super serious contract. The big boss, Governor Nehemiah, son of Hacaliah, signed it first.",
+   "Then came the priests: Zedekiah, Seraiah, Azariah, Jeremiah, Pashhur, Amariah, Malkijah, Hattush, Shebaniah, Malluch, Harim, Meremoth, Obadiah, Daniel, Ginnethon, Baruch, Meshullam, Abijah, Mijamin, Maaziah, Bilgai, and Shemaiah. Yeah, that's the whole priest squad.",
+   "The Levites were next: Jeshua son of Azaniah, Binnui of the sons of Henadad, Kadmiel, and their fellow Levites: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, Mica, Rehob, Hashabiah, Zaccur, Sherebiah, Shebaniah, Hodiah, Bani, and Beninu.",
+   "Then the leaders of the people: Parosh, Pahath-Moab, Elam, Zattu, Bani, Bunni, Azgad, Bebai, Adonijah, Bigvai, Adin, Ater, Hezekiah, Azzur, Hodiah, Hashum, Bezai, Hariph, Anathoth, Nebai, Magpiash, Meshullam, Hezir, Meshezabel, Zadok, Jaddua, Pelatiah, Hanan, Anaiah, Hoshea, Hananiah, Hasshub, Hallohesh, Pilha, Shobek, Rehum, Hashabnah, Maaseiah, Ahiah, Hanan, Anan, Malluch, Harim, and Baanah.",
+   "The rest of the people—priests, Levites, security guards, singers, Temple staff, and everyone who had separated themselves from the local foreigners to follow God's Law, along with their wives and kids who were old enough to understand—all teamed up with their leaders. They made a binding promise, a legit oath, to follow God's Law that was given through Moses, God's servant. They promised to obey all the commands, rules, and laws of God our Master.",
+   "So basically, they promised:",
+   "We won't let our daughters marry the guys from around here, and we won't let our sons marry their daughters.",
+   "When the local people bring stuff to sell on the Sabbath, like food or whatever, we're not buying. Not on the Sabbath or any other holy day. Period.",
+   "Every seventh year, we'll give the land a break and cancel all debts.",
+   "We're also taking responsibility for the Temple of our God. We’ll pay a yearly tax of one-third of a shekel (about an eighth of an ounce) to cover the costs for the special bread, the regular grain offerings, the regular burnt offerings, the offerings for Sabbaths, New Moons, and other festivals, the dedication offerings, the sin offerings to make things right for Israel, and basically for all the work of the Temple of our God.",
+   "We—the priests, Levites, and the people—cast lots to figure out when each of our families has to bring wood for the fire on the altar of our God. It's a yearly thing, just like it says in the Law.",
+   "We also promise to bring the first part of our harvest from our fields and orchards to the Temple of God each year. And we'll bring our firstborn sons, our firstborn cattle, and the firstborn of our herds and flocks to the priests serving in the Temple, just like the Law says.",
+   "We'll bring the best of our grain, our offerings, the fruit from all our trees, and our new wine and oil to the priests at the storerooms of the Temple of our God. And we'll bring a tenth of our crops to the Levites, because they're the ones who collect the tithes in all the towns where we work. A priest from Aaron's family will be with the Levites when they collect the tithes, and the Levites will bring a tenth of those tithes to the treasury of the Temple of our God. The people of Israel and the Levites are to bring their contributions of grain, new wine, and oil to the storerooms where the Temple equipment is kept and where the priests, the gatekeepers, and the singers are.",
+   "We will not neglect the Temple of our God."
+  ],
+  "verseRanges": [
+   "1-8",
+   "1-8",
+   "9-13",
+   "14-27",
+   "28-30",
+   "28-30",
+   "28-30",
+   "31",
+   "31",
+   "32-33",
+   "34",
+   "35-36",
+   "37-39",
+   "37-39"
+  ],
+  "msg_ranges": [
+   "1-8",
+   "9-13",
+   "14-27",
+   "28-30",
+   "31",
+   "32-33",
+   "34",
+   "35-36",
+   "37-39"
+  ]
+ },
+ {
+  "chapter": 11,
+  "title": "Who's Who in Jerusalem? (The Official Roster)",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "4-6",
+    "paras": [
+     2,
+     3
+    ]
+   },
+   {
+    "msg_range": "7-9",
+    "paras": [
+     4,
+     5
+    ]
+   },
+   {
+    "msg_range": "10-14",
+    "paras": [
+     6,
+     7
+    ]
+   },
+   {
+    "msg_range": "15-18",
+    "paras": [
+     8,
+     9
+    ]
+   },
+   {
+    "msg_range": "19",
+    "paras": [
+     10,
+     11
+    ]
+   },
+   {
+    "msg_range": "25-30",
+    "paras": [
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "msg_range": "31-36",
+    "paras": [
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p2 3-4→4-6 (밀림 수정); 4-6·7-9·10-14·15-18·19·25-30·31-36 split 선언",
+   "split 수정: 25-30 p16-34, 31-36 p35-45 (지명 3문단 추가 후 인덱스 정정)"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "So, the big shots were already posted up in Jerusalem. For everyone else, they basically drew straws, and one out of every ten people had to pack up and move to the holy city, Jerusalem. The other nine got to stay in their hometowns. And everyone gave a massive shout-out to the people who were like, 'Yo, I'll go!' and volunteered to live in Jerusalem.",
+   "Alright, here’s the rundown of the provincial leaders who were living in Jerusalem. Just so you know, a bunch of regular Israelites, priests, Levites, Temple workers, and even descendants of Solomon's servants were living out in the towns of Judah on their own land. But these specific peeps from the tribes of Judah and Benjamin were the ones living inside Jerusalem:",
+   "From Judah's crew, you had:",
+   "Athaiah (son of Uzziah, who was the son of Zechariah, who was the son of Amariah, who was the son of Shephatiah, who was the son of Mahalalel, from Perez's family line). Also, Maaseiah (son of Baruch, who was the son of Col-Hozeh, who was the son of Hazaiah, who was the son of Adaiah, who was the son of Joiarib, who was the son of Zechariah, the son of the Shilonite). All in all, the descendants of Perez living in Jerusalem were 468 seriously brave dudes.",
+   "And from Benjamin's squad:",
+   "Sallu (son of Meshullam, who was the son of Joed, who was the son of Pedaiah, who was the son of Kolaiah, who was the son of Maaseiah, who was the son of Ithiel, who was the son of Jeshaiah), and his bros Gabbai and Sallai, making it 928 guys. Their top dog was Joel son of Zicri, and Judah son of Hassenuah was his second-in-command for the city.",
+   "From the priests:",
+   "There was Jedaiah son of Joiarib; Jakin; Seraiah (son of Hilkiah, who was the son of Meshullam, who was the son of Zadok, who was the son of Meraioth, who was the son of Ahitub), who was the supervisor of God's Temple, along with his crew who did all the work in the Temple—that was 822 guys. Then there was Adaiah (son of Jeroham, who was the son of Pelaliah, who was the son of Amzi, who was the son of Zechariah, who was the son of Pashhur, who was the son of Malkijah), and his associates who were family heads—242 of them. And Amashsai (son of Azarel, who was the son of Ahzai, who was the son of Meshillemoth, who was the son of Immer), and his crew, all total legends: 128 men. Their commander was Zabdiel son of Haggedolim.",
+   "From the Levites:",
+   "Shemaiah (son of Hasshub, who was the son of Azrikam, who was the son of Hashabiah, who was the son of Bunni); Shabbethai and Jozabad, two of the Levite leaders who handled the Temple's external affairs; Mattaniah (son of Mica, who was the son of Zabdi, who was the son of Asaph), the director who led the thanksgiving and prayer time; Bakbukiah, who was second-in-command among his crew; and Abda (son of Shammua, who was the son of Galal, who was the son of Jeduthun). The total number of Levites in the holy city was 284.",
+   "From the security guards:",
+   "Akkub, Talmon, and their squad who guarded the gates: 172 dudes.",
+   "The rest of the Israelites, priests, and Levites were scattered across all the towns of Judah, each on their own family's land.",
+   "The Temple staff lived on a hill called Ophel. Ziha and Gishpa were in charge of them.",
+   "The head honcho of the Levites in Jerusalem was Uzzi (son of Bani, who was the son of Hashabiah, who was the son of Mattaniah, who was the son of Mica). This Uzzi guy was from Asaph's family line, the singers who led worship in God's Temple. The singers had their own daily schedule set by the king himself.",
+   "Pethahiah son of Meshezabel, who was a descendant of Zerah son of Judah, was the guy who spoke to the king on behalf of the people.",
+   "Some of the people from Judah lived in villages near their farms:",
+   "Kiriath Arba (which is Hebron) and its suburbs",
+   "Dibon and its suburbs",
+   "Jekabzeel and its suburbs",
+   "Jeshua",
+   "Moladah",
+   "Beth Pelet",
+   "Hazar Shual",
+   "Beersheba and its suburbs",
+   "Ziklag",
+   "Meconah and its suburbs",
+   "En Rimmon",
+   "Zorah",
+   "Jarmuth",
+   "Zanoah",
+   "Adullam and their towns",
+   "Lachish and its fields",
+   "Azekah and its suburbs.",
+   "They were living all over the place, from Beersheba all the way to the Valley of Hinnom.",
+   "The Benjaminites from Geba lived in:",
+   "Micmash",
+   "Aijah",
+   "Bethel and its suburbs",
+   "Anathoth",
+   "Nob and Ananiah",
+   "Hazor",
+   "Ramah and Gittaim",
+   "Hadid, Zeboim, and Neballat",
+   "Lod and Ono and the Valley of the Craftsmen.",
+   "Also, some of the Levite groups from Judah were assigned to live in Benjamin's territory."
+  ],
+  "verseRanges": [
+   "1-2",
+   "3-4",
+   "4-6",
+   "4-6",
+   "7-9",
+   "7-9",
+   "10-14",
+   "10-14",
+   "15-18",
+   "15-18",
+   "19",
+   "19",
+   "20",
+   "21",
+   "22-23",
+   "24",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "25-30",
+   "31-36",
+   "31-36",
+   "31-36",
+   "31-36",
+   "31-36",
+   "31-36",
+   "31-36",
+   "31-36",
+   "31-36",
+   "31-36",
+   "31-36"
+  ],
+  "msg_ranges": [
+   "1-2",
+   "3-4",
+   "4-6",
+   "7-9",
+   "10-14",
+   "15-18",
+   "19",
+   "20",
+   "21",
+   "22-23",
+   "24",
+   "25-30",
+   "31-36"
+  ]
+ },
+ {
+  "chapter": 12,
+  "title": "Jerusalem's Wall Party Was Epic",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "1-7",
+    "paras": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "msg_range": "8-9",
+    "paras": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "msg_range": "10-11",
+    "paras": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "msg_range": "12-21",
+    "paras": [
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38
+    ]
+   },
+   {
+    "msg_range": "23-24",
+    "paras": [
+     40,
+     41,
+     42,
+     43,
+     44
+    ]
+   },
+   {
+    "msg_range": "25-26",
+    "paras": [
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p61 45-47→47 (MSG 문단 기준); 1-7·8-9·10-11·12-21·23-24·25-26 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "Alright, so here are the priests and Levites who came back with Zerubbabel (son of Shealtiel) and Jeshua:",
+   "Seraiah, Jeremiah, Ezra,",
+   "Amariah, Malluch, Hattush,",
+   "Shecaniah, Rehum, Meremoth,",
+   "Iddo, Ginnethon, Abijah,",
+   "Mijamin, Moadiah, Bilgah,",
+   "Shemaiah, Joiarib, Jedaiah,",
+   "Sallu, Amok, Hilkiah, and Jedaiah.",
+   "These guys were the top priests back in Jeshua's time.",
+   "And the Levites:",
+   "Jeshua, Binnui, Kadmiel, Sherebiah, Judah;",
+   "Mattaniah and his crew were in charge of the praise and worship songs, and their bros Bakbukiah and Unni stood across from them during the services.",
+   "Jeshua was the father of Joiakim, Joiakim was the father of Eliashib, Eliashib was the father of Joiada, Joiada was the father of Jonathan, and Jonathan was the father of Jaddua.",
+   "Jeshua was the father of Joiakim,",
+   "Joiakim was the father of Eliashib,",
+   "Eliashib was the father of Joiada,",
+   "Joiada was the father of Jonathan,",
+   "and Jonathan was the father of Jaddua.",
+   "When Joiakim was around, these were the heads of the priestly families:",
+   "of Seraiah's family, Meraiah;",
+   "of Jeremiah's, Hananiah;",
+   "of Ezra's, Meshullam;",
+   "of Amariah's, Jehohanan;",
+   "of Malluch's, Jonathan;",
+   "of Shecaniah's, Joseph;",
+   "of Harim's, Adna;",
+   "of Meremoth's, Helkai;",
+   "of Iddo's, Zechariah;",
+   "of Ginnethon's, Meshullam;",
+   "of Abijah's, Zicri;",
+   "of Miniamin and Moadiah's, Piltai;",
+   "of Bilgah's, Shammua;",
+   "of Shemaiah's, Jehonathan;",
+   "of Joiarib's, Mattenai;",
+   "of Jedaiah's, Uzzi;",
+   "of Sallu's, Kallai;",
+   "of Amok's, Eber;",
+   "of Hilkiah's, Hashabiah;",
+   "and of Jedaiah's, Nethanel.",
+   "During the time of Eliashib, Joiada, Johanan, and Jaddua, the Levites were registered as heads of families. The priests were also registered during the reign of Darius the Persian.",
+   "The Levites who were heads of families were written down in the Book of Chronicles until the time of Johanan, son of Eliashib. These were:",
+   "Hashabiah,",
+   "Sherebiah,",
+   "and Jeshua son of Kadmiel.",
+   "Their brothers stood across from them to praise and give thanks, with one side responding to the other, just like David, the man of God, had instructed.",
+   "The security guards included:",
+   "Mattaniah,",
+   "Bakbukiah,",
+   "Obadiah,",
+   "Meshullam,",
+   "Talmon,",
+   "and Akkub.",
+   "They guarded the storerooms at the gates. They were active during the time of Joiakim son of Jeshua (son of Jozadak), and also during the time of Nehemiah the governor and Ezra the priest and scholar.",
+   "When it was time to dedicate the wall, they went and found all the Levites from their homes and brought them to Jerusalem to celebrate the dedication with some serious hype: thanksgiving hymns, songs, cymbals, harps, and lutes. The singers gathered from all around Jerusalem, from the villages of the Netophathites, from Beth Gilgal, and from the farms at Geba and Azmaveth—because the singers had built their own villages all around Jerusalem.",
+   "The priests and Levites first purified themselves, and then they purified the people, the gates, and the wall.",
+   "I had the leaders of Judah go up on the wall, and I set up two huge choirs. One went along the wall to the right, toward the Dung Gate. Hashaiah and half of Judah's leaders followed them, along with Azariah, Ezra, Meshullam, Judah, Benjamin, Shemaiah, and Jeremiah. Some of the younger priests had trumpets. Then came Zechariah (son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, son of Asaph) and his brothers Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani, playing the instruments of David, the man of God. Ezra the scholar led this group.",
+   "At the Fountain Gate, they went straight up the steps of the City of David, using the stairway on the wall above David's house, all the way to the Water Gate on the east.",
+   "The other choir went to the left. I followed them with the other half of the people on the wall, past the Tower of Furnaces to the Broad Wall, over the Ephraim Gate, the Jeshanah Gate, the Fish Gate, the Tower of Hananel, and the Tower of the Hundred, as far as the Sheep Gate, and we stopped at the Prison Gate.",
+   "Then the two choirs took their spots in God's Temple. I was there with half of the officials, and the priests Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah with their trumpets. Also Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkijah, Elam, and Ezer. The singers, led by Jezrahiah, were so loud they made the place shake.",
+   "That day, they offered huge sacrifices and had a massive party because God had made them so incredibly happy. The women and kids joined in, and the sound of Jerusalem's celebration could be heard from miles away.",
+   "On that same day, guys were put in charge of the storerooms for the offerings, firstfruits, and tithes. They made sure that the portions the Law required for the priests and Levites were brought in from the farms. Judah was super grateful for the priests and Levites and their service. They, along with the singers and security guards, did everything so well—worshipping their God and doing the purification rituals in a way that would have made David and his son Solomon proud. That's how they used to do it back in the day, in the time of David and Asaph, when they had choir directors for singing praise and thanksgiving songs to God.",
+   "So, during the time of Zerubbabel and Nehemiah, all of Israel gave daily supplies for the singers and security guards. They also set aside the dedicated portion for the Levites, and the Levites did the same for the descendants of Aaron."
+  ],
+  "verseRanges": [
+   "1-7",
+   "1-7",
+   "1-7",
+   "1-7",
+   "1-7",
+   "1-7",
+   "1-7",
+   "1-7",
+   "1-7",
+   "8-9",
+   "8-9",
+   "8-9",
+   "10-11",
+   "10-11",
+   "10-11",
+   "10-11",
+   "10-11",
+   "10-11",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "12-21",
+   "22",
+   "23-24",
+   "23-24",
+   "23-24",
+   "23-24",
+   "23-24",
+   "25-26",
+   "25-26",
+   "25-26",
+   "25-26",
+   "25-26",
+   "25-26",
+   "25-26",
+   "25-26",
+   "27-29",
+   "30",
+   "31-36",
+   "37",
+   "38-39",
+   "40-42",
+   "43",
+   "44-46",
+   "47"
+  ],
+  "msg_ranges": [
+   "1-7",
+   "8-9",
+   "10-11",
+   "12-21",
+   "22",
+   "23-24",
+   "25-26",
+   "27-29",
+   "30",
+   "31-36",
+   "37",
+   "38-39",
+   "40-42",
+   "43",
+   "44-46",
+   "47"
+  ]
+ },
+ {
+  "chapter": 13,
+  "title": "Nehemiah Cleans House",
+  "merges": [],
+  "splits": [
+   {
+    "msg_range": "20-21",
+    "paras": [
+     8,
+     9
+    ]
+   },
+   {
+    "msg_range": "22",
+    "paras": [
+     10,
+     11
+    ]
+   },
+   {
+    "msg_range": "30-31",
+    "paras": [
+     15,
+     16
+    ]
+   }
+  ],
+  "changes": [
+   "배지 수정: p5 15-17→15-16, p6 18-19→17-18, p7 20-21→19, p8 22→20-21, p9 23-27→20-21, p10 23-27→22, p11 23-27→22 (밀림 수정); 20-21·22·30-31 split 선언"
+  ],
+  "confirmations_needed": [],
+  "paragraphs": [
+   "So, on the same day, they were reading out loud from the Book of Moses for everyone to hear. And get this, they found a rule that said no one from Ammon or Moab was ever allowed in God's crew. Why? Because way back, they didn't help out the Israelites with food and water. They were super shady and even hired a guy named Balaam to curse them. But God flipped the curse into a blessing. When the people heard the reading of the Law, they excluded all the foreigners from Israel.",
+   "Okay, so a little while before this, this priest named Eliashib was in charge of the Temple's storage rooms. He was close friends with Tobiah and gave him a large room that was supposed to store the grain offerings, incense, worship vessels, and the tithes of grain, wine, and oil for the Levites, singers, and security guards, plus the offerings for the priests.",
+   "I wasn't even in Jerusalem when this was all going down. It was the thirty-second year of King Artaxerxes of Babylon, and I had to go back to see him. But later, I got his permission to leave again. When I got back to Jerusalem, I found out about the messed-up thing Eliashib did, giving Tobiah a room right in the Temple courts. I was so mad, like, beyond angry. I literally threw all of Tobiah's stuff out into the street. Then I ordered them to do a deep clean of the room, and only then did I put all the Temple's sacred items back, along with the offerings and incense.",
+   "Then I found out that the Levites weren't getting their pay. So the Levites and the singers who led worship had all bounced and gone back to their farms. I called out the officials, like, 'Why has God's Temple been abandoned?' I got everyone to come back and put them back on their jobs. Then all of Judah started bringing in their tithes of grain, wine, and oil to the storerooms again. I put Shelemiah the priest, Zadok the scribe, and a Levite named Pedaiah in charge of the storerooms. And I made Hanan son of Zaccur, the son of Mattaniah, their right-hand man. These guys had a rep for being honest and hardworking. They were in charge of giving out the supplies to their coworkers.",
+   "Remember me for this, my God. Don't ever forget the hard work I've put in for Your Temple and its worship.",
+   "During that time, back in Judah, I also saw people working on the Sabbath—stomping on grapes to make wine, bringing in grain, and loading up their donkeys. They were bringing wine, grapes, figs, and all kinds of stuff to sell on the Sabbath. So I called them out and warned them about selling food on that day. And get this, people from Tyre who lived there were bringing in fish and other stuff, selling it to the people of Judah—in Jerusalem, of all places!—on the Sabbath.",
+   "I confronted the leaders of Judah and was like, 'What is going on here? This is so wrong! You're disrespecting the Sabbath! Isn't this exactly what your ancestors did? And because of that, didn't God bring all this disaster on us and this city? And now you're just making it worse, piling up more anger on Jerusalem by profaning the Sabbath.'",
+   "So, as the gates of Jerusalem were darkened by the shadows of the approaching Sabbath, I ordered the city gates to be shut and not opened until the Sabbath was over. I even put some of my own guys at the gates to make sure no one could sneak in anything to sell on the Sabbath.",
+   "The merchants and sellers camped outside the gates once or twice. But I confronted them. I said, 'You have no business camping out here by the wall. If I catch you here again, I'm gonna have to get physical.'",
+   "And that was that; they didn't come back on the Sabbath.",
+   "Then I told the Levites to go through a cleansing ceremony and take over as guards at the gates to make sure the Sabbath day was kept holy.",
+   "Remember me for this too, my God. Show me mercy because of your great and never-ending love.",
+   "Also, during those days, I saw some Jewish guys who had married women from Ashdod, Ammon, and Moab. Half their kids couldn't even speak the language of Judah; all they knew was the language of Ashdod or some other language. So I confronted those men, gave them a piece of my mind, and even slapped some of them and pulled their hair. I made them swear to God: 'Don't let your daughters marry their sons, and don't let their daughters marry your sons—and don't you marry them either! Didn't King Solomon of Israel sin because of women just like these? Even though there was no king like him, and God loved him and made him king over all of Israel, foreign women were his downfall. Do you really think this is okay—doing this huge evil thing and being unfaithful to God by marrying foreign wives?'",
+   "One of the sons of Joiada, who was the son of the high priest Eliashib, was the son-in-law of Sanballat the Horonite. I kicked him out of my sight.",
+   "Remember them, O my God, for how they defiled the priesthood and the promises of the priests and Levites.",
+   "So, all in all, I cleaned them up from everything foreign. I got the priests and Levites organized so that everyone knew their job. I also set up a regular supply of wood for the altar at the right times and for the first offerings of the harvest.",
+   "Remember me, O my God, for good."
+  ],
+  "verseRanges": [
+   "1-3",
+   "4-5",
+   "6-9",
+   "10-13",
+   "14",
+   "15-16",
+   "17-18",
+   "19",
+   "20-21",
+   "20-21",
+   "22",
+   "22",
+   "23-27",
+   "28",
+   "29",
+   "30-31",
+   "30-31"
+  ],
+  "msg_ranges": [
+   "1-3",
+   "4-5",
+   "6-9",
+   "10-13",
+   "14",
+   "15-16",
+   "17-18",
+   "19",
+   "20-21",
+   "22",
+   "23-27",
+   "28",
+   "29",
+   "30-31"
+  ]
+ }
+]
