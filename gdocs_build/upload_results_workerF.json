@@ -119,5 +119,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "1Kings",
+  "title": "열왕기상 (1Kings): MSG + Teen EN + KO",
+  "id": "1ZcxehWVE_fGo6N_8ka33uVLq-AVpeHms9ayB5dGmK8c",
+  "webViewLink": "https://docs.google.com/document/d/1ZcxehWVE_fGo6N_8ka33uVLq-AVpeHms9ayB5dGmK8c/edit?usp=drivesdk",
+  "tables": 22,
+  "expected": 22,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]
