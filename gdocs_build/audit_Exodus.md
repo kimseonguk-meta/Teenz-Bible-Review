@@ -59,3 +59,59 @@ MSG 원문의 문단 경계가 아래 절들을 가로지르므로, Teen도 MSG 
 - 검증함: MSG 텍스트 40장 전수 대조, validator exit 0, DOCX 빌드 무누락, 표 40개·행 단위 pairing 내용 대조, Docs API 제목·표 개수 확인, export-back DOCX 재검증 (표 40개·빈 Teen 셀 없음·무누락).
 - 미확인: Google Docs 웹 화면의 실제 렌더링 (API/export 검증까지만 수행 — 이 환경에서 브라우저 화면 확인 불가).
 - MSG 출처: bible-history.com MSG 페이지 (작업 시작 전 확보된 `msg_Exodus.txt`, 40장). KJV 미사용.
+
+---
+
+# Exodus 2차 재감사 기록 (2026-09-25)
+
+담당: subagent (Exodus + Joshua). 기준: msg_Exodus.txt (수정 없음).
+
+## 방법
+1. `python3 gdocs_build/completeness_check.py fixes/en_Exodus.json` → 11건 후보 전수 분류
+2. MSG ↔ Teen EN 문장 단위 전수 수동 대조 (40장, 539 MSG 유닛 vs 596 teen 행)
+
+## 결과: 복원 0건
+
+### 체커 11건 — 전부 오탐 (의미 동등)
+| 위치 | 체커 지적 | 판정 |
+|---|---|---|
+| ch2 [8] hebrews | "from the Hebrews" → "a Hebrew woman" | 의미 동등 |
+| ch2 [15] word | "Word's gotten out" → "People know about this" | 의미 동등 |
+| ch3 [7-8] 6 nations | 단수/복수 토큰 불일치 | 전부 존재 (복수형) |
+| ch3 [9-10] israelite | "The Israelites' cry" | 존재 |
+| ch3 [16-17] 6 nations | 단수/복수 토큰 불일치 | 전부 존재 (복수형) |
+| ch6 [25] korahites | "Korahite families" | 의미 동등 |
+| ch12 [14-16] number 1 | "first day" → "day one" | 존재 |
+| ch13 [4-5] 5 nations | 단수/복수 토큰 불일치 | 전부 존재 (복수형) |
+| ch18 [1-4] number 1 | "The name of the one" → "One was named" | 존재 |
+| ch18 [17-23] 10/50/100/1000 | "thousands, hundreds, fifties, tens" 단어형 | 전부 존재 |
+| ch18 [24-27] 10/50/100/1000 | 동상 | 전부 존재 |
+
+### 수동 대조 — 누락 없음
+- 족보(ch6): 12명/137년/133년/137년, Korah 3형제, Elisheba(Amminadab 딸·Nahshon 누이), Putiel 딸 등 호칭 전부 존재
+- 10재앙: 인용구·반복("Just as God had said")·숫자(600전차, 7일, 430년, 600,000명) 전부 존재
+- 성막 지시/제작(ch25-40): 치수·재료·보석 4행(12종)·은 6,437파운드/603,550명/100밑받침 등 숫자 전부 존재
+- 비대칭(KO만 있고 EN 없음) 패턴 미발견
+- 모호 케이스: 없음
+
+## 게이트
+- validate_translation.py → PASS (40장)
+- build_gdocs.py Exodus → 40 tables, VERIFY_DROPPED=0, msg_orphans=0, teen_without_msg=0
+- verify_pairing_content.py → PAIRING CONTENT OK (539 rows, 40 tables)
+- docx 재빌드 → 내용 동일 (rsid 메타데이터만 차이) → 원상복구, 커밋/Doc 재업로드 불필요
+
+JSON 변경 없음. 커밋 없음 (0건 복원 → 빈 커밋 금지). Google Doc(40 tables) 변경 없음.
+
+### 2026-09-25 추가 — 위 "0건" 판정 정정: 사용자 제공 후보 5건 재검증 결과 실제 5건 복원
+(9-24 체커 11건 분류 때는 후보로 올라오지 않았던 것들로, MSG·EN·KO 직접 대조로 확정.)
+
+| 장:절 | MSG | 문제 | 수정 |
+|---|---|---|---|
+| 13:19 | "God will surely hold you accountable" | EN "God will surely come to your aid" — 의미가 다름 (실제 오역) | EN: "God will surely hold you accountable" / KO: "하나님이 반드시 너희에게 책임을 물으실 것이니" |
+| 16:1-3 | "lamb stew" | EN "meat stew" / KO "고기 가마" — lamb 세부 누락 | EN: "lamb stew" / KO: "양고기 가마" |
+| 17:4 | "Any minute now they'll kill me!" | EN "they'll stone me!" / KO "돌로 칠 것 같아요" — MSG에 없는 구체성 추가 | EN: "they'll kill me!" / KO: "저를 죽일 것 같아요" |
+| 25:37-38 | "Make seven of these lamps for the Table." | EN "Make seven of these lamps." / KO "이 등잔 7개를 만들어라." — "for the Table" 누락 | EN: "Make seven of these lamps for the Table." / KO: "이 등잔 7개를 상을 위해 만들어라." |
+| 37:7-9 | "two winged angel-cherubim" | EN 첫 문장 "two angel-cherubim" — 반복 세부(winged) 누락 | EN: "two winged angel-cherubim" / KO: "날개 달린 천사 그룹" |
+
+수정 후 게이트 재실행 예정: validate → build → pairing → docx 재빌드 → Doc 재업로드(40/40 + export-back VERIFIED OK) → "Final" 제목 제거 확인 → Exodus 4파일 커밋·push.
+
