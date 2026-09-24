@@ -215,3 +215,16 @@ EN/KO 미러링 완료. msg_ranges 정규화: 5장·6장 MSG 유닛 기준 (`['1
 - build_gdocs: rows=81, msg_units=66, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0
 - DOCX spot-check: 3장(2-3·4·5), 4장(4-6·7-10·11-14), 5장(3-4·10), 6장(4-7·8-9), 8장(1-3) 복원 행 육안 확인
 - Google Docs: 신규 문서 생성 (Hosea 미등록이었음), API 테이블 14/14, export-back VERIFIED OK
+
+## 2nd re-audit (Sep 24)
+
+- 선행 감사(a7dceca)에서 처리되지 않은 채로 남아 있던 항목들을 집중 재검수.
+- 실제 결함 수정:
+  1. EN ch5 idx2 [5-7]: MSG "filling the country with their bastard offspring. A plague of locusts will devastate their violated land."가 "your country is full of the consequences. A massive plague"로 약화되어 있었음. EN을 "filling the whole country with children born from your unfaithfulness. A massive locust plague is about to wreck your trashed land."로 복원 (KO는 이미 "자기들 맘대로 낳은 자식들"/"메뚜기 떼 재앙" 보유 — EN/KO 불일치 해소).
+  2. EN ch11 idx1 [3-6]: MSG "I led Ephraim"이 "I taught Ephraim how to walk"로 오역 → "I led Ephraim"으로 수정. "gave me a shout-out" → "acknowledged my help", "the murder rate is insane" → "the murder rate is skyrocketing" (MSG "skyrockets").
+  3. KO ch11 idx1: "에브라임 걸음마도 내가 가르쳐주고" → "에브라임도 내가 이끌어주고", "살인율은 떡상하고" → "살인율은 치솟고".
+  4. ch8 idx0 [1-3]: EN "Yo, blow the trumpet!" → "Blow the trumpet!" (MSG 원문 오프너), KO "야, 나팔 불어!" → "나팔 불어!".
+  5. KO ch8 idx1 [4-10]: "1도 안 알려줌" → "하나도 안 알려줌", "신이라고 모시는 거 실화냐?" → "신이라고 모시다니, 말이 되냐?".
+  6. KO ch9 idx1: "이딴 식이면" → "이런 식이면".
+- 검토 후 유지 (MSG 원문 표현이므로): ch7 "bird-brained"/"새대가리" (MSG 그대로, EN/KO 미러링), ch11 "24/7" ("right and left" 의미 유지, 경미), "갈기갈기 찢어버릴" (MSG "tear to pieces"/"rip open" 직역).
+- 게이트: STRUCT OK (14장, EN/KO 81문단, verseRanges·msg_ranges parity), completeness_check 잔여 1건 오탐(ch4 idx0 "first thing"의 "1"), build rows=81 msg_units=66 teen_without_msg=0 msg_orphans=0 VERIFY_DROPPED=0, DOCX 복원 행 python-docx 확인, Google Docs 기존 문서(1zDB1HzkS1KLDcQXorgdcetSQFHAiuHLGiilyGLxyKjE) 재업로드 후 테이블 14/14 + export-back VERIFIED OK.
