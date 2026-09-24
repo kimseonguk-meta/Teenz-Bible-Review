@@ -141,5 +141,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "1Chronicles",
+  "title": "역대기상 (1Chronicles): MSG + Teen EN + KO",
+  "id": "1-UU6TifGyxWZcVaR49gu0CMj4rGaB4fpxPtYS_uQ-XU",
+  "webViewLink": "https://docs.google.com/document/d/1-UU6TifGyxWZcVaR49gu0CMj4rGaB4fpxPtYS_uQ-XU/edit?usp=drivesdk",
+  "tables": 29,
+  "expected": 29,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]
