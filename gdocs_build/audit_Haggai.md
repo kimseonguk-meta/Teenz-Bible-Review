@@ -1,47 +1,86 @@
-# Haggai 감사 리포트 (2026-09-23, 작업자 A)
+# 학개 (Haggai) MSG 전수 감사 기록 (2026-09-24, 27권 감사)
 
-기준: Eugene Peterson The Message(MSG) 영어 원문 = 최종 기준. Teen EN은 MSG 기준, KO는 EN과 문단·배지·의미 1:1.
-검수 방법: MSG(raw 텍스트) vs EN vs KO 문단별 전수 대조 (2장, 29문단). 1차 감사 변경 이력 확인 후 잔여 이슈 직접 판정.
-결과: 텍스트 수정 6건(EN 4, KO 2). merge/split 신규 후보 0건. 결론: **재감사 + 6건 수정**.
+- 감사일: 2026-09-24
+- 기준: Eugene Peterson, The Message (MSG) — `msg_Haggai.txt` parsed 22 units
+- 대상: `fixes/en_Haggai.json`, `fixes/ko_Haggai.json` (각 2장, 30문단)
+- 특이: HEAD의 구(舊) 감사본(2026-09-23, 작업자 A)이 아니라 앱 소스에서 새로 시드한 버전을
+  감사 대상으로 삼음 (구 버전은 git history 참조용; 구 `audit_Haggai.md` 1차 기록은 이 파일로 대체).
+  시드본은 완성도 높은 paraphrase였으나, MSG 전수 대조에서 이름·세부·4연타 병렬문장 누락 다수
+  확인되어 복원. 구 감사에서 이미 수정됐던 2:9 'wholeness' 등은 시드본에 다시 사라져 있었음 —
+  앱 시드가 구 감사본을 덮어쓴 구조이므로 이번 감사는 처음부터 전수 재수행.
+- 원칙: TRANSLATION_PRINCIPLES.md 5대 원칙. EN primary, KO는 EN 1:1 반영.
+- 소제목(§) 컨벤션: fixes JSON에는 소제목 행 없음 (27권 감사 컨벤션 — 빌더가 MSG에서 독에 삽입).
+- 상태: validator PASS, build VERIFY_DROPPED=0, pairing OK, Google Docs 업로드·검증 완료
 
-## 1. 장:절별 이슈 및 수정
+## MSG 원문 품질 검증
 
-| 장:절 | MSG 요지 | 문제 유형 | 수정 내용 |
-|---|---|---|---|
-| 2:1-3 | "Tell Governor Zerubbabel son of Shealtiel and High Priest Joshua son of Jehozadak" | EN·KO 누락 | EN: "Governor Zerubbabel, High Priest Joshua" → "Governor Zerubbabel son of Shealtiel, High Priest Joshua son of Jehozadak". KO: "스룹바벨 총독이랑 여호수아 대제사장" → "스알디엘의 아들 스룹바벨 총독이랑 여호사닥의 아들 여호수아 대제사장" (1:1에 "son of Shealtiel/Jehozadak" 둘 다 있던 것을 2장에서 빠뜨림) |
-| 2:5 | "Put into action the word I covenanted with you" | EN·KO 의미 약화 | EN: "Live out the promise I made with you" → "Live out the covenant I made with you". KO: "내가 했던 약속" → "내가 맺었던 언약" |
-| 2:9 | "a place in which I will hand out wholeness and holiness" | EN 누락 (KO는 완전함 보유) | EN: "a place where I give out peace and holiness" → "a place where I give out wholeness and holiness" |
-| 2:21-23 | "I will take you, O Zerubbabel son of Shealtiel, as my personal servant" | EN 누락 (KO는 스알디엘의 아들 보유) | EN: "I will take you, Zerubbabel, my servant" → "I will take you, Zerubbabel son of Shealtiel, my personal servant" |
+- `msg_Haggai.txt` (2026-09-22 BibleGateway 캐시): `parse_msg_txt` 파싱 정상.
+- 2장 전부 존재: 1장 10유닛(1–15), 2장 12유닛(1–23). 유닛 수 비정상 장 없음.
+- 절 커버리지: 1장 1–15, 2장 1–23 — 장 중간 통째 결손 없음, boilerplate 없음.
+- 재수집/세정 불필요. `.pre_clean_bak` 생성 안 함.
 
-### 1차 감사에서 이미 수정된 사항 (이번 감사에서 직접 확인, 유지)
-- MSG 소제목 2개 추가 ("Caught Up with Taking Care of Your Own Houses", "This Temple Will End Up Better Than It Started Out", EN/KO)
-- 1:1 도입부에 "son of Shealtiel"/"son of Jehozadak" 복원됨
+## 기계 검사
 
-### 직접 확인하고 유지로 판정한 사항 (수정 안 함)
-- "bushels of wealth" → EN "tons of wealth": 동일 의미 틴 의역.
-- "blight" → EN "disease"/KO "병충해": 의미 보존.
-- "the sign of my sovereign presence and authority" → EN "a symbol of my authority": 핵심 보존.
-- 소제목 2개가 MSG와 1:1. 창작 헤더 없음.
-- 챕터 타이틀 ("God's Calling You Out: Stop Making Excuses" / "하나님께서 너를 부르신다" 계열): 틴 스타일 창작 타이틀, 허용 범위.
+- `validate_translation.py`: **PASS — 2개 장 모두 통과** (수정 후 재통과)
+- `completeness_check.py` (EN): FAIL 1건 (`name: word`, ch2 1-3) → 진짜 누락으로 판정,
+  "the Word of God" 복원 후 **PASS**
+  (Checked 2 chapters, 30 paragraphs, 48 name tokens, 18 number tokens, 1 quoted span).
+  근거는 `gdocs_build/completeness_fp_Haggai.md`. 잔여 오탐 0건.
+- `build_gdocs.py Haggai`: teen_ch=2, msg_chapters=2, rows=30, msg_units=22,
+  teen_without_msg=0, msg_orphans=0, **VERIFY_DROPPED=0** (ALL VERIFY OK).
+- `verify_pairing_content.py`: 30 data rows / 2 tables — **PAIRING CONTENT OK**
+- Google Docs: 신규 문서 생성 (ID `1ikghBU4QsiTWHbEEb_M2nuACeJ8UikB6p06NH-f9arA`),
+  API 테이블 2/2, export-back VERIFIED OK,
+  제목 `학개 (Haggai): MSG + Teen EN + KO` (Final 없음)
+- 업로드 기록: `gdocs_build/upload_results_workerA.json`에 Haggai 항목 기록됨 (status OK).
 
-## 2. 구조 검사
-- EN/KO 문단 수·순서·배지 1:1 (ch1 11문단, ch2 18문단). null 배지 0.
+## 본문 복원 (EN 14문단 · KO 14문단)
 
-## 3. merge/split 후보
-- 신규 후보: **0건**.
+### EN (changes 15건 기록)
 
-## 4. 검증 게이트 통과 현황
+1. 1:1 — 'King Darius of Persia', 'Zerubbabel son of Shealtiel', 'Joshua son of Jehozadak' 복원
+2. 1:5-6 — 'drinking and drinking and drinking' 3연타 복원, 'rusted-out' 복원
+3. 1:9-11 — 'stunting vegetables and fruit' 복원, 'not man or woman' 복원 (KO에는 이미 있었음)
+4. 1:12 — 'son of Shealtiel'/'son of Jehozadak' 복원, 'listened, really listened' 반복 복원
+5. 2:1-3 — 'son of Shealtiel'/'son of Jehozadak' 복원, 'the Word of God' 복원 (MSG 고유 호칭)
+6. 2:5 — 'the word I covenanted' 복원 (promise로 약화돼 있었음)
+7. 2:8 — 'I own all the silver/gold' → 'I own the silver, I own the gold' (MSG에 없는 'all' 제거)
+8. 2:9 — 'wholeness' 복원 (peace로 오역), 'This new Temple' → 'This Temple' ('new' 제거)
+9. 2:10-12 — 'meat that is set apart for sacrifice on the altar' 복원,
+   'a loaf of bread, a dish of stew, a bottle of wine or oil' 세부 복원
+10. 2:14 — 4문장 병렬 복원 ('Their nation is contaminated' 누락이었음; 'offer me' → 'do for me' 오역 수정)
+11. 2:15-17 — 'Think back' 복원, 'the first foundation stones' 복원,
+    'half the grain you were used to, half the wine' 구체 수치 복원
+12. 2:18-19 — 'Now think ahead from this same date' 복원
+13. 2:21-23 — 'from top to bottom' 복원, 'armaments' 복원, 'killing one another' 복원,
+    'O Zerubbabel son of Shealtiel, as my personal servant' 복원,
+    'the sign of my sovereign presence and authority' 복원,
+    'I've looked over the field' 복원, 'The Message of God-of-the-Angel-Armies' 마감 복원
+14. 장 전체 — 'the God of the Angel Armies' → 'God-of-the-Angel-Armies'로 통일 (MSG 고유명)
 
-| 게이트 | 결과 |
-|---|---|
-| ① 의미 전수 감사 | PASS (2장 29문단 전수, 직접 대조) |
-| ② 수정 반영 | PASS (EN 4건, KO 2건, merge/split 미적용) |
-| ③ validate_translation.py | PASS (exit 0) |
-| ④ 기계적 완전성 검사 | PASS (27문단, 16 name tokens — 잔여 FAIL 5건 전부 오탐 문서화: 'word'는 MSG 파서가 학개 1장을 통째로 1개 유닛으로 묶어 [13]의 "That's God's Word"를 union에서 제외한 파서 아티팩트; 숫자 7·12·13/8·13·14는 MSG 인쇄본 절 번호; 'bushels'는 "tons of wealth" 의역; 'wholeness'는 [9] 문단이 attr에서 빠져 union 미포함된 파서 아티팩트 — 실제 EN에 "wholeness" 존재 확인) |
-| ⑤ build_gdocs.py 재빌드 | PASS (VERIFY_DROPPED=0) |
-| ⑥ verify_pairing_content.py | PASS + 실제 셀 내용 기준 짝지음 확인 (배지별 MSG↔EN↔KO 행 일치) |
-| ⑦ Google Docs 업로드 + API 검증 | PASS (테이블 2/2, title 일치, export-back VERIFIED OK). Doc: 학개 (Haggai) — Final: MSG + Teen EN + KO, id 1RWLSEl-afs-exYFJLuCMpukSoLRg1FCl3IxBI0JGFXk |
+### KO (changes 13건 기록, EN 1:1 반영)
 
-## 5. 검증 범위 및 미확인 경계
-- 검증한 것: MSG vs EN vs KO 전수 대조 2장, validator, completeness_check(오탐 문서화), DOCX 빌드, 짝지음 내용 검증, Google Docs 업로드 + API 테이블 수 + export-back 검증.
-- 미확인: Google Docs 웹 화면은 이 환경에서 직접 보지 못함. 자동 욕설 목록 밖 미묘한 뉘앙스. production 앱 미접촉.
+1. 1:1 — '페르시아 다리우스', '스알디엘의 아들 스룹바벨', '여호사닥의 아들 여호수아' 복원
+2. 1:5-6 — '마시고 또 마시고 또 마셔도' 3연타 복원
+3. 1:9-11 — '만군의 여호와의 메시지'로 통일 (본문은 EN보다 이미 완전했음)
+4. 1:12 — '스알디엘의 아들'/'여호사닥의 아들' 복원
+5. 장 전체 — '만군의 하나님' → '만군의 여호와'로 통일 (EN 'God-of-the-Angel-Armies' 대응)
+6. 2:1-3 — '스알디엘의 아들'/'여호사닥의 아들' 복원, '하나님의 말씀' 복원
+7. 2:4 — '여호사닥의 아들' 복원 (EN에는 있었음)
+8. 2:5 — '너네랑 맺은 언약의 말씀' 복원 (약속으로 약화돼 있었음)
+9. 2:10-12 — '빵 한 덩어리, 국 한 그릇, 포도주나 기름 한 병' 세부 복원
+10. 2:14 — 4문장 병렬 복원 ('나를 위해 하는 것'으로 수정 — 바치는 것이 아님)
+11. 2:15-17 — '첫 기초석' 복원, '곡식의 절반, 포도주도 절반' 구체 수치 복원
+12. 2:21-23 — '무기와 병기' 복원, '내 개인 종' 복원, '내 주권과 권위의 징표' 복원, '밭을 다 둘러보고' 복원
+
+## 스탠딩 승인 규칙 적용
+
+- 선언한 merges/splits: **없음** (구조 변경 없이 본문 복원만으로 완료)
+- 승인 필요 항목: **없음**
+
+## 검증 범위 vs 미확인 경계
+
+- 검증됨: MSG 원문 전 유닛(22) ↔ EN 전 문단(30) 전수 대조, EN↔KO 1:1 (문단 수·순서·배지·의미),
+  validator/completeness/build/pairing/업로드·export-back 전부 PASS.
+- 미확인: Google Docs에서 실제 눈으로 본 렌더링(표 안 한글/영어 줄바꿈) — API 검증은 통과.
+  구약 수정본은 앱에 반영하지 않음 (지시).
