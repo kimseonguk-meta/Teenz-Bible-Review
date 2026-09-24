@@ -108,3 +108,16 @@
 - KO: 본문 35/94문단 변경, 배지 62/94 변경, 제목 5건(EN과 동일)
 - split 선언 13건, merge 0건
 - 변경 내역은 각 JSON의 `changes` 필드와 `/tmp/est_audit/apply_esther_audit.py`, `/tmp/est_audit/apply_esther_followup.py`에 기록
+
+## 2nd re-audit (Sep 24) — "축약하지 마라" MSG 대조
+
+- **completeness_check**: FAIL 3건, 전수 MSG 대조 결과 모두 false positive:
+  - ch1 idx5 name "seething" → Teen "absolutely fuming" (의미 동등)
+  - ch9 idx7 number "27" → 파서 버그: "the thirteenth and fourteenth"를 13+14=27로 합산 (Teen에 13th·14th 개별 존재)
+  - ch9 idx8 number "29" → 파서 버그: "fourteenth and fifteenth"를 14+15=29로 합산 (Teen에 14th·15th 개별 존재)
+- **문장 단위 MSG-vs-EN 전수 패스 (10장·94문단)**: MSG 누락 0건. 이름·별칭(son of X)·숫자·인용구·반복·상징 묘사 전부 Teen에 존재.
+- **KO 정합 1건 수정**: ch9 idx12 (badge 29-32) KO에 MSG/EN에 없는 "부르짖었던" 첨가 → "금식하고 슬퍼했던 일에 대해"로 정정 (EN: "regarding their fasting and mourning").
+- **구조 검증**: `STRUCT OK` (10ch·EN/KO 문단수·verseRanges 일치)
+- **build_gdocs.py**: `rows=94 msg_units=80 teen_without_msg=0 msg_orphans=0 VERIFY_DROPPED=0`, "ALL VERIFY OK"
+- **pairing spot-check** (python-docx): ch9 table row idx12, KO 수정 반영 확인, 제거어 미포함 확인
+- **Google Docs reupload**: API tables 10/10 → `VERIFIED OK`
