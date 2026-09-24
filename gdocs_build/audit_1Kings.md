@@ -138,3 +138,16 @@
 ## 승인 필요
 
 - 없음. 내용 누락·오역·EN/KO 의미 불일치는 모두 해소했고, 잔여 13건은 근거 있는 오탐으로 기록함.
+
+## 2nd re-audit (Sep 24)
+
+- MSG 문장 단위 union 검사(68 flags) + 절-단위 숫자 검사 전수 수행. 13건 토큰 후보는 전부 오탐(teen paraphrase로 의미 보존).
+- 실제 누락 4건 복원 (KO에는 이미 있었고 EN에만 빠져 있던 케이스 3건):
+  1. ch6 idx0 배지 1-6: MSG 6:3 현관 "thirty-foot width" 복원 → EN "It had this cool 30-foot-wide porch stretching across the front, going out 15 feet."
+  2. ch12 idx14 배지 22-24: "and anyone else who is around" 복원 → EN "…and everyone in Judah and Benjamin, and anyone else who's around"
+  3. ch12 idx18 배지 31-33: "holy New Year festival" 명칭 복원 + "He staffed Bethel with priests from the local shrines he had made." 문장 복원
+  4. KO ch6 idx0: "the second month" gloss 복원 → "시브월, 곧 두 번째 달에"
+- 구조 검증: STRUCT OK (22장, EN/KO 문단·배지 일치, MSG 절 커버리지 전수)
+- 빌드: VERIFY_DROPPED=0, teen_without_msg=0, msg_orphans=0
+- DOCX pairing: 복원 4건 전부 PASS
+- Google Docs 재업로드: API table count 22/22, export-back VERIFIED OK
