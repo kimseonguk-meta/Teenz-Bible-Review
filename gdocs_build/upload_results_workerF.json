@@ -230,16 +230,5 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
- },
- {
-  "key": "Hosea",
-  "title": "호세아 (Hosea): MSG + Teen EN + KO",
-  "id": "1tSss6YnS0o-i8Y4sbHKXKXoDNTATjfccQ2biA8Gcr1w",
-  "webViewLink": "https://docs.google.com/document/d/1tSss6YnS0o-i8Y4sbHKXKXoDNTATjfccQ2biA8Gcr1w/edit?usp=drivesdk",
-  "tables": 14,
-  "expected": 14,
-  "status": "OK",
-  "export_problems": [],
-  "export_back": "VERIFIED OK"
  }
 ]
