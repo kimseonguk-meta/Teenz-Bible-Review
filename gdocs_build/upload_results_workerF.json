@@ -75,5 +75,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "Leviticus",
+  "title": "레위기 (Leviticus) — MSG + Teen EN + KO",
+  "id": "1Q4pBwqnauRwFKjMuTe-7L51GcQv1dQLowy9IRojc3gc",
+  "webViewLink": "https://docs.google.com/document/d/1Q4pBwqnauRwFKjMuTe-7L51GcQv1dQLowy9IRojc3gc/edit?usp=drivesdk",
+  "tables": 27,
+  "expected": 27,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]

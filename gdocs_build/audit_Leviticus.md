@@ -130,3 +130,9 @@
 ## 7. validate_translation.py 결과
 
 - 26/27장 PASS. 16장만 EN 17문단 vs KO 18문단 불일치로 FAIL — 승인 대기 중인 KO merge(1, 2 → 1-2) 때문이며 의도된 상태. 승인 후 merge 적용 시 재실행.
+
+## 2026-09-24 성욱 승인 — 16장 KO merge 적용
+- 승인: KO ch16 paras 0-1 (배지 '1','2') → 단일 문단 '1-2' 병합 (EN 17문단 구조 일치, MSG 16:1-2 단일 단위).
+- 적용: ko_Leviticus.json — paragraphs 18→17, verseRanges ['1','2',...]→['1-2',...], merges 기록 + confirmations_needed에 승인 명시.
+- 재검증: validate_translation.py PASS (27장), build_gdocs.py VERIFY_DROPPED=0 (314행/27표), verify_pairing_content.py PAIRING CONTENT OK.
+- Google Docs 신규 생성 '레위기 (Leviticus) — MSG + Teen EN + KO', API 테이블 27/27, export-back VERIFIED OK.
