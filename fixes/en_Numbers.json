@@ -68,7 +68,16 @@
    "54"
   ],
   "merges": [],
-  "splits": [],
+  "splits": [
+   {
+    "msg_range": "1-5",
+    "paras": [
+     0,
+     1
+    ],
+    "note": "2026-09-24 성욱 승인 (선택지 1): MSG 1-5 단일 묶음(서론 + 6-15절 열두 지파 명단)을 Teen 2문단(1-5/6-15)으로 분할 — 6-15 행의 MSG 셀 비는 것 허용"
+   }
+  ],
   "changes": [
    "MSG 1-5 split into paras 0-1 (declared); badges 1-5/6-15; slang cleaned"
   ],
@@ -172,7 +181,7 @@
    "The grand total of Levites that Moses and Aaron counted, just like God said, clan by clan, all the males one month and older, was 22,000.",
    "Then God told Moses, “Now count all the firstborn sons of the Israelites who are a month or older. Get a list of their names. Then you’re going to set apart the Levites for me—remember, I’m God—and they’ll take the place of all the firstborn Israelites. And their livestock will take the place of the Israelites' livestock. I am God.”",
    "So Moses did what God said and counted all the firstborn of the Israelites. The total number of firstborn males a month or older, all listed by name, was 22,273.",
-   "God spoke to Moses one more time. He said, “Take the Levites in place of all the firstborn of Israel, and the Levites' livestock in place of their livestock. The Levites are mine. I am God. To redeem the 273 extra firstborn who outnumber the Levites, collect five shekels for each one, using the Sanctuary shekel. Give that money to Aaron and his sons to redeem those extra Israelites.”",
+   "God spoke to Moses one more time. He said, “Take the Levites in place of all the firstborn of Israel, and the Levites' livestock in place of their livestock. The Levites are mine. I am God. To redeem the 273 extra firstborn who outnumber the Levites, collect five shekels for each one, using the Sanctuary shekel (twenty gerahs to the shekel). Give that money to Aaron and his sons to redeem those extra Israelites.”",
    "So Moses collected the redemption money from the families of the extra firstborns. For the 273, he collected 1,365 shekels. Then Moses gave the money to Aaron and his sons, exactly as God had commanded him."
   ],
   "verseRanges": [
@@ -187,7 +196,7 @@
    "20",
    "20",
    "21-26",
-   "27-32",
+   "27-31",
    "32",
    "33-37",
    "38",
@@ -228,7 +237,9 @@
    }
   ],
   "changes": [
-   "Badges 6-10->5-10, 27-31->27-32, 44-51->44-48 per MSG units; slang cleaned"
+   "Badges 6-10->5-10, 27-31->27-32, 44-51->44-48 per MSG units; slang cleaned",
+   "2026-09-24 성욱 승인: EN[11] 배지 '27-32'→'27-31' (실제 내용 반영)",
+   "2026-09-24 completeness 게이트: 'twenty gerahs' 숫자 복원 (MSG 3:47 'the shekel weighing twenty gerahs')"
   ],
   "confirmations_needed": []
  },
@@ -1226,20 +1237,20 @@
    "5",
    "6-9",
    "10",
-   "11-13",
-   "14-18",
+   "11-12",
+   "13-16",
+   "17",
+   "18",
    "19",
-   "20-21",
-   "22",
-   "23-25",
-   "26",
-   "27",
-   "28-31",
-   "32-35",
-   "36",
-   "37-39",
-   "40-41",
-   "42-43",
+   "20-23",
+   "24",
+   "25",
+   "26-30",
+   "31-34",
+   "35",
+   "36-38",
+   "39-40",
+   "41-43",
    "44-45"
   ],
   "msg_ranges": [
@@ -1266,7 +1277,8 @@
   "merges": [],
   "splits": [],
   "changes": [
-   "Slang cleaned; 40 years/40 days/ten times verified present"
+   "Slang cleaned; 40 years/40 days/ten times verified present",
+   "2026-09-24 completeness 게이트 배지 정정(EN): para5 '11-12', para6 '13-16', para7 '17', para8 '18', para9 '19', para10 '20-23', para11 '24', para12 '25', para13 '26-30', para14 '31-34', para15 '35', para16 '36-38', para17 '39-40', para18 '41-43' — Teen 문단 내용의 실제 MSG 절에 맞게 배지 재지정 (기존 배지는 내용보다 1-2절 앞서 있었음)"
   ],
   "confirmations_needed": []
  },
@@ -1648,19 +1660,19 @@
    "So they attacked him, his sons, and all his people—not a single person survived. Israel took over the land."
   ],
   "verseRanges": [
-   "1-2",
+   "1",
+   "2",
    "3",
    "4-5",
    "6-7",
-   "8-9",
-   "10",
-   "11",
-   "12",
-   "13-14",
-   "15",
+   "7",
+   "8",
+   "9",
+   "10-13",
+   "14-15",
    "16",
-   "17",
-   "18-20",
+   "17-18",
+   "19-20",
    "21-22",
    "23-26",
    "27",
@@ -1692,9 +1704,19 @@
    "35"
   ],
   "merges": [],
-  "splits": [],
+  "splits": [
+   {
+    "msg_range": "6-7",
+    "paras": [
+     4,
+     5
+    ],
+    "note": "2026-09-24 감사 정정: MSG 6-7 단일 유닛을 Teen 2문단(idx4 '6-7'/idx5 '7')으로 렌더 — 배지 오기 정정 과정에서 split 선언"
+   }
+  ],
   "changes": [
-   "Badges realigned (28-29, 31-32); 21:28-35 content verified present; slang cleaned"
+   "Badges realigned (28-29, 31-32); 21:28-35 content verified present; slang cleaned",
+   "2026-09-24 completeness 게이트 배지 정정(EN): para0 '1', para1 '2', para2 '3', para3 '4-5', para4 '6-7', para5 '7', para6 '8', para7 '9', para8 '10-13', para9 '14-15', para11 '17-18', para12 '19-20' — Teen 문단 내용의 실제 MSG 절에 맞게 배지 재지정 (기존 배지는 내용보다 1-2절 앞서 있었음)"
   ],
   "confirmations_needed": []
  },
@@ -1741,34 +1763,34 @@
    "2-3",
    "4",
    "5",
-   "6-8",
+   "6",
+   "7",
+   "8",
+   "8",
    "9",
-   "10",
-   "11",
+   "10-11",
    "12",
-   "13-14",
-   "15",
-   "16",
-   "17",
+   "13",
+   "14",
+   "15-17",
    "18-19",
-   "20-21",
-   "22",
-   "23-25",
-   "26",
-   "27",
+   "20",
+   "21-23",
+   "24-25",
+   "26-27",
    "28",
    "29",
    "30",
+   "30",
    "31",
-   "32",
-   "33",
+   "32-33",
    "34",
+   "35",
    "35",
    "36",
    "37",
    "38",
-   "39",
-   "40",
+   "39-40",
    "41"
   ],
   "msg_ranges": [
@@ -1802,9 +1824,36 @@
    "41"
   ],
   "merges": [],
-  "splits": [],
+  "splits": [
+   {
+    "msg_range": "7-8",
+    "paras": [
+     5,
+     6,
+     7
+    ],
+    "note": "2026-09-24 감사 정정: MSG 7-8 단일 유닛을 Teen 3문단(idx5 '7'/idx6 '8'/idx7 '8')으로 렌더 — 배지 오기 정정 과정에서 split 선언"
+   },
+   {
+    "msg_range": "30",
+    "paras": [
+     21,
+     22
+    ],
+    "note": "2026-09-24 감사 정정: MSG 30절을 Teen 2문단(idx21 '30'/idx22 '30')으로 렌더 — 배지 오기 정정 과정에서 split 선언"
+   },
+   {
+    "msg_range": "35",
+    "paras": [
+     26,
+     27
+    ],
+    "note": "2026-09-24 감사 정정: MSG 35절을 Teen 2문단(idx26 '35'/idx27 '35')으로 렌더 — 배지 오기 정정 과정에서 split 선언"
+   }
+  ],
   "changes": [
-   "Donkey/angel narrative verified complete; slang cleaned"
+   "Donkey/angel narrative verified complete; slang cleaned",
+   "2026-09-24 completeness 게이트 배지 정정(EN): para4 '6', para5 '7', para6 '8', para7 '8', para8 '9', para9 '10-11', para10 '12', para11 '13', para12 '14', para13 '15-17', para14 '18-19', para15 '20', para16 '21-23', para17 '24-25', para18 '26-27', para22 '30', para23 '31', para24 '32-33', para27 '35', para28 '36', para29 '37', para30 '38', para31 '39-40' — Teen 문단 내용의 실제 MSG 절에 맞게 배지 재지정 (기존 배지는 내용보다 1-2절 앞서 있었음)"
   ],
   "confirmations_needed": []
  },
@@ -1836,22 +1885,22 @@
   "verseRanges": [
    "1",
    "2",
-   "3-4",
+   "3",
+   "4",
    "5",
    "6",
-   "7",
-   "8-12",
+   "7-10",
+   "11",
+   "12",
    "13",
    "14",
    "15",
    "16",
    "17",
-   "18",
-   "19",
-   "20-25",
+   "18-24",
+   "25",
    "26",
-   "27",
-   "28",
+   "27-28",
    "29",
    "30"
   ],
@@ -1878,7 +1927,8 @@
   "merges": [],
   "splits": [],
   "changes": [
-   "Content verified; minor slang cleaned"
+   "Content verified; minor slang cleaned",
+   "2026-09-24 completeness 게이트 배지 정정(EN): para2 '3', para3 '4', para4 '5', para5 '6', para6 '7-10', para7 '11', para8 '12', para9 '13', para10 '14', para11 '15', para12 '16', para13 '17', para14 '18-24', para15 '25', para16 '26', para17 '27-28' — Teen 문단 내용의 실제 MSG 절에 맞게 배지 재지정 (기존 배지는 내용보다 1-2절 앞서 있었음)"
   ],
   "confirmations_needed": []
  },
