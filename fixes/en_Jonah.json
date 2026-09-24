@@ -1,190 +1,194 @@
 [
- {
-  "chapter": 1,
-  "title": "Running From God & Getting Swallowed by a Fish",
-  "paragraphs": [
-   "§ Running Away from God",
-   "A while back, God hit up this guy named Jonah, son of Amittai, with a message: \"Yo, get up and head over to the huge city of Nineveh. You need to call them out. They're acting up, and I'm not gonna let it slide anymore.\"",
-   "But Jonah was like, \"Nah,\" and bounced in the complete opposite direction, toward Tarshish, trying to run away from God. He went down to the port of Joppa, found a boat going to Tarshish, paid for his ticket, and hopped on. He was trying to get as far away from God as possible.",
-   "But God was not having it and whipped up a crazy storm at sea, with waves that were seriously massive.",
-   "The ship felt like it was about to snap in half. The sailors were freaking out, praying like crazy to their own gods. They started chucking all the cargo overboard to make the ship lighter. Meanwhile, Jonah had gone down below deck to catch some Zs. Dude was completely knocked out. The captain found him and was like, “Bro, what are you doing? Sleeping?! Get up and pray to your god! Maybe your god will notice we're in deep trouble and save us.”",
-   "Then the sailors were all like, “Okay, we need to figure out who’s to blame for this mess. Let's draw straws to see which one of us is the reason for this disaster.”",
-   "So they drew straws, and guess who got the short one? Yep, Jonah.",
-   "They immediately started grilling him: “Spill it. Why is this happening? What’s your job? Where are you from? What’s your country? Who are your people?”",
-   "He told them, “I’m a Hebrew. I worship God, the God of heaven who created the sea and the land.”",
-   "When they heard that, the sailors got legit scared and were like, “Dude, what have you done?!” They put two and two together and realized he was on the run from God.",
-   "They asked him, “So what are we supposed to do with you to make this storm chill out?” By then, the sea was going absolutely wild.",
-   "Jonah said, “Just throw me overboard. The sea will calm down then. It’s all my fault. This whole storm is because of me. Get rid of me, and you get rid of the storm.”",
-   "But they were like, no way. The sailors tried to row back to land, but they weren't getting anywhere. The storm just kept getting crazier and crazier.",
-   "So they prayed to God, saying, “Oh, God! Please don’t let us die because of this guy, and don’t hold us responsible for his death. You’re God. You do what you think is right.”",
-   "Then they picked Jonah up and threw him into the sea. And just like that, the sea went totally calm.",
-   "The sailors were shook. They weren't scared of the sea anymore, but they were in total awe of God. They started worshiping God, made a sacrifice, and promised to follow him.",
-   "Then God sent a giant fish to swallow Jonah. And Jonah was just chilling in the fish's stomach for three days and three nights."
-  ],
-  "verseRanges": [
-   "1-2",
-   "1-2",
-   "3",
-   "4",
-   "5-6",
-   "7",
-   "7",
-   "8",
-   "9",
-   "10",
-   "11",
-   "12",
-   "13",
-   "14",
-   "15",
-   "16",
-   "17"
-  ],
-  "splits": [
-   {
-    "msg_range": "1-17",
-    "paras": [
-     1,
-     2,
-     3,
-     4,
-     5,
-     6,
-     7,
-     8,
-     9,
-     10,
-     11,
-     12,
-     13,
-     14,
-     15,
-     16
+  {
+    "chapter": 1,
+    "title": "Running From God & Getting Swallowed by a Fish",
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "4-6",
+        "paras": [
+          2,
+          3
+        ]
+      },
+      {
+        "msg_range": "7",
+        "paras": [
+          4,
+          5
+        ]
+      }
+    ],
+    "changes": [],
+    "confirmations_needed": [],
+    "paragraphs": [
+      "A while back, God hit up this guy named Jonah, son of Amittai, with a message: \"Yo, get up and head over to the huge city of Nineveh. You need to call them out. They're acting up, and I'm not gonna let it slide anymore.\"",
+      "But Jonah was like, \"Nah,\" and bounced in the complete opposite direction, toward Tarshish, trying to ghost God. He went down to the port of Joppa, found a boat going to Tarshish, paid for his ticket, and hopped on. He was trying to get as far away from God as possible.",
+      "But God was not having it and whipped up a crazy storm at sea, with waves that were seriously massive.",
+      "The ship felt like it was about to snap in half. The sailors were freaking out, praying like crazy to their own gods. They started chucking all the cargo overboard to make the ship lighter. Meanwhile, Jonah had gone down below deck to catch some Zs. Dude was completely knocked out. The captain found him and was like, “Bro, what are you doing? Sleeping?! Get up and pray to your god! Maybe your god will notice we're in deep trouble and save us.”",
+      "Then the sailors were all like, “Okay, we need to figure out who’s to blame for this mess. Let's draw straws to see which one of us is the reason for this disaster.”",
+      "So they drew straws, and guess who got the short one? Yep, Jonah.",
+      "They immediately started grilling him: “Spill it. Why is this happening? What’s your job? Where are you from? What’s your country? Who are your people?”",
+      "He told them, “I’m a Hebrew. I worship God, the God of heaven who created the sea and the land.”",
+      "When they heard that, the sailors got legit scared and were like, “Dude, what have you done?!” They put two and two together and realized he was on the run from God.",
+      "They asked him, “So what are we supposed to do with you to make this storm chill out?” By then, the sea was going absolutely wild.",
+      "Jonah said, “Just throw me overboard. The sea will calm down then. It’s all my fault. This whole storm is because of me. Get rid of me, and you get rid of the storm.”",
+      "But they were like, no way. The sailors tried to row back to land, but they weren't getting anywhere. The storm just kept getting crazier and crazier.",
+      "So they prayed to God, saying, “Oh, God! Please don’t let us die because of this guy, and don’t hold us responsible for his death. You’re God. You do what you think is right.”",
+      "Then they picked Jonah up and threw him into the sea. And just like that, the sea went totally calm.",
+      "The sailors were shook. They weren't scared of the sea anymore, but they were in total awe of God. They started worshiping God, made a sacrifice, and promised to follow him.",
+      "Then God sent a giant fish to swallow Jonah. And Jonah was just chilling in the fish's stomach for three days and three nights."
+    ],
+    "verseRanges": [
+      "1-2",
+      "3",
+      "4",
+      "5-6",
+      "7",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "msg_ranges": [
+      "1-2",
+      "3",
+      "4",
+      "5-6",
+      "7",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
     ]
-   }
-  ],
-  "changes": [
-   "Ch1: added missing MSG § header 'Running Away from God' (before v1); text complete vs MSG",
-   "Ch1: 슬랭 'ghost God' → 'run away from God' (MSG 1:3 'running away from God'; KO는 이미 '하나님한테서 도망가려고')"
-  ]
- },
- {
-  "chapter": 2,
-  "title": "My Deep Sea Prayer Got Answered!",
-  "paragraphs": [
-   "§ At the Bottom of the Sea",
-   "Then Jonah prayed to his God from inside the fish.",
-   "Here's what he prayed:",
-   "“I was in major trouble, like, deep, and I cried out to God, and for real, He answered me. From the belly of the grave, I screamed, ‘Help!’ and You heard my cry. You basically threw me into the deep end of the ocean, into a watery grave, with massive waves crashing over me. I was like, ‘It’s over. I’ve been totally canceled, thrown out of Your sight. I’ll never get to see Your Holy Temple again.’ The ocean had me in a chokehold. The abyss grabbed me and held on tight. My head was all tangled in seaweed at the bottom of the sea, where the mountains start. I was as far down as you can go, and the gates were slamming shut on me forever—but then You pulled me up from that grave, alive, O God, my God! When my life was lowkey slipping away, I remembered God, and my prayer actually made it to You, all the way to Your Holy Temple. People who worship fake gods are walking away from their one true love. But I’m worshiping You, God, shouting out my thanks! And I’m gonna do what I promised. Salvation comes from God!”",
-   "Then God had a word with the fish, and it vomited Jonah right onto the beach."
-  ],
-  "verseRanges": [
-   "1",
-   "1",
-   "2-9",
-   "2-9",
-   "10"
-  ],
-  "splits": [
-   {
-    "msg_range": "1-9",
-    "paras": [
-     2,
-     3
+  },
+  {
+    "chapter": 2,
+    "title": "My Deep Sea Prayer Got Answered!",
+    "merges": [],
+    "splits": [],
+    "changes": [],
+    "confirmations_needed": [],
+    "paragraphs": [
+      "Then Jonah prayed to his God from inside the fish.",
+      "“I was in major trouble, like, deep, and I cried out to God, and for real, He answered me. From the belly of the grave, I screamed, ‘Help!’ and You heard my cry. You basically threw me into the deep end of the ocean, into a watery grave, with massive waves crashing over me. I was like, ‘It’s over. I’ve been totally canceled, thrown out of Your sight. I’ll never get to see Your Holy Temple again.’ The ocean had me in a chokehold. The abyss grabbed me and held on tight. My head was all tangled in seaweed at the bottom of the sea, where the mountains start. I was as far down as you can go, and the gates were slamming shut on me forever—but then You pulled me up from that grave, alive, O God, my God! When my life was lowkey slipping away, I remembered God, and my prayer actually made it to You, all the way to Your Holy Temple. People who worship fake gods are walking away from their one true love. But I’m worshiping You, God, shouting out my thanks! And I’m gonna do what I promised. Salvation comes from God!”",
+      "Then God had a word with the fish, and it vomited Jonah right onto the beach."
+    ],
+    "verseRanges": [
+      "1",
+      "2-9",
+      "10"
+    ],
+    "msg_ranges": [
+      "1",
+      "2-9",
+      "10"
     ]
-   }
-  ],
-  "changes": [
-   "Ch2: added missing MSG § header 'At the Bottom of the Sea' (before v1)",
-   "Ch2: added intro line 'Here's what he prayed:' so EN matches KO's 4-para split of the prayer (EN/KO parity, principle 4)"
-  ]
- },
- {
-  "chapter": 3,
-  "title": "Nineveh's Ultimate Glow-Up",
-  "paragraphs": [
-   "§ Maybe God Will Change His Mind",
-   "Then God hit up Jonah a second time: “Aight, get up and get going to that huge city, Nineveh. You gotta tell them what’s up. They’re seriously messing up, and I can’t just let it slide anymore.”",
-   "This time, Jonah actually listened and headed straight for Nineveh, following God’s instructions exactly.",
-   "Nineveh was massive, like, legit huge—it would take three whole days just to walk from one side to the other.",
-   "Jonah walked into the city for a day and started preaching his message: “In 40 days, Nineveh is gonna be totally wrecked.”",
-   "The people of Nineveh actually listened and believed God. They called for a fast across the whole city and everyone, from the richest CEO to the most random person, started wearing these scratchy burlap clothes to show they were sorry. Everyone did it—rich and poor, famous and obscure, leaders and followers.",
-   "When the king of Nineveh heard the news, he got right off his throne, took off his fancy royal robes, put on burlap, and sat in the dirt. Then he sent out a city-wide alert, approved by him and his cabinet: “Nobody eats or drinks anything. Not people, not even your pets or your farm animals. Everyone—people and animals—has to wear burlap and just cry out to God for help. Everybody needs to do a complete 180, stop living their messed-up lives, and quit all the violence. Who knows? Maybe God will see us, change His mind, and not be so mad at us. Maybe He’ll let us live!”",
-   "God saw what they did, that they had actually turned away from their evil ways. So He changed His mind. The disaster He said He was going to bring down on them? He didn’t do it."
-  ],
-  "verseRanges": [
-   "1-2",
-   "1-2",
-   "3",
-   "3",
-   "4",
-   "5",
-   "6-9",
-   "10"
-  ],
-  "splits": [
-   {
-    "msg_range": "1-10",
-    "paras": [
-     1,
-     2,
-     3,
-     4,
-     5,
-     6,
-     7
+  },
+  {
+    "chapter": 3,
+    "title": "Nineveh's Ultimate Glow-Up",
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "3",
+        "paras": [
+          1,
+          2
+        ]
+      }
+    ],
+    "changes": [],
+    "confirmations_needed": [],
+    "paragraphs": [
+      "Then God hit up Jonah a second time: “Aight, get up and get going to that huge city, Nineveh. You gotta tell them what’s up. They’re seriously messing up, and I can’t just let it slide anymore.”",
+      "This time, Jonah actually listened and headed straight for Nineveh, following God’s instructions exactly.",
+      "Nineveh was massive, like, legit huge—it would take three whole days just to walk from one side to the other.",
+      "Jonah walked into the city for a day and started preaching his message: “In 40 days, Nineveh is gonna be totally wrecked.”",
+      "The people of Nineveh actually listened and believed God. They called for a fast across the whole city and everyone, from the richest CEO to the most random person, started wearing these scratchy burlap clothes to show they were sorry. Everyone did it—rich and poor, famous and obscure, leaders and followers.",
+      "When the king of Nineveh heard the news, he got right off his throne, took off his fancy royal robes, put on burlap, and sat in the dirt. Then he sent out a city-wide alert, approved by him and his cabinet: “Nobody eats or drinks anything. Not people, not even your pets or your farm animals. Everyone—people and animals—has to wear burlap and just cry out to God for help. Everybody needs to do a complete 180, stop living their messed-up lives, and quit all the violence. Who knows? Maybe God will see us, change His mind, and not be so mad at us. Maybe He’ll let us live!”",
+      "God saw what they did, that they had actually turned away from their evil ways. So He changed His mind. The disaster He said He was going to bring down on them? He didn’t do it."
+    ],
+    "verseRanges": [
+      "1-2",
+      "3",
+      "3",
+      "4",
+      "5",
+      "6-9",
+      "10"
+    ],
+    "msg_ranges": [
+      "1-2",
+      "3",
+      "3",
+      "4",
+      "5",
+      "6-9",
+      "10"
     ]
-   }
-  ],
-  "changes": [
-   "Ch3: added missing MSG § header 'Maybe God Will Change His Mind' (before v1); text complete vs MSG"
-  ]
- },
- {
-  "chapter": 4,
-  "title": "Jonah Gets Salty About God's Mercy",
-  "paragraphs": [
-   "§ “I Knew This Was Going to Happen!”",
-   "Jonah was seriously ticked off. He totally lost his cool and started yelling at God, \"God! I knew it! Back when I was still at home, I had a feeling this would happen! That's why I bounced to Tarshish! I knew you were all about grace and mercy, super patient, loaded with love, and always ready to cancel punishment and switch to forgiveness mode in a heartbeat!\"",
-   "\"So, God, if you're not gonna take them out, then just take me out! I'd be better off dead!\"",
-   "God was like, \"Dude, what do you have to be so angry about?\"",
-   "But Jonah just stormed off. He left the city, went east, and sat there pouting. He threw together a little shelter out of branches and sat in the shade, waiting to see what would happen to the city.",
-   "Then God made a big leafy plant sprout up. It grew over Jonah to give him some shade and help him chill out. Jonah was actually pretty happy about it and was enjoying the shade. Things were starting to look up.",
-   "But then God sent a worm. By the next morning, the worm had chewed through the plant, and it withered. When the sun came up, God sent a scorching hot wind from the east. The sun was beating down on Jonah's head, and he felt like he was going to pass out. He prayed to die again: \"I'm better off dead!\"",
-   "Then God said to Jonah, \"Do you really have any right to be this mad about a plant?\"",
-   "Jonah shot back, \"Yeah, I do! I'm angry enough to die!\"",
-   "God said, \"Seriously? How can you go from being happy to furious overnight about a simple plant that you did nothing for? You didn't plant it or water it. It grew one night and was gone the next. So why can't I change my mind about Nineveh? It's a huge city with over 120,000 people who are basically like kids and don't even know right from wrong yet, not to mention all the innocent animals.\""
-  ],
-  "verseRanges": [
-   "1-2",
-   "1-2",
-   "3",
-   "4",
-   "5",
-   "6",
-   "7-8",
-   "9",
-   "10",
-   "11"
-  ],
-  "splits": [
-   {
-    "msg_range": "1-11",
-    "paras": [
-     1,
-     2,
-     3,
-     4,
-     5,
-     6,
-     7,
-     8,
-     9
+  },
+  {
+    "chapter": 4,
+    "title": "Jonah Gets Salty About God's Mercy",
+    "merges": [],
+    "splits": [
+      {
+        "msg_range": "9",
+        "paras": [
+          6,
+          7
+        ]
+      }
+    ],
+    "changes": [],
+    "confirmations_needed": [],
+    "paragraphs": [
+      "Jonah was seriously ticked off. He totally lost his cool and started yelling at God, \"God! I knew it! Back when I was still at home, I had a feeling this would happen! That's why I bounced to Tarshish! I knew you were all about grace and mercy, super patient, loaded with love, and always ready to cancel punishment and switch to forgiveness mode in a heartbeat!\"",
+      "\"So, God, if you're not gonna take them out, then just take me out! I'd be better off dead!\"",
+      "God was like, \"Dude, what do you have to be so angry about?\"",
+      "But Jonah just stormed off. He left the city, went east, and sat there pouting. He threw together a little shelter out of branches and sat in the shade, waiting to see what would happen to the city.",
+      "Then God made a big leafy plant sprout up. It grew over Jonah to give him some shade and help him chill out. Jonah was actually pretty happy about it and was enjoying the shade. Things were starting to look up.",
+      "But then God sent a worm. By the next morning, the worm had chewed through the plant, and it withered. When the sun came up, God sent a scorching hot wind from the east. The sun was beating down on Jonah's head, and he felt like he was going to pass out. He prayed to die again: \"I'm better off dead!\"",
+      "Then God said to Jonah, \"Do you really have any right to be this mad about a plant?\"",
+      "Jonah shot back, \"Yeah, I do! I'm angry enough to die!\"",
+      "God said, \"Seriously? How can you go from being happy to furious overnight about a simple plant that you did nothing for? You didn't plant it or water it. It grew one night and was gone the next. So why can't I change my mind about Nineveh? It's a huge city with over 120,000 people who are basically like kids and don't even know right from wrong yet, not to mention all the innocent animals.\""
+    ],
+    "verseRanges": [
+      "1-2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7-8",
+      "9",
+      "9",
+      "10-11"
+    ],
+    "msg_ranges": [
+      "1-2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7-8",
+      "9",
+      "9",
+      "10-11"
     ]
-   }
-  ],
-  "changes": [
-   "Ch4: added missing MSG § header '“I Knew This Was Going to Happen!”' (before v1); text complete vs MSG"
-  ]
- }
+  }
 ]

@@ -1,40 +1,66 @@
-# Jonah 감사 리포트 (2026-09-23, 작업자 A)
+# Jonah 감사 리포트 (Sep 24 — 27권 전수 감사)
 
-기준: Eugene Peterson The Message(MSG) 영어 원문 = 최종 기준. Teen EN은 MSG 기준, KO는 EN과 문단·배지·의미 1:1.
-검수 방법: MSG(raw 텍스트) vs EN vs KO 전수 대조 (4장 29문단). 1차 감사 변경 이력 확인 후 잔여 이슈 직접 판정.
-결과: 텍스트 수정 1건(EN 1). merge/split 신규 후보 0건. 결론: **재감사 + 1건 수정**.
+기준: Eugene Peterson The Message(MSG). EN primary, KO는 EN 1:1.
+절대: 구약 수정본은 앱에 반영하지 않음 (문서 감사만).
+(2026-09-23 작업자 A 구 감사 기록은 git history에 보관. 이번 감사는 확립된 절차대로 앱 소스 재시드본 + MSG 기준 전수 재감사.)
 
-## 1. 장:절별 이슈 및 수정
+## MSG 원문 품질 검증
+- `msg_Jonah.txt` (2026-09-22 BibleGateway 캐시): 56줄, `parse_msg_txt` 파싱 → 30 MSG 유닛.
+  - ch1: 14유닛 (1-2, 3, 4-6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17) — 절 커버리지 1–17 완전.
+  - ch2: 2유닛 (1-9, 10) — 기도 시편 한 덩어리 + 물고기 토출. 절 1–10 완전.
+  - ch3: 6유닛 (1-2, 3, 4, 5, 6-9, 10) — 절 1–10 완전. (왕의 회개 6-9가 MSG에서 한 유닛)
+  - ch4: 8유닛 (1-2, 3, 4, 5, 6, 7-8, 9, 10-11) — 절 1–11 완전.
+- boilerplate (`passage-text">` 잔재)는 파서에서 제외됨. 의심 구간 없음 → 재수집/재조립 불필요.
 
-| 장:절 | MSG 요지 | 문제 유형 | 수정 내용 |
+## 시드 상태 (감사 전)
+- `fixes/en_Jonah.json` / `fixes/ko_Jonah.json`: 앱 소스에서 재시드 (HEAD의 구 감사본은 참조용 — `§` 소제목 문단 포함, 현재 시드 구조와 상이).
+- baseline validator FAIL 2건: ch2 EN 3문단 vs KO 4문단 불일치 (+배지 불일치).
+
+## 발견 이슈
+
+### 실제 수정 3건 (본문 내용 복원 0건 — MSG 대비 본문은 온전했음)
+
+| # | 장 | 문제 | 조치 |
 |---|---|---|---|
-| 1:3 | "running away from God" | EN 슬랭 | "trying to ghost God" → "trying to run away from God". KO는 이미 "하나님한테서 도망가려고" |
+| 1 | ch2 | KO 문단 4개 vs EN 3개. KO에 "기도 내용은 이랬대." 단독 문단 존재 (MSG의 "He prayed:" 해당). EN primary 1:1 원칙 위반 | KO P1(기도 인트로) 제거 → KO 3문단으로 EN과 일치. verseRanges/msg_ranges KO `['1','2-9','2-9','10']` → `['1','2-9','10']`. "He prayed:"는 EN P0의 "prayed"와 중복되는 프레이밍이라 EN도 미보유 — 내용 손실 없음 |
+| 2 | ch3 P5 | 배지 `7-9` — MSG 유닛은 {6,7,8,9}(왕의 회개+포고령). v6 내용("왕이 왕좌에서 일어나…")은 본문에 있으나 배지에 6 미포함 → 절 커버리지 누락 표기 | EN/KO verseRanges + msg_ranges `7-9` → `6-9` (본문 변경 없음) |
+| 3 | ch4 P6–P8 | 배지 오정렬: P6(하나님의 질문)=9 ✓, P7(요나 대답 "Yeah, I do!")=`10` ✗ (v9 후반), P8(하나님 설교)=`11` ✗ (v10-11) | EN/KO verseRanges + msg_ranges → `['1-2','3','4','5','6','7-8','9','9','10-11']` (본문 변경 없음). v9 split 선언 추가 |
 
-### 직접 확인하고 유지로 판정한 사항 (수정 안 함)
-- 2:2-9 기도문 9요소 전수 보존 (deep trouble/answered, belly of grave, watery grave, thrown out of sight/Holy Temple, ocean chokehold/abyss/seaweed/mountains take root/gates slamming, pulled up alive, prayer reached Temple, fake gods, thanksgiving+promised+Salvation belongs to God). "god-frauds"는 "fake gods"로 자명.
-- 3:7-9 왕의 선포 6요소 전수 보존 (음식 금지 사람+짐승, 베옷 입히기, 하나님께 부르짖기, 악에서 돌이키기, "Who knows? Maybe God will change his mind... let us live").
-- 4:1-2 요나의 항변 4요소 보존 (grace and mercy, not easily angered, rich in love, turn punishment into forgiveness).
-- 4:11 숫자 120,000·"innocent animals"·"don't yet know right from wrong" 모두 보존.
-- 4:1 "public square" (town gate 아님) — teen "main town square" 정확.
+### 오탐 1건 (수정 없음)
+- `completeness_fp_Jonah.md`에 문서화. 클래스 F (동의어 치환): ch1 [1-2] "God's **Word**" → EN "with a **message**" / KO "말씀하셨대". 대문자 Word 토큰 오탐, 의미 손실 없음.
 
-## 2. 구조 검사
-- EN/KO 문단 수·순서·배지 1:1 (4장 29문단). null 배지 0.
+### 주요 내용 확인 (MSG 전 문장·이름·숫자·인용구·반복 대조 — 누락 없음)
+- ch1: Amittai의 아들 요나, 니느웨/다시스/욥바, 파도, 배 분해, 선원 기도·화물 투하, 요나 꿀잠·선장 4문장, 제비뽑기, 5문 질문, "I'm a Hebrew…", sailors realized, "Throw me overboard…", 노 젓기 실패, "O God! Don't let us drown…", 바다가 잠잠, 예배·제물·서원, 큰 물고기·3일 밤낮 — 전부 온전.
+- ch2: 기도 2-9 전 10연(무덤 뱃속/물 무덤/성전 재언급/목 조름/심연/해초/산기슭/영원히 닫히는 문/O God, my God/기도가 성전까지/hollow gods, god-frauds/감사 예배/서원 이행/구원은 하나님께) — 전부 온전. v10 물고기 토출 ✓.
+- ch3: 두 번째 부르심, "to the letter", 3일 도시/하루 설교, "In forty days Nineveh will be smashed", 도시 금식·베옷, rich and poor… 명단 전체, 왕의 4동작(왕좌·왕복·베옷·잿더미), 포고령 4항(금식/베옷+부르짖음/180도 회개/폭력 중단), "Who knows? Maybe God will…let us live!", 마음 돌이킴 — 전부 온전.
+- ch4: "I knew it…sheer grace and mercy…", "kill me! I'm better off dead!", "What do you have to be angry about?", 동쪽 그늘막, 넓은 잎 나무(화 가라앉음), 벌레·시듦·동쪽 뜨거운 바람·기절, "Plenty of right…angry enough to die!", 120,000 childlike people + innocent animals — 전부 온전.
 
-## 3. merge/split 후보
-- 신규 후보: **0건**.
+## 수정량
+- EN 본문 변경 0문단, KO 본문 1문단 삭제(기도 인트로). EN/KO 배지 변경: ch3 각 1건, ch4 각 3건.
 
-## 4. 검증 게이트 통과 현황
+## split/merge 선언 (스탠딩 승인 규칙 적용 — 승인 요청 없이 선언 후 진행)
+모두 (a) MSG 대비 내용 온전, (b) EN/KO 문단·배지·의미 일치, (c) 순수 가독성 구조 차이.
+- merge: 0건.
+- split 4건 (splits[].paras는 0-based index, EN/KO 동일):
+  - ch1: 2건 — 4-6→[2,3] (폭풍 / 배+선원+요나 수면), 7→[4,5] (제비뽑기 제안 / 실제 뽑기)
+  - ch2: 0건
+  - ch3: 1건 — 3→[1,2] (요나 출발·순종 / 니느웨 규모 묘사)
+  - ch4: 1건 — 9→[6,7] (하나님의 질문 / 요나의 대답)
 
-| 게이트 | 결과 |
-|---|---|
-| ① 의미 전수 감사 | PASS (4장 29문단 전수, 직접 대조 — 긴 기도문·선포·요나 항변·하나님 답변 전수 확인) |
-| ② 수정 반영 | PASS (EN 1건, merge/split 미적용) |
-| ③ validate_translation.py | PASS (exit 0) |
-| ④ 기계적 완전성 검사 | PASS (29문단, 38 name tokens — 잔여 FAIL 5건 전부 오탐 문서화: ch1 [1-2] 'tarshish/joppa/word'는 인접 [3] 문단에 보유된 범위 오탐 / 숫자 3~17·ch2 10·ch3 3,4,5,10·ch4 3,4,5,6,9는 인쇄 절 번호, 단 ch3의 실제 숫자 40은 EN "In 40 days"에 보유 확인) |
-| ⑤ build_gdocs.py 재빌드 | PASS (VERIFY_DROPPED=0) |
-| ⑥ verify_pairing_content.py | PASS + 실제 셀 내용 기준 짝지음 확인 (ch3 표본: 배지별 MSG↔EN 행 일치) |
-| ⑦ Google Docs 업로드 + API 검증 | PASS (테이블 4/4, title 일치, export-back VERIFIED OK). Doc: 요나 (Jonah) — Final: MSG + Teen EN + KO, id 1bX0VJYwqJcFANuyatlb9Rh3eIRxIvgSvYaEryCs-qQE |
+## 게이트 결과
+- `validate_translation.py` → PASS: 4개 장 모두 통과.
+- `completeness_check.py` → FAIL 1건 = 오탐 문서화 (`gdocs_build/completeness_fp_Jonah.md`), 실제 누락 0.
+- `build_gdocs.py Jonah` → rows=35, msg_units=30, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0. ALL VERIFY OK.
+- `verify_pairing_content.py Jonah.docx` → checked 35 data rows in 4 tables. PAIRING CONTENT OK.
+- 욕설 스크리닝: validator 내장 검사 통과 (욕·비속어 없음. teen 슬랭 "freaking out", "chokehold", "lowkey" 등은 비속어 아님).
 
-## 5. 검증 범위 및 미확인 경계
-- 검증한 것: MSG vs EN vs KO 전수 대조 4장, validator, completeness_check(오탐 문서화), DOCX 빌드, 짝지음 내용 검증, Google Docs 업로드 + API 테이블 수 + export-back 검증.
-- 미확인: Google Docs 웹 화면은 이 환경에서 직접 보지 못함. 자동 욕설 목록 밖 미묘한 뉘앙스. production 앱 미접촉.
+## Google Docs 업로드
+- `upload_ot_a.py Jonah` → OK. 제목: `요나 (Jonah): MSG + Teen EN + KO` (Final 없음). API title_ok=True, tables 4/4, export-back VERIFIED OK.
+- `gdocs_build/upload_results_workerA.json` 기록 확인됨 (id 1eDnb7KIkJKb_84g9KGwUbYQJiDtWm5Xi4MbIyFxcdgg).
+
+## 승인 필요 항목
+- 없음.
+
+## 검증 범위 vs 미확인 경계
+- 검증됨: MSG↔EN 전 문장 대조(4장 30유닛 전수), EN↔KO 1:1(문단·배지·의미), validator/완전성/빌드/페어링/독 업로드+export-back.
+- 미확인: Google Docs 웹 렌더링 화면은 이 환경에서 직접 보지 못함 — export-back 자동 검증으로 대체. 앱 반영은 의도적으로 하지 않음 (구약).
