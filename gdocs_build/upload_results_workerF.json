@@ -108,5 +108,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "2Samuel",
+  "title": "사무엘하 (2Samuel): MSG + Teen EN + KO",
+  "id": "1tFNgQIxLueQ6xXoUvfXTzWDlcnXVE4qSEMYfnphfu0c",
+  "webViewLink": "https://docs.google.com/document/d/1tFNgQIxLueQ6xXoUvfXTzWDlcnXVE4qSEMYfnphfu0c/edit?usp=drivesdk",
+  "tables": 24,
+  "expected": 24,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]
