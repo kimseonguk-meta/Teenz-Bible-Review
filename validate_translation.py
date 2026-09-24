@@ -29,7 +29,8 @@ import json, re, sys
 # substring으로 등장할 일이 없어 오탐 위험이 없음 (회귀 테스트로 검증).
 PROFANITY_KO = ['씨발', '시발', '좆', '좃', '병신', '개새끼', '지랄', '염병',
                 '씹새끼', '미친새끼', '엿먹']
-PROFANITY_EN = ['fuck', 'shit', 'bitch', 'cunt', 'asshole', 'dickhead']
+PROFANITY_EN = ['fuck', 'shit', 'bitch', 'cunt', 'asshole', 'dickhead',
+                'slut', 'whore']  # 2026-09-24: 신명기 22·23장에서 검출 누락 확인 후 추가
 
 
 def check_profanity(paras, label, ch, errors):
@@ -118,6 +119,14 @@ def check_chapter(en, ko, errors):
     declared_splits = set()
     for s in en.get('splits', []):
         declared_splits.update(expand(s['msg_range']))
+    # MSG 원문 자체의 라벨 겹침(예: 21장의 1-8/8-9, 26장의 5-10/10-11,
+    # 28장의 47-48/48-52 — BibleGateway MSG 원문 확인됨): Teen이 MSG 단락을
+    # 1:1로 따른 경우이므로 미선언 split으로 오탐하지 않는다.
+    _cnt = {}
+    for r in en.get('msg_ranges', []):
+        for v in expand(r):
+            _cnt[v] = _cnt.get(v, 0) + 1
+    msg_overlap = {v for v, c in _cnt.items() if c > 1}
 
     # 1. null 배지 금지
     if len(paras) != len(vrs):
@@ -141,7 +150,7 @@ def check_chapter(en, ko, errors):
     seen = {}  # verse -> (para_index, badge)
     for i, b in enumerate(vrs):
         for v in expand(b):
-            if v in seen and v not in declared_splits:
+            if v in seen and v not in declared_splits and v not in msg_overlap:
                 # § 헤더 공유는 허용: 둘 중 하나라도 헤더 문단이면 스킵
                 pi, pb = seen[v]
                 hdr = paras[i].lstrip().startswith('§') or paras[pi].lstrip().startswith('§')

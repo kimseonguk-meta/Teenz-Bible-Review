@@ -86,5 +86,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "Deuteronomy",
+  "title": "신명기 (Deuteronomy): MSG + Teen EN + KO",
+  "id": "1QhiBCZUqMuiqWZnIl8V1Uuyzy7U30-yHThD_up3bSms",
+  "webViewLink": "https://docs.google.com/document/d/1QhiBCZUqMuiqWZnIl8V1Uuyzy7U30-yHThD_up3bSms/edit?usp=drivesdk",
+  "tables": 34,
+  "expected": 34,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]
