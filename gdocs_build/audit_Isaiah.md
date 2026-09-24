@@ -67,3 +67,25 @@
 ## 다음 단계
 - production 앱에는 반영하지 않음 (지시 준수)
 - 이사야 관련 파일만 commit 후 GitHub main push
+
+## 2nd re-audit (Sep 24)
+- 기준: MSG 원문 문장 단위 대조 ("축약하지 마라" 엄격 적용). completeness_check 67건 → 16건 실제 누락 복원, 잔여 57건은 오탐(동의어·MSG 파일 접합 artifact·대소문자 변형)으로 판정.
+- 복원 16건 (EN/KO):
+  - ch1 [24-31]: "cinders" 복원 ("nothing but smoke" → "cinders and smoke"; KO는 이미 "재와 연기" 보유)
+  - ch2 [11-17]: "three-masted" 복원 — EN/KO 모두 누락 ("slick three-masted sailing yachts" / "돛대 세 개짜리 돛단배")
+  - ch8 [2-3]: "two" 명시 ("a couple of legit guys" → "two legit guys")
+  - ch10 [13-14]: 앗수르 왕 자랑 중 "Like a farmer gathering eggs from the henhouse..." 문장 전체 누락 복원 + "fluttered a wing or squawked or chirped" 복원 (KO는 이미 보유)
+  - ch10 [24-27]: "cat-o'-nine-tails" → "a nine-tailed whip" (KO "아홉 가닥 채찍")
+  - ch11 [12-16] + ch24 [14-16]: "from the four winds and the seven seas" 복원 — EN/KO 모두 "every corner"/"사방팔방"으로 축약돼 있었음
+  - ch28 [14-15]: "listen to God's Message" 호칭 누락 복원
+  - ch33 [17-19]: "condemned" 복원 (KO는 이미 "단죄하고" 보유)
+  - ch34 [8-15]: "Thistles" + "fortresses conquered by weeds and thornbushes" 복원; "Scavenging carrion birds" — EN/KO 모두 누락이라 양쪽 복원
+  - ch40 [12-17]: "in his two hands" + "between his thumb and little finger" 복원 (KO는 이미 보유)
+  - ch44 [9-11]: "Make them face God-reality" — EN/KO 모두 "face the facts"/"현실 직시"로 축약 → "face up to the real God"/"진짜 하나님을 직시"
+  - ch53 [2-6]: 강조 반복 "on him, on him" 복원 (KO는 이미 "그에게, 바로 그에게" 보유)
+  - ch55 [1-5]: "nations who've never heard of you" 한정구 복원 (KO는 이미 보유)
+  - ch63 [3-6]: "treading the winepress" 핵심 이미지 누락 복원 (KO는 이미 보유)
+  - ch66 [14-16]: "ten feet tall" 복원 (KO "키가 3미터" 현지화는 유지)
+- 문장 단위 휴리스틱(union semantics, 68개 후보) 전수 육안 확인 — 추가 실제 누락 없음.
+- 게이트: STRUCT OK, build VERIFY_DROPPED=0 / teen_without_msg=0 / msg_orphans=0, docx pairing 4건 육안 확인, GDocs 66/66 VERIFIED OK.
+- 판단 보류(성욱용): ch9 "Prince of Wholeness" → "Prince of Peace" (전통적 칭호로 의역, 의미 동등으로 보고 유지).
