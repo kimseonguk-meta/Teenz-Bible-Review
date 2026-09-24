@@ -78,3 +78,12 @@
 ## 순서 관련 기록
 - 사용자 지정 순서(Psalms → Proverbs → Ecclesiastes → SongOfSongs)와 달리 SongOfSongs를 먼저 처리함 (세션 시작 전 착수된 작업 이어감).
   Psalms → Proverbs → Ecclesiastes 순으로 계속 진행.
+
+## 2차 심층 재검토 (2026-09-25)
+- 범위: MSG 원문 ↔ EN 65문단 ↔ KO 65문단 전수 문장 단위 대조 (1~8장). 5장·6장·8장 화자 분리로 배지 중복 구조(5: ['1','1','2','2',...], 6장 § 소제목 행 5개)는 EN/KO 대칭·1차 의도적 구조로 유지 (배지는 Docs 렌더링에서 제외, pairing/validation은 공유 배지로 동작).
+- EN 복원 1건 (비대칭 누락 — KO는 이미 보유): 7:1-8 MSG "Shapely and graceful your sandaled feet"가 EN에서 빠져 있었음 ("Wow, you're so beautiful from head to toe..." 로 시작, sandaled feet 미언급) → "Wow, your sandaled feet are so shapely and graceful, and the way you move is so queenly." 복원. KO "와, 샌들 신은 네 발은 완전 예술이고..." 보유.
+- EN 전수 중복 스캔: ch2[7]/ch3[5] ("don't stir love"), ch2[17]/ch8[14] ("come like a gazelle") 2건은 MSG 반복 레프라임으로 정당, 조치 없음.
+- completeness 잔여 5건 전수 확인: ch1[7] "1"(MSG 'the one left out' 수관사가 아닌 한정 표현), ch2[8-10] "vaulting"(EN "jumping over mountains"), ch2[16] "delighting"(EN "enjoying the flowers"), ch5[4-7] "desiring"(EN "my heart started racing"), ch7[1-8] "quintessentially"(EN "the definition of feminine") — 모두 틴 문장으로 커버된 오탐.
+- 게이트: validate PASS 8/8, build 8 tables 65 rows / VERIFY_DROPPED=0 / msg_orphans=0 / teen_without_msg=0, verify_pairing PAIRING CONTENT OK.
+- GDocs: doc ID 1QcsY4tMhrBrv_wqu_D6ilM8lUde4yC_GQoYKRKLv5kE, API 8/8 tables, export-back VERIFIED OK.
+- 부수 인프라 수정: gdocs_build/reupload.py BOOK_TABLES에 'Exodus':40, 'SongOfSongs':8 누락 항목 추가 (64→66권 근본 수정, export-back 게이트 사용 가능).

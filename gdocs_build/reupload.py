@@ -28,6 +28,7 @@ BOOK_TABLES = {
     'Leviticus': 27, 'Numbers': 36, 'Deuteronomy': 34, 'Judges': 21,
     '1Samuel': 31, '2Samuel': 24, '1Kings': 22, '2Kings': 25,
     '1Chronicles': 29, '2Chronicles': 36, 'Ezra': 10, 'Nehemiah': 13,
+    'Exodus': 40, 'SongOfSongs': 8,
     'Joshua': 24,
     'Psalms': 150, 'Proverbs': 31, 'Ecclesiastes': 12, 'Isaiah': 66,
     'Jeremiah': 52, 'Lamentations': 5, 'Ezekiel': 48, 'Daniel': 12,
