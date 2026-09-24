@@ -130,5 +130,16 @@
   "status": "OK",
   "export_problems": [],
   "export_back": "VERIFIED OK"
+ },
+ {
+  "key": "2Kings",
+  "title": "열왕기하 (2Kings): MSG + Teen EN + KO",
+  "id": "19FfYJS9kXq3FHe5nsy_Nv9Dr08x9q_xFQ7A8cYOdbfk",
+  "webViewLink": "https://docs.google.com/document/d/19FfYJS9kXq3FHe5nsy_Nv9Dr08x9q_xFQ7A8cYOdbfk/edit?usp=drivesdk",
+  "tables": 25,
+  "expected": 25,
+  "status": "OK",
+  "export_problems": [],
+  "export_back": "VERIFIED OK"
  }
 ]
