@@ -53,3 +53,14 @@
 ## 미확인 경계
 
 - 실제 Docs 웹 화면 렌더링은 환경상 직접 확인 불가 (API 테이블 수 + export-back으로 검증)
+
+## 2nd re-audit (Sep 24)
+- Scope: completeness_check (24 candidates, each classified manually) + sentence-level MSG-vs-EN union pass + verse-granularity number cross-check.
+- Restored 4 MSG omissions (EN/KO):
+  1. ch1 idx12 (26-28): "Anakite" restored — "we even saw Anakite giants there!" (KO already had 아낙 자손).
+  2. ch2 idx8 (16-23): place name "Caphtor" restored — "the Caphtorites who came from Caphtor (that's Crete)" (KO: 갑돌(그레데)에서 온 갑돌 사람들).
+  3. ch24 idx4 (8-9): "Levitical" restored — "the Levitical priests lay down" (KO already had 레위 지파 제사장들).
+  4. ch29 idx6 (14-21): unsoftened — "ends up ruining life for everybody" (was "bring a total ruin on him"; KO already had 모두를 망하게).
+- Minor: ch3 idx2 typo fixed ("people. we utterly" → "people. We utterly").
+- Remaining 22 checker flags classified as meaning-equivalent false positives (Amorite/Amorites, Moabites, Lord/God, Rephaites, tribes of Reuben/Gad, "single"/"the one"/"another", obey/obediently, Unleavened/Unraised, "Completely destroy"/consign, "priests, the sons of Levi"/Levitical, kinsman/Israelite, "think twice"/"a second thought").
+- Gates: STRUCT OK (34ch EN/KO parity), build VERIFY_DROPPED=0 / teen_without_msg=0 / msg_orphans=0, docx pairing spot-check 4/4 rows OK, reupload VERIFIED OK (API 34/34; first export raced the upload — re-ran, clean).
