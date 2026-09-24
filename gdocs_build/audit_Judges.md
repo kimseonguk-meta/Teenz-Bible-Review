@@ -316,6 +316,53 @@ splits 14건은 MSG 원문에 이미 존재하는 동일 배지 유닛·경계 �
 3. **EN teen paraphrase 문체**: 스키마·사실 관계는 전수 감사했으나, MSG 문장을 거의 그대로 옮긴 구간이 남아 있어 teen-friendly 문체 기준의 2차 다듬기가 가능함.
 4. **실제 merge/split 후보**: 이번 감사에서 MSG 문단을 새로 합치거나 나눈 곳은 없음. 후보가 생기면 `fixes/merge_split_Judges.md`에 `pending`으로만 기록하고 성욱 컨펌 없이 적용하지 않음.
 
+## 2차 심층 재검토 (2026-09-25)
+
+- 적용 기준: 성욱 절대 기준 "축약하지 마라. MSG의 모든 문장·이름·부칭·숫자·인용구·
+  반복·비유 세부가 Teen EN에 살아 있어야 한다." + 27권 2차 스윕에서 확인된
+  "KO는 있는데 EN만 빠진 비대칭 누락" 및 "son/daughter of X" 호칭 누락 중점 점검.
+- 방법:
+  - `completeness_check.py` (EN): **PASS** — 21장, 352문단, 고유명사 토큰 793개,
+    숫자 토큰 152개 전부 일치.
+  - 21장 352문단 전체를 MSG↔Teen 문장 단위로 수동 전수 대조
+    (`/tmp/judges_review.txt` MSG/Teen 나란히 덤프, 전 장 처음부터 끝까지 읽음).
+  - "X son of Y" 호칭 기계 스캔: MSG 22건 → Teen 22건 전부 존재 (누락 0).
+  - 길이 비대칭 후보 6건(ch8 2-3, ch8 18, ch13 11, ch17 1-2, ch17 9, ch20 22-23)
+    전수 확인 — 전부 대화 분할(split) 문단이며 이웃 문단과 합쳐 MSG 내용 온전.
+    (split은 audit 본문의 splits 14건 선언으로 커버 — 스탠딩 승인 규칙 (a)(b)(c) 만족.)
+  - ch11 idx8 (긴 문단) 전체 문자열 대조 — 잘림 없음.
+- 결과: **복원 0건.** 사사기 Teen EN은 MSG와 사실상 문장 단위로 동일하며,
+  명백한 내용 누락이 없음. KO도 EN과 문단·배지·의미 1:1 유지.
+- 소제목 행(`§ Othniel` 등 16개)은 1차 감사 기존 구조 — 새로 추가하지 않음.
+
+### 유지 (내용 손실 없음 — 변경 안 함)
+
+- ch1 [16] MSG "Hobab the Kenite, Moses' relative" → Teen "Moses' father-in-law".
+  더 구체적인 전통적 관계 표현이나 MSG 직역("relative")과는 다름. 내용 손실은 없으나
+  MSG 원문과의 정합성 차원에서는 **성욱 판단용으로 남김** (이번 작업에서 임의 변경 안 함).
+- ch13 [16] Teen에만 있는 "Chill out." 첨가 (MSG: "Easy now. Don't panic. You won't die.").
+  과도한 슬랭 정리 원칙상 삭제 검토 가능 — **성욱 판단용으로 남김** (완전성 문제 아님).
+- ch9 [52-54] "armor bearer drove in his sword" → Teen "drew his sword and ran him through".
+  의미 동등 — 유지.
+
+### 1차 감사 미결 항목 (그대로 유지 — 이번 작업 범위 밖)
+
+- KO 숫자 단위 표현 일관성 (`companies`/`divisions` — 7/8/12/20장).
+- 소제목 문자열 공백 (`"§ Othniel"` vs `"§John the Baptizer"`).
+- EN teen-friendly 문체 2차 다듬기 여지 (사실 관계는 전수 감사됨).
+
+### 게이트 (2026-09-25)
+
+- `validate_translation.py`: **PASS — 21개 장 모두 통과**
+- `completeness_check.py` (EN): **PASS** (352문단, 793 name tokens, 152 number tokens)
+- `verify_pairing_content.py` (기존 DOCX): 352 data rows / 21 tables — PAIRING CONTENT OK
+- 번역 변경이 없으므로 DOCX 재빌드·Google Docs 재업로드 불필요.
+  (기존 문서 ID `1r_5xMr0fi01guprEOjjJ0ykIXyPeWR8jQPYkkVSTOIw` 유지.)
+
+### 커밋
+
+- `gdocs_build/audit_Judges.md` (번역 변경 없음 — 감사 기록만 별도 커밋)
+
 ## 확인 범위와 경계
 
 - 확인함: MSG 원문(`msg_Judges.txt`) 352 유닛 전수 대조, EN 368문단 전수 재작성/검증, KO 368문단 EN 1:1 대조, validator·completeness·parity·슬랭 게이트, DOCX 빌드 무누락(VERIFY_DROPPED=0), pairing 검증(352행), Google Doc API 테이블 21개 및 export-back 검증.
