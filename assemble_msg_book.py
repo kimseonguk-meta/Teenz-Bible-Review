@@ -26,11 +26,16 @@ def main():
         if not text:
             raise SystemExit(f'EMPTY chapter file: {fn}')
         first_line = text.split('\n', 1)[0].strip()
-        # first content line must be '<ch> <verse-range>' or a '###' header
-        # followed by the chapter marker; find the chapter marker line
-        m = re.search(rf'^{ch} (\d+(?:-\d+)?) ', text, re.M)
+        # chapter-opening marker forms observed in the wild:
+        #   '<ch> <verse-range> ...'  (e.g. '3 1-4 ...')
+        #   '<ch> <text>'             (e.g. '3 This is the family tree...', verse 1)
+        #   '### ch<ch>'              (explicit marker, Hosea-style)
+        # Any line starting with the chapter number (or the explicit marker)
+        # proves the file holds this chapter's opening.
+        m = (re.search(rf'^{ch} ', text, re.M) or
+             re.search(rf'^###\s+ch{ch}\s*$', text, re.M | re.I))
         if not m:
-            raise SystemExit(f'{fn}: no chapter-{ch} verse marker found (first line: {first_line[:60]!r})')
+            raise SystemExit(f'{fn}: no chapter-{ch} opening marker found (first line: {first_line[:60]!r})')
         out.append(text)
     result = '\n\n\n'.join(out) + '\n'
     opath = os.path.join(os.path.dirname(os.path.abspath(__file__)), f'msg_{key}.txt')
