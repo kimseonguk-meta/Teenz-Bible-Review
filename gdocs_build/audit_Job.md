@@ -86,3 +86,10 @@
 2. 외부 공개 MSG와 텍스트 대조한 것은 **Job 25 표본뿐**이다. 나머지는 repo의 `msg_Job.txt`를 최종 기준으로 감사했다.
 3. completeness 검사기의 27건 FAIL은 전수 수동 대조로 오탐임을 확인했다 (근거 문서 별도).
 4. 성욱이 선언하기 전 "완료"라고 단정하지 않는다.
+
+## 2nd re-audit (Sep 24)
+- completeness_check: 27 candidates → 26 false positives (poetic paraphrase: "Contemptuous"→"disrespectful", "graveyards/unformed/cumulus/tames"→plain equivalents, split intro lines across teen paragraphs, "votive"-style number extractor artifacts; "ignoramus/wickedly/compounded/indictments" all meaning-equivalent).
+- Sentence-count scan flagged 42 spots; all verified as teen-side splits with full coverage in sequence (ch1, ch4, ch6, ch8, ch15, ch16, ch18, ch19, ch21, ch24, ch29, ch37, ch38, ch40).
+- 1 MSG omission restored (EN+KO): ch42 idx0 (badge 1-6) — MSG "second-guessing my purposes" dropped from God's question → EN "second-guessing my plans", KO "내 뜻을 의심하는 게".
+- Ambiguous (left, no content loss): build pairing MSG_SUPERSET notes (ch15 idx2/3, ch18 idx0/1 — MSG print unit spans more verses than teen badge; content covered across teen splits).
+- Gates: STRUCT OK (42 ch, EN/KO parity); build VERIFY_DROPPED=0, teen_without_msg=0, msg_orphans=0; docx pairing spot-check OK; reupload API tables 42/42 VERIFIED OK.
