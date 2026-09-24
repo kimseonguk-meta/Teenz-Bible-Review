@@ -64,3 +64,12 @@ here's the tea, no cap, lowkey, worked my butt off, smoked, W's, hit up, squad, 
 - MSG 29장 전체 유닛(290유닛)과 Teen EN 367문단을 문장 단위로 대조. KO는 최종 EN 기준 전수 대조.
 - 이름 검사기 후보 중 일반명사성 항목(Canaanite, Judean, Holy of Holies, Pastures, Royal Annals, Benjaminite, Levitical 등)은 의미가 보존되어 있어 원형 복원하지 않음.
 - 구약은 production 앱에 반영하지 않음 (사용자 지시).
+
+## 2nd re-audit (Sep 24)
+- 기준: MSG 원문 문장 단위 대조 ("축약하지 마라" 엄격 적용). 족보 이름·호칭("son of X") 전수 확인. completeness_check 26건 → 2건 실제 누락 복원, 잔여 24건은 오탐(동의어·단복수·문단 분할)으로 판정.
+- 복원 2건 (EN; KO는 이미 보유):
+  - ch18 [12-13]: "He set up a puppet government in Edom" — EN "there"로 축약 → "a government in Edom" 복원 (KO는 이미 "에돔에도" 보유)
+  - ch29 [6-8]: "the treasury for the building of The Temple of God" — EN "the temple treasury"로 축약 → "the treasury of the Temple of God" 복원 (KO는 이미 "하나님의 성전 창고" 보유; 느헤미야 2차 기준과 일치)
+- 게이트: STRUCT OK, build VERIFY_DROPPED=0 / teen_without_msg=0 / msg_orphans=0, docx pairing 2건 육안 확인, GDocs 29/29 VERIFIED OK.
+- PAIRING_MISMATCHES=1 (ch21 idx15, MSG_SUPERSET): msg_1Chronicles.txt 원본이 29절을 [28,29]·[29,30] 두 유닛에 중복 귀속시킨 artifact. Teen 분할(idx15 badge 28 / idx16 badge 29-30)은 내용상 정확하고 양쪽 MSG 유닛 모두 대응됨. 내용 손실 없음 — 수정 없이 기록.
+- 판단 보류(성욱용): "Holy of Holies" → "Most Holy Place" (ch6/ch23, 표준 동의어로 보고 유지), "Royal Annals" → "official records" (ch9, 의미 동등으로 보고 유지).
