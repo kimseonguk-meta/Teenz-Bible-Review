@@ -48,6 +48,7 @@ BOOKS_F = [
     ('Lamentations', '예레미야애가', 'Lamentations', 5),
     ('Ezekiel', '에스겔', 'Ezekiel', 48),
     ('Daniel', '다니엘', 'Daniel', 12),
+    ('Job', '욥기', 'Job', 42),
 ]
 BOOK_MAP = {k: (ko, en, n) for k, ko, en, n in BOOKS_F}
 
