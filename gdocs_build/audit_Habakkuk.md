@@ -65,3 +65,9 @@
 - 앱 반영 없음 (구약 수정본은 앱에 반영하지 않는다).
 - 독(Google Docs) 화면 렌더는 export-back 검증으로만 확인. 실제 브라우저로
   문서를 열어서 보는 시각 검수는 이 환경에서 불가 → 성욱 확인 필요시 명시.
+
+## 2nd re-audit (Sep 24)
+
+- MSG 문장 단위 union 검사(8 flags) + 절-단위 숫자 검사 + 고유명사/이름 전수 대조 수행.
+- 모든 후보는 teen paraphrase로 의미가 보존된 오탐으로 판정 (예: "Brazen in sin"→"so bold in their sin", "Doomsday"→"the end of the world", "Skies are blazing"→"The sky is just blazing").
+- 복원 0건. 구조 검증 STRUCT OK (3장, EN/KO 문단·배지 일치, MSG 절 커버리지 전수).
