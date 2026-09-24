@@ -32,6 +32,9 @@ BOOK_TABLES = {
     'Psalms': 150, 'Proverbs': 31, 'Ecclesiastes': 12, 'Isaiah': 66,
     'Jeremiah': 52, 'Lamentations': 5, 'Ezekiel': 48, 'Daniel': 12,
     'Job': 42, 'Hosea': 14,
+    # OT 2nd sweep additions (2026-09-24)
+    'Genesis': 50, 'Micah': 7, 'Amos': 9, 'Joel': 3, 'Malachi': 4,
+    'Zechariah': 14,
 }
 
 def run(args):
