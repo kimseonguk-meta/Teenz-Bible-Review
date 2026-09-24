@@ -10,7 +10,8 @@
    "14"
   ],
   "changes": [
-   "MSG와 배지·절 커버리지 일치 확인. 기존 '10-12' 배지를 MSG 섹션에 맞춰 '10-11'로 수정. 내용 누락·창작 없음"
+   "MSG와 배지·절 커버리지 일치 확인. 기존 '10-12' 배지를 MSG 섹션에 맞춰 '10-11'로 수정. 내용 누락·창작 없음",
+   "op1: restored MSG name/number detail (completeness audit 2026-09-24)"
   ],
   "chapter": 17,
   "en_ops": [
@@ -18,7 +19,7 @@
     "keep": 0
    },
    {
-    "keep": 1
+    "new": "The time is coming when Jacob, who's been living large, is gonna look real rough, and his healthy bod will get super skinny. The whole country will be empty, like a field that's been completely picked over. It'll be like a few stalks of barley left standing in the Valley of Rephaim after the harvest, or like a couple of olives missed at the very top of the tree, or those four or five apples nobody could reach. That's a promise from the God of Israel."
    },
    {
     "keep": 2

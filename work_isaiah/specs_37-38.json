@@ -16,7 +16,12 @@
    "36-38"
   ],
   "changes": [
-   "MSG 라이브 직접 확인(L1243-1310)으로 13개 섹션 확정. 기존 18문단 중 MSG 문단 분할 4건 병합: '1'/'2'→'1-2', '8'/'9-13'→'9-13', '21'/'22'/'23-25'→'21-25', '33'/'33-35'→'33-35' (merges[]+confirmations_needed[] 기록). 배지 오류 수정: '5-6'→'5-7' (MSG 5-7 한 섹션), '7'→'8' (MSG v8). 내용 누락·창작 없음"
+   "MSG 라이브 직접 확인(L1243-1310)으로 13개 섹션 확정. 기존 18문단 중 MSG 문단 분할 4건 병합: '1'/'2'→'1-2', '8'/'9-13'→'9-13', '21'/'22'/'23-25'→'21-25', '33'/'33-35'→'33-35' (merges[]+confirmations_needed[] 기록). 배지 오류 수정: '5-6'→'5-7' (MSG 5-7 한 섹션), '7'→'8' (MSG v8). 내용 누락·창작 없음",
+   "op0: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op2: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op4: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op7: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op6: restored MSG detail (completeness audit 2026-09-24)"
   ],
   "chapter": 37,
   "confirmations_needed": [
@@ -27,38 +32,28 @@
   ],
   "en_ops": [
    {
-    "join": [
-     0,
-     1
-    ]
+    "new": "When King Hezekiah got the news, he totally freaked out. He ripped his clothes, put on some scratchy burlap sacks to show how sorry he was, and went straight to God's temple. He sent his top guys—Eliakim, the palace manager; Shebna, the secretary; and the head priests, all wearing the same uncomfortable burlap—to the prophet Isaiah son of Amoz."
    },
    {
     "keep": 2
    },
    {
-    "keep": 3
+    "new": "When King Hezekiah's servants got to Isaiah, he said, \"Go back and tell your boss this: 'God says, Don’t even sweat what you heard. All that smack talk from the Assyrian king’s little servants? I got this. I'm gonna plant a rumor in his ear that'll make him rush back home. And right there, in his own country, he’s gonna die a violent death.'\""
    },
    {
     "keep": 4
    },
    {
-    "join": [
-     5,
-     6
-    ]
+    "new": "Right then, the Assyrian king gets an urgent message about King Tirhakah of Ethiopia: \"He's marching out to fight you.\" Hearing that, he fires off another message to Hezekiah: \"Don't let your God, who you're so blindly trusting, fool you by promising Jerusalem won't fall to me. Get real! Look at what the kings of Assyria have done all over the world—we've wrecked country after country. You think you're special? Did any of the gods of those nations we destroyed—Gozan, Haran, Rezeph, the people of Eden who lived in Telassar—lift a finger to save them? Look around. See any trace of the kings of Hamath, Arpad, Sepharvaim, Hena, or Ivvah? Didn't think so.\""
    },
    {
     "keep": 7
    },
    {
-    "keep": 8
+    "new": "Hezekiah prayed, \"God of the Angel Armies, enthroned over the cherubim-angels, you are the one and only God over all the kingdoms of the earth. You made heaven and earth. God, please listen. Look at this. See all this hate that Sennacherib is spewing to mock you, the living God. And yeah, it's true, God, the Assyrian kings have totally destroyed all those nations and their lands. They threw their gods in the fire—which, let's be real, wasn't a big deal since they were fake gods anyway, just wood and stone, chiseled by human hands. So, of course, they were destroyed. But now, our God, please step in. Save us from him. Let every kingdom on earth know that you, and only you, are the real God.\""
    },
    {
-    "join": [
-     9,
-     10,
-     11
-    ]
+    "new": "Then Isaiah son of Amoz sent this word to Hezekiah: \"This is what God, the God of Israel, says: Because you came to me about King Sennacherib of Assyria, here's my answer. \"'She's not impressed with you, Sennacherib. The virgin daughter Zion thinks you're a joke. Daughter Jerusalem literally spits at you as you run away. \"'Who do you think you've been dissing and disrespecting all this time? Who have you been sneering at with such arrogance? The Holy One of Israel! You sent your servants to mock the Master. You bragged, ‘With my army of chariots, I’ve conquered the highest mountains, explored the deepest parts of Lebanon, chopped down its best trees. I’ve reached its highest peak, explored its thickest forest. I dug wells and drank foreign water. I dried up all the famous rivers of Egypt with just the sole of my foot.’"
    },
    {
     "keep": 12
@@ -80,14 +75,14 @@
    }
   ],
   "ko_changes": [
-   "EN과 동일한 13문단으로 병합. 인용부호 구조는 join 후 자연스럽게 연결"
+   "EN과 동일한 13문단으로 병합. 인용부호 구조는 join 후 자연스럽게 연결",
+   "op0: EN 복원에 맞춘 KO 수정 (completeness audit 2026-09-24)",
+   "op7: EN 복원에 맞춘 KO 수정 (completeness audit 2026-09-24)",
+   "op6: EN 복원에 맞춘 KO 수정 (completeness audit 2026-09-24)"
   ],
   "ko_ops": [
    {
-    "join": [
-     0,
-     1
-    ]
+    "new": "히스기야 왕이 그 보고를 듣고 완전 멘붕이 온 거임. 자기 옷을 찢고, 참회한다는 뜻으로 거친 삼베옷을 입고는 하나님의 성전으로 들어갔대. 그리고 왕궁 관리자인 엘리야김, 서기관 셉나, 그리고 제사장 어른들을 아모스의 아들인 이사야 선지자한테 보냈어. 그 사람들도 다 삼베옷을 입고 있었지."
    },
    {
     "keep": 2
@@ -108,14 +103,10 @@
     "keep": 7
    },
    {
-    "keep": 8
+    "new": "히스기야가 이렇게 기도했어. \"그룹 천사들 위에 보좌에 앉으신 만군의 하나님, 주님만이 이 땅의 모든 나라를 다스리시는 유일한 하나님이십니다. 주님이 하늘과 땅을 만드셨습니다. 하나님, 들어주세요. 하나님, 봐주세요. 산헤립이 살아계신 하나님을 조롱하려고 보낸 이 말들을 다 기억해주세요. 네, 맞아요, 하나님. 앗시리아 왕들이 모든 나라와 그 땅을 황폐하게 만든 건 사실입니다. 그들의 신들을 불 속에 던져버렸죠. 근데 그건 뭐 대단한 것도 아니에요. 어차피 신도 아니고, 그냥 사람의 손으로 깎아 만든 나무랑 돌 우상이었으니까요. 가짜 신들의 끝로! 하지만 이제 주님, 우리 하나님, 우리를 저놈의 손에서 구원해주세요. 그래서 세상 모든 나라가 주님만이 유일한 하나님이심을 알게 해주세요.\""
    },
    {
-    "join": [
-     9,
-     10,
-     11
-    ]
+    "new": "그랬더니 아모스의 아들 이사야가 히스기야한테 이런 메시지를 보냈어. \"이스라엘의 하나님이 이렇게 말씀하신다: 네가 앗시리아 왕 산헤립 때문에 나에게 와서 기도했으니, 내가 이렇게 대답하겠다. \"'처녀 딸 시온이 너를 비웃고, 딸 예루살렘이 네 등 뒤에서 비웃으며 고개를 젓는다, 산헤립아.' \"'네가 도대체 누구를 조롱하고 모욕했다고 생각하냐? 누구를 향해 그렇게 비웃고 거만하게 굴했냐고? 바로 이스라엘의 거룩한 분이다! 넌 네 부하들을 시켜서 주인을 모욕했지. 넌 자랑했지. '내 수많은 병거로 높은 산꼭대기까지 올라갔고, 레바논 깊은 곳까지 쳐들어가서 제일 큰 백향목과 좋은 향나무를 베어버렸지. 제일 높은 봉우리를 정복하고, 가장 깊은 숲까지 탐험했어. 우물을 파서 물을 마셨고, 내 발바닥으로 이집트의 유명한 강들을 다 말려버렸지.' 라고."
    },
    {
     "keep": 12
@@ -209,7 +200,7 @@
     ]
    },
    {
-    "new": "“Oh Master, it’s in these tough situations that people truly live, and it’s in these same conditions that my spirit is still alive—I’m fully recovered, with a fresh start on life! It actually seems like it was good for me to go through all that trouble. Through it all, you held on to my life. You never let me slip and fall into nothingness. But my sins? You just let them go, threw them over your shoulder like they were nothing—good riddance! The dead can't thank you, and choirs in the morgue don’t sing praises. People buried six feet under can’t tell stories about your faithfulness. It’s the living—the men and women who are alive right now—who thank you, just like I’m doing. And parents tell their kids all about how faithful you are."
+    "new": "“Oh Master, it’s in these tough situations that people truly live, and it’s in these same conditions that my spirit is still alive—I’m fully recovered, with a fresh start on life! It actually seems like it was good for me to go through all that trouble. Through it all, you held on to my life. You never let me slip and fall into nothingness. But my sins? You just let them go, threw them over your shoulder like they were nothing—good riddance! The dead can't thank you, and choirs in the morgue don’t sing praises. People buried six feet under can’t tell stories about your faithfulness. It’s the living—the men and women who are alive right now—who thank you, just like I’m doing. And parents tell their kids all about how faithful you are.”"
    },
    {
     "keep": 7

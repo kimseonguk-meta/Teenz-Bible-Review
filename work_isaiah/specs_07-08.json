@@ -13,7 +13,12 @@
    "23-25"
   ],
   "changes": [
-   "MSG 라이브 직접 확인(L225-264)으로 10개 섹션 확정. MSG '7-9'는 인트로('But God, the Master, says,')+인용 단일 섹션이므로 기존 '7-9'(인트로만)/'10-11'(인용) 병합. 기존 '12'→'10-11' (Ask for the moon은 MSG v10-11). 기존 '13-17'→'12' (Ahaz의 'I'd never do that'는 MSG v12). 기존 '18-19'→'13-17' (Immanuel 사인은 MSG v13-17). 기존 '20'→'18-19' (flies/bees는 MSG v18-19). 기존 '21-22'→'20' (razor는 MSG v20). 기존 '23-25'→'21-22' (cow/couple of sheep는 MSG v21-22). 기존 '25'→'23-25' (weed patch는 MSG v23-25). merges[]+confirmations_needed[] 기록. KO 깨진 문자 없음"
+   "MSG 라이브 직접 확인(L225-264)으로 10개 섹션 확정. MSG '7-9'는 인트로('But God, the Master, says,')+인용 단일 섹션이므로 기존 '7-9'(인트로만)/'10-11'(인용) 병합. 기존 '12'→'10-11' (Ask for the moon은 MSG v10-11). 기존 '13-17'→'12' (Ahaz의 'I'd never do that'는 MSG v12). 기존 '18-19'→'13-17' (Immanuel 사인은 MSG v13-17). 기존 '20'→'18-19' (flies/bees는 MSG v18-19). 기존 '21-22'→'20' (razor는 MSG v20). 기존 '23-25'→'21-22' (cow/couple of sheep는 MSG v21-22). 기존 '25'→'23-25' (weed patch는 MSG v23-25). merges[]+confirmations_needed[] 기록. KO 깨진 문자 없음",
+   "op0: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op1: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op2: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op5: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op7: restored MSG name/number detail (completeness audit 2026-09-24)"
   ],
   "chapter": 7,
   "confirmations_needed": [
@@ -21,16 +26,13 @@
   ],
   "en_ops": [
    {
-    "keep": 0
+    "new": "So, get this: while Ahaz son of Jotham, son of Uzziah, was king of Judah, two other kings, Rezin of Aram and Pekah son of Remaliah of Israel, tried to attack Jerusalem, but their plan totally failed. When the Davidic government heard that Aram had teamed up with Ephraim, they were seriously shaken. Like, shaking like leaves in the wind."
    },
    {
-    "keep": 1
+    "new": "Then God told the prophet Isaiah, “Go meet Ahaz. Take your son Shear-jashub with you. You'll find him at the end of the aqueduct by the public laundry road. Tell him, ‘Listen, you need to chill. Don’t be scared. And don’t panic over these two burnt-out kings, Rezin of Aram and the son of Remaliah. They talk a big game, but they’ve got nothing. Aram and Ephraim have plotted to mess you up, saying, ‘Let’s go destroy Judah, take it for ourselves, and set the son of Tabeel up as king.’"
    },
    {
-    "join": [
-     2,
-     3
-    ]
+    "new": "But God, the ultimate boss, says, “It’s not gonna happen. Nothing will come of it. Because Aram’s capital is just Damascus, and its king is just a man, Rezin. As for Ephraim, in 65 years it’ll be a total ruin, nothing left. Its capital is Samaria, and its king is just the son of Remaliah. If you don’t have faith, you literally have nothing to stand on.”"
    },
    {
     "badge": "10-11",
@@ -41,16 +43,16 @@
     "keep": 5
    },
    {
-    "badge": "13-17",
-    "keep": 6
+    "new": "So Isaiah told him, “Okay, listen up, house of David. It’s bad enough you’re annoying everyone with your fake piety, but now you’re making God tired. So the Lord himself is gonna give you a sign anyway. Watch this: a young woman who’s a virgin will get pregnant. She’ll have a son and name him Immanuel, which means ‘God-With-Us.’ By the time he’s twelve years old, old enough to know right from wrong, the threat of war will be long gone. So relax, those two kings you’re so worried about will be history. But here’s the deal: God is about to bring a disaster on you, your people, and your government that’s worse than anything since the kingdom split up. The king of Assyria is coming!”",
+    "badge": "13-17"
    },
    {
     "badge": "18-19",
     "keep": 7
    },
    {
-    "badge": "20",
-    "keep": 8
+    "new": "And that’s when the Lord will use a razor rented from across the Euphrates—the king of Assyria himself—and shave your heads and your bodies, leaving you totally shamed and exposed. He’ll even shave off your beards.",
+    "badge": "20"
    },
    {
     "badge": "21-22",
@@ -62,11 +64,13 @@
    }
   ],
   "ko_changes": [
-   "EN과 동일한 10문단·배지. KO 깨진 문자 없음"
+   "EN과 동일한 10문단·배지. KO 깨진 문자 없음",
+   "op0: EN 복원에 맞춘 KO 수정 (completeness audit 2026-09-24)",
+   "op5: EN 복원에 맞춘 KO 수정 (completeness audit 2026-09-24)"
   ],
   "ko_ops": [
    {
-    "keep": 0
+    "new": "요담의 아들이자 웃시야의 손자인 아하스가 유다 왕이었을 때, 아람 왕 르신이랑 르말리야의 아들인 이스라엘 왕 베가가 예루살렘을 공격했는데, 완전 실패로 끝났대. 다윗 왕가가 아람이랑 에브라임(이스라엘)이 한편 먹었다는 소식을 듣고는 완전 쫄아서 벌벌 떨었대. 진짜 바람에 흔들리는 나뭇잎처럼 말이야. 진짜."
    },
    {
     "keep": 1
@@ -86,8 +90,8 @@
     "keep": 5
    },
    {
-    "badge": "13-17",
-    "keep": 6
+    "new": "그래서 이사야가 말했지. \"그럼 잘 들으세요, 다윗의 집안이여! 당신들이 경건한 척 위선 떠는 걸로 사람들 피곤하게 하는 것도 모자라서, 이제 하나님까지 피곤하게 만드네요. 그래서 주인이 그냥 사인을 주실 겁니다. 잘 보세요. 지금 처녀인 한 소녀가 임신해서 아들을 낳고, 그 이름을 임마누엘(하나님이-우리와-함께-계시다)이라고 지을 겁니다. 그 아이가 열두 살이 되어 도덕적인 결정을 할 수 있는 나이가 되면, 전쟁의 위협은 끝날 겁니다. 쫄지 마세요, 당신들이 걱정하는 그 두 왕은 사라지고 없을 테니까요. 하지만 경고도 있습니다. 하나님이 당신과 당신의 백성, 그리고 당신의 정부에 왕국이 분열된 이후 최악의 심판을 내리실 겁니다. 바로 아시리아 왕이 쳐들어올 거라는 거죠!\"",
+    "badge": "13-17"
    },
    {
     "badge": "18-19",

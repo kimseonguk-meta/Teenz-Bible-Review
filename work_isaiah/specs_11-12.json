@@ -8,7 +8,8 @@
    "12-16"
   ],
   "changes": [
-   "MSG와 배지·절 커버리지 일치 확인. 내용 누락·창작·KJV 잔재 없음"
+   "MSG와 배지·절 커버리지 일치 확인. 내용 누락·창작·KJV 잔재 없음",
+   "op3: restored MSG detail (completeness audit 2026-09-24)"
   ],
   "chapter": 11,
   "en_ops": [
@@ -22,7 +23,7 @@
     "keep": 2
    },
    {
-    "keep": 3
+    "new": "And on that day, the Lord will, for the second time, reach out and bring back the rest of his scattered people. He'll gather them from all over the place—from Assyria, Egypt, Pathros, Ethiopia, Elam, Sinar, Hamath, and even from faraway islands."
    },
    {
     "keep": 4

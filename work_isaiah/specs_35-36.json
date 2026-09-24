@@ -58,12 +58,15 @@
    "22"
   ],
   "changes": [
-   "MSG 라이브 직접 확인(L1203-1239)으로 10개 섹션 확정. 기존 '12-13'/'14-15'/'16-19'를 '12'/'13-15'/'16-20'으로 수정 (v13은 '히브리어로 크게 외쳤다' 서술이므로 13-15와 같은 문단, v20은 '예루살렘을 내 손에서 구해낼 수 있냐?'로 16-20 문단에 이미 포함). 내용 누락·창작 없음"
+   "MSG 라이브 직접 확인(L1203-1239)으로 10개 섹션 확정. 기존 '12-13'/'14-15'/'16-19'를 '12'/'13-15'/'16-20'으로 수정 (v13은 '히브리어로 크게 외쳤다' 서술이므로 13-15와 같은 문단, v20은 '예루살렘을 내 손에서 구해낼 수 있냐?'로 16-20 문단에 이미 포함). 내용 누락·창작 없음",
+   "op0: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op4: restored MSG name/number detail (completeness audit 2026-09-24)",
+   "op9: restored MSG name/number detail (completeness audit 2026-09-24)"
   ],
   "chapter": 36,
   "en_ops": [
    {
-    "keep": 0
+    "new": "So, in King Hezekiah's fourteenth year, King Sennacherib of Assyria rolled up on all of Judah's fortified cities and just took them. Then the Assyrian king sent his top general, the 'Rabshekah,' with a massive army from Lachish to Jerusalem to confront King Hezekiah. The general posted up at the aqueduct by the upper pool, right on the road to the public laundry. Three of Hezekiah's guys went out to meet him: Eliakim son of Hilkiah, in charge of the palace; Shebna, the secretary; and Joah son of Asaph, the official historian."
    },
    {
     "keep": 1
@@ -75,7 +78,7 @@
     "keep": 3
    },
    {
-    "keep": 4
+    "new": "Eliakim, Shebna, and Joah answered the Rabshekah, 'Hey, can you please talk to us in Aramaic? We get that. Don't speak Hebrew where all these people can hear you.'"
    },
    {
     "keep": 5
@@ -90,7 +93,7 @@
     "keep": 8
    },
    {
-    "keep": 9
+    "new": "Then Eliakim son of Hilkiah, the palace manager, Shebna, the secretary, and Joah son of Asaph, the court historian, tore their clothes because they were so defeated and upset. They went back and told Hezekiah everything the Rabshekah had said."
    }
   ],
   "ko_changes": [

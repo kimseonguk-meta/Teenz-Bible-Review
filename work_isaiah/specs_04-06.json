@@ -48,9 +48,12 @@
   "title": "God's Vineyard Totally Flops",
   "ko_title": "포도밭 노래",
   "changes": [
-   "원본 11문단이 라이브 MSG 섹션과 1:1 일치함을 확인 — old spec의 '25-27'/'28-30' 분할 및 과도 병합 폐기 (MSG '25-30'은 단일 문단)"
+   "원본 11문단이 라이브 MSG 섹션과 1:1 일치함을 확인 — old spec의 '25-27'/'28-30' 분할 및 과도 병합 폐기 (MSG '25-30'은 단일 문단)",
+   "v4: restored MSG name/number detail (completeness audit)"
   ],
-  "ko_changes": [],
+  "ko_changes": [
+   "v4: EN 복원에 맞춘 KO 수정 (completeness audit)"
+  ],
   "badges": [
    "1-2",
    "3-4",
@@ -91,7 +94,7 @@
     "keep": 3
    },
    {
-    "keep": 4
+    "new": "Man, you guys are in deep trouble—you who buy up all the houses and snatch up all the land for yourselves. You kick out the original owners, put up 'No Trespassing' signs, and take over everything, leaving people with no place to live. I heard the God of Angel Armies say this: \"All those huge houses? They're gonna be empty. Those fancy mansions will be ghost towns. A ten-acre vineyard will barely squeeze out a pint of wine, and a fifty-pound sack of seed will only produce a quart of grain.\""
    },
    {
     "keep": 5
@@ -126,7 +129,7 @@
     "keep": 3
    },
    {
-    "keep": 4
+    "new": "집이란 집은 다 사들이고 땅이란 땅은 다 차지하는 너네는 이제 끝장이야. 원래 살던 사람들 다 쫓아내고 '출입금지' 팻말이나 세우고. 온 나라를 지들끼리 다 먹어서, 다른 사람들은 집도 없고 땅도 없게 만들고. 만군의 주 하나님이 이렇게 말하는 걸 내가 들었음. \"그 으리으리한 집들 다 텅 비게 될 거다. 그 호화로운 저택들도 버려질 거고. 포도밭 10에이커에서 와인 한 파인트 겨우 나오고, 씨앗 50파운드 한 자루 뿌려도 곡식 한 쿼트 나올까 말까 할 거다.\""
    },
    {
     "keep": 5

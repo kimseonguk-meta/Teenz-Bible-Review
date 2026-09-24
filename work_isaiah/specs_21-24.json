@@ -186,8 +186,12 @@
   "chapter": 23,
   "title": "The Richest City in the World Goes BROKE",
   "ko_title": "두로 항구의 멸망",
-  "changes": [],
-  "ko_changes": [],
+  "changes": [
+   "op0: restored MSG name/number detail (completeness audit 2026-09-24)"
+  ],
+  "ko_changes": [
+   "op0: EN 복원에 맞춘 KO 수정 (completeness audit 2026-09-24)"
+  ],
   "badges": [
    "1-4",
    "5",
@@ -208,7 +212,7 @@
   ],
   "en_ops": [
    {
-    "keep": 0
+    "new": "Wail, ships of Tarshish, you better cry it out, 'cause your home ports are completely wrecked. When the ships sailed back from Cyprus, they saw the total chaos. And you merchants from Sidon, living by the coast? Just be quiet. Your crews were out there on the ocean, hustling, making bank on wheat from Shihor, like some global mega-corporation. But now, Sidon, you should be seriously embarrassed. The ocean itself is speaking up, like, 'I've never been a mom, never had kids, never watched them grow up. It was all just business, all about the money, the profits and losses.'"
    },
    {
     "keep": 1
@@ -234,7 +238,7 @@
   ],
   "ko_ops": [
    {
-    "keep": 0
+    "new": "야, 다시스 배들아, 이제 통곡해라. 너네 항구가 다 박살났대. 키프로스에서 돌아온 배들이 그 꼴을 보고 완전 충격받은 거임. 시돈 상인들아, 너네도 조용히 해. 너네 부하들이 바다를 누비면서 시홀에서 난 밀을 팔아다가 돈 벌었잖아. 완전 다국적 기업이었지. 근데 시돈아, 이제 창피한 줄 알아라. 바다가 직접 나서서 말하는데, '나는 애 낳고 키우는 그런 거 한 적 없어. 그냥 숫자놀음, 돈놀이만 한 거지.'"
    },
    {
     "keep": 1

@@ -7,7 +7,8 @@
    "11-17"
   ],
   "changes": [
-   "MSG 라이브 직접 확인(L1911-1934)으로 4개 섹션 확정. MSG '7-8'은 단일 섹션('Your Redeemer God says:' 인트로+인용)이므로 기존 '7'/'7-8' 분리를 병합 (merges[]+confirmations_needed[] 기록). KO도 동일 병합"
+   "MSG 라이브 직접 확인(L1911-1934)으로 4개 섹션 확정. MSG '7-8'은 단일 섹션('Your Redeemer God says:' 인트로+인용)이므로 기존 '7'/'7-8' 분리를 병합 (merges[]+confirmations_needed[] 기록). KO도 동일 병합",
+   "op0: restored MSG detail (completeness audit 2026-09-24)"
   ],
   "chapter": 54,
   "confirmations_needed": [
@@ -15,7 +16,7 @@
   ],
   "en_ops": [
    {
-    "keep": 0
+    "new": "Sing out, barren woman, you who's never had a baby! Fill the air with song, you who's never gone through childbirth! God's saying you're going to end up with way more kids than all those moms out there. So get ready! Clear lots of ground for your tents! Make your tents huge, spread them out wide! Think big! Use plenty of rope, drive those tent pegs deep. You're gonna need lots of elbow room because your family is about to grow huge. You're going to take over whole nations and resettle abandoned cities. Don't be afraid, you're not going to be embarrassed. Don't hold back, you're not going to come up short. You'll forget all about the humiliations from when you were young, and the pain of being a widow will fade from memory. Because your Maker is your bridegroom—his name is God-of-the-Angel-Armies! Your Redeemer is the Holy One of Israel, known as God of the whole earth. You were like an abandoned wife, devastated with grief, but God welcomed you back, like a woman married young and then left,\" says your God."
    },
    {
     "join": [
@@ -70,7 +71,8 @@
    "12-13"
   ],
   "changes": [
-   "MSG 라이브 직접 확인(L1938-1956)으로 기존 4개 배지가 MSG와 1:1 일치 확인. buy without money, cotton candy, David witness, 'words... not come back empty-handed', sequoias까지 모두 완전. KO도 배지 일치·깨진 문자 없음. 변경 없음"
+   "MSG 라이브 직접 확인(L1938-1956)으로 기존 4개 배지가 MSG와 1:1 일치 확인. buy without money, cotton candy, David witness, 'words... not come back empty-handed', sequoias까지 모두 완전. KO도 배지 일치·깨진 문자 없음. 변경 없음",
+   "op3: restored MSG detail (completeness audit 2026-09-24)"
   ],
   "chapter": 55,
   "en_ops": [
@@ -84,11 +86,12 @@
     "keep": 2
    },
    {
-    "keep": 3
+    "new": "\"So you're gonna go out full of joy, and you'll be led to a life that's totally complete. The mountains and hills will be cheering you on, like they're singing. All the trees will be clapping for you. Instead of thistles, you'll have giant sequoias. Instead of thornbushes, you'll have stately pines. These will be like a huge sign for me, for God, a living, breathing reminder of me that will last forever.\""
    }
   ],
   "ko_changes": [
-   "변경 없음"
+   "변경 없음",
+   "op3: EN 복원에 맞춘 KO 수정 (completeness audit 2026-09-24)"
   ],
   "ko_ops": [
    {
@@ -101,7 +104,7 @@
     "keep": 2
    },
    {
-    "keep": 3
+    "new": "\"그래서 너희는 기쁨으로 나아가고, 완전한 삶으로 인도될 거야. 산과 언덕이 노래 부르면서 너희를 이끌고, 숲의 모든 나무가 손뼉 치면서 환호할 거야. 가시엉겅퀴 대신 거대한 세쿼이아 나무가 자라고, 찔레나무 대신 위풍당당한 소나무가 자랄 거야. 이게 바로 나, 하나님을 위한 기념비가 될 거고, 살아있고 영원한 하나님의 증거가 될 거야.\""
    }
   ],
   "ko_title": "목마른 자들아",
