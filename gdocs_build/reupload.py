@@ -115,6 +115,12 @@ def main():
     keys = sys.argv[1:]
     assert keys, 'usage: reupload.py KEY...'
     results = json.load(open(os.path.join(GDIR, 'upload_results.json'), encoding='utf-8'))
+    # OT worker-F wave books live in a separate registry; fall back to it.
+    wf_path = os.path.join(GDIR, 'upload_results_workerF.json')
+    if os.path.exists(wf_path):
+        wf = json.load(open(wf_path, encoding='utf-8'))
+        seen = {r.get('key') for r in results}
+        results += [r for r in wf if r.get('key') not in seen]
     id_by_key = {r['key']: r['id'] for r in results if r.get('id')}
     summary = []
     for key in keys:
