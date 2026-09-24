@@ -424,8 +424,23 @@
     "chapter": 10,
     "title": "God's Glory is Leaving the Temple?!",
     "merges": [],
-    "splits": [],
-    "changes": [],
+    "splits": [
+      {
+        "msg_range": "2-5",
+        "paras": [
+          1,
+          2
+        ],
+        "note": "One MSG unit split across Teen paragraphs (1st-audit split; badges '2' and '3-5' partition the MSG range)."
+      }
+    ],
+    "changes": [
+      {
+        "para": null,
+        "type": "split-declare",
+        "desc": "Declared 1st-audit split of MSG unit 2-5 into paras [1,2]; badges partition the range."
+      }
+    ],
     "confirmations_needed": [],
     "paragraphs": [
       "So I looked up again, and whoa! Right above the heads of those cherubim-angel creatures, there was this thing that looked just like a throne, all sparkly and blue like a sapphire. It was wild.",
@@ -674,12 +689,21 @@
     "title": "Jerusalem's Glow-Up & Ghosting God: A Wild Story",
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "type": "content-fix",
+        "para": 2,
+        "badge": "6-7",
+        "before": "like a flower in the field",
+        "after": "like a plant in the field",
+        "reason": "MSG says 'Grow up like a plant in the field!' — 2nd-audit fidelity fix; KO already says '들판의 식물'."
+      }
+    ],
     "confirmations_needed": [],
     "paragraphs": [
       "God's message hit me up. He said, \"Yo, son of man, you need to call out Jerusalem for all the wild stuff she's been doing. Tell her this is what the LORD God has to say: 'Jerusalem, your roots are in Canaan. Your dad was an Amorite and your mom was a Hittite.'",
       "'Back on the day you were born, nobody even bothered to cut your umbilical cord. You weren't washed, nobody rubbed you with salt—which was a thing back then—or even wrapped you in a blanket. Literally no one cared about you. Not a single person did anything to show you some love. You were just tossed out in a field, all dirty and unwanted—a literal newborn nobody wanted.",
-      "'Then I came walking by. I saw you there, a total mess, all bloody and helpless. And I said to you, lying there in your own filth, \"Live! And grow up, like a flower in the field.\" And you did. You grew up, got tall, and became a woman, with a full chest and long hair. But you were still totally naked and vulnerable, just out there and exposed.",
+      "'Then I came walking by. I saw you there, a total mess, all bloody and helpless. And I said to you, lying there in your own filth, \"Live! And grow up, like a plant in the field.\" And you did. You grew up, got tall, and became a woman, with a full chest and long hair. But you were still totally naked and vulnerable, just out there and exposed.",
       "'So I came by again and saw you were ready for love. I took you under my wing, gave you clothes, and kept you safe. I promised to love you and we got married—a covenant. I, the LORD God, gave you my word. You became mine. I gave you a good bath, washed off all that old blood, and put some nice-smelling oils on you. I hooked you up with a colorful dress and some leather sandals. I gave you linen shirts and a whole wardrobe of expensive clothes. I decked you out in jewelry: bracelets, a necklace, emerald rings, sapphire earrings, and a diamond crown. You had all the best and most beautiful things: amazing clothes and gourmet food, with honey and oil. You were drop-dead gorgeous. A queen! You got famous worldwide, a legendary beauty, all because of the beauty I gave you. That's a decree from the LORD God.",
       "'But all that beauty went straight to your head. You used your fame to become an immoral woman, just grabbing any guy who walked by and sleeping with him. You took the nice clothes I gave you and made little pagan shrine-tents out of them, turning them into brothels. That kind of thing should never, ever happen.",
       "'And then you took the beautiful jewelry I gave you, my gold and my silver, and you made these gross male idols for your shrines. You decorated your beds with fancy silks and used my special oils and incense to make them smell good. Then you took the amazing food I gave you—the fresh bread, fruit, and all the good spices—and you served it up like a fancy meal in your pagan shrines. That's what you did, says the LORD God.",
@@ -766,12 +790,21 @@
         "note": "One MSG unit split across Teen paragraphs; badges repeat the full MSG range."
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "type": "content-fix",
+        "para": 2,
+        "badge": "7-8",
+        "before": "it was supposed to grow branches, produce fruit, and become this noble, amazing vine",
+        "after": "it grew branches, produced fruit, and became a noble, amazing vine",
+        "reason": "MSG states as fact 'it put out branches and bore fruit, and became a noble vine' — 2nd-audit fidelity fix."
+      }
+    ],
     "confirmations_needed": [],
     "paragraphs": [
       "God's message hit me up. He said, \"Son of man, drop a riddle for the house of Israel. Tell them a story. Say, 'The Lord, the Master, says:",
       "'A huge eagle, like, massive wingspan, crazy long feathers, super colorful and bright, flew over to Lebanon. It snapped the top right off a cedar tree, broke off the top branch, and carried it off to this land full of business people, dropping it in a city of shopkeepers. Then it took a cutting from the land and planted it in some really good, well-watered soil, like you'd plant a willow by a river. It sprouted and grew into this awesome vine, but it stayed low to the ground. Its branches reached up toward the eagle, and its roots got super established—a legit vine with shoots and branches popping out.",
-      "'Then another huge eagle showed up, also with a massive wingspan and thick feathers. And this vine, from where it was planted, started sending its roots out toward the new eagle. Its branches stretched out, trying to get water from him, even from far away. It was planted in good, rich soil, and it was supposed to grow branches, produce fruit, and become this noble, amazing vine.",
+      "'Then another huge eagle showed up, also with a massive wingspan and thick feathers. And this vine, from where it was planted, started sending its roots out toward the new eagle. Its branches stretched out, trying to get water from him, even from far away. It was planted in good, rich soil, and it grew branches, produced fruit, and became a noble, amazing vine.",
       "'The Lord, the Master, asks, Is this thing really going to thrive? Won't the first eagle just rip it up by the roots, leave its fruit to rot, and all its branches to shrivel up into a dead, withered vine? It wouldn't even take much effort or a big crew to pull it up. And even if it gets moved, will it do well? When that hot east wind hits it, won't it just shrivel up? Won't it just dry up and blow away from the very spot where it was planted?'",
       "God's message came to me again: \"Go tell these rebels, 'Do you even get it? Do you have any clue what this means?'",
       "\"Tell them, 'The king of Babylon came to Jerusalem, took its king and leaders, and brought them back to Babylon. He took a guy from the royal family, made a deal with him, and made him swear loyalty. The king of Babylon took all the top dogs into exile to make sure this kingdom stayed weak—so it wouldn't get any big ideas—and so it would keep the deal with him to even have a future.",
@@ -808,10 +841,27 @@
   {
     "chapter": 18,
     "title": "Your Choices, Your Consequences",
-    "merges": [],
+    "merges": [
+      {
+        "msg_ranges": [
+          "14-17",
+          "17-18"
+        ],
+        "para": 4,
+        "note": "Two MSG units merged into one Teen paragraph (1st-audit merge; badge '14-18' spans both MSG ranges)."
+      }
+    ],
     "splits": [],
-    "changes": [],
-    "confirmations_needed": [],
+    "changes": [
+      {
+        "para": null,
+        "type": "merge-declare",
+        "desc": "Declared 1st-audit merge of MSG units 14-17 and 17-18 into para 4; badge '14-18' spans both ranges."
+      }
+    ],
+    "confirmations_needed": [
+      "스탠딩 승인(2026-09-24): MSG 14-17 + 17-18 -> para 4 merge 선언 — MSG 내용 온전, EN/KO 일치, 가독성 목적의 순수 구조 차이."
+    ],
     "paragraphs": [
       "God's message came to me, and he was like, 'What's with this saying everyone keeps repeating all over the country? 'The parents ate sour grapes, and the kids are the ones with the stomachache.'",
       "'For real, as I live and breathe,' says God, 'you're not going to be using that saying in Israel anymore. Every single person—man, woman, child—is mine. The parent and the kid, both belong to me. You die for your own screw-ups, not someone else's.'",
@@ -1021,7 +1071,16 @@
         "note": "One MSG unit split across Teen paragraphs; badges repeat the full MSG range."
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "type": "content-fix",
+        "para": 7,
+        "badge": "12",
+        "before": "So just freak out! Tear your hair out!",
+        "after": "Wring your hands! Rip your hair out!",
+        "reason": "MSG v12 'Wring your hands! Tear out your hair!' — restores the dropped grief gesture; 2nd-audit fidelity fix."
+      }
+    ],
     "confirmations_needed": [],
     "paragraphs": [
       "God’s message hit me up: “Yo, Son of Man, face Jerusalem and just let this message flow out against the Sanctuary. Prophesy against Israel and tell them, ‘God’s message is here: I’m actually against you. I’m pulling my sword out, and it’s the end for everyone—the good and the bad. And because I’m not playing favorites, my sword is gonna be felt by everyone from the south to the north. The whole world will know I’m not messing around.’",
@@ -1031,7 +1090,7 @@
       "“‘A sword! A sword! It’s razor-sharp and polished, sharpened to kill, and polished to flash like lightning!",
       "“‘My kid, you totally disrespected the royal authority of Judah by bowing down to every fake idol out there.",
       "“‘This sword is made to shine, to be held and swung. It’s sharpened and polished, all ready for the killer to go to work.’",
-      "“So scream and wail, Son of Man. This sword is coming for my own people! The leaders of Israel and my people—they’re all being left for the sword to deal with! So just freak out! Tear your hair out!",
+      "“So scream and wail, Son of Man. This sword is coming for my own people! The leaders of Israel and my people—they’re all being left for the sword to deal with! Wring your hands! Rip your hair out!",
       "“‘A test is coming. So why did you brush off discipline? You can’t just ignore it. This is a decree from the Lord GOD.’",
       "“So, prophesy, Son of Man! Clap your hands. Get their attention. Tell them the sword is coming down—once, twice, even three times. It’s a sword for a total massacre, a relentless sword you can’t escape. People will be dropping left and right like dominoes. I’ve put a deadly sword at every city gate, flashing like lightning, ready to kill. Go right, slash left, you deadly, sharp-edged sword! Then I’ll clap my hands too, as a sign that my anger is finally done. I, GOD, have said it.”",
       "God’s message came to me: “Son of Man, map out two roads for the king of Babylon’s sword to take. They both start from the same place. Put a signpost where the roads split. One sign points the way for the sword to Rabbah of the Ammonites. The other sign points to Judah and the fortress of Jerusalem. The king of Babylon is standing at that fork in the road, trying to figure out which way to go using magic. He’s drawing straws, rolling some kind of god-dice, and checking out a goat’s liver. He looks at his right hand: the sign says, ‘Go for Jerusalem!’ So now he’s on his way with battering rams, ready to kill, shouting battle cries, breaking down city gates, and building siege ramps.",
@@ -2307,7 +2366,12 @@
         "note": "One MSG unit split across Teen paragraphs; badges repeat the full MSG range."
       }
     ],
-    "changes": [],
+    "changes": [
+      {
+        "type": "fix",
+        "note": "para 8 (msg 18-20): restored the human-face-on-the-right / lion-face-on-the-left detail from MSG; previously generalized as 'one side / the other'."
+      }
+    ],
     "confirmations_needed": [],
     "paragraphs": [
       "So this guy brought me into the actual Temple and started measuring the doorposts. They were a massive ten and a half feet thick on each side. The entrance was a wide seventeen and a half feet, and the side walls were a solid eight and three-quarters feet thick.",
@@ -2318,7 +2382,7 @@
       "The building that faced the Temple courtyard on the west was one hundred twenty-two and a half feet wide, with walls that were eight and three-quarters feet thick. The total length of the wall and building was one hundred fifty-seven and a half feet.",
       "He measured the Temple, and it was one hundred seventy-five feet long. The Temple courtyard and the building, including its walls, also measured one hundred seventy-five feet. The width of the front of the Temple and the open area to the east was one hundred seventy-five feet.",
       "He measured the length of the building at the back of the Temple, the one facing the courtyard, including its shelters on each side: one hundred seventy-five feet. The main Sanctuary, the inner Sanctuary, and the vestibule facing the courtyard were all paneled with wood. They had window frames and door frames in all three sections. The walls were paneled from the floor up to the windows. Above the entrance to the inner Sanctuary and on the walls all around both sanctuaries, there were carvings of angel-cherubim and palm trees at regular intervals, in an alternating pattern.",
-      "Each angel-cherub had two faces: a human face looking at the palm tree on one side, and a lion's face looking at the palm tree on the other. This design was carved all over the entire Temple. The cherubim and palm tree pattern was carved on the wall of the main Sanctuary from the floor all the way up to the height of the door.",
+      "Each angel-cherub had two faces: a human face toward the palm tree on the right, and a lion's face toward the palm tree on the left. This design was carved all over the entire Temple. The cherubim and palm tree pattern was carved on the wall of the main Sanctuary from the floor all the way up to the height of the door.",
       "The main Sanctuary had a rectangular doorframe. In front of the Holy Place, there was something that looked like a wooden altar. It was five and a quarter feet high and three and a half feet square. Its corners, base, and sides were all made of wood. The man said to me, \"This is the table that stands before God.\"",
       "Both the main Sanctuary and the Holy Place had double doors. Each door was made of two hinged leaves, so one set could swing inward and the other outward. The doors of the main Sanctuary were carved with angel-cherubim and palm trees. There was a wooden canopy in front of the vestibule outside. On both sides of the porch, there were narrow windows with carved palm trees in between them."
     ],
@@ -2519,10 +2583,15 @@
     "title": "The Ultimate Land Division & Offerings Guide",
     "merges": [],
     "splits": [],
-    "changes": [],
+    "changes": [
+      {
+        "type": "fix",
+        "note": "para 0 (msg 1-4): fixed buffer zone 750-foot -> 75-foot (MSG: 'a seventy-five-foot buffer zone'; a 10x error)."
+      }
+    ],
     "confirmations_needed": [],
     "paragraphs": [
-      "\"When you guys are splitting up the land, you gotta set aside a massive chunk of it as sacred space for God: like, seven miles long and six miles wide. That whole area is holy ground. Inside this huge rectangle, block off a 750-foot square just for the Sanctuary, and give it a 750-foot buffer zone all around it. Then, mark off a section inside the sacred reserve that's seven miles long and three miles wide. That's where the Sanctuary and the Holy of Holies are gonna go. This is the spot where the priests will live—the guys who lead worship and serve God there. Their houses will be right there next to The Holy Place.",
+      "\"When you guys are splitting up the land, you gotta set aside a massive chunk of it as sacred space for God: like, seven miles long and six miles wide. That whole area is holy ground. Inside this huge rectangle, block off a 750-foot square just for the Sanctuary, and give it a 75-foot buffer zone all around it. Then, mark off a section inside the sacred reserve that's seven miles long and three miles wide. That's where the Sanctuary and the Holy of Holies are gonna go. This is the spot where the priests will live—the guys who lead worship and serve God there. Their houses will be right there next to The Holy Place.",
       "\"Just north of that sacred reserve, block off an area about seven miles long and two and a quarter miles wide. That's for the Levites' villages, since they handle all the behind-the-scenes stuff for worship in the Sanctuary.",
       "\"Then, south of the sacred reserve, measure out a section seven miles long and about a mile and a half wide for the city itself. That area belongs to everyone in the whole family of Israel.",
       "\"Now for the prince: he gets the land right next to the east and west borders of that central sacred square. His land stretches all the way east to the Jordan River and all the way west to the Mediterranean Sea. That's his personal property in Israel. My princes are officially done bullying my people and walking all over them. They're gonna respect the land exactly how it was handed out to the tribes.",
