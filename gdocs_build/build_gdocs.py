@@ -14,7 +14,8 @@ MSG txt formats observed (BibleGateway fetches):
             e.g. Romans '1 I, Paul, ...', Philippians '3 And that's about it'.
 Verse-less continuation blocks (psalm quotes, poetry, genealogy lines)
 are attached to the current MSG unit so no text is lost. '* * *' and
-'### ' lines are dropped.
+'### ' subtitle lines are dropped, but explicit '### chN' chapter
+markers are honored as chapter boundaries.
 """
 import json, re, os, sys
 from docx import Document
@@ -106,6 +107,7 @@ VERSE_RE = re.compile(r'^(' + VERSE_REF + r')\s+(?=' + TEXT_START + r')(.*)$')
 TWO_NUM_RE = re.compile(r'^(\d{1,3})\s+(' + VERSE_REF + r')\s+(?=' +
                         TEXT_START + r')(.*)$')
 LONE_NUM_RE = re.compile(r'^(\d{1,3})$')
+CHAPTER_MARKER_RE = re.compile(r'^###\s+ch(\d{1,3})\s*$', re.IGNORECASE)
 SINGLE_NUM_TEXT_RE = re.compile(r'^(\d{1,3})\s+(?=' + TEXT_START + r')(.*)$')
 # Inline verse-range markers embedded mid-line, e.g.
 #   "1 The family tree of Jesus Christ, David's son, Abraham's son: 2-6 Abraham had Isaac,"
@@ -182,6 +184,13 @@ def classify_lines(text):
             out.append(('BLANK', None))
             continue
         low = line.lower()
+        m = CHAPTER_MARKER_RE.match(line)
+        if m:
+            # Explicit chapter marker, e.g. '### ch4' (Hosea source files).
+            # Must come before the '#' skip below; plain '### ' subtitles
+            # are still dropped.
+            out.append(('CHAPTER', int(m.group(1))))
+            continue
         if (line.startswith('#') or line.startswith('Source:') or
                 line == '* * *' or
                 ('msg' in low and 'source:' in low)):
@@ -292,6 +301,13 @@ def parse_msg_lines(text, initial_ch=0):
         if kind in ('BLANK', 'SKIP'):
             if kind == 'BLANK':
                 at_block_start = True
+            continue
+        if kind == 'CHAPTER':
+            cur_ch = pay
+            covered = set()
+            cur_maxv = 0
+            cur_unit = None
+            at_block_start = True
             continue
         if kind == 'LONE_NUM':
             n = pay
