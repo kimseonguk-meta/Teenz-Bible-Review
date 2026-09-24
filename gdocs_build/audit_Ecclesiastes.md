@@ -64,3 +64,12 @@ merge 없음. § 헤더 없음.
 
 - 확인한 것: MSG txt 12장 전체 문장 대조, EN/KO 127문단 배지·내용·슬랭·호칭 일치, validator·completeness·빌드·짝지음·업로드 후 테이블 수(12)·export-back.
 - 확인하지 못한 것: Google Docs에 실제 렌더링된 화면을 눈으로 보지 못함(export-back 텍스트 검증만 수행). msg_Ecclesiastes.txt 자체가 BibleGateway MSG 정본과 1:1인지는 이 작업 범위 밖(2026-09-22 수집본을 그대로 신뢰).
+
+## 2차 심층 재검토 (2026-09-25)
+- 범위: MSG 122 유닛 ↔ EN 127 문단 ↔ KO 127 문단 전수 문장 단위 대조 (1~12장). completeness 체커 PASS.
+- EN 복원 2건 (전부 비대칭 누락 — KO는 이미 MSG 내용 보유):
+  - 5:11 EN이 5:10 반복 복제본이었던 치명 오류 수정 — MSG "The more loot you get, the more looters show up. And what fun is that—to be robbed in broad daylight?" 복원: "The more stuff you have, the more people show up to take it from you. And what's the fun in that—getting robbed in broad daylight?" (KO "네가 가진 게 많아질수록, 그걸 노리는 사람들도 많아져. 대낮에 다 털리는 게 재밌냐?" 보유)
+  - 7:21-22 EN이 7:19 복제본으로 오배치됐던 오류 수정 — MSG "Don't eavesdrop on the conversation of others. What if the gossip's about you and you'd rather not hear it? You've done that a few times, haven't you—said things behind someone's back you wouldn't say to his face?" 복원 (KO "남들 대화 엿듣지 마..." 보유)
+- EN 전수 중복 스캔: 위 2건 외 중복/오배치 없음.
+- 게이트: validate PASS 12/12, build 12 tables / VERIFY_DROPPED=0 / msg_orphans=0 / teen_without_msg=0, verify_pairing PAIRING CONTENT OK, completeness PASS.
+- GDocs: doc ID 1CzWMUfRDjlY-7qG_uE2f029lOU4K1woKa3taHpujlS0, API 12/12 tables, export-back VERIFIED OK.
