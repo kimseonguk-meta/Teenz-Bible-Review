@@ -59,7 +59,7 @@
   "paragraphs": [
    "Hey, so I decided not to roll through again and make things awkward for everyone. Like, if I showed up and put you in an embarrassingly painful spot, how could you then be free to cheer me up and refresh me?",
    "That's why I sent that letter instead of just showing up. I didn't want to have a bummer of a time with the very people I was hoping would hype me up. I was sure that what was good for me was good for you. Honestly, writing that letter was rough. More tears than ink, for real. But I wasn't trying to start drama. I wrote it so you'd know how much I care — no, more than care, I *love* you.",
-   "About the guy who started all this mess... you know who I'm talking about. He didn't just hurt me, he hurt pretty much all of you. So I'm not gonna go all hard on him. The punishment you guys decided on is enough. It's time to forgive him and help him get back up. If you just keep piling on the guilt, you're gonna crush him. My advice? Show him some love.",
+   "About the guy who started all this mess... you know who I'm talking about. He didn't just hurt me, he hurt pretty much all of you. So I'm not gonna go all hard on him. The punishment most of you agreed on is enough. It's time to forgive him and help him get back up. If you just keep piling on the guilt, you're gonna crush him. My advice? Show him some love.",
    "My letter wasn't about getting revenge on the guy. It was about you guys stepping up and taking care of our crew. So if you forgive him, I forgive him. I'm not holding any grudges. I'm on your team with this forgiveness thing, and Christ is with us, showing us the way. We don't want to unwittingly give Satan an opening to cause more trouble. We're not clueless—we know all his sneaky tricks.",
    "§ An Open Door",
    "When I got to Troas to spread the Message of the Messiah, it was wide open. God had opened the door for me—all I had to do was walk through it. But when I didn't see my boy Titus there with an update on you guys, I couldn't chill. I was worried about you, so I bounced and went to Macedonia to find him and get some good news. And I did, thank God!",
@@ -112,7 +112,8 @@
    "Header replaced: invented §Paul Changes Plans → MSG's §An Open Door at MSG position, badge 12-14",
    "Restored 14-16: 'Through us, he spreads the knowledge of Christ' (was 'he flexes his power')",
    "Restored 16-17: 'We get what we say straight from God and say it as honestly as we can'",
-   "[meaning-audit 2026-09-22] Restored 9-11: 'Satan' + 'unwittingly' (MSG 'give Satan an opening'; KO already had 사탄)"
+   "[meaning-audit 2026-09-22] Restored 9-11: 'Satan' + 'unwittingly' (MSG 'give Satan an opening'; KO already had 사탄)",
+   "Ch2 [5-8] 3차: 'The punishment you guys decided on is enough' → 'The punishment most of you agreed on is enough' — MSG 'What the majority of you agreed to as punishment' (의미 정확도; KO는 이미 '너희 대부분이 동의한 처벌'로 MSG 정합이라 변경 없음)."
   ],
   "confirmations_needed": []
  },
