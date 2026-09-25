@@ -5,7 +5,7 @@ and the no-drop gate (every Teen EN/KO paragraph + every MSG unit present).
 
 Usage: python3 reupload.py Matthew Mark Luke John Romans
 """
-import json, re, subprocess, sys, time, os
+import glob, json, re, subprocess, sys, time, os
 
 GDIR = '/home/hatch/workspace/teenz-bible-review/gdocs_build'
 REVIEW = '/home/hatch/workspace/teenz-bible-review'
@@ -123,18 +123,16 @@ def main():
     keys = sys.argv[1:]
     assert keys, 'usage: reupload.py KEY...'
     results = json.load(open(os.path.join(GDIR, 'upload_results.json'), encoding='utf-8'))
-    # OT worker-F wave books live in a separate registry; fall back to it.
-    wf_path = os.path.join(GDIR, 'upload_results_workerF.json')
-    if os.path.exists(wf_path):
-        wf = json.load(open(wf_path, encoding='utf-8'))
-        seen = {r.get('key') for r in results}
-        results += [r for r in wf if r.get('key') not in seen]
-    # OT worker-A wave books live in yet another registry; fall back to it too.
-    wa_path = os.path.join(GDIR, 'upload_results_workerA.json')
-    if os.path.exists(wa_path):
-        wa = json.load(open(wa_path, encoding='utf-8'))
-        seen = {r.get('key') for r in results}
-        results += [r for r in wa if r.get('key') not in seen]
+    # Other waves' books live in separate registries (upload_results_worker*.json);
+    # fall back to all of them so no book hits "no doc id". Main registry wins.
+    seen = {r.get('key') for r in results}
+    for extra in sorted(glob.glob(os.path.join(GDIR, 'upload_results_*.json'))):
+        recs = json.load(open(extra, encoding='utf-8'))
+        if isinstance(recs, dict):
+            recs = [recs]
+        for r in recs:
+            if isinstance(r, dict) and r.get('key') not in seen:
+                results.append(r); seen.add(r['key'])
     id_by_key = {r['key']: r['id'] for r in results if r.get('id')}
     summary = []
     for key in keys:
