@@ -141,3 +141,41 @@
 
 **8개 게이트 전부 PASS (2026-09-23)**
 - ①수정반영: 부록 6건 old→new 쌍 JSON 반영 확인 (신규 문자열 존재·구 문자열 소멸 grep 검증). ②validator: 13장 전부 통과. ③완전성: git HEAD 대비 FAIL 집합 byte-identical — 슬랭 수정으로 인한 신규 이슈 0건 (기존 FAIL 5건은 감사 시 문서화된 오탐 4건 + 수정 완료된 실제 누락 1건, completeness_fp_2Corinthians.md). ④Docs재빌드: rows=103, teen_without_msg=0, msg_orphans=0. ⑤짝지음: 90 data rows / 13 tables PAIRING CONTENT OK. ⑥재업로드: 기존 Doc ID 유지. ⑦API 테이블 수: 13/13. ⑧export-back: VERIFIED OK.
+
+---
+
+## 2차 심층 재검토 (2026-09-25)
+
+- 범위: 13장 90문단 MSG↔EN 전수 육안 대조 + KO 비대칭 확인.
+- ch6 MSG 1-10 → Teen 2문단, ch8 MSG 10-20 → Teen 2문단, ch9 MSG 3-5 → Teen 2문단은
+  1차부터 선언된 순수 구조 split이며 내용 온전 (스탠딩 승인 규칙 (a)(b)(c) 충족).
+- 스킵: ch2 "from place to place" (MSG 2:14) — "never-ending victory parade"가
+  지속 이동 의미를 포함하므로 의역 압축으로 판정, 복원하지 않음.
+- 스킵: ch4 "he lives" (MSG 4:10) — "is alive in us"로 핵심 유지, 의역으로 판정.
+- 스킵: ch7 "exploited" (MSG 7:2) — "taken advantage of"와 근의어 doublet 압축으로 판정.
+
+### 복원 5건 (EN 5건, KO 3건)
+
+| 장 | 위치 | 언어 | MSG 원문 | 기존 | 복원 |
+|---|---|---|---|---|---|
+| 1 | 20-22 | EN | God's Yes and our Yes together, **gloriously evident** | ...all together. God makes us strong | ...all together, **gloriously evident**. God makes us strong |
+| 2 | 12-14 | EN | God had opened the door; **all I had to do was walk through it** | God had opened the door for me. | God had opened the door for me—**all I had to do was walk through it**. |
+| 7 | 8-9 | EN | The letter upset you, **but only for a while**. Now I'm glad—**not that you were upset, but that you were jarred into turning things around** | It was a wake-up call. I'm not glad you were upset — but only for a while. | The letter upset you, but only for a while—it was a wake-up call. Now I'm glad—not that you were upset, but that it made you turn toward God instead of away from him |
+| 7 | 8-9 | KO | (동일) | ...너희가 괴로워서 기쁜 게 아니라 — 잠깐이었지만 —... | 편지가 너희를 힘들게 했지만, 잠깐이었지 — 정신 차리게 하는 일격이었어. 너희가 괴로워서 기쁜 게 아니라, 그걸로... |
+| 7 | 10 | EN | Distress that drives us to God does that. **It turns us around.** | ...is a good thing. It puts us back on the road to salvation. | ...is a good thing. **It turns us around.** It puts us back on the road to salvation. |
+| 7 | 10 | KO | (동일) | ...좋은 거야. 구원의 길로 다시 들어서게 해주거든. | ...좋은 거야. **방향을 돌이키게 해주거든.** 구원의 길로 다시 들어서게 해주거든. |
+| 8 | 5-7 | EN | they had first given themselves **unreservedly** to God | They gave themselves to God first, and then to us. | They gave themselves to God first—**all in**—and then to us. |
+| 8 | 5-7 | KO | (동일) | 걔네가 먼저 자신을 하나님께 드렸고 | 걔네가 먼저 자신을 하나님께 **아낌없이** 드렸고 |
+
+- 참고: ch1 20-22 "gloriously evident"와 ch2 12-14 "walk through it"는 KO가 이미 보유
+  (눈부시게 분명하게 / 걸어 들어가기만 하면 됐지) — KO는 변경 없음. 비대칭 해소.
+- ch7 8-9는 1차 복원 때 "but only for a while"이 "I'm not glad you were upset" 뒤에
+  잘못 붙어 문장 꼬임이 발생했던 것을 바로잡음 (EN·KO 동일 꼬임).
+
+**게이트 (2026-09-25)**
+- ①validate_translation.py: PASS 13/13. ②completeness: 기존 오탐 4건만 유지
+  (ch1 twice / ch2 the guy / ch4 God / ch5 the boss). ③build_gdocs.py:
+  rows=103, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0.
+  ④pairing: reupload 내장 검증으로 대체. ⑤Google Doc:
+  `18HSxNax4GxjWjI3z3T4bi4k2NMXACaF_nNsrHqmFSS0` API 표 13/13,
+  export-back VERIFIED OK.
