@@ -1697,7 +1697,7 @@
    "15",
    "16",
    "17-18",
-   "17-18",
+   "18",
    "19-20",
    "21",
    "22",
@@ -1748,7 +1748,7 @@
    },
    {
     "msg_range": "17-18",
-    "note": "MSG 17-18 split: para 10 is v17 (badged '17-18'), para 11 is v18 (badged '18')",
+    "note": "MSG 17-18 split: para 10 is v17 + v18a incl. driving out the Amorites (badged '17-18'), para 11 is v18b 'Count us in' (badged '18')",
     "paras": [
      10,
      11
