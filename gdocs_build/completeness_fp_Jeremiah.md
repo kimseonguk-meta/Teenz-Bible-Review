@@ -331,3 +331,21 @@ E2 작업에서 도입된 중복 7건 및 배지 오류를 이번 재검증에�
 ## 결론
 113건 전수 대조 완료. 실제 누락·오류 0건 (2건은 본문 수정으로 해소: ch41:3 누락 복원, ch41:4 날짜 수정).
 부칭 생략 패턴(ch36-43)은 의식적 문체 결정으로 별도 보고함.
+
+---
+
+# 2차 심층 재검토 정정 (2026-09-25)
+
+위 "오탐" 판정 중 아래 항목들은 성욱 절대 기준("MSG의 모든 문장·이름·부칭·숫자·인용구·반복·비유 세부가 Teen EN에 살아 있어야 한다")에 따라
+판정을 번복하고 EN/KO에 복원함. 1차 판정은 구(舊) "teen-friendly 축소 허용" 기준 하의 판단이었음.
+
+번복된 FAIL: ch2 idx2 windbag(Sir Windbag 복원), ch9 idx4 dirges(복원), ch13 idx8 negev(Negev 복원),
+ch19 idx2 dehumanized(복원), ch21 idx1 chaldeans(Chaldeans 복원), ch23 idx5 careening(복원),
+ch27 idx4 jehoiakim(son of Jehoiakim 복원), ch29 idx16 babylonian(Babylonian recipes 복원),
+ch31 idx8 number 3(three square meals 복원), ch52 idx4 arabah(Arabah Valley 복원),
+ch36–43 부칭 56건 중 실제 누락이 확인된 것만 선별 복원
+(son of Shaphan 5건, son of Semaiah/son of Cushi, Seraiah son of Azriel, Shelemiah son of Abdeel,
+Ephai the Netophathite, Jaazaniah son of the Maacathite, Mizpah, Nebushazban the Rabsaris,
+Nergal-sharezer the Rabmag — 나머지는 EN/KO에 이미 존재하거나 동일 인물 지칭으로 확인됨).
+
+수정 후 재실행 FAIL 94→74건, 잔여 74건은 audit_Jeremiah.md 2차 섹션에 전수 분류 기록.
