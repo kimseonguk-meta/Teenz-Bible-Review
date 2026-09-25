@@ -35,3 +35,15 @@
 ## 검증 범위
 - 확인함: MSG 파서 출력(403 units) 대 teen 전수 토큰 대조, 문단 단위 문장 parity, EN/KO 배지·문단 parity, 욕설 자동 스크리닝.
 - 확인하지 못함: KO 본문 458문단 전수 의미 대조 (EN 기준 구조 parity + 스팟체크만 수행. 1차 감사에서 KO를 EN 1:1로 재구성한 것을 신뢰), 자동 욕설 목록 밖 미묘한 표현의 뉘앙스, Google Docs 웹 화면의 실제 렌더 (API + export-back DOCX로 대체 검증).
+
+---
+
+## 2차 심층 재검토 (2026-09-25)
+
+- 방법: MSG `msg_Acts.txt` 전 문단 ↔ EN/KO 병렬 덤프(`audit_work/2ndpass_Acts/ch01–ch28.txt`) 28장 전수 육안 대조. 특히 KO는 있는데 EN만 빠진 비대칭 적극 탐지.
+- 1차 수정(13:50–52 "two happy disciples") 유지 확인.
+- 복원 **2건** (둘 다 KO는 보유·EN만 누락된 비대칭):
+  - ch12 idx9 (badge 18–19): MSG "Fed up with **Judea and Jews**, he went for a vacation to Caesarea." → EN에 "and the Jews" 복원. KO는 "유대와 유대인들에게" 이미 보유 → KO 변경 없음.
+  - ch23 idx15 (badge 23–24): MSG "you'll need a couple of **mules** for Paul and his gear" → EN이 "horses"로 임의 변경돼 있었음 → "mules"로 원복. KO는 "노새도 두어 마리" 이미 보유 → KO 변경 없음.
+- 모호 케이스: ch15 idx1 "some Jews showed up from Judea" → EN "some Jewish believers" (해석적 보충, 누락 아님); ch17 idx10 MSG "What a moron!" → EN "What's this chatterbox trying to say?" (의미 유지된 의역); ch18 idx2 "You've made your bed; now lie in it" → "You've made your choice; now live with it" (의미 유지); ch27 idx3 "an Egyptian ship" → EN "an Egyptian grain ship" (27:38 곡물 하역과 일관, 내용 손실 없음); ch28 idx4 "a carved Gemini" → EN "the twin gods Castor and Pollux" (해석적 구체화, KO는 "쌍둥이자리" 유지).
+- merge/split: 신규 후보 0건. 1차 선언분 그대로.
