@@ -217,7 +217,7 @@
       "15",
       "15",
       "16",
-      "16-17",
+      "17",
       "18"
     ],
     "msg_ranges": [
@@ -246,7 +246,7 @@
       },
       {
         "msg_range": "16",
-        "note": "MSG 16 split: para 12 is Naomi's question (badged '16'), para 13 is Ruth's report (badged '16-17')",
+        "note": "MSG 16-17 split: para 12 is Naomi's question (badged '16'), para 13 is Ruth's report (badged '17')",
         "paras": [
           12,
           13
@@ -314,16 +314,16 @@
       "14-15",
       "16",
       "17",
-      "18-22",
-      "18-22",
-      "18-22",
-      "18-22",
-      "18-22",
-      "18-22",
-      "18-22",
-      "18-22",
-      "18-22",
-      "18-22"
+      "18",
+      "18",
+      "19",
+      "19",
+      "20",
+      "20",
+      "21",
+      "21",
+      "22",
+      "22"
     ],
     "msg_ranges": [
       "1",
@@ -353,7 +353,7 @@
       },
       {
         "msg_range": "18-22",
-        "note": "MSG 18-22 (Perez genealogy) split across paras 15-24: para 15 intro + paras 16-24 one line each (all badged '18-22')",
+        "note": "MSG 18-22 (Perez genealogy) split across paras 15-24: para 15 intro + para 16 'Perez had Hezron' (both v18), paras 17-18 v19, 19-20 v20, 21-22 v21, 23-24 v22",
         "paras": [
           15,
           16,
