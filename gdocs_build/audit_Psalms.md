@@ -90,3 +90,40 @@
 - Google Docs 업로드 및 실제 짝지음 확인
 - Production 앱 반영
 - Merge/split 18건 컨펌
+
+## 2차 심층 재검토 (2026-09-25)
+
+기준: "축약하지 마라" — 1차 때 "허용 의역"으로 넘긴 것을 MSG 문장 단위로 재대조.
+Completeness checker 75 issues를 전수 분류 → 대부분 동의어/의역/구조적 오탐.
+실제 복원 12건 (EN 문단 수정 12, KO는 이미 정확하여 내용 변경 없음):
+
+- 46:4-6 `godless nations` — EN "Other nations" → "The godless nations" (KO "신을 모르는 나라들"과 일치)
+- 66:7 `godless nations` + `high tower` — EN "watching over all the nations that don't mess with him"는 의미 반전(믿는 나라로 읽힘) → "in his high tower, keeping his eye on the godless nations"
+- 69:35-36 `Zion` — EN "save his people" → "help Zion" (KO 시온과 일치)
+- 72:9-14 `godless nations` — EN "every nation" → "the godless nations"
+- 72:15-17 `Sheba gold` — EN "finest gold" → "Sheba gold" (KO 스바와 일치)
+- 72:15-17 `Cornucopias of praise` 비유 복원 — "cornucopias of praise, with praises springing up from the city like fresh grass" (KO 뿔 비유와 일치)
+- 72:15-17 `godless people` — EN "all nations" → "all godless people" (KO "신을 믿지 않던 사람들"과 일치)
+- 81:16 `God-haters` — EN "all the haters" → "all the God-haters" (KO "하나님을 싫어하는 자들"과 일치)
+- 97:11 `Light-seeds... Joy-seeds... good heart-soil` 비유 복원 (KO 씨앗/마음 밭 비유와 일치)
+- 101:8 `made-in-Canaan gods` — EN "fake gods" → "made-in-Canaan gods" (KO 가나안과 일치)
+- 106:34-39 `godless cultures` — EN "other nations" → "godless cultures" (KO 이교도 문화/이방인과 일치)
+- 135:15-18 `gods of the godless nations` — EN "gods of other nations" → "gods of the godless nations" (KO "신 없는 나라들"과 일치)
+
+배지 오류 수정 (EN/KO 동시):
+
+- ch62 verseRanges `1-3, 4-6, 7, 8` → `1-2, 3-4, 5-6, 7-8` (실제 MSG/내용 대응에 맞춤)
+- ch66 verseRanges `7-8, 9-13, 14-16, 17-20` → `7, 8-12, 13-15, 16-20` (실제 MSG/내용 대응에 맞춤)
+
+파서 근본 수정 (build_gdocs.py):
+
+- 1차 보고서에서 "ch119 idx12-21: MSG 119의 `* * *` 구분자를 파서가 처리 못함"으로 오진단됐던 건의 실제 원인: `VERSE_ATOM`이 `\d{1,2}`라 3자리 절(97-104 ~ 169-176)을 VERSE로 인식하지 못하고 TEXT로 분류, 89-96 유닛에 전부 달라붙음.
+- `VERSE_ATOM`을 `\d{1,3}`으로 수정 → 전체 68권 파싱 비교 결과 시편만 변경 (+10 유닛, +80절), 나머지 67권 바이트 동일.
+- 이후 `teen_without_msg=10` → `0`, `msg_orphans=0`, `VERIFY_DROPPED=0` 전부 통과.
+
+검증 결과 (2026-09-25):
+
+- `validate_translation.py`: PASS (150개 장 모두 통과)
+- `build_gdocs.py`: rows=948, msg_units=862, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0, ALL VERIFY OK
+- `verify_pairing_content.py`: 150 tables, 946 data rows, PAIRING CONTENT OK
+- KO parity: EN 복원 12건 모두 KO에 이미 존재하여 KO 내용 변경 불필요 (배지 2건만 EN/KO 동시 수정)
