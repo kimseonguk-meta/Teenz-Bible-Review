@@ -65,3 +65,13 @@
 
 **8개 게이트 전부 PASS (2026-09-23)**
 - ①수정반영: 부록 3건 old→new 쌍 JSON 반영 확인 (신규 문자열 존재·구 문자열 소멸 grep 검증). ②validator: 16장 전부 통과. ③완전성: git HEAD 대비 FAIL 집합 byte-identical — 슬랭 수정으로 인한 신규 이슈 0건 (기존 FAIL 2건은 감사 시 문서화된 오탐, completeness_fp_1Corinthians.md). ④Docs재빌드: rows=158, teen_without_msg=0, msg_orphans=0. ⑤짝지음: 148 data rows / 16 tables PAIRING CONTENT OK. ⑥재업로드: 기존 Doc ID 유지. ⑦API 테이블 수: 16/16. ⑧export-back: VERIFIED OK.
+
+---
+
+## 2차 심층 재검토 (2026-09-25)
+
+- 방법: MSG `msg_1Corinthians.txt` 전 문단 ↔ EN 전 문단 장별 1:1 육안 대조 (16장 148문단 전수), 1차의 오탐(FP-1 "any one" 대명사) 판정 유지.
+- 복원 **1건** (EN/KO 비대칭 — KO는 보유, EN만 누락):
+  - ch2 idx1 (badge 3-5): MSG "not to some fancy mental or emotional footwork **by me or anyone else**" → EN에 "or anyone else's fancy footwork" 복원. KO는 "나나 다른 누구의 멋진 말재주나 감성 자극"으로 이미 보유 → KO 변경 없음.
+- 모호 케이스: ch1 idx10 "Jews treat this like an *anti*-miracle—and Greeks pass it off as absurd" → EN "Some treat this like an anti-miracle, and others write it off as absurd" — 직후 "Jews and Greeks alike"로 지시 대상 명확, 지칭 생략이므로 누락 아님. ch4 idx3 "who do you think you are?" — teen 의역, 내용 손실 없음.
+- 게이트: validator PASS 16/16, completeness FAIL 1건(기존 오탐 FP-1 문서화), build_gdocs ALL VERIFY OK (VERIFY_DROPPED=0, teen_without_msg=0, msg_orphans=0), pairing 148 rows OK, Google Doc 16/16 export-back VERIFIED OK.
