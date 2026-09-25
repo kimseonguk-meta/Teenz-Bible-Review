@@ -101,7 +101,10 @@ TEXT_START = r'[A-Z0-9"“‘(\[*]'
 # e.g. Jer 52:28 "3,023 men of Judah...". Verified corpus-wide: the only
 # TEXT lines starting with a digit are Jer 52:28-30, so this changes no
 # other book's parse.
-VERSE_ATOM = r'\d{1,2}(?:-\d{1,2})?'
+VERSE_ATOM = r'\d{1,3}(?:-\d{1,3})?'
+# was \d{1,2}: Psalm 119 has 3-digit verses (97-104 ... 169-176); with \d{1,2}
+# those unit lines were classified TEXT and glued onto the 89-96 unit,
+# leaving the last 10 Teen paragraphs of ch119 without MSG (2026-09-25).
 VERSE_REF = VERSE_ATOM + r'(?:,\s*' + VERSE_ATOM + r')*'
 VERSE_RE = re.compile(r'^(' + VERSE_REF + r')\s+(?=' + TEXT_START + r')(.*)$')
 TWO_NUM_RE = re.compile(r'^(\d{1,3})\s+(' + VERSE_REF + r')\s+(?=' +
