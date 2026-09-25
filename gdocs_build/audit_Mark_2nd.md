@@ -72,4 +72,4 @@
 ## Google Docs
 
 - Doc ID: `19ySnH_Vrv5oiqoLryeaXXOEmpsD7UV-jsx6P59sKIi0` (기존, 16 tables)
-- reupload + export-back 검증 결과: (아래 실행 후 기입)
+- reupload + export-back 검증 (2026-09-25): API table count **16/16**, **VERIFIED OK** (1/1 fully verified)
