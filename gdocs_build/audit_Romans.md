@@ -525,3 +525,80 @@
 
 **8개 게이트 전부 PASS (2026-09-23)**
 - ①수정반영: 부록 23건 old→new 쌍 JSON 반영 확인 (신규 문자열 존재·구 문자열 소멸 grep 검증). ②validator: 16장 전부 통과. ③완전성: git HEAD 대비 FAIL 집합 byte-identical — 슬랭 수정으로 인한 신규 이슈 0건 (기존 35건 FAIL 라인은 감사 시 문서화된 오탐 + 수정 완료된 실제 누락 1건). ④Docs재빌드: rows=176, teen_without_msg=0, msg_orphans=0. ⑤짝지음: 156 data rows / 16 tables PAIRING CONTENT OK. ⑥재업로드: 기존 Doc ID 유지. ⑦API 테이블 수: 16/16. ⑧export-back: VERIFIED OK.
+
+---
+
+# Romans 2차 심층 재검토 (MSG 기준 전수 재대조) — 2026-09-25
+
+- 작업: 성욱 승인 "축약하지 마라" 기준으로 1차 때 '허용 의역'으로 넘어갔던 문단들을 MSG 원문과 문장 단위로 재대조 후 EN/KO 직접 복원.
+- 기준: 유일 기준 MSG. Teen-friendly 표현 변경은 허용, 의도적 요약·누락·의미 왜곡은 불허. § 소제목 행 추가 없음. msg_* 원문 수정 없음.
+- 변경 규모: EN 16장 중 16장 전부 변경 (약 168 라인), KO 16장 중 16장 전부 변경 (약 134 라인). 총 ~151건(old→new 라인 쌍 기준).
+- 게이트: `validate_translation.py fixes/en_Romans.json fixes/ko_Romans.json` → **PASS (16개 장 모두 통과)**.
+- 빌드: `build_gdocs.py Romans` → rows=176, msg_units=147, teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0 → **ALL VERIFY OK**.
+- 짝지음 표본 확인: docx 16개 테이블 중 ch1 P1/P2, ch8 Papa(15-17), ch12(3), ch16(27) 직접 확인 — MSG/Teen EN/Teen KO 배지·내용 일치.
+
+## 장별 복원 요약 (EN/KO)
+
+### ch1 [1 / 2-7 / 18-23 / 24-25 / 26-27 / 28-32]
+- [1] EN: "He's the real MVP" 등 과도 슬랭 제거 → "I'm on assignment for Jesus Christ. I'm his devoted servant—his hand-picked messenger, chosen to preach God's Message and preach it freely." MSG("devoted slave…authorized as an apostle to proclaim God's words and acts") 복원. KO도 "하나님의 친구들" 수신자 지정 복원 ("하나님의 팀"만 있던 것에서 "하나님의 친구들, 하나님의 팀" 병기).
+- [2-7] EN: "so he's got street cred. But his transformation was insane" 제거 → MSG의 "From the human side, he's from King David's family. But from God's side, the Spirit declared him to be the Son of God…" 복원.
+- [18-23] EN/KO: "By taking a long and thoughtful look at what God has created" 논리 복원 ("그분이 만드신 걸 보면 그분이 어떤 분인지 알 수 있었음"); "they trivialized themselves into silliness and confusion so that there was neither sense nor direction left in their lives" 복원 ("의미도 방향도 남지 않았음"); "the glory of God who holds the whole world in his hands" → "온 세상을 손에 쥐고 계신 하나님의 영광" 복원.
+- [24-25] EN: "God was like, 'Fine, have it your way'" → MSG "So God said, in effect, 'If that's what you want, that's what you get.' It wasn't long before they were living in a pigpen, smeared with filth, filthy inside and out. And all this because they traded the true God for a fake god…" 복원. KO도 "사실상…오물 속에서…안팎으로 더러웠음" 복원.
+- [26-27] EN: "women didn't know how to be women, men didn't know how to be men. Sexually confused, they abused and defiled one another, women with women, men with men—all lust, no love" 복원 (축약돼 있던 관계 혼란 서술을 MSG대로). KO 동일 복원.
+- [28-32] EN/KO: "mean-spirited, venomous, fork-tongued God-bashers. Bullies, swaggerers, insufferable windbags! They keep inventing new ways of wrecking lives" 전체 리스트 복원 (요약돼 있던 부분을 MSG 전체 열거로).
+- [8-12 / 13-15] KO: "Greeks and barbarians, the learned and the unlearned" 복원 ("진짜 똑똑하든 아직 알아가는 중이든, 도시 출신이든 시골 출신이든"); 1:16-17 "Gospel" 문단 MSG 복원. EN ch1 [8-12]는 변경 없음.
+
+### ch2 [1-2 / 17-24]
+- EN/KO: "Those people are on a dark spiral downward" 개행 복원, "I have a serious word for you, who feel at home in the law…" (17-24) MSG 복원 — "Mr. Know-It-All" 일반화 부분을 MSG의 구체 서술로.
+
+### ch3 [2-6]
+- EN/KO: "So what difference does it make who's a Jew and who isn't…First, they were entrusted with the very words of God" 복원 — "They were the ones who got to be the keepers of God's message" 압축을 MSG 구조로 복원.
+
+### ch4 [1-3 / 4-5 / 13-15 / 17-18(KO)]
+- EN: "That incredible promise God made to Abraham—that he and his children would possess the earth—wasn't because of anything Abraham did or would do" — MSG "did or would do" 시제 복원. KO 13-15/17-18 MSG 맞춤.
+
+### ch5 [1-2 / 6-8 / 9-11 / 15-17]
+- EN: "our main man, Jesus" → "our Master Jesus" 정정 (MSG "our Master"); "He took one for the team" → "He sacrificed himself" (MSG 본문어 복원); "will expand and deep" → MSG "will expand and deepen" 복원. KO 1-2 동일 정정.
+
+### ch6 [3-5 / 6-11 / 15-18 / 19 / 20-21 / 22-23]
+- EN: "Being baptized into the life of Jesus…Our Father raises each of us into a light-filled world" 복원 (crew/epic comeback/massive power move 슬랭 제거). "I'm using this freedom language because it's easy to picture" 복원 (누락 문장). "You've found you don't have to listen to sin anymore…A whole, healed, put-together life right now" 복원. KO 15-18/19/20-21/22-23 동일 복원.
+
+### ch7 [4-6 / 8-12 / 13 / 14-16 / 17-20]
+- EN: "he took that entire rule-dominated way of life down with him and left it in the tomb" 복원. "Don't you remember how it was? I do, perfectly well. The law code started out as an excellent piece of work" 복원. "Is good just as dangerous as evil?" 질문 구조 복원. "I know that all God's commands are spiritual…Isn't this your experience too? Yes." 복원. "But I need something *more*!" 복원. KO 전 구간 동일 복원.
+
+### ch8 [1-2 / 3-4 / 5-8 / 9-11 / 12-14 / 15-17 / 22-25 / 29-30 / 31-39]
+- EN: "If you're in Christ…A new power is in operation" (MSG "A new power is in operation" 복원); "He didn't treat it like some distant, unimportant problem" 복원; "obsessed with measuring their own moral muscle in the mirror but never actually exercising it in real life" 복원 (MSG "obsessed with measuring their own moral muscle but never get around to exercising it"); "So, you don't owe your old, do-it-yourself life one red cent. There's nothing in it for you, nothing at all" 복원.
+- [9-11] EN: "When God lives and breathes in you—and he does, as surely as he did in Jesus—you are delivered from that dead life. With his Spirit in you, your body will be as alive as Christ's!" 복원 (MSG "he'll do the same thing in you that he did in Jesus"). KO 동일 복원.
+- [15-17] EN: **"Papa" 복원** — "'What's next, Dad?'" → "adventurously expectant, greeting God with a childlike 'What's next, Papa?'" (MSG "It's adventurously expectant, greeting God with a childlike 'What's next, Papa?'"). "God's Spirit touches our spirits and confirms who we really are. We know who he is, and we know who we are: Father and children." 복원. KO 동일 ("다음은 뭐지, 아빠?").
+- [22-25] EN: "The difficult times of pain throughout the world are simply birth pangs. But it's not only around us; it's within us too" 복원. [29-30] "God knew what he was doing from the very beginning…The Son stands first in the line of humanity he restored" 복원. [31-39] "If God didn't hesitate to put everything on the line for us, embracing our condition and exposing himself to the worst by sending his own Son" 복원.
+
+### ch9 [1-5 / 6-9 / 10-13 / 14-18 / 19]
+- EN: "I'm carrying around a huge sorrow…I'm not exaggerating—Christ and the Holy Spirit are my witnesses" 복원 ("capping" 슬랭 제거); "God's Word has malfunctioned" (glitched→malfunctioned, MSG 본문어); "Are you going to object, 'So how can God blame us for anything since he's in charge of everything? If the big decisions are already made, what say do we have in it?'" 복원. KO 1-5/6-9/19 동일 복원.
+
+### ch10 [1-3 / 4-10 / 11-13]
+- EN: "Scripture reassures us: anyone who trusts God like this—heart and soul—will never regret it. It's exactly the same no matter what your religious background is" 복원. KO 전 구간 동일 복원.
+
+### ch11 [1-2 / 2-6 / 7-10 / 11-12 / 16-18 / 19-20 / 21-22 / 23-24 / 25-29 / 30-32 / 33-36]
+- EN: "God hasn't turned his back on his people" 복원; "When Israel tried to do things their own way, they didn't get what they were after" 복원; 올리브나무 비유 MSG 복원 ("There's a super-strong, God-planted root…" → MSG 구조); "Have you ever come on anything quite like this extravagant generosity of God, this deep, deep wisdom? It's way over our heads" 복원. KO 동일 복원. (25-29는 2문단 split 구조 유지.)
+
+### ch12 [1-2 / 3 / 4-6 / 6-8 / 9-10 / 11-13]
+- EN: **[3] "positive energy" 의미 왜곡 수정 → "pure grace"** (MSG "We're all living on the grace of God"). "so don't misinterpret yourselves as the ones bringing all the goodness to God. No, God brings it all to you" 복원. KO "순전한 은혜 안에 살고 있으니…하나님이 다 너에게 가져다주심" 복원.
+- EN: "we're like the various parts of a human body. Each part gets its meaning from the body as a whole" 복원 ("Team Jesus" 단순화 제거); "Love from the center of who you are; don't fake it. Run for dear life from evil; hold on for dear life to good. Be good friends who love deeply; practice playing second fiddle." 복원; "Don't burn out; keep yourselves fueled and aflame. Be alert servants of the Master, cheerfully expectant." 복원. KO 3/4-6/6-8 동일 복원.
+
+### ch13 [1-3 / 3-5 / 8-10 / 11-14]
+- EN: "be afraid. The cops don't carry a gun just to look good" 복원 (MSG "The police aren't there just to be admired in their uniforms"); "don't run up debts, except for the huge debt of love" 복원; "make sure you don't get so absorbed and exhausted in taking care of all your day-to-day obligations that you lose track of time and doze off, oblivious to God" 복원. KO 3-5/8-10/11-14 동일 복원.
+
+### ch14 [1 / 2-4 / 5 / 10-12 / 15-16 / 17-18]
+- EN: "Welcome with open arms fellow believers who don't see things the way you do" 복원; "God's kingdom isn't a matter of what you put in your stomach, for goodness' sake" 복원. KO 동일 복원 (+15-16 KO 추가 정정).
+
+### ch15 [3-6 / 7-13 / 14-16 / 17-21]
+- EN: 인용구 4연속 MSG 복원 ("Then I'll join outsiders in a hymn-sing…Outsiders and insiders, rejoice together…People of all nations, celebrate God!"); "So reach out and welcome one another to God's glory. Jesus did it; now you do it!" 복원; "I have trailblazed a preaching ministry among the non-Jews" 복원. KO 동일 복원.
+
+### ch16 [1-2 / 3-5 / 10 / 12 / 16 / 17-18 / 25-26 / 27]
+- EN: "in the way that's fitting for someone who has faith and is one of God's people. I can vouch for her: she's a conscientious companion in the work of the church in Cenchrea" 복원 (Phoebe); "my fellow workers in Christ Jesus" 복원; "Hello to Tryphena and Tryphosa—such diligent women in the service of the Master" 복원; "Give each other a holy embrace. All the churches of Christ send their greetings!" 복원; "One final word of counsel, friends. Keep a sharp eye out…" 복원; doxology MSG 복원 ("So, let's give all our praise to the One who is strong enough to make you strong, exactly as preached in Jesus Christ…").
+- **[27] "High five!" 삭제** — MSG("All our praise is focused through Jesus on this incomparably wise God! Yes!")에 없는 장난성 추가 제거. KO "하이파이브!" 동일 삭제.
+
+## 특이 사항
+- KO 비대칭: ch1 18-32 구간에서 1차 때 KO 문단이 EN과 1문단씩 밀려 있던 문제(이슈 1-2)가 이번에 해소됨 — 현재 EN/KO 문단 수·배지 16장 전 구간 1:1 일치.
+- merge/split 변경: 없음 (기존 splits 유지, 신규 추가 없음).
+- 소제목(§) 행 추가/수정: 없음.
