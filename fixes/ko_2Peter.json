@@ -85,9 +85,12 @@
    "10",
    "11-13",
    "14-16",
-   "17-18",
-   "17-18"
+   "17",
+   "18"
   ],
-  "confirmations_needed": []
+  "confirmations_needed": [],
+  "changes": [
+   "badge audit 2026-09-25: P9 '17-18'->'17' (warning), P10 '17-18'->'18' (doxology)"
+  ]
  }
 ]

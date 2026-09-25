@@ -133,8 +133,8 @@
    "10",
    "11-13",
    "14-16",
-   "17-18",
-   "17-18"
+   "17",
+   "18"
   ],
   "msg_ranges": [
    "1-2",
@@ -165,7 +165,8 @@
    "Ch3: fixed badges to MSG ranges: '10-11'->'10', and '17'/'18'->'17-18' x2 (doxology separated as declared split)",
    "Ch3: restored 'Reducing everything to the level of their petty feelings' in 3-4",
    "Ch3: restored 'we'll hardly notice. We'll be looking the other way' in 11-13",
-   "Ch3: doxology now follows MSG wording 'Glory to the Master, now and forever! Yes!'"
+   "Ch3: doxology now follows MSG wording 'Glory to the Master, now and forever! Yes!'",
+   "badge audit 2026-09-25: P9 '17-18'->'17' (warning), P10 '17-18'->'18' (doxology)"
   ],
   "confirmations_needed": []
  }
