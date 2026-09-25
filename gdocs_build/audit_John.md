@@ -123,3 +123,23 @@
 | 10 | p5 | KO | ⑤ | 미쳤어, 정신 나갔어—완전히 맛이 갔네. | 미쳤어, 정신 나갔어. |
 
 **8개 게이트 결과 (2026-09-23)**: 8개 게이트 전부 PASS — 특이사항: ① 1/1 반영, ② validator 21장 모두 통과, ③ completeness FAIL 6건 모두 completeness_fp_John.md 문서화 오탐과 1:1 일치, ④ 재빌드 John.docx에 1/1 반영·옛 문자열 0건, ⑤ PAIRING CONTENT OK(414행/21테이블), ⑥ 재업로드 완료, ⑦ API 테이블 21/21, ⑧ export-back VERIFIED OK.
+---
+
+## 부록: 2026-09-25 3차 심층 검수 (의미 정확도·역방향·책 내 일관성)
+
+- 범위: MSG↔EN↔KO 문단별 대조 파일(/tmp/john_review.txt, 462문단) 기준 요한복음 1–21장 전수 직접 읽기. orphan 0, teen_without_msg 0.
+- 수정: **EN 2건, KO 5건 (합계 7건)**. commit 0375c14, GitHub main push 완료.
+
+| # | 장 | 위치 | 언어 | 분류 | 기존 | 수정 |
+|---|---|---|---|---|---|---|
+| 1 | 3 | p4 [5-6] | KO | 의미 정확도 | 사람은 누구나 완전 근본적인 창조 과정을 다시 겪어야 해요 … 아기 낳는 걸로 예를 들어볼게요 … 몸뚱이만 있잖아요 … 바로 이런 과정을 말씀드리는 거예요. | 사람은 누구나 이 원래의 창조에 완전히 자신을 맡겨야 해요 … 아기를 보세요 … 몸일 뿐이잖아요 (EN/MSG submit·give in to 복원, EN 없는 해설 문장 삭제, '몸뚱이' 순화) |
+| 2 | 3 | p8 [13-15] | KO | 의미 정확도 | 하나님 앞에서 내려온 사람 | 하나님이 계신 그곳에서 내려오신 분 (EN/MSG "the One who came down from that Presence") |
+| 3 | 5 | p19 [39-40] | KO | 의미 정확도 | 하지만 숲을 보고 나무를 놓쳐. | 하지만 나무만 보고 숲을 놓쳐. (miss the forest for the trees 관용구 역전 수정) |
+| 4 | 3 | p8 [13-15] | EN | 역방향 | the bronze snake … believe they'd be healed (Numbers 21:8-9) | the serpent … look at it and believe (MSG: "the serpent", "have something to see and then believe" — bronze·healed·인용 추가 제거) |
+| 5 | 3 | p8 [13-15] | KO | 역방향 | …믿게 한 것처럼(민수기 21:8-9) | …믿게 한 것처럼 (인용 추가 제거) |
+| 6 | 21 | p5 [7-9] | EN/KO | 역방향 | a charcoal fire already laid / 숯불이 이미 피워져 있었고 | a fire laid / 불이 피워져 있었고 (MSG: "a fire laid" — charcoal·already 추가 제거) |
+| 7 | 8 | p23 [42-47] | KO | 일관성 | 너희는 아버지인 악마에게서 왔고, 그분을 기쁘게 하는 게 | 너희는 아버지인 악마에게서 왔고, 그를 기쁘게 하는 게 (악마 지칭 높임말 제거, EN "please him") |
+
+- 관찰·수정 없음 (보고용): 요 1:14 EN "Then the ultimate plot twist" / KO "궁극의 반전이 터졌어요" — 사실 추가는 아니나 MSG에 없는 서술 gloss. teen voice 연결 표현으로 판단해 유지. 요 3:4 EN "Nicodemus was totally confused" — MSG에 없는 감정 해설이나 질문 맥락상 자연스러운 묘사로 유지. 요 3장 슬랭군(super important·꽤 잘나가는 리더·진짜 팩트만·like crazy·쬐끔씩 등)은 teen voice 범위 내로 유지.
+- merge/split: 해당 없음.
+- 게이트: validator PASS(21장), teen_without_msg=0, msg_orphans=0, VERIFY_DROPPED=0. 독스 API table 21/21, export-back VERIFIED OK.
